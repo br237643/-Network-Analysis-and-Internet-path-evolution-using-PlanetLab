@@ -1,0 +1,1832 @@
+traceroute to planet-lab1.itba.edu.ar (190.227.163.142), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  1.229 ms  1.688 ms  2.090 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  0.284 ms  0.316 ms  0.301 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.200 ms  0.235 ms  0.224 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  0.485 ms  0.471 ms  0.452 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  4.585 ms  4.640 ms  4.593 ms
+ 6  de-hmb.nordu.net (109.105.98.124)  15.089 ms  15.090 ms  15.074 ms
+ 7  nl-sar.nordu.net (109.105.97.17)  21.533 ms  21.522 ms  21.506 ms
+ 8  * * *
+ 9  149.3.183.22 (149.3.183.22)  265.059 ms te0-1-0-0.londra17.lon.seabone.net (89.221.43.124)  273.400 ms te0-9-0-0.londra17.lon.seabone.net (195.22.213.57)  261.113 ms
+10  pos0-8-0-3.newyork50.new.seabone.net (195.22.195.46)  259.159 ms te0-12-0-0.newark11.new.seabone.net (195.22.195.84)  267.455 ms pos0-8-0-3.newyork50.new.seabone.net (195.22.195.46)  253.900 ms
+11  te0-0-0-0.miami13.mia.seabone.net (195.22.216.141)  265.115 ms te0-0-0-0.miami12.mia.seabone.net (195.22.216.221)  264.186 ms te0-0-0-0.miami13.mia.seabone.net (195.22.216.141)  265.150 ms
+12  185.70.203.0 (185.70.203.0)  267.307 ms te0-1-0-2.baires13.bai.seabone.net (195.22.220.190)  266.256 ms te0-2-0-2.baires13.bai.seabone.net (195.22.220.182)  268.517 ms
+13  ae5.baires3.bai.seabone.net (195.22.220.9)  256.421 ms ae7.baires3.bai.seabone.net (195.22.220.11)  263.808 ms ae5.baires3.bai.seabone.net (195.22.220.9)  252.377 ms
+14  185.70.203.43 (185.70.203.43)  318.091 ms  318.920 ms  325.140 ms
+15  * * *
+16  host142.190-227-163.telecom.net.ar (190.227.163.142)  333.873 ms  320.168 ms  316.240 ms
+traceroute to planet-lab1.itba.edu.ar (190.227.163.142), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  1.082 ms  1.571 ms  1.975 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  0.273 ms  0.306 ms  0.292 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.213 ms  0.229 ms  0.217 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  0.336 ms  0.317 ms  0.298 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  4.629 ms  4.696 ms  4.680 ms
+ 6  de-hmb.nordu.net (109.105.98.124)  14.956 ms  15.003 ms  14.985 ms
+ 7  nl-sar.nordu.net (109.105.97.17)  21.491 ms  21.542 ms  21.528 ms
+ 8  * * *
+ 9  te0-8-2-0.londra17.lon.seabone.net (89.221.43.114)  260.170 ms te0-15-2-0.londra16.lon.seabone.net (89.221.43.112)  264.724 ms te0-15-0-0.londra16.lon.seabone.net (195.22.209.216)  262.185 ms
+10  pos0-8-0-3.newyork50.new.seabone.net (195.22.195.46)  259.485 ms  261.070 ms te0-12-0-0.newark11.new.seabone.net (195.22.195.84)  265.750 ms
+11  te0-0-0-5.miami13.mia.seabone.net (195.22.216.129)  257.408 ms  248.790 ms te0-1-0-18.miami12.mia.seabone.net (195.22.199.12)  261.048 ms
+12  te0-2-0-0.baires13.bai.seabone.net (195.22.220.124)  261.683 ms te0-2-0-0.baires14.bai.seabone.net (195.22.220.126)  267.267 ms te0-1-0-1.baires14.bai.seabone.net (195.22.220.142)  258.273 ms
+13  ae5.baires3.bai.seabone.net (195.22.220.9)  255.433 ms ae7.baires3.bai.seabone.net (195.22.220.11)  259.841 ms  263.336 ms
+14  185.70.203.43 (185.70.203.43)  312.928 ms  324.079 ms  315.381 ms
+15  * * *
+16  host142.190-227-163.telecom.net.ar (190.227.163.142)  323.196 ms  316.704 ms  317.930 ms
+traceroute to planet-lab1.itba.edu.ar (190.227.163.142), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  1.074 ms  1.622 ms  1.997 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  5.031 ms  5.042 ms  5.051 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.200 ms  0.193 ms  0.197 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  0.335 ms  0.321 ms  0.303 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  4.588 ms  4.641 ms  4.626 ms
+ 6  de-hmb.nordu.net (109.105.98.124)  14.946 ms  15.009 ms  14.992 ms
+ 7  nl-sar.nordu.net (109.105.97.17)  22.931 ms  22.909 ms  22.878 ms
+ 8  * * *
+ 9  te0-15-2-0.londra16.lon.seabone.net (89.221.43.112)  262.868 ms te0-9-0-0.londra17.lon.seabone.net (195.22.213.57)  259.139 ms te0-15-0-0.londra17.lon.seabone.net (195.22.209.222)  271.101 ms
+10  pos0-8-0-3.newyork50.new.seabone.net (195.22.195.46)  260.879 ms te0-12-0-0.newark11.new.seabone.net (195.22.195.84)  265.476 ms  273.708 ms
+11  te0-0-0-18.miami12.mia.seabone.net (195.22.199.92)  261.882 ms  263.220 ms  263.227 ms
+12  te0-1-0-3.baires14.bai.seabone.net (195.22.220.192)  271.018 ms 185.70.203.0 (185.70.203.0)  263.172 ms te0-6-0-2.baires13.bai.seabone.net (195.22.220.160)  260.802 ms
+13  ae7.baires3.bai.seabone.net (195.22.220.11)  266.597 ms  265.946 ms  271.148 ms
+14  185.70.203.43 (185.70.203.43)  329.231 ms  326.068 ms  324.118 ms
+15  * * *
+16  host142.190-227-163.telecom.net.ar (190.227.163.142)  324.433 ms  310.781 ms  320.187 ms
+traceroute to planet-lab1.itba.edu.ar (190.227.163.142), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  8.544 ms  9.030 ms  9.438 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  0.403 ms  0.418 ms  0.464 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.244 ms  0.244 ms  0.227 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  0.360 ms  0.349 ms  0.322 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  4.663 ms  4.726 ms  4.714 ms
+ 6  de-hmb.nordu.net (109.105.98.124)  15.260 ms  15.088 ms  15.068 ms
+ 7  nl-sar.nordu.net (109.105.97.17)  21.526 ms  21.583 ms  21.560 ms
+ 8  * * *
+ 9  te0-9-0-0.londra16.lon.seabone.net (195.22.213.55)  255.237 ms te0-9-0-0.londra17.lon.seabone.net (195.22.213.57)  261.871 ms te0-15-2-0.londra16.lon.seabone.net (89.221.43.112)  265.928 ms
+10  pos0-8-0-3.newyork50.new.seabone.net (195.22.195.46)  261.684 ms te0-12-0-0.newark11.new.seabone.net (195.22.195.84)  262.039 ms  269.442 ms
+11  te0-1-0-18.miami13.mia.seabone.net (195.22.199.14)  262.633 ms te0-0-0-18.miami12.mia.seabone.net (195.22.199.92)  262.231 ms  262.223 ms
+12  te0-6-0-3.baires14.bai.seabone.net (195.22.220.168)  267.533 ms te0-1-0-2.baires14.bai.seabone.net (195.22.220.234)  264.339 ms 185.70.203.78 (185.70.203.78)  264.142 ms
+13  ae5.baires3.bai.seabone.net (195.22.220.9)  257.331 ms  254.511 ms ae7.baires3.bai.seabone.net (195.22.220.11)  258.148 ms
+14  185.70.203.43 (185.70.203.43)  319.530 ms  315.492 ms  311.296 ms
+15  * * *
+16  host142.190-227-163.telecom.net.ar (190.227.163.142)  331.305 ms  323.767 ms  322.891 ms
+traceroute to planet-lab1.itba.edu.ar (190.227.163.142), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  1.062 ms  1.550 ms  1.963 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  0.333 ms  0.319 ms  0.307 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.247 ms  0.241 ms  0.227 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  0.315 ms  0.309 ms  0.322 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  48.817 ms  48.869 ms  48.740 ms
+ 6  de-hmb.nordu.net (109.105.98.124)  14.946 ms  14.993 ms  14.967 ms
+ 7  nl-sar.nordu.net (109.105.97.17)  21.531 ms  21.579 ms  21.564 ms
+ 8  * * *
+ 9  te0-15-0-0.londra16.lon.seabone.net (195.22.209.216)  265.101 ms te0-15-2-0.londra16.lon.seabone.net (89.221.43.112)  263.071 ms te0-9-0-0.londra17.lon.seabone.net (195.22.213.57)  260.886 ms
+10  te0-12-0-0.newark11.new.seabone.net (195.22.195.84)  262.408 ms pos0-8-0-3.newyork50.new.seabone.net (195.22.195.46)  258.668 ms te0-12-0-0.newark11.new.seabone.net (195.22.195.84)  261.729 ms
+11  te0-0-0-18.miami12.mia.seabone.net (195.22.199.92)  261.959 ms te0-1-0-18.miami13.mia.seabone.net (195.22.199.14)  270.863 ms  267.734 ms
+12  te0-2-0-3.baires14.bai.seabone.net (195.22.199.71)  271.763 ms te0-7-0-3.baires14.bai.seabone.net (195.22.199.145)  265.618 ms te0-1-0-1.baires13.bai.seabone.net (195.22.220.138)  257.459 ms
+13  ae7.baires3.bai.seabone.net (195.22.220.11)  254.784 ms  263.338 ms  270.333 ms
+14  185.70.203.43 (185.70.203.43)  309.484 ms  309.419 ms  301.135 ms
+15  * * *
+16  host142.190-227-163.telecom.net.ar (190.227.163.142)  311.517 ms  318.712 ms  319.383 ms
+traceroute to planet-lab1.itba.edu.ar (190.227.163.142), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  1.197 ms  1.653 ms  2.063 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  0.326 ms  0.339 ms  0.325 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.272 ms  0.261 ms  0.250 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  0.395 ms  0.380 ms  0.359 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  4.630 ms  4.703 ms  4.687 ms
+ 6  de-hmb.nordu.net (109.105.98.124)  14.967 ms  14.973 ms  14.965 ms
+ 7  nl-sar.nordu.net (109.105.97.17)  21.506 ms  21.563 ms  21.547 ms
+ 8  * * *
+ 9  149.3.183.22 (149.3.183.22)  260.860 ms te0-8-2-0.londra17.lon.seabone.net (89.221.43.114)  261.326 ms  261.354 ms
+10  pos0-8-0-3.newyork50.new.seabone.net (195.22.195.46)  252.949 ms te0-12-0-0.newark11.new.seabone.net (195.22.195.84)  264.220 ms  264.175 ms
+11  te0-0-0-18.miami12.mia.seabone.net (195.22.199.92)  270.097 ms te0-1-0-18.miami13.mia.seabone.net (195.22.199.14)  270.822 ms te0-0-0-18.miami12.mia.seabone.net (195.22.199.92)  261.860 ms
+12  te0-6-0-3.baires13.bai.seabone.net (195.22.220.166)  270.867 ms te0-0-0-1.baires14.bai.seabone.net (195.22.220.140)  257.398 ms te0-1-0-3.baires14.bai.seabone.net (195.22.220.192)  269.215 ms
+13  ae5.baires3.bai.seabone.net (195.22.220.9)  256.072 ms  252.178 ms ae7.baires3.bai.seabone.net (195.22.220.11)  260.869 ms
+14  185.70.203.43 (185.70.203.43)  276.289 ms  264.256 ms  261.736 ms
+15  * * *
+16  host142.190-227-163.telecom.net.ar (190.227.163.142)  271.850 ms  275.777 ms  280.628 ms
+traceroute to planet-lab1.itba.edu.ar (190.227.163.142), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  1.311 ms  1.760 ms  2.156 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  0.296 ms  0.325 ms  0.312 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.212 ms  0.248 ms  0.236 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  0.345 ms  0.322 ms  0.302 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  4.612 ms  4.660 ms  4.624 ms
+ 6  de-hmb.nordu.net (109.105.98.124)  14.973 ms  14.974 ms  14.968 ms
+ 7  nl-sar.nordu.net (109.105.97.17)  21.548 ms  21.535 ms  21.519 ms
+ 8  * * *
+ 9  te0-15-0-0.londra16.lon.seabone.net (195.22.209.216)  264.040 ms te0-1-0-0.londra16.lon.seabone.net (89.221.43.126)  270.377 ms 149.3.183.22 (149.3.183.22)  262.143 ms
+10  pos0-8-0-3.newyork50.new.seabone.net (195.22.195.46)  250.063 ms  259.989 ms  259.885 ms
+11  te0-1-0-18.miami13.mia.seabone.net (195.22.199.14)  270.831 ms te0-1-0-12.miami12.mia.seabone.net (195.22.216.223)  260.014 ms  260.027 ms
+12  te0-2-0-2.baires13.bai.seabone.net (195.22.220.182)  261.089 ms te0-7-0-3.baires13.bai.seabone.net (195.22.199.129)  259.957 ms te0-1-0-1.baires13.bai.seabone.net (195.22.220.138)  257.327 ms
+13  ae5.baires3.bai.seabone.net (195.22.220.9)  262.679 ms  252.106 ms  263.284 ms
+14  185.70.203.43 (185.70.203.43)  262.420 ms  257.704 ms  269.755 ms
+15  * * *
+16  host142.190-227-163.telecom.net.ar (190.227.163.142)  286.418 ms  282.089 ms  282.597 ms
+traceroute to planet-lab1.itba.edu.ar (190.227.163.142), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  1.046 ms  1.517 ms  1.926 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  0.379 ms  0.366 ms  0.352 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.294 ms  0.290 ms  0.276 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  0.351 ms  0.335 ms  0.315 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  4.592 ms  4.654 ms  4.702 ms
+ 6  de-hmb.nordu.net (109.105.98.124)  14.956 ms  14.993 ms  14.977 ms
+ 7  nl-sar.nordu.net (109.105.97.17)  21.527 ms  21.607 ms  21.590 ms
+ 8  * * *
+ 9  te0-8-2-0.londra17.lon.seabone.net (89.221.43.114)  260.817 ms te0-9-0-0.londra16.lon.seabone.net (195.22.213.55)  260.114 ms te0-9-0-0.londra17.lon.seabone.net (195.22.213.57)  262.256 ms
+10  te0-12-0-0.newark11.new.seabone.net (195.22.195.84)  264.520 ms  272.153 ms pos0-8-0-3.newyork50.new.seabone.net (195.22.195.46)  252.181 ms
+11  te0-1-0-18.miami13.mia.seabone.net (195.22.199.14)  262.671 ms te0-0-0-18.miami12.mia.seabone.net (195.22.199.92)  262.241 ms te0-1-0-18.miami13.mia.seabone.net (195.22.199.14)  267.662 ms
+12  te0-2-0-2.baires13.bai.seabone.net (195.22.220.182)  260.404 ms  261.545 ms te0-1-0-3.baires13.bai.seabone.net (195.22.220.188)  262.755 ms
+13  ae5.baires3.bai.seabone.net (195.22.220.9)  254.582 ms  248.838 ms  252.569 ms
+14  185.70.203.43 (185.70.203.43)  271.823 ms  265.555 ms  269.344 ms
+15  * * *
+16  host142.190-227-163.telecom.net.ar (190.227.163.142)  272.397 ms  259.179 ms  269.677 ms
+traceroute to planet-lab1.itba.edu.ar (190.227.163.142), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  1.037 ms  1.533 ms  1.936 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  0.305 ms  0.296 ms  0.292 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.218 ms  0.213 ms  0.205 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  0.509 ms  0.496 ms  0.477 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  4.648 ms  4.696 ms  4.683 ms
+ 6  de-hmb.nordu.net (109.105.98.124)  15.066 ms  15.078 ms  15.062 ms
+ 7  nl-sar.nordu.net (109.105.97.17)  21.507 ms  21.583 ms  21.569 ms
+ 8  * * *
+ 9  te0-15-2-0.londra16.lon.seabone.net (89.221.43.112)  262.381 ms te0-15-0-0.londra17.lon.seabone.net (195.22.209.222)  267.610 ms te0-15-0-0.londra16.lon.seabone.net (195.22.209.216)  266.049 ms
+10  pos0-8-0-3.newyork50.new.seabone.net (195.22.195.46)  259.623 ms  260.821 ms  257.560 ms
+11  te0-0-0-18.miami12.mia.seabone.net (195.22.199.92)  270.184 ms te0-1-0-18.miami13.mia.seabone.net (195.22.199.14)  262.659 ms te0-0-0-18.miami12.mia.seabone.net (195.22.199.92)  261.906 ms
+12  te0-1-0-2.baires14.bai.seabone.net (195.22.220.234)  264.490 ms te0-0-0-1.baires14.bai.seabone.net (195.22.220.140)  266.827 ms 185.70.203.0 (185.70.203.0)  265.040 ms
+13  ae7.baires3.bai.seabone.net (195.22.220.11)  261.939 ms ae5.baires3.bai.seabone.net (195.22.220.9)  256.533 ms  256.242 ms
+14  185.70.203.43 (185.70.203.43)  258.308 ms  255.297 ms  265.627 ms
+15  * * *
+16  host142.190-227-163.telecom.net.ar (190.227.163.142)  257.715 ms  273.440 ms  274.020 ms
+traceroute to planet-lab1.itba.edu.ar (190.227.163.142), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  1.069 ms  1.569 ms  1.976 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  0.299 ms  0.298 ms  0.288 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.239 ms  0.221 ms  0.210 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  0.361 ms  0.337 ms  0.309 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  4.638 ms  4.689 ms  4.670 ms
+ 6  de-hmb.nordu.net (109.105.98.124)  14.947 ms  15.007 ms  14.989 ms
+ 7  nl-sar.nordu.net (109.105.97.17)  21.503 ms  21.553 ms  21.528 ms
+ 8  * * *
+ 9  te0-15-0-0.londra17.lon.seabone.net (195.22.209.222)  270.914 ms 149.3.183.24 (149.3.183.24)  272.750 ms te0-9-0-0.londra17.lon.seabone.net (195.22.213.57)  262.475 ms
+10  pos0-8-0-3.newyork50.new.seabone.net (195.22.195.46)  252.464 ms  250.641 ms te0-12-0-0.newark11.new.seabone.net (195.22.195.84)  261.947 ms
+11  te0-0-0-18.miami12.mia.seabone.net (195.22.199.92)  263.554 ms  263.687 ms  263.695 ms
+12  te0-0-0-2.baires14.bai.seabone.net (195.22.220.230)  272.351 ms te0-0-0-2.baires13.bai.seabone.net (195.22.220.196)  264.433 ms 185.70.203.4 (185.70.203.4)  266.868 ms
+13  ae5.baires3.bai.seabone.net (195.22.220.9)  254.436 ms ae7.baires3.bai.seabone.net (195.22.220.11)  270.884 ms  268.730 ms
+14  185.70.203.43 (185.70.203.43)  266.051 ms  258.986 ms  265.361 ms
+15  * * *
+16  host142.190-227-163.telecom.net.ar (190.227.163.142)  263.191 ms  266.885 ms  265.812 ms
+traceroute to planet-lab1.itba.edu.ar (190.227.163.142), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  1.100 ms  1.625 ms  2.002 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  0.282 ms  0.294 ms  0.282 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.214 ms  0.214 ms  0.201 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  0.321 ms  0.366 ms  0.351 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  4.608 ms  4.664 ms  4.649 ms
+ 6  de-hmb.nordu.net (109.105.98.124)  14.963 ms  14.992 ms  14.977 ms
+ 7  nl-sar.nordu.net (109.105.97.17)  21.531 ms  21.587 ms  21.573 ms
+ 8  * * *
+ 9  te0-15-0-0.londra16.lon.seabone.net (195.22.209.216)  264.987 ms 149.3.183.24 (149.3.183.24)  273.093 ms te0-9-0-0.londra17.lon.seabone.net (195.22.213.57)  259.513 ms
+10  pos0-8-0-3.newyork50.new.seabone.net (195.22.195.46)  261.578 ms  259.562 ms  259.541 ms
+11  te0-0-0-18.miami12.mia.seabone.net (195.22.199.92)  261.957 ms  270.017 ms te0-1-0-18.miami13.mia.seabone.net (195.22.199.14)  262.474 ms
+12  te0-1-0-2.baires13.bai.seabone.net (195.22.220.190)  271.026 ms te0-6-0-3.baires13.bai.seabone.net (195.22.220.166)  263.324 ms te0-1-0-1.baires13.bai.seabone.net (195.22.220.138)  267.285 ms
+13  ae5.baires3.bai.seabone.net (195.22.220.9)  262.634 ms ae7.baires3.bai.seabone.net (195.22.220.11)  265.472 ms  262.959 ms
+14  185.70.203.43 (185.70.203.43)  262.033 ms  262.014 ms  261.484 ms
+15  * * *
+16  host142.190-227-163.telecom.net.ar (190.227.163.142)  263.297 ms  263.959 ms  273.129 ms
+traceroute to planet-lab1.itba.edu.ar (190.227.163.142), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  1.037 ms  1.479 ms  1.955 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  0.320 ms  0.316 ms  0.329 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.191 ms  0.210 ms  0.195 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  0.305 ms  0.382 ms  0.278 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  4.574 ms  4.597 ms  4.572 ms
+ 6  de-hmb.nordu.net (109.105.98.124)  14.965 ms  14.987 ms  14.994 ms
+ 7  nl-sar.nordu.net (109.105.97.17)  21.511 ms  21.564 ms  21.554 ms
+ 8  * * *
+ 9  te0-8-2-0.londra17.lon.seabone.net (89.221.43.114)  258.922 ms 149.3.183.22 (149.3.183.22)  262.011 ms te0-9-0-0.londra17.lon.seabone.net (195.22.213.57)  262.155 ms
+10  te0-12-0-0.newark11.new.seabone.net (195.22.195.84)  262.796 ms  264.448 ms  264.341 ms
+11  te0-1-0-18.miami13.mia.seabone.net (195.22.199.14)  271.005 ms  271.009 ms te0-0-0-18.miami12.mia.seabone.net (195.22.199.92)  262.320 ms
+12  185.70.203.76 (185.70.203.76)  265.750 ms 185.70.203.4 (185.70.203.4)  265.993 ms te0-7-0-3.baires13.bai.seabone.net (195.22.199.129)  265.111 ms
+13  ae7.baires3.bai.seabone.net (195.22.220.11)  260.074 ms  265.457 ms ae5.baires3.bai.seabone.net (195.22.220.9)  254.471 ms
+14  185.70.203.43 (185.70.203.43)  260.681 ms  261.870 ms  262.319 ms
+15  * * *
+16  host142.190-227-163.telecom.net.ar (190.227.163.142)  270.622 ms  270.843 ms  267.221 ms
+traceroute to planet-lab1.itba.edu.ar (190.227.163.142), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  1.621 ms  2.075 ms  2.479 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  0.322 ms  0.315 ms  0.317 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.261 ms  0.251 ms  0.232 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  0.359 ms  0.343 ms  0.324 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  4.578 ms  4.718 ms  4.581 ms
+ 6  de-hmb.nordu.net (109.105.98.124)  14.961 ms  15.048 ms  15.009 ms
+ 7  nl-sar.nordu.net (109.105.97.17)  22.354 ms  22.503 ms  22.490 ms
+ 8  * * *
+ 9  te0-15-0-0.londra16.lon.seabone.net (195.22.209.216)  323.793 ms 149.3.183.24 (149.3.183.24)  325.431 ms te0-9-0-0.londra16.lon.seabone.net (195.22.213.55)  308.768 ms
+10  te0-12-0-0.newark11.new.seabone.net (195.22.195.84)  315.184 ms pos0-8-0-3.newyork50.new.seabone.net (195.22.195.46)  313.216 ms  317.055 ms
+11  te0-0-0-18.miami12.mia.seabone.net (195.22.199.92)  311.986 ms te0-1-0-18.miami13.mia.seabone.net (195.22.199.14)  326.634 ms te0-0-0-18.miami12.mia.seabone.net (195.22.199.92)  312.265 ms
+12  te0-1-0-3.baires13.bai.seabone.net (195.22.220.188)  319.040 ms te0-1-0-3.baires14.bai.seabone.net (195.22.220.192)  317.639 ms te0-2-0-2.baires13.bai.seabone.net (195.22.220.182)  323.496 ms
+13  ae7.baires3.bai.seabone.net (195.22.220.11)  313.284 ms  310.288 ms ae5.baires3.bai.seabone.net (195.22.220.9)  307.145 ms
+14  185.70.203.43 (185.70.203.43)  314.017 ms  319.328 ms  323.437 ms
+15  host142.190-227-163.telecom.net.ar (190.227.163.142)  320.383 ms  329.347 ms  318.831 ms
+traceroute to planet-lab1.itba.edu.ar (190.227.163.142), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  1.178 ms  1.639 ms  2.035 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  0.274 ms  0.298 ms  0.291 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.214 ms  0.233 ms  0.209 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  0.351 ms  0.349 ms  0.331 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  4.562 ms  4.593 ms  4.608 ms
+ 6  de-hmb.nordu.net (109.105.98.124)  15.080 ms  15.032 ms  15.025 ms
+ 7  nl-sar.nordu.net (109.105.97.17)  21.554 ms  21.599 ms  21.554 ms
+ 8  * * *
+ 9  te0-1-0-0.londra17.lon.seabone.net (89.221.43.124)  321.859 ms te0-15-2-0.londra16.lon.seabone.net (89.221.43.112)  319.344 ms 149.3.183.22 (149.3.183.22)  318.483 ms
+10  te0-12-0-0.newark11.new.seabone.net (195.22.195.84)  315.452 ms pos0-8-0-3.newyork50.new.seabone.net (195.22.195.46)  309.623 ms te0-12-0-0.newark11.new.seabone.net (195.22.195.84)  321.089 ms
+11  te0-1-0-18.miami13.mia.seabone.net (195.22.199.14)  319.588 ms te0-0-0-18.miami12.mia.seabone.net (195.22.199.92)  312.263 ms  312.129 ms
+12  185.70.203.0 (185.70.203.0)  321.606 ms te0-2-0-0.baires14.bai.seabone.net (195.22.220.126)  316.126 ms te0-7-0-3.baires14.bai.seabone.net (195.22.199.145)  322.650 ms
+13  ae5.baires3.bai.seabone.net (195.22.220.9)  314.384 ms  307.322 ms  305.547 ms
+14  185.70.203.43 (185.70.203.43)  310.076 ms  325.696 ms  322.075 ms
+15  host142.190-227-163.telecom.net.ar (190.227.163.142)  334.967 ms  328.785 ms  329.333 ms
+traceroute to planet-lab1.itba.edu.ar (190.227.163.142), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  1.156 ms  1.640 ms  2.055 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  0.342 ms  0.343 ms  0.330 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.284 ms  0.266 ms  0.252 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  0.331 ms  0.315 ms  0.310 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  6.355 ms  6.398 ms  6.379 ms
+ 6  de-hmb.nordu.net (109.105.98.124)  14.963 ms  15.007 ms  14.989 ms
+ 7  nl-sar.nordu.net (109.105.97.17)  21.566 ms  21.618 ms  21.602 ms
+ 8  * * *
+ 9  te0-9-0-0.londra17.lon.seabone.net (195.22.213.57)  321.472 ms 149.3.183.22 (149.3.183.22)  315.548 ms te0-1-0-0.londra17.lon.seabone.net (89.221.43.124)  321.085 ms
+10  pos0-8-0-3.newyork50.new.seabone.net (195.22.195.46)  314.727 ms te0-12-0-0.newark11.new.seabone.net (195.22.195.84)  312.519 ms  312.512 ms
+11  te0-0-0-18.miami12.mia.seabone.net (195.22.199.92)  312.076 ms  311.996 ms te0-1-0-18.miami13.mia.seabone.net (195.22.199.14)  318.409 ms
+12  te0-2-0-4.baires13.bai.seabone.net (195.22.220.18)  324.055 ms 185.70.203.2 (185.70.203.2)  331.775 ms te0-1-0-3.baires14.bai.seabone.net (195.22.220.192)  324.604 ms
+13  ae7.baires3.bai.seabone.net (195.22.220.11)  321.684 ms  319.110 ms ae5.baires3.bai.seabone.net (195.22.220.9)  305.967 ms
+14  185.70.203.43 (185.70.203.43)  313.072 ms  321.019 ms  318.460 ms
+15  host142.190-227-163.telecom.net.ar (190.227.163.142)  326.245 ms  318.378 ms  315.323 ms
+traceroute to planet-lab1.itba.edu.ar (190.227.163.142), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  1.151 ms  1.648 ms  2.048 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  0.291 ms  0.292 ms  0.312 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.228 ms  0.206 ms  0.205 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  0.371 ms  0.352 ms  0.333 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  4.612 ms  4.660 ms  4.606 ms
+ 6  de-hmb.nordu.net (109.105.98.124)  15.126 ms  15.130 ms  15.115 ms
+ 7  nl-sar.nordu.net (109.105.97.17)  21.518 ms  21.574 ms  21.538 ms
+ 8  * * *
+ 9  149.3.183.24 (149.3.183.24)  327.224 ms te0-1-0-0.londra16.lon.seabone.net (89.221.43.126)  320.425 ms te0-9-0-0.londra16.lon.seabone.net (195.22.213.55)  309.550 ms
+10  te0-12-0-0.newark11.new.seabone.net (195.22.195.84)  313.686 ms pos0-8-0-3.newyork50.new.seabone.net (195.22.195.46)  308.116 ms  315.624 ms
+11  te0-0-0-18.miami12.mia.seabone.net (195.22.199.92)  312.279 ms te0-1-0-18.miami13.mia.seabone.net (195.22.199.14)  318.644 ms te0-0-0-18.miami12.mia.seabone.net (195.22.199.92)  312.073 ms
+12  te0-6-0-3.baires13.bai.seabone.net (195.22.220.166)  321.954 ms 185.70.203.4 (185.70.203.4)  314.389 ms te0-0-0-1.baires13.bai.seabone.net (195.22.220.136)  313.476 ms
+13  ae5.baires3.bai.seabone.net (195.22.220.9)  305.505 ms  305.518 ms ae7.baires3.bai.seabone.net (195.22.220.11)  312.837 ms
+14  185.70.203.43 (185.70.203.43)  317.258 ms  316.090 ms  319.544 ms
+15  host142.190-227-163.telecom.net.ar (190.227.163.142)  330.148 ms  323.124 ms  325.184 ms
+traceroute to planet-lab1.itba.edu.ar (190.227.163.142), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  1.065 ms  1.603 ms  1.984 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  0.285 ms  0.278 ms  0.282 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.198 ms  0.212 ms  0.240 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  0.385 ms  0.392 ms  0.373 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  4.676 ms  4.729 ms  4.712 ms
+ 6  de-hmb.nordu.net (109.105.98.124)  15.048 ms  15.123 ms  15.108 ms
+ 7  nl-sar.nordu.net (109.105.97.17)  21.737 ms  21.641 ms  21.680 ms
+ 8  * * *
+ 9  te0-9-0-0.londra16.lon.seabone.net (195.22.213.55)  308.892 ms te0-9-0-0.londra17.lon.seabone.net (195.22.213.57)  323.520 ms te0-9-0-0.londra16.lon.seabone.net (195.22.213.55)  307.726 ms
+10  pos0-8-0-3.newyork50.new.seabone.net (195.22.195.46)  306.712 ms  312.945 ms te0-12-0-0.newark11.new.seabone.net (195.22.195.84)  314.410 ms
+11  te0-0-0-18.miami12.mia.seabone.net (195.22.199.92)  311.996 ms te0-1-0-18.miami13.mia.seabone.net (195.22.199.14)  323.502 ms te0-0-0-18.miami12.mia.seabone.net (195.22.199.92)  312.126 ms
+12  185.70.203.2 (185.70.203.2)  324.622 ms 185.70.203.76 (185.70.203.76)  325.001 ms te0-6-0-3.baires13.bai.seabone.net (195.22.220.166)  322.731 ms
+13  ae7.baires3.bai.seabone.net (195.22.220.11)  310.492 ms ae5.baires3.bai.seabone.net (195.22.220.9)  305.377 ms  305.427 ms
+14  185.70.203.43 (185.70.203.43)  326.259 ms  319.403 ms  318.031 ms
+15  host142.190-227-163.telecom.net.ar (190.227.163.142)  321.419 ms  325.509 ms  326.340 ms
+traceroute to planet-lab1.itba.edu.ar (190.227.163.142), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  1.198 ms  1.682 ms  2.123 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  0.282 ms  0.280 ms  0.265 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.214 ms  0.201 ms  0.181 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  0.332 ms  0.316 ms  0.379 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  4.601 ms  4.657 ms  4.642 ms
+ 6  de-hmb.nordu.net (109.105.98.124)  15.056 ms  15.065 ms  15.050 ms
+ 7  nl-sar.nordu.net (109.105.97.17)  21.604 ms  21.667 ms  21.624 ms
+ 8  * * *
+ 9  te0-9-0-0.londra16.lon.seabone.net (195.22.213.55)  306.269 ms  308.575 ms te0-1-0-0.londra17.lon.seabone.net (89.221.43.124)  321.544 ms
+10  te0-12-0-0.newark11.new.seabone.net (195.22.195.84)  313.179 ms  322.957 ms pos0-8-0-3.newyork50.new.seabone.net (195.22.195.46)  307.652 ms
+11  te0-1-0-18.miami13.mia.seabone.net (195.22.199.14)  318.999 ms te0-0-0-18.miami12.mia.seabone.net (195.22.199.92)  312.278 ms  312.208 ms
+12  te0-2-0-3.baires14.bai.seabone.net (195.22.199.71)  317.649 ms te0-7-0-3.baires13.bai.seabone.net (195.22.199.129)  314.523 ms te0-0-0-2.baires14.bai.seabone.net (195.22.220.230)  325.808 ms
+13  ae7.baires3.bai.seabone.net (195.22.220.11)  318.837 ms ae5.baires3.bai.seabone.net (195.22.220.9)  305.444 ms  313.687 ms
+14  185.70.203.43 (185.70.203.43)  319.556 ms  319.580 ms  315.609 ms
+15  host142.190-227-163.telecom.net.ar (190.227.163.142)  348.287 ms  349.589 ms  346.581 ms
+traceroute to planet-lab1.itba.edu.ar (190.227.163.142), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  1.118 ms  1.673 ms  2.003 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  0.309 ms  0.302 ms  0.292 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.238 ms  0.222 ms  0.214 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  0.369 ms  0.350 ms  0.330 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  4.632 ms  4.682 ms  4.666 ms
+ 6  de-hmb.nordu.net (109.105.98.124)  14.971 ms  15.010 ms  14.994 ms
+ 7  nl-sar.nordu.net (109.105.97.17)  21.488 ms  21.546 ms  21.472 ms
+ 8  * * *
+ 9  149.3.183.24 (149.3.183.24)  326.990 ms te0-15-2-0.londra16.lon.seabone.net (89.221.43.112)  319.424 ms te0-15-0-0.londra17.lon.seabone.net (195.22.209.222)  320.219 ms
+10  te0-12-0-0.newark11.new.seabone.net (195.22.195.84)  313.271 ms  315.232 ms  322.939 ms
+11  te0-1-0-18.miami13.mia.seabone.net (195.22.199.14)  312.685 ms te0-0-0-18.miami12.mia.seabone.net (195.22.199.92)  312.376 ms  312.157 ms
+12  te0-0-0-2.baires14.bai.seabone.net (195.22.220.230)  315.584 ms  324.620 ms te0-1-0-2.baires13.bai.seabone.net (195.22.220.190)  319.797 ms
+13  ae5.baires3.bai.seabone.net (195.22.220.9)  307.909 ms ae7.baires3.bai.seabone.net (195.22.220.11)  313.345 ms  313.156 ms
+14  185.70.203.43 (185.70.203.43)  319.092 ms  311.243 ms  317.849 ms
+15  host142.190-227-163.telecom.net.ar (190.227.163.142)  342.368 ms  340.982 ms  334.620 ms
+traceroute to planet-lab1.itba.edu.ar (190.227.163.142), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  1.151 ms  1.661 ms  2.139 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  0.263 ms  0.275 ms  0.285 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.216 ms  0.206 ms  0.219 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  0.334 ms  0.318 ms  0.307 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  7.912 ms  7.958 ms  7.940 ms
+ 6  de-hmb.nordu.net (109.105.98.124)  15.124 ms  15.142 ms  15.125 ms
+ 7  nl-sar.nordu.net (109.105.97.17)  21.532 ms  21.533 ms  21.502 ms
+ 8  * * *
+ 9  te0-9-0-0.londra16.lon.seabone.net (195.22.213.55)  308.601 ms te0-8-2-0.londra17.lon.seabone.net (89.221.43.114)  315.789 ms te0-15-2-0.londra16.lon.seabone.net (89.221.43.112)  319.725 ms
+10  te0-12-0-0.newark11.new.seabone.net (195.22.195.84)  314.765 ms  312.857 ms  312.784 ms
+11  te0-1-0-18.miami13.mia.seabone.net (195.22.199.14)  318.536 ms te0-0-0-18.miami12.mia.seabone.net (195.22.199.92)  312.157 ms  312.086 ms
+12  185.70.203.76 (185.70.203.76)  313.453 ms te0-1-0-3.baires13.bai.seabone.net (195.22.220.188)  317.909 ms 185.70.203.4 (185.70.203.4)  313.718 ms
+13  ae7.baires3.bai.seabone.net (195.22.220.11)  317.401 ms  310.391 ms ae5.baires3.bai.seabone.net (195.22.220.9)  307.331 ms
+14  185.70.203.43 (185.70.203.43)  317.951 ms  310.987 ms  316.565 ms
+15  host142.190-227-163.telecom.net.ar (190.227.163.142)  331.041 ms  344.431 ms  329.276 ms
+traceroute to planet-lab1.itba.edu.ar (190.227.163.142), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  1.056 ms  1.546 ms  1.950 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  0.326 ms  0.327 ms  0.318 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.270 ms  0.258 ms  0.247 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  1.170 ms  1.178 ms  1.160 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  4.676 ms  4.714 ms  4.698 ms
+ 6  de-hmb.nordu.net (109.105.98.124)  14.986 ms  15.001 ms  14.984 ms
+ 7  nl-sar.nordu.net (109.105.97.17)  22.532 ms  22.543 ms  22.511 ms
+ 8  * * *
+ 9  te0-9-0-0.londra17.lon.seabone.net (195.22.213.57)  323.788 ms 149.3.183.22 (149.3.183.22)  318.085 ms 149.3.183.24 (149.3.183.24)  326.623 ms
+10  pos0-8-0-3.newyork50.new.seabone.net (195.22.195.46)  318.121 ms  312.682 ms  316.424 ms
+11  te0-0-0-18.miami12.mia.seabone.net (195.22.199.92)  312.111 ms te0-1-0-18.miami13.mia.seabone.net (195.22.199.14)  326.839 ms  326.711 ms
+12  te0-2-0-0.baires13.bai.seabone.net (195.22.220.124)  323.272 ms te0-0-0-1.baires13.bai.seabone.net (195.22.220.136)  322.176 ms te0-7-0-3.baires13.bai.seabone.net (195.22.199.129)  319.498 ms
+13  ae5.baires3.bai.seabone.net (195.22.220.9)  305.536 ms ae7.baires3.bai.seabone.net (195.22.220.11)  310.626 ms ae5.baires3.bai.seabone.net (195.22.220.9)  305.309 ms
+14  185.70.203.43 (185.70.203.43)  325.259 ms  311.228 ms  317.149 ms
+15  host142.190-227-163.telecom.net.ar (190.227.163.142)  330.113 ms  325.886 ms  320.244 ms
+traceroute to planet-lab1.itba.edu.ar (190.227.163.142), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  1.111 ms  1.675 ms  7.296 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  0.301 ms  0.289 ms  0.289 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.249 ms  0.231 ms  0.218 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  0.333 ms  0.315 ms  0.294 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  4.615 ms  4.616 ms  4.600 ms
+ 6  de-hmb.nordu.net (109.105.98.124)  14.952 ms  14.991 ms  14.999 ms
+ 7  nl-sar.nordu.net (109.105.97.17)  21.492 ms  21.483 ms  21.515 ms
+ 8  * * *
+ 9  te0-1-0-0.londra17.lon.seabone.net (89.221.43.124)  321.302 ms te0-15-0-0.londra17.lon.seabone.net (195.22.209.222)  319.347 ms te0-1-0-0.londra17.lon.seabone.net (89.221.43.124)  320.305 ms
+10  te0-12-0-0.newark11.new.seabone.net (195.22.195.84)  315.842 ms pos0-8-0-3.newyork50.new.seabone.net (195.22.195.46)  315.774 ms  315.633 ms
+11  te0-1-0-18.miami13.mia.seabone.net (195.22.199.14)  318.639 ms te0-0-0-18.miami12.mia.seabone.net (195.22.199.92)  320.129 ms te0-1-0-18.miami13.mia.seabone.net (195.22.199.14)  323.886 ms
+12  te0-7-0-4.baires14.bai.seabone.net (195.22.199.5)  327.611 ms  320.954 ms 185.70.203.76 (185.70.203.76)  323.581 ms
+13  ae5.baires3.bai.seabone.net (195.22.220.9)  305.716 ms  306.244 ms ae7.baires3.bai.seabone.net (195.22.220.11)  313.127 ms
+14  185.70.203.43 (185.70.203.43)  327.207 ms  315.531 ms  318.004 ms
+15  host142.190-227-163.telecom.net.ar (190.227.163.142)  366.355 ms  364.275 ms  360.985 ms
+traceroute to planet-lab1.itba.edu.ar (190.227.163.142), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  1.038 ms  1.481 ms  1.936 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  0.282 ms  0.274 ms  0.255 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.264 ms  0.247 ms  0.222 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  9.170 ms  9.160 ms  9.143 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  4.638 ms  4.662 ms  4.650 ms
+ 6  de-hmb.nordu.net (109.105.98.124)  14.961 ms  15.006 ms  14.991 ms
+ 7  nl-sar.nordu.net (109.105.97.17)  21.573 ms  21.630 ms  21.616 ms
+ 8  * * *
+ 9  te0-1-0-0.londra17.lon.seabone.net (89.221.43.124)  321.270 ms te0-1-0-0.londra16.lon.seabone.net (89.221.43.126)  320.649 ms te0-1-0-0.londra17.lon.seabone.net (89.221.43.124)  323.746 ms
+10  pos0-8-0-3.newyork50.new.seabone.net (195.22.195.46)  306.351 ms  316.552 ms te0-12-0-0.newark11.new.seabone.net (195.22.195.84)  314.987 ms
+11  te0-0-0-18.miami12.mia.seabone.net (195.22.199.92)  321.329 ms te0-1-0-18.miami13.mia.seabone.net (195.22.199.14)  323.606 ms te0-0-0-18.miami12.mia.seabone.net (195.22.199.92)  312.349 ms
+12  te0-2-0-2.baires13.bai.seabone.net (195.22.220.182)  319.718 ms 185.70.203.0 (185.70.203.0)  320.450 ms te0-1-0-1.baires13.bai.seabone.net (195.22.220.138)  308.252 ms
+13  ae7.baires3.bai.seabone.net (195.22.220.11)  313.195 ms ae5.baires3.bai.seabone.net (195.22.220.9)  305.879 ms ae7.baires3.bai.seabone.net (195.22.220.11)  312.227 ms
+14  185.70.203.43 (185.70.203.43)  322.886 ms  313.353 ms  317.500 ms
+15  host142.190-227-163.telecom.net.ar (190.227.163.142)  360.312 ms  357.518 ms  355.007 ms
+traceroute to planet-lab1.itba.edu.ar (190.227.163.142), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  1.079 ms  1.599 ms  2.010 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  0.255 ms  0.295 ms  0.281 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.234 ms  0.218 ms  0.203 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  0.266 ms  0.399 ms  0.286 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  4.604 ms  4.658 ms  4.643 ms
+ 6  de-hmb.nordu.net (109.105.98.124)  14.958 ms  14.994 ms  14.978 ms
+ 7  nl-sar.nordu.net (109.105.97.17)  21.507 ms  21.550 ms  21.535 ms
+ 8  * * *
+ 9  te0-9-0-0.londra17.lon.seabone.net (195.22.213.57)  322.957 ms te0-8-2-0.londra17.lon.seabone.net (89.221.43.114)  313.857 ms te0-1-0-0.londra17.lon.seabone.net (89.221.43.124)  320.993 ms
+10  pos0-8-0-3.newyork50.new.seabone.net (195.22.195.46)  307.940 ms  309.333 ms te0-12-0-0.newark11.new.seabone.net (195.22.195.84)  312.665 ms
+11  te0-1-0-18.miami13.mia.seabone.net (195.22.199.14)  318.390 ms  326.932 ms te0-0-0-18.miami12.mia.seabone.net (195.22.199.92)  326.594 ms
+12  te0-6-0-3.baires13.bai.seabone.net (195.22.220.166)  329.239 ms te0-7-0-3.baires14.bai.seabone.net (195.22.199.145)  315.448 ms te0-1-0-1.baires14.bai.seabone.net (195.22.220.142)  306.350 ms
+13  ae5.baires3.bai.seabone.net (195.22.220.9)  305.563 ms ae7.baires3.bai.seabone.net (195.22.220.11)  318.976 ms ae5.baires3.bai.seabone.net (195.22.220.9)  303.018 ms
+14  185.70.203.43 (185.70.203.43)  320.107 ms  315.496 ms  316.539 ms
+15  host142.190-227-163.telecom.net.ar (190.227.163.142)  339.741 ms  336.434 ms  335.010 ms
+traceroute to planet-lab1.itba.edu.ar (190.227.163.142), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  1.148 ms  1.700 ms  2.036 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  6.390 ms  6.444 ms  6.428 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.250 ms  0.236 ms  0.218 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  0.324 ms  0.332 ms  0.315 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  4.581 ms  4.687 ms  4.646 ms
+ 6  de-hmb.nordu.net (109.105.98.124)  14.975 ms  15.007 ms  14.999 ms
+ 7  nl-sar.nordu.net (109.105.97.17)  21.774 ms  21.807 ms  21.792 ms
+ 8  * * *
+ 9  te0-9-0-0.londra16.lon.seabone.net (195.22.213.55)  308.790 ms 149.3.183.22 (149.3.183.22)  318.706 ms te0-1-0-0.londra17.lon.seabone.net (89.221.43.124)  322.152 ms
+10  pos0-8-0-3.newyork50.new.seabone.net (195.22.195.46)  317.296 ms te0-12-0-0.newark11.new.seabone.net (195.22.195.84)  314.968 ms pos0-8-0-3.newyork50.new.seabone.net (195.22.195.46)  314.143 ms
+11  te0-0-0-18.miami12.mia.seabone.net (195.22.199.92)  312.024 ms  312.013 ms te0-1-0-18.miami13.mia.seabone.net (195.22.199.14)  321.130 ms
+12  te0-1-0-1.baires14.bai.seabone.net (195.22.220.142)  307.849 ms te0-0-0-2.baires14.bai.seabone.net (195.22.220.230)  314.534 ms te0-6-0-2.baires14.bai.seabone.net (195.22.220.206)  315.764 ms
+13  ae7.baires3.bai.seabone.net (195.22.220.11)  315.579 ms  312.448 ms  318.813 ms
+14  185.70.203.43 (185.70.203.43)  319.162 ms  305.583 ms  326.390 ms
+15  host142.190-227-163.telecom.net.ar (190.227.163.142)  326.804 ms  320.173 ms  320.781 ms
+traceroute to planet-lab1.itba.edu.ar (190.227.163.142), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  1.104 ms  1.531 ms  1.994 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  0.298 ms  0.290 ms  0.275 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.234 ms  0.223 ms  0.202 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  0.552 ms  0.590 ms  0.577 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  4.826 ms  4.888 ms  4.874 ms
+ 6  de-hmb.nordu.net (109.105.98.124)  15.350 ms  15.366 ms  15.395 ms
+ 7  nl-sar.nordu.net (109.105.97.17)  21.981 ms  22.112 ms  22.012 ms
+ 8  * * *
+ 9  te0-9-0-0.londra17.lon.seabone.net (195.22.213.57)  322.418 ms 149.3.183.22 (149.3.183.22)  316.276 ms te0-15-0-0.londra17.lon.seabone.net (195.22.209.222)  319.984 ms
+10  pos0-8-0-3.newyork50.new.seabone.net (195.22.195.46)  315.442 ms  310.229 ms  310.004 ms
+11  te0-0-0-18.miami12.mia.seabone.net (195.22.199.92)  320.289 ms te0-1-0-18.miami13.mia.seabone.net (195.22.199.14)  318.335 ms te0-0-0-18.miami12.mia.seabone.net (195.22.199.92)  320.172 ms
+12  te0-1-0-2.baires13.bai.seabone.net (195.22.220.190)  318.534 ms te0-2-0-4.baires13.bai.seabone.net (195.22.220.18)  325.200 ms te0-7-0-4.baires13.bai.seabone.net (195.22.199.163)  322.002 ms
+13  ae7.baires3.bai.seabone.net (195.22.220.11)  310.889 ms ae5.baires3.bai.seabone.net (195.22.220.9)  305.646 ms  305.446 ms
+14  185.70.203.43 (185.70.203.43)  319.458 ms  325.852 ms  323.076 ms
+15  host142.190-227-163.telecom.net.ar (190.227.163.142)  329.263 ms  317.935 ms  320.616 ms
+traceroute to planet-lab1.itba.edu.ar (190.227.163.142), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  1.088 ms  1.580 ms  1.977 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  0.269 ms  0.274 ms  0.264 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.227 ms  0.207 ms  0.192 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  1.037 ms  1.020 ms  1.002 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  4.649 ms  4.698 ms  4.681 ms
+ 6  de-hmb.nordu.net (109.105.98.124)  15.277 ms  15.232 ms  15.214 ms
+ 7  nl-sar.nordu.net (109.105.97.17)  21.503 ms  21.641 ms  21.522 ms
+ 8  * * *
+ 9  te0-9-0-0.londra16.lon.seabone.net (195.22.213.55)  307.300 ms te0-15-2-0.londra16.lon.seabone.net (89.221.43.112)  321.597 ms  321.647 ms
+10  pos0-8-0-3.newyork50.new.seabone.net (195.22.195.46)  314.524 ms  309.473 ms te0-12-0-0.newark11.new.seabone.net (195.22.195.84)  316.357 ms
+11  te0-0-0-18.miami12.mia.seabone.net (195.22.199.92)  313.091 ms te0-1-0-18.miami13.mia.seabone.net (195.22.199.14)  326.754 ms  326.726 ms
+12  te0-2-0-3.baires14.bai.seabone.net (195.22.199.71)  326.850 ms 185.70.203.78 (185.70.203.78)  314.279 ms te0-6-0-3.baires14.bai.seabone.net (195.22.220.168)  319.967 ms
+13  ae7.baires3.bai.seabone.net (195.22.220.11)  318.978 ms ae5.baires3.bai.seabone.net (195.22.220.9)  305.508 ms  307.358 ms
+14  185.70.203.43 (185.70.203.43)  313.977 ms  312.097 ms  330.611 ms
+15  host142.190-227-163.telecom.net.ar (190.227.163.142)  320.373 ms  321.151 ms  321.485 ms
+traceroute to planet-lab1.itba.edu.ar (190.227.163.142), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  1.302 ms  1.762 ms  2.168 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  0.341 ms  0.334 ms  0.330 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.243 ms  0.236 ms  0.229 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  0.341 ms  0.324 ms  0.320 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  4.645 ms  4.693 ms  4.678 ms
+ 6  de-hmb.nordu.net (109.105.98.124)  14.981 ms  15.016 ms  14.999 ms
+ 7  nl-sar.nordu.net (109.105.97.17)  21.538 ms  21.600 ms  21.563 ms
+ 8  * * *
+ 9  te0-1-0-0.londra16.lon.seabone.net (89.221.43.126)  318.828 ms te0-15-0-0.londra17.lon.seabone.net (195.22.209.222)  320.401 ms te0-1-0-0.londra17.lon.seabone.net (89.221.43.124)  320.151 ms
+10  pos0-8-0-3.newyork50.new.seabone.net (195.22.195.46)  306.745 ms  308.128 ms  316.427 ms
+11  te0-1-0-18.miami13.mia.seabone.net (195.22.199.14)  318.485 ms te0-0-0-18.miami12.mia.seabone.net (195.22.199.92)  320.098 ms te0-1-0-18.miami13.mia.seabone.net (195.22.199.14)  318.306 ms
+12  te0-0-0-2.baires14.bai.seabone.net (195.22.220.230)  322.389 ms te0-7-0-4.baires14.bai.seabone.net (195.22.199.5)  327.560 ms 185.70.203.4 (185.70.203.4)  327.078 ms
+13  ae5.baires3.bai.seabone.net (195.22.220.9)  305.615 ms ae7.baires3.bai.seabone.net (195.22.220.11)  312.707 ms ae5.baires3.bai.seabone.net (195.22.220.9)  306.240 ms
+14  185.70.203.43 (185.70.203.43)  316.916 ms  318.567 ms  326.545 ms
+15  host142.190-227-163.telecom.net.ar (190.227.163.142)  329.548 ms  337.235 ms  315.455 ms
+traceroute to planet-lab1.itba.edu.ar (190.227.163.142), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  1.035 ms  1.580 ms  1.928 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  0.262 ms  0.272 ms  0.292 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.214 ms  0.200 ms  0.221 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  0.339 ms  0.320 ms  0.300 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  4.598 ms  4.654 ms  4.638 ms
+ 6  de-hmb.nordu.net (109.105.98.124)  14.955 ms  15.019 ms  15.002 ms
+ 7  nl-sar.nordu.net (109.105.97.17)  21.543 ms  21.590 ms  21.564 ms
+ 8  * * *
+ 9  149.3.183.24 (149.3.183.24)  329.280 ms te0-9-0-0.londra17.lon.seabone.net (195.22.213.57)  323.473 ms te0-9-0-0.londra16.lon.seabone.net (195.22.213.55)  308.531 ms
+10  pos0-8-0-3.newyork50.new.seabone.net (195.22.195.46)  314.974 ms  316.456 ms te0-12-0-0.newark11.new.seabone.net (195.22.195.84)  315.657 ms
+11  te0-0-0-18.miami12.mia.seabone.net (195.22.199.92)  312.030 ms  312.213 ms  312.266 ms
+12  te0-7-0-3.baires14.bai.seabone.net (195.22.199.145)  321.380 ms te0-2-0-4.baires13.bai.seabone.net (195.22.220.18)  318.690 ms te0-1-0-2.baires13.bai.seabone.net (195.22.220.190)  318.897 ms
+13  ae7.baires3.bai.seabone.net (195.22.220.11)  321.015 ms ae5.baires3.bai.seabone.net (195.22.220.9)  299.772 ms ae7.baires3.bai.seabone.net (195.22.220.11)  313.299 ms
+14  185.70.203.43 (185.70.203.43)  327.562 ms  325.083 ms  324.412 ms
+15  host142.190-227-163.telecom.net.ar (190.227.163.142)  324.170 ms  321.982 ms  321.480 ms
+traceroute to planet-lab1.itba.edu.ar (190.227.163.142), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  1.151 ms  1.657 ms  2.063 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  0.259 ms  0.268 ms  0.271 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.203 ms  0.212 ms  0.201 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  0.343 ms  0.347 ms  0.344 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  4.606 ms  4.635 ms  4.597 ms
+ 6  de-hmb.nordu.net (109.105.98.124)  14.958 ms  15.082 ms  15.081 ms
+ 7  nl-sar.nordu.net (109.105.97.17)  21.943 ms  21.978 ms  21.945 ms
+ 8  * * *
+ 9  te0-1-0-0.londra17.lon.seabone.net (89.221.43.124)  322.990 ms te0-9-0-0.londra16.lon.seabone.net (195.22.213.55)  305.909 ms 149.3.183.22 (149.3.183.22)  315.957 ms
+10  pos0-8-0-3.newyork50.new.seabone.net (195.22.195.46)  315.808 ms  306.860 ms te0-12-0-0.newark11.new.seabone.net (195.22.195.84)  313.941 ms
+11  te0-0-0-18.miami12.mia.seabone.net (195.22.199.92)  312.093 ms  312.117 ms te0-1-0-18.miami13.mia.seabone.net (195.22.199.14)  312.872 ms
+12  te0-6-0-2.baires14.bai.seabone.net (195.22.220.206)  325.038 ms te0-0-0-1.baires13.bai.seabone.net (195.22.220.136)  313.514 ms te0-2-0-4.baires13.bai.seabone.net (195.22.220.18)  318.787 ms
+13  ae7.baires3.bai.seabone.net (195.22.220.11)  318.650 ms ae5.baires3.bai.seabone.net (195.22.220.9)  307.317 ms ae7.baires3.bai.seabone.net (195.22.220.11)  318.767 ms
+14  185.70.203.43 (185.70.203.43)  316.641 ms  316.523 ms  312.996 ms
+15  host142.190-227-163.telecom.net.ar (190.227.163.142)  333.161 ms  332.098 ms  330.719 ms
+traceroute to planet-lab1.itba.edu.ar (190.227.163.142), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  1.085 ms  1.514 ms  1.970 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  0.258 ms  0.329 ms  0.313 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.294 ms  0.275 ms  0.314 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  0.411 ms  0.408 ms  0.388 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  4.654 ms  4.706 ms  4.691 ms
+ 6  de-hmb.nordu.net (109.105.98.124)  14.962 ms  15.002 ms  14.978 ms
+ 7  nl-sar.nordu.net (109.105.97.17)  21.488 ms  21.545 ms  21.511 ms
+ 8  * * *
+ 9  te0-15-0-0.londra16.lon.seabone.net (195.22.209.216)  323.646 ms te0-9-0-0.londra17.lon.seabone.net (195.22.213.57)  322.947 ms te0-1-0-0.londra17.lon.seabone.net (89.221.43.124)  320.387 ms
+10  te0-12-0-0.newark11.new.seabone.net (195.22.195.84)  316.365 ms pos0-8-0-3.newyork50.new.seabone.net (195.22.195.46)  315.996 ms  308.657 ms
+11  te0-1-0-18.miami13.mia.seabone.net (195.22.199.14)  319.775 ms  326.793 ms  326.506 ms
+12  te0-6-0-2.baires13.bai.seabone.net (195.22.220.160)  317.559 ms te0-6-0-2.baires14.bai.seabone.net (195.22.220.206)  326.149 ms 185.70.203.4 (185.70.203.4)  323.683 ms
+13  ae5.baires3.bai.seabone.net (195.22.220.9)  307.317 ms  305.670 ms ae7.baires3.bai.seabone.net (195.22.220.11)  318.833 ms
+14  185.70.203.43 (185.70.203.43)  323.201 ms  320.097 ms  322.028 ms
+15  host142.190-227-163.telecom.net.ar (190.227.163.142)  337.993 ms  335.301 ms  330.738 ms
+traceroute to planet-lab1.itba.edu.ar (190.227.163.142), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  1.256 ms  1.711 ms  2.125 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  0.268 ms  0.274 ms  0.347 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.232 ms  0.304 ms  0.285 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  0.360 ms  0.343 ms  0.323 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  4.609 ms  4.601 ms  4.611 ms
+ 6  de-hmb.nordu.net (109.105.98.124)  14.976 ms  15.017 ms  15.002 ms
+ 7  nl-sar.nordu.net (109.105.97.17)  21.543 ms  21.580 ms  21.567 ms
+ 8  * * *
+ 9  te0-9-0-0.londra16.lon.seabone.net (195.22.213.55)  307.031 ms te0-8-2-0.londra17.lon.seabone.net (89.221.43.114)  317.887 ms te0-15-0-0.londra16.lon.seabone.net (195.22.209.216)  322.032 ms
+10  te0-12-0-0.newark11.new.seabone.net (195.22.195.84)  314.083 ms  312.647 ms  312.533 ms
+11  te0-1-0-18.miami13.mia.seabone.net (195.22.199.14)  318.606 ms te0-0-0-18.miami12.mia.seabone.net (195.22.199.92)  312.143 ms te0-1-0-18.miami13.mia.seabone.net (195.22.199.14)  323.566 ms
+12  te0-2-0-4.baires13.bai.seabone.net (195.22.220.18)  319.577 ms 185.70.203.4 (185.70.203.4)  313.217 ms te0-6-0-2.baires13.bai.seabone.net (195.22.220.160)  311.337 ms
+13  ae5.baires3.bai.seabone.net (195.22.220.9)  306.119 ms ae7.baires3.bai.seabone.net (195.22.220.11)  312.969 ms  313.470 ms
+14  185.70.203.43 (185.70.203.43)  315.972 ms  319.805 ms  318.432 ms
+15  host142.190-227-163.telecom.net.ar (190.227.163.142)  379.289 ms  345.273 ms  340.910 ms
+traceroute to planet-lab1.itba.edu.ar (190.227.163.142), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  10.077 ms  10.581 ms  11.064 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  0.343 ms  0.339 ms  0.363 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.284 ms  0.271 ms  0.284 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  0.347 ms  0.332 ms  0.313 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  7.481 ms  7.534 ms  7.515 ms
+ 6  de-hmb.nordu.net (109.105.98.124)  16.023 ms  15.923 ms  15.904 ms
+ 7  nl-sar.nordu.net (109.105.97.17)  21.553 ms  21.821 ms  21.805 ms
+ 8  * * *
+ 9  te0-9-0-0.londra17.lon.seabone.net (195.22.213.57)  321.915 ms te0-9-0-0.londra16.lon.seabone.net (195.22.213.55)  308.662 ms te0-1-0-0.londra17.lon.seabone.net (89.221.43.124)  321.686 ms
+10  pos0-8-0-3.newyork50.new.seabone.net (195.22.195.46)  314.909 ms  314.056 ms  314.075 ms
+11  te0-1-0-18.miami13.mia.seabone.net (195.22.199.14)  318.307 ms te0-0-0-18.miami12.mia.seabone.net (195.22.199.92)  312.157 ms  312.171 ms
+12  te0-1-0-3.baires14.bai.seabone.net (195.22.220.192)  317.864 ms te0-1-0-2.baires13.bai.seabone.net (195.22.220.190)  326.067 ms  318.688 ms
+13  ae7.baires3.bai.seabone.net (195.22.220.11)  315.741 ms  316.294 ms ae5.baires3.bai.seabone.net (195.22.220.9)  305.356 ms
+14  185.70.203.43 (185.70.203.43)  323.360 ms  322.627 ms  314.525 ms
+15  host142.190-227-163.telecom.net.ar (190.227.163.142)  331.643 ms  326.819 ms  322.238 ms
+traceroute to planet-lab1.itba.edu.ar (190.227.163.142), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  1.039 ms  1.479 ms  1.944 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  0.286 ms  0.291 ms  0.283 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.201 ms  0.211 ms  0.200 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  0.411 ms  0.391 ms  0.370 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  4.601 ms  4.650 ms  4.636 ms
+ 6  de-hmb.nordu.net (109.105.98.124)  15.127 ms  15.142 ms  15.126 ms
+ 7  nl-sar.nordu.net (109.105.97.17)  22.247 ms  22.296 ms  22.280 ms
+ 8  * * *
+ 9  te0-15-2-0.londra16.lon.seabone.net (89.221.43.112)  321.117 ms te0-15-0-0.londra17.lon.seabone.net (195.22.209.222)  320.041 ms te0-9-0-0.londra16.lon.seabone.net (195.22.213.55)  307.201 ms
+10  te0-12-0-0.newark11.new.seabone.net (195.22.195.84)  321.478 ms pos0-8-0-3.newyork50.new.seabone.net (195.22.195.46)  318.041 ms te0-12-0-0.newark11.new.seabone.net (195.22.195.84)  316.522 ms
+11  te0-1-0-18.miami13.mia.seabone.net (195.22.199.14)  318.483 ms  318.531 ms te0-0-0-18.miami12.mia.seabone.net (195.22.199.92)  311.930 ms
+12  185.70.203.0 (185.70.203.0)  323.943 ms te0-1-0-2.baires14.bai.seabone.net (195.22.220.234)  313.938 ms te0-0-0-2.baires13.bai.seabone.net (195.22.220.196)  307.922 ms
+13  ae7.baires3.bai.seabone.net (195.22.220.11)  318.876 ms  310.399 ms  316.777 ms
+14  185.70.203.43 (185.70.203.43)  310.628 ms  322.287 ms  318.316 ms
+15  host142.190-227-163.telecom.net.ar (190.227.163.142)  321.236 ms  328.290 ms  315.515 ms
+traceroute to planet-lab1.itba.edu.ar (190.227.163.142), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  1.078 ms  1.524 ms  1.971 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  0.299 ms  0.298 ms  0.289 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.239 ms  0.222 ms  0.207 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  0.365 ms  0.360 ms  0.344 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  4.663 ms  4.724 ms  4.710 ms
+ 6  de-hmb.nordu.net (109.105.98.124)  16.378 ms  16.405 ms  16.393 ms
+ 7  nl-sar.nordu.net (109.105.97.17)  21.535 ms  21.565 ms  21.548 ms
+ 8  * * *
+ 9  te0-15-0-0.londra17.lon.seabone.net (195.22.209.222)  321.752 ms te0-8-2-0.londra17.lon.seabone.net (89.221.43.114)  317.965 ms te0-1-0-0.londra17.lon.seabone.net (89.221.43.124)  326.969 ms
+10  pos0-8-0-3.newyork50.new.seabone.net (195.22.195.46)  309.284 ms te0-12-0-0.newark11.new.seabone.net (195.22.195.84)  314.003 ms pos0-8-0-3.newyork50.new.seabone.net (195.22.195.46)  307.113 ms
+11  te0-1-0-18.miami13.mia.seabone.net (195.22.199.14)  323.700 ms  318.315 ms te0-0-0-18.miami12.mia.seabone.net (195.22.199.92)  318.201 ms
+12  te0-6-0-3.baires14.bai.seabone.net (195.22.220.168)  309.413 ms te0-6-0-2.baires14.bai.seabone.net (195.22.220.206)  315.504 ms te0-1-0-2.baires13.bai.seabone.net (195.22.220.190)  318.197 ms
+13  ae5.baires3.bai.seabone.net (195.22.220.9)  305.537 ms ae7.baires3.bai.seabone.net (195.22.220.11)  313.449 ms ae5.baires3.bai.seabone.net (195.22.220.9)  303.086 ms
+14  185.70.203.43 (185.70.203.43)  329.358 ms * *
+15  host142.190-227-163.telecom.net.ar (190.227.163.142)  328.711 ms  325.780 ms  324.742 ms
+traceroute to planet-lab1.itba.edu.ar (190.227.163.142), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  1.145 ms  1.666 ms  2.067 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  0.695 ms  0.747 ms  0.731 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.224 ms  0.214 ms  0.200 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  0.281 ms  0.308 ms  0.371 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  4.711 ms  4.764 ms  4.749 ms
+ 6  de-hmb.nordu.net (109.105.98.124)  15.089 ms  15.115 ms  15.098 ms
+ 7  nl-sar.nordu.net (109.105.97.17)  21.645 ms  21.690 ms  21.593 ms
+ 8  * * *
+ 9  te0-15-0-0.londra16.lon.seabone.net (195.22.209.216)  324.987 ms 149.3.183.22 (149.3.183.22)  315.912 ms te0-15-0-0.londra17.lon.seabone.net (195.22.209.222)  321.454 ms
+10  pos0-8-0-3.newyork50.new.seabone.net (195.22.195.46)  314.277 ms te0-12-0-0.newark11.new.seabone.net (195.22.195.84)  322.824 ms pos0-8-0-3.newyork50.new.seabone.net (195.22.195.46)  309.053 ms
+11  te0-1-0-18.miami13.mia.seabone.net (195.22.199.14)  326.778 ms  318.350 ms  326.864 ms
+12  te0-1-0-1.baires14.bai.seabone.net (195.22.220.142)  307.979 ms 185.70.203.2 (185.70.203.2)  322.169 ms te0-7-0-4.baires14.bai.seabone.net (195.22.199.5)  326.443 ms
+13  ae7.baires3.bai.seabone.net (195.22.220.11)  316.250 ms  309.979 ms  304.814 ms
+14  185.70.203.43 (185.70.203.43)  316.932 ms  319.818 ms  321.508 ms
+15  host142.190-227-163.telecom.net.ar (190.227.163.142)  321.132 ms  317.523 ms  327.985 ms
+traceroute to planet-lab1.itba.edu.ar (190.227.163.142), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  1.109 ms  1.578 ms  1.984 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  0.322 ms  0.320 ms  0.311 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.260 ms  0.235 ms  0.222 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  0.641 ms  0.656 ms  0.640 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  4.655 ms  4.699 ms  4.687 ms
+ 6  de-hmb.nordu.net (109.105.98.124)  14.956 ms  14.995 ms  14.995 ms
+ 7  nl-sar.nordu.net (109.105.97.17)  21.550 ms  21.563 ms  21.548 ms
+ 8  * * *
+ 9  149.3.183.22 (149.3.183.22)  319.169 ms te0-9-0-0.londra17.lon.seabone.net (195.22.213.57)  320.152 ms te0-15-2-0.londra16.lon.seabone.net (89.221.43.112)  318.836 ms
+10  te0-12-0-0.newark11.new.seabone.net (195.22.195.84)  314.995 ms  313.396 ms pos0-8-0-3.newyork50.new.seabone.net (195.22.195.46)  317.267 ms
+11  te0-0-0-18.miami12.mia.seabone.net (195.22.199.92)  320.194 ms  312.414 ms  312.285 ms
+12  185.70.203.2 (185.70.203.2)  317.664 ms te0-1-0-1.baires14.bai.seabone.net (195.22.220.142)  317.576 ms te0-7-0-4.baires13.bai.seabone.net (195.22.199.163)  315.144 ms
+13  ae5.baires3.bai.seabone.net (195.22.220.9)  305.373 ms ae7.baires3.bai.seabone.net (195.22.220.11)  319.054 ms ae5.baires3.bai.seabone.net (195.22.220.9)  305.501 ms
+14  185.70.203.43 (185.70.203.43)  307.330 ms  306.755 ms  313.547 ms
+15  host142.190-227-163.telecom.net.ar (190.227.163.142)  329.094 ms  329.431 ms  314.703 ms
+traceroute to planet-lab1.itba.edu.ar (190.227.163.142), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  1.392 ms  1.891 ms  2.296 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  0.271 ms  0.276 ms  0.274 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.219 ms  0.208 ms  0.196 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  0.377 ms  0.375 ms  0.424 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  5.273 ms  5.319 ms  5.302 ms
+ 6  de-hmb.nordu.net (109.105.98.124)  14.988 ms  15.010 ms  15.013 ms
+ 7  nl-sar.nordu.net (109.105.97.17)  21.600 ms  21.649 ms  21.624 ms
+ 8  * * *
+ 9  149.3.183.22 (149.3.183.22)  315.434 ms 149.3.183.24 (149.3.183.24)  328.659 ms te0-1-0-0.londra16.lon.seabone.net (89.221.43.126)  321.468 ms
+10  pos0-8-0-3.newyork50.new.seabone.net (195.22.195.46)  312.854 ms te0-12-0-0.newark11.new.seabone.net (195.22.195.84)  313.794 ms pos0-8-0-3.newyork50.new.seabone.net (195.22.195.46)  314.160 ms
+11  te0-0-0-18.miami12.mia.seabone.net (195.22.199.92)  312.173 ms te0-1-0-18.miami13.mia.seabone.net (195.22.199.14)  326.893 ms  326.616 ms
+12  te0-6-0-2.baires13.bai.seabone.net (195.22.220.160)  309.314 ms te0-0-0-1.baires14.bai.seabone.net (195.22.220.140)  322.503 ms 185.70.203.78 (185.70.203.78)  318.299 ms
+13  ae7.baires3.bai.seabone.net (195.22.220.11)  313.131 ms ae5.baires3.bai.seabone.net (195.22.220.9)  305.533 ms ae7.baires3.bai.seabone.net (195.22.220.11)  310.533 ms
+14  185.70.203.43 (185.70.203.43)  324.947 ms  319.439 ms  318.985 ms
+15  host142.190-227-163.telecom.net.ar (190.227.163.142)  315.535 ms  317.917 ms  318.259 ms
+traceroute to planet-lab1.itba.edu.ar (190.227.163.142), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  6.537 ms  7.048 ms  7.507 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  0.292 ms  0.291 ms  0.278 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.232 ms  0.222 ms  0.222 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  0.337 ms  0.329 ms  0.493 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  56.172 ms  56.280 ms  56.265 ms
+ 6  de-hmb.nordu.net (109.105.98.124)  15.088 ms  15.032 ms  15.015 ms
+ 7  nl-sar.nordu.net (109.105.97.17)  22.039 ms  22.129 ms  22.111 ms
+ 8  * * *
+ 9  te0-8-2-0.londra17.lon.seabone.net (89.221.43.114)  317.293 ms te0-9-0-0.londra17.lon.seabone.net (195.22.213.57)  323.806 ms te0-1-0-0.londra17.lon.seabone.net (89.221.43.124)  322.500 ms
+10  pos0-8-0-3.newyork50.new.seabone.net (195.22.195.46)  308.845 ms te0-12-0-0.newark11.new.seabone.net (195.22.195.84)  315.785 ms pos0-8-0-3.newyork50.new.seabone.net (195.22.195.46)  313.952 ms
+11  te0-1-0-18.miami13.mia.seabone.net (195.22.199.14)  326.640 ms te0-0-0-18.miami12.mia.seabone.net (195.22.199.92)  312.736 ms  312.620 ms
+12  te0-1-0-3.baires14.bai.seabone.net (195.22.220.192)  324.115 ms 185.70.203.0 (185.70.203.0)  322.022 ms te0-1-0-2.baires14.bai.seabone.net (195.22.220.234)  320.674 ms
+13  ae5.baires3.bai.seabone.net (195.22.220.9)  303.277 ms  306.239 ms  307.300 ms
+14  185.70.203.43 (185.70.203.43)  315.773 ms  313.924 ms  314.804 ms
+15  host142.190-227-163.telecom.net.ar (190.227.163.142)  320.749 ms  331.699 ms  330.770 ms
+traceroute to planet-lab1.itba.edu.ar (190.227.163.142), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  1.258 ms  1.711 ms  2.123 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  0.323 ms  0.309 ms  0.306 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.266 ms  0.248 ms  0.228 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  0.294 ms  0.329 ms  0.325 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  4.563 ms  4.942 ms  4.814 ms
+ 6  de-hmb.nordu.net (109.105.98.124)  14.961 ms  14.976 ms  15.081 ms
+ 7  nl-sar.nordu.net (109.105.97.17)  22.255 ms  22.307 ms  22.271 ms
+ 8  * * *
+ 9  te0-9-0-0.londra16.lon.seabone.net (195.22.213.55)  306.228 ms te0-1-0-0.londra17.lon.seabone.net (89.221.43.124)  319.963 ms te0-9-0-0.londra16.lon.seabone.net (195.22.213.55)  308.317 ms
+10  te0-12-0-0.newark11.new.seabone.net (195.22.195.84)  314.689 ms pos0-8-0-3.newyork50.new.seabone.net (195.22.195.46)  315.083 ms te0-12-0-0.newark11.new.seabone.net (195.22.195.84)  313.191 ms
+11  te0-1-0-18.miami13.mia.seabone.net (195.22.199.14)  323.714 ms te0-0-0-18.miami12.mia.seabone.net (195.22.199.92)  312.241 ms te0-1-0-18.miami13.mia.seabone.net (195.22.199.14)  326.651 ms
+12  te0-2-0-2.baires13.bai.seabone.net (195.22.220.182)  324.134 ms te0-2-0-0.baires14.bai.seabone.net (195.22.220.126)  322.520 ms te0-2-0-0.baires13.bai.seabone.net (195.22.220.124)  316.223 ms
+13  ae7.baires3.bai.seabone.net (195.22.220.11)  318.758 ms  317.263 ms  314.085 ms
+14  185.70.203.43 (185.70.203.43)  316.802 ms  316.859 ms  315.035 ms
+15  host142.190-227-163.telecom.net.ar (190.227.163.142)  315.191 ms  321.466 ms  320.777 ms
+traceroute to planet-lab1.itba.edu.ar (190.227.163.142), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  1.291 ms  1.787 ms  2.188 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  0.319 ms  0.319 ms  0.311 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.258 ms  0.240 ms  0.230 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  0.350 ms  0.334 ms  0.316 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  4.622 ms  4.667 ms  4.650 ms
+ 6  de-hmb.nordu.net (109.105.98.124)  14.988 ms  15.023 ms  14.974 ms
+ 7  nl-sar.nordu.net (109.105.97.17)  21.581 ms  21.633 ms  21.617 ms
+ 8  * * *
+ 9  te0-8-2-0.londra17.lon.seabone.net (89.221.43.114)  313.970 ms te0-9-0-0.londra17.lon.seabone.net (195.22.213.57)  321.042 ms  321.062 ms
+10  te0-12-0-0.newark11.new.seabone.net (195.22.195.84)  320.301 ms  315.256 ms pos0-8-0-3.newyork50.new.seabone.net (195.22.195.46)  309.469 ms
+11  te0-1-0-18.miami13.mia.seabone.net (195.22.199.14)  327.039 ms  318.343 ms te0-0-0-18.miami12.mia.seabone.net (195.22.199.92)  320.289 ms
+12  185.70.203.76 (185.70.203.76)  319.985 ms te0-7-0-4.baires14.bai.seabone.net (195.22.199.5)  319.541 ms 185.70.203.78 (185.70.203.78)  323.057 ms
+13  ae7.baires3.bai.seabone.net (195.22.220.11)  310.054 ms  312.958 ms ae5.baires3.bai.seabone.net (195.22.220.9)  314.183 ms
+14  185.70.203.43 (185.70.203.43)  311.433 ms  318.232 ms  326.728 ms
+15  host142.190-227-163.telecom.net.ar (190.227.163.142)  315.781 ms  323.228 ms  332.692 ms
+traceroute to planet-lab1.itba.edu.ar (190.227.163.142), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  2.266 ms  2.681 ms  3.090 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  0.259 ms  0.271 ms  0.276 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.216 ms  0.203 ms  0.195 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  0.350 ms  0.335 ms  0.317 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  4.580 ms  4.613 ms  4.588 ms
+ 6  de-hmb.nordu.net (109.105.98.124)  14.971 ms  14.996 ms  15.011 ms
+ 7  nl-sar.nordu.net (109.105.97.17)  21.532 ms  21.576 ms  21.544 ms
+ 8  * * *
+ 9  te0-9-0-0.londra16.lon.seabone.net (195.22.213.55)  309.319 ms te0-1-0-0.londra17.lon.seabone.net (89.221.43.124)  321.246 ms 149.3.183.24 (149.3.183.24)  329.209 ms
+10  pos0-8-0-3.newyork50.new.seabone.net (195.22.195.46)  309.911 ms  309.389 ms  309.336 ms
+11  te0-0-0-18.miami12.mia.seabone.net (195.22.199.92)  312.651 ms te0-1-0-18.miami13.mia.seabone.net (195.22.199.14)  326.657 ms  318.311 ms
+12  te0-6-0-3.baires13.bai.seabone.net (195.22.220.166)  320.005 ms te0-2-0-2.baires13.bai.seabone.net (195.22.220.182)  325.850 ms 185.70.203.2 (185.70.203.2)  327.376 ms
+13  ae5.baires3.bai.seabone.net (195.22.220.9)  314.384 ms ae7.baires3.bai.seabone.net (195.22.220.11)  319.027 ms ae5.baires3.bai.seabone.net (195.22.220.9)  306.684 ms
+14  185.70.203.43 (185.70.203.43)  337.087 ms  328.835 ms  337.719 ms
+15  host142.190-227-163.telecom.net.ar (190.227.163.142)  330.439 ms  340.777 ms  335.856 ms
+traceroute to planet-lab1.itba.edu.ar (190.227.163.142), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  1.174 ms  1.617 ms  2.024 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  0.293 ms  0.285 ms  0.276 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.231 ms  0.219 ms  0.210 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  0.904 ms  0.891 ms  0.872 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  6.729 ms  6.782 ms  6.765 ms
+ 6  de-hmb.nordu.net (109.105.98.124)  14.986 ms  15.005 ms  15.051 ms
+ 7  nl-sar.nordu.net (109.105.97.17)  21.688 ms  21.735 ms  21.705 ms
+ 8  * * *
+ 9  te0-15-0-0.londra17.lon.seabone.net (195.22.209.222)  323.738 ms 149.3.183.22 (149.3.183.22)  316.064 ms te0-8-2-0.londra17.lon.seabone.net (89.221.43.114)  315.084 ms
+10  te0-12-0-0.newark11.new.seabone.net (195.22.195.84)  312.688 ms  324.583 ms pos0-8-0-3.newyork50.new.seabone.net (195.22.195.46)  308.290 ms
+11  te0-1-0-18.miami13.mia.seabone.net (195.22.199.14)  327.351 ms  318.555 ms te0-0-0-18.miami12.mia.seabone.net (195.22.199.92)  312.035 ms
+12  te0-2-0-3.baires14.bai.seabone.net (195.22.199.71)  326.535 ms te0-7-0-3.baires13.bai.seabone.net (195.22.199.129)  313.338 ms te0-2-0-0.baires13.bai.seabone.net (195.22.220.124)  313.948 ms
+13  ae7.baires3.bai.seabone.net (195.22.220.11)  318.943 ms ae5.baires3.bai.seabone.net (195.22.220.9)  315.854 ms ae7.baires3.bai.seabone.net (195.22.220.11)  319.489 ms
+14  185.70.203.43 (185.70.203.43)  323.920 ms  319.200 ms  320.714 ms
+15  host142.190-227-163.telecom.net.ar (190.227.163.142)  324.738 ms  324.517 ms  333.254 ms
+traceroute to planet-lab1.itba.edu.ar (190.227.163.142), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  1.031 ms  1.444 ms  1.899 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  0.304 ms  0.288 ms  0.266 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.232 ms  0.232 ms  0.216 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  0.350 ms  0.344 ms  0.389 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  36.324 ms  36.377 ms  36.361 ms
+ 6  de-hmb.nordu.net (109.105.98.124)  14.989 ms  15.008 ms  14.969 ms
+ 7  nl-sar.nordu.net (109.105.97.17)  21.538 ms  21.589 ms  21.574 ms
+ 8  * * *
+ 9  te0-15-0-0.londra17.lon.seabone.net (195.22.209.222)  320.915 ms te0-1-0-0.londra17.lon.seabone.net (89.221.43.124)  320.663 ms 149.3.183.22 (149.3.183.22)  315.559 ms
+10  pos0-8-0-3.newyork50.new.seabone.net (195.22.195.46)  312.141 ms  315.484 ms te0-12-0-0.newark11.new.seabone.net (195.22.195.84)  315.179 ms
+11  te0-0-0-18.miami12.mia.seabone.net (195.22.199.92)  312.133 ms te0-1-0-18.miami13.mia.seabone.net (195.22.199.14)  326.564 ms te0-0-0-18.miami12.mia.seabone.net (195.22.199.92)  311.993 ms
+12  te0-2-0-2.baires13.bai.seabone.net (195.22.220.182)  319.069 ms te0-1-0-3.baires14.bai.seabone.net (195.22.220.192)  322.448 ms te0-0-0-1.baires13.bai.seabone.net (195.22.220.136)  314.388 ms
+13  ae7.baires3.bai.seabone.net (195.22.220.11)  318.725 ms  313.626 ms ae5.baires3.bai.seabone.net (195.22.220.9)  306.230 ms
+14  185.70.203.43 (185.70.203.43)  349.040 ms  352.296 ms  337.248 ms
+15  host142.190-227-163.telecom.net.ar (190.227.163.142)  360.263 ms  357.765 ms  361.674 ms
+traceroute to planet-lab1.itba.edu.ar (190.227.163.142), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  1.128 ms  1.637 ms  2.039 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  0.319 ms  0.320 ms  0.308 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.224 ms  0.213 ms  0.206 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  0.348 ms  0.359 ms  0.336 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  4.598 ms  4.650 ms  4.659 ms
+ 6  de-hmb.nordu.net (109.105.98.124)  15.096 ms  15.110 ms  15.098 ms
+ 7  nl-sar.nordu.net (109.105.97.17)  22.416 ms  22.457 ms  22.426 ms
+ 8  * * *
+ 9  te0-15-2-0.londra16.lon.seabone.net (89.221.43.112)  321.927 ms te0-15-0-0.londra16.lon.seabone.net (195.22.209.216)  323.998 ms te0-8-2-0.londra17.lon.seabone.net (89.221.43.114)  315.219 ms
+10  pos0-8-0-3.newyork50.new.seabone.net (195.22.195.46)  315.265 ms  316.721 ms  316.771 ms
+11  te0-0-0-18.miami12.mia.seabone.net (195.22.199.92)  312.232 ms  312.062 ms te0-1-0-18.miami13.mia.seabone.net (195.22.199.14)  326.867 ms
+12  185.70.203.0 (185.70.203.0)  325.637 ms te0-2-0-2.baires13.bai.seabone.net (195.22.220.182)  334.532 ms te0-1-0-2.baires13.bai.seabone.net (195.22.220.190)  318.995 ms
+13  ae7.baires3.bai.seabone.net (195.22.220.11)  305.578 ms  315.533 ms  318.920 ms
+14  185.70.203.43 (185.70.203.43)  345.082 ms  345.598 ms  341.691 ms
+15  host142.190-227-163.telecom.net.ar (190.227.163.142)  358.802 ms  349.842 ms  350.767 ms
+traceroute to planet-lab1.itba.edu.ar (190.227.163.142), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  1.107 ms  1.613 ms  2.017 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  0.302 ms  0.292 ms  0.284 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.237 ms  0.230 ms  0.216 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  0.381 ms  0.371 ms  0.353 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  4.643 ms  4.689 ms  4.674 ms
+ 6  de-hmb.nordu.net (109.105.98.124)  14.952 ms  15.007 ms  15.003 ms
+ 7  nl-sar.nordu.net (109.105.97.17)  21.472 ms  21.525 ms  21.496 ms
+ 8  * * *
+ 9  149.3.183.24 (149.3.183.24)  327.180 ms 149.3.183.22 (149.3.183.22)  316.356 ms te0-9-0-0.londra17.lon.seabone.net (195.22.213.57)  323.718 ms
+10  te0-12-0-0.newark11.new.seabone.net (195.22.195.84)  313.653 ms  314.801 ms pos0-8-0-3.newyork50.new.seabone.net (195.22.195.46)  309.277 ms
+11  te0-1-0-18.miami13.mia.seabone.net (195.22.199.14)  326.566 ms  326.872 ms te0-0-0-18.miami12.mia.seabone.net (195.22.199.92)  312.055 ms
+12  te0-1-0-2.baires13.bai.seabone.net (195.22.220.190)  318.346 ms te0-2-0-2.baires13.bai.seabone.net (195.22.220.182)  326.145 ms te0-0-0-1.baires13.bai.seabone.net (195.22.220.136)  312.335 ms
+13  ae5.baires3.bai.seabone.net (195.22.220.9)  306.352 ms  312.560 ms  310.332 ms
+14  185.70.203.43 (185.70.203.43)  360.108 ms  357.827 ms  356.979 ms
+15  host142.190-227-163.telecom.net.ar (190.227.163.142)  375.614 ms  376.138 ms  376.199 ms
+traceroute to planet-lab1.itba.edu.ar (190.227.163.142), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  1.120 ms  1.615 ms  2.004 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  0.367 ms  0.366 ms  0.390 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.310 ms  0.299 ms  0.280 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  0.358 ms  0.343 ms  0.329 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  4.565 ms  4.632 ms  4.599 ms
+ 6  de-hmb.nordu.net (109.105.98.124)  14.969 ms  15.025 ms  15.004 ms
+ 7  nl-sar.nordu.net (109.105.97.17)  33.758 ms  33.813 ms  33.798 ms
+ 8  * * *
+ 9  149.3.183.22 (149.3.183.22)  319.112 ms 149.3.183.24 (149.3.183.24)  325.760 ms te0-15-2-0.londra16.lon.seabone.net (89.221.43.112)  318.977 ms
+10  te0-12-0-0.newark11.new.seabone.net (195.22.195.84)  314.921 ms  313.286 ms pos0-8-0-3.newyork50.new.seabone.net (195.22.195.46)  315.806 ms
+11  te0-1-0-18.miami13.mia.seabone.net (195.22.199.14)  326.668 ms  323.784 ms  323.791 ms
+12  te0-2-0-0.baires14.bai.seabone.net (195.22.220.126)  320.517 ms te0-2-0-3.baires14.bai.seabone.net (195.22.199.71)  322.367 ms te0-6-0-3.baires13.bai.seabone.net (195.22.220.166)  322.102 ms
+13  ae7.baires3.bai.seabone.net (195.22.220.11)  316.594 ms  310.827 ms  310.851 ms
+14  185.70.203.43 (185.70.203.43)  354.631 ms  359.190 ms  370.639 ms
+15  host142.190-227-163.telecom.net.ar (190.227.163.142)  375.765 ms  384.776 ms  380.556 ms
+traceroute to planet-lab1.itba.edu.ar (190.227.163.142), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  1.050 ms  1.540 ms  1.953 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  0.294 ms  0.294 ms  0.275 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.234 ms  0.214 ms  0.203 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  0.292 ms  0.347 ms  0.325 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  4.599 ms  4.665 ms  4.646 ms
+ 6  de-hmb.nordu.net (109.105.98.124)  15.035 ms  15.054 ms  15.037 ms
+ 7  nl-sar.nordu.net (109.105.97.17)  21.720 ms  21.772 ms  21.734 ms
+ 8  * * *
+ 9  te0-15-2-0.londra16.lon.seabone.net (89.221.43.112)  319.583 ms te0-9-0-0.londra16.lon.seabone.net (195.22.213.55)  308.883 ms  308.898 ms
+10  pos0-8-0-3.newyork50.new.seabone.net (195.22.195.46)  317.135 ms te0-12-0-0.newark11.new.seabone.net (195.22.195.84)  315.900 ms  315.842 ms
+11  te0-1-0-18.miami13.mia.seabone.net (195.22.199.14)  318.441 ms  323.571 ms  323.582 ms
+12  te0-2-0-3.baires13.bai.seabone.net (195.22.199.69)  318.957 ms te0-2-0-0.baires13.bai.seabone.net (195.22.220.124)  317.830 ms te0-0-0-2.baires14.bai.seabone.net (195.22.220.230)  323.055 ms
+13  ae5.baires3.bai.seabone.net (195.22.220.9)  307.847 ms ae7.baires3.bai.seabone.net (195.22.220.11)  304.947 ms ae5.baires3.bai.seabone.net (195.22.220.9)  305.644 ms
+14  185.70.203.43 (185.70.203.43)  350.104 ms  353.223 ms  356.718 ms
+15  host142.190-227-163.telecom.net.ar (190.227.163.142)  377.035 ms  362.998 ms  359.625 ms
+traceroute to planet-lab1.itba.edu.ar (190.227.163.142), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  1.131 ms  1.639 ms  2.000 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  0.275 ms  0.340 ms  0.335 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.212 ms  0.276 ms  0.258 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  0.357 ms  0.342 ms  0.321 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  4.615 ms  4.654 ms  4.643 ms
+ 6  de-hmb.nordu.net (109.105.98.124)  14.969 ms  15.041 ms  14.988 ms
+ 7  nl-sar.nordu.net (109.105.97.17)  21.554 ms  21.603 ms  21.588 ms
+ 8  * * *
+ 9  te0-1-0-0.londra16.lon.seabone.net (89.221.43.126)  319.777 ms te0-1-0-0.londra17.lon.seabone.net (89.221.43.124)  320.127 ms te0-8-2-0.londra17.lon.seabone.net (89.221.43.114)  315.867 ms
+10  pos0-8-0-3.newyork50.new.seabone.net (195.22.195.46)  309.489 ms te0-12-0-0.newark11.new.seabone.net (195.22.195.84)  313.392 ms  313.267 ms
+11  te0-1-0-18.miami13.mia.seabone.net (195.22.199.14)  327.736 ms  323.665 ms  323.649 ms
+12  185.70.203.2 (185.70.203.2)  326.089 ms te0-6-0-3.baires14.bai.seabone.net (195.22.220.168)  316.760 ms te0-2-0-4.baires13.bai.seabone.net (195.22.220.18)  325.249 ms
+13  ae7.baires3.bai.seabone.net (195.22.220.11)  310.522 ms  310.134 ms ae5.baires3.bai.seabone.net (195.22.220.9)  307.195 ms
+14  185.70.203.43 (185.70.203.43)  356.446 ms  352.608 ms  351.946 ms
+15  host142.190-227-163.telecom.net.ar (190.227.163.142)  375.583 ms  364.450 ms  364.861 ms
+traceroute to planet-lab1.itba.edu.ar (190.227.163.142), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  1.160 ms  1.779 ms  2.169 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  0.360 ms  0.350 ms  0.356 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.268 ms  0.254 ms  0.235 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  0.402 ms  0.384 ms  0.363 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  4.568 ms  4.621 ms  4.605 ms
+ 6  de-hmb.nordu.net (109.105.98.124)  15.766 ms  15.708 ms  15.690 ms
+ 7  nl-sar.nordu.net (109.105.97.17)  21.545 ms  21.596 ms  21.581 ms
+ 8  * * *
+ 9  te0-15-0-0.londra17.lon.seabone.net (195.22.209.222)  322.408 ms te0-9-0-0.londra16.lon.seabone.net (195.22.213.55)  307.552 ms te0-15-2-0.londra16.lon.seabone.net (89.221.43.112)  321.444 ms
+10  te0-12-0-0.newark11.new.seabone.net (195.22.195.84)  312.942 ms  314.671 ms  314.714 ms
+11  te0-1-0-18.miami13.mia.seabone.net (195.22.199.14)  326.740 ms te0-0-0-18.miami12.mia.seabone.net (195.22.199.92)  312.150 ms te0-1-0-18.miami13.mia.seabone.net (195.22.199.14)  326.834 ms
+12  te0-2-0-3.baires14.bai.seabone.net (195.22.199.71)  322.264 ms te0-2-0-0.baires13.bai.seabone.net (195.22.220.124)  322.740 ms te0-0-0-2.baires13.bai.seabone.net (195.22.220.196)  305.881 ms
+13  ae5.baires3.bai.seabone.net (195.22.220.9)  310.320 ms ae7.baires3.bai.seabone.net (195.22.220.11)  308.033 ms  310.541 ms
+14  185.70.203.43 (185.70.203.43)  356.106 ms  355.525 ms  358.914 ms
+15  host142.190-227-163.telecom.net.ar (190.227.163.142)  358.199 ms  367.518 ms  367.186 ms
+traceroute to planet-lab1.itba.edu.ar (190.227.163.142), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  1.072 ms  1.473 ms  1.924 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  0.549 ms  0.549 ms  0.535 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.485 ms  0.473 ms  0.458 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  0.440 ms  0.399 ms  0.375 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  8.169 ms  7.825 ms  7.801 ms
+ 6  de-hmb.nordu.net (109.105.98.124)  15.127 ms  15.210 ms  15.191 ms
+ 7  nl-sar.nordu.net (109.105.97.17)  21.691 ms  21.755 ms  21.737 ms
+ 8  * * *
+ 9  te0-15-0-0.londra17.lon.seabone.net (195.22.209.222)  319.029 ms  321.472 ms te0-9-0-0.londra17.lon.seabone.net (195.22.213.57)  321.771 ms
+10  te0-12-0-0.newark11.new.seabone.net (195.22.195.84)  316.493 ms  313.451 ms pos0-8-0-3.newyork50.new.seabone.net (195.22.195.46)  317.295 ms
+11  te0-0-0-18.miami12.mia.seabone.net (195.22.199.92)  312.144 ms te0-1-0-18.miami13.mia.seabone.net (195.22.199.14)  318.389 ms te0-0-0-18.miami12.mia.seabone.net (195.22.199.92)  320.165 ms
+12  te0-6-0-3.baires13.bai.seabone.net (195.22.220.166)  320.870 ms te0-7-0-3.baires13.bai.seabone.net (195.22.199.129)  315.696 ms 185.70.203.4 (185.70.203.4)  317.691 ms
+13  ae7.baires3.bai.seabone.net (195.22.220.11)  318.809 ms ae5.baires3.bai.seabone.net (195.22.220.9)  306.032 ms ae7.baires3.bai.seabone.net (195.22.220.11)  305.140 ms
+14  185.70.203.43 (185.70.203.43)  370.311 ms  367.642 ms  362.949 ms
+15  host142.190-227-163.telecom.net.ar (190.227.163.142)  366.591 ms  365.300 ms  374.794 ms
+traceroute to planet-lab1.itba.edu.ar (190.227.163.142), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  7.728 ms  8.175 ms  8.586 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  0.263 ms  0.262 ms  0.285 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.206 ms  0.194 ms  0.216 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  0.308 ms  0.328 ms  0.311 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  4.641 ms  4.697 ms  4.685 ms
+ 6  de-hmb.nordu.net (109.105.98.124)  14.956 ms  14.998 ms  14.981 ms
+ 7  nl-sar.nordu.net (109.105.97.17)  21.523 ms  21.574 ms  21.556 ms
+ 8  * * *
+ 9  te0-1-0-0.londra16.lon.seabone.net (89.221.43.126)  318.268 ms te0-15-0-0.londra17.lon.seabone.net (195.22.209.222)  321.861 ms te0-9-0-0.londra16.lon.seabone.net (195.22.213.55)  310.248 ms
+10  te0-12-0-0.newark11.new.seabone.net (195.22.195.84)  312.668 ms pos0-8-0-3.newyork50.new.seabone.net (195.22.195.46)  307.525 ms  314.828 ms
+11  te0-1-0-18.miami13.mia.seabone.net (195.22.199.14)  326.671 ms te0-0-0-18.miami12.mia.seabone.net (195.22.199.92)  320.499 ms  312.065 ms
+12  185.70.203.78 (185.70.203.78)  313.450 ms te0-7-0-3.baires14.bai.seabone.net (195.22.199.145)  324.008 ms  315.796 ms
+13  ae7.baires3.bai.seabone.net (195.22.220.11)  310.504 ms  318.700 ms ae5.baires3.bai.seabone.net (195.22.220.9)  299.698 ms
+14  185.70.203.43 (185.70.203.43)  362.365 ms  356.879 ms  356.074 ms
+15  host142.190-227-163.telecom.net.ar (190.227.163.142)  445.218 ms  418.954 ms  433.966 ms
+traceroute to planet-lab1.itba.edu.ar (190.227.163.142), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  1.065 ms  1.702 ms  2.087 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  0.273 ms  0.271 ms  0.292 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.212 ms  0.232 ms  0.215 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  0.554 ms  0.599 ms  0.584 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  4.740 ms  4.705 ms  4.688 ms
+ 6  de-hmb.nordu.net (109.105.98.124)  14.960 ms  15.006 ms  15.006 ms
+ 7  nl-sar.nordu.net (109.105.97.17)  21.667 ms  21.717 ms  21.706 ms
+ 8  * * *
+ 9  te0-15-2-0.londra16.lon.seabone.net (89.221.43.112)  319.561 ms te0-9-0-0.londra16.lon.seabone.net (195.22.213.55)  308.999 ms 149.3.183.24 (149.3.183.24)  328.306 ms
+10  te0-12-0-0.newark11.new.seabone.net (195.22.195.84)  322.574 ms pos0-8-0-3.newyork50.new.seabone.net (195.22.195.46)  311.543 ms te0-12-0-0.newark11.new.seabone.net (195.22.195.84)  313.044 ms
+11  te0-1-0-18.miami13.mia.seabone.net (195.22.199.14)  326.772 ms te0-0-0-18.miami12.mia.seabone.net (195.22.199.92)  312.016 ms te0-1-0-18.miami13.mia.seabone.net (195.22.199.14)  318.571 ms
+12  te0-2-0-4.baires13.bai.seabone.net (195.22.220.18)  325.969 ms te0-0-0-2.baires14.bai.seabone.net (195.22.220.230)  316.013 ms te0-6-0-2.baires13.bai.seabone.net (195.22.220.160)  311.996 ms
+13  ae7.baires3.bai.seabone.net (195.22.220.11)  348.321 ms ae5.baires3.bai.seabone.net (195.22.220.9)  305.405 ms  303.966 ms
+14  185.70.203.43 (185.70.203.43)  375.696 ms  359.919 ms  367.657 ms
+15  host142.190-227-163.telecom.net.ar (190.227.163.142)  392.292 ms  375.627 ms  389.689 ms
+traceroute to planet-lab1.itba.edu.ar (190.227.163.142), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  1.031 ms  1.521 ms  1.929 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  0.318 ms  0.317 ms  0.330 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.259 ms  0.241 ms  0.226 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  0.874 ms  0.859 ms  0.842 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  4.955 ms  5.010 ms  4.859 ms
+ 6  de-hmb.nordu.net (109.105.98.124)  15.002 ms  15.018 ms  15.001 ms
+ 7  nl-sar.nordu.net (109.105.97.17)  21.494 ms  21.549 ms  21.526 ms
+ 8  * * *
+ 9  te0-8-2-0.londra17.lon.seabone.net (89.221.43.114)  315.561 ms te0-1-0-0.londra16.lon.seabone.net (89.221.43.126)  318.278 ms te0-9-0-0.londra17.lon.seabone.net (195.22.213.57)  321.735 ms
+10  te0-12-0-0.newark11.new.seabone.net (195.22.195.84)  315.155 ms pos0-8-0-3.newyork50.new.seabone.net (195.22.195.46)  312.197 ms te0-12-0-0.newark11.new.seabone.net (195.22.195.84)  312.887 ms
+11  te0-0-0-18.miami12.mia.seabone.net (195.22.199.92)  320.426 ms  312.179 ms te0-1-0-18.miami13.mia.seabone.net (195.22.199.14)  326.750 ms
+12  te0-2-0-4.baires13.bai.seabone.net (195.22.220.18)  326.181 ms te0-1-0-2.baires14.bai.seabone.net (195.22.220.234)  318.698 ms te0-2-0-3.baires13.bai.seabone.net (195.22.199.69)  319.783 ms
+13  ae5.baires3.bai.seabone.net (195.22.220.9)  299.928 ms ae7.baires3.bai.seabone.net (195.22.220.11)  316.787 ms  310.750 ms
+14  185.70.203.43 (185.70.203.43)  370.635 ms  378.559 ms  364.004 ms
+15  host142.190-227-163.telecom.net.ar (190.227.163.142)  372.372 ms  384.467 ms  379.679 ms
+traceroute to planet-lab1.itba.edu.ar (190.227.163.142), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  10.152 ms  10.641 ms  11.044 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  0.259 ms  0.264 ms  0.328 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.206 ms  0.267 ms  0.255 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  0.291 ms  0.321 ms  0.304 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  4.744 ms  4.723 ms  4.715 ms
+ 6  de-hmb.nordu.net (109.105.98.124)  15.480 ms  15.465 ms  15.448 ms
+ 7  nl-sar.nordu.net (109.105.97.17)  21.534 ms  21.587 ms  21.571 ms
+ 8  * * *
+ 9  te0-1-0-0.londra17.lon.seabone.net (89.221.43.124)  319.943 ms 149.3.183.22 (149.3.183.22)  316.945 ms te0-9-0-0.londra17.lon.seabone.net (195.22.213.57)  322.832 ms
+10  pos0-8-0-3.newyork50.new.seabone.net (195.22.195.46)  306.320 ms te0-12-0-0.newark11.new.seabone.net (195.22.195.84)  314.454 ms pos0-8-0-3.newyork50.new.seabone.net (195.22.195.46)  317.758 ms
+11  te0-1-0-18.miami13.mia.seabone.net (195.22.199.14)  319.404 ms te0-0-0-18.miami12.mia.seabone.net (195.22.199.92)  312.178 ms te0-1-0-18.miami13.mia.seabone.net (195.22.199.14)  327.016 ms
+12  185.70.203.76 (185.70.203.76)  316.623 ms te0-7-0-3.baires14.bai.seabone.net (195.22.199.145)  314.759 ms te0-2-0-4.baires13.bai.seabone.net (195.22.220.18)  321.021 ms
+13  ae5.baires3.bai.seabone.net (195.22.220.9)  313.676 ms ae7.baires3.bai.seabone.net (195.22.220.11)  310.523 ms ae5.baires3.bai.seabone.net (195.22.220.9)  305.745 ms
+14  185.70.203.43 (185.70.203.43)  367.754 ms  364.622 ms  365.762 ms
+15  host142.190-227-163.telecom.net.ar (190.227.163.142)  388.985 ms  391.386 ms  391.715 ms
+traceroute to planet-lab1.itba.edu.ar (190.227.163.142), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  1.127 ms  1.488 ms  1.965 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  0.306 ms  0.300 ms  0.291 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.243 ms  0.229 ms  0.221 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  0.800 ms  0.848 ms  0.825 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  4.967 ms  5.050 ms  5.036 ms
+ 6  de-hmb.nordu.net (109.105.98.124)  15.345 ms  15.333 ms  15.280 ms
+ 7  nl-sar.nordu.net (109.105.97.17)  21.804 ms  21.872 ms  21.872 ms
+ 8  * * *
+ 9  te0-8-2-0.londra17.lon.seabone.net (89.221.43.114)  317.810 ms te0-15-2-0.londra16.lon.seabone.net (89.221.43.112)  318.304 ms te0-15-0-0.londra16.lon.seabone.net (195.22.209.216)  325.009 ms
+10  pos0-8-0-3.newyork50.new.seabone.net (195.22.195.46)  308.925 ms te0-12-0-0.newark11.new.seabone.net (195.22.195.84)  315.574 ms pos0-8-0-3.newyork50.new.seabone.net (195.22.195.46)  318.187 ms
+11  te0-1-0-18.miami13.mia.seabone.net (195.22.199.14)  326.785 ms te0-0-0-18.miami12.mia.seabone.net (195.22.199.92)  312.097 ms te0-1-0-18.miami13.mia.seabone.net (195.22.199.14)  318.344 ms
+12  te0-0-0-1.baires14.bai.seabone.net (195.22.220.140)  323.375 ms te0-2-0-3.baires14.bai.seabone.net (195.22.199.71)  322.431 ms te0-0-0-2.baires13.bai.seabone.net (195.22.220.196)  308.535 ms
+13  ae5.baires3.bai.seabone.net (195.22.220.9)  310.772 ms ae7.baires3.bai.seabone.net (195.22.220.11)  313.341 ms ae5.baires3.bai.seabone.net (195.22.220.9)  313.500 ms
+14  185.70.203.43 (185.70.203.43)  364.903 ms  359.460 ms  362.107 ms
+15  host142.190-227-163.telecom.net.ar (190.227.163.142)  379.097 ms  375.940 ms  369.051 ms
+traceroute to planet-lab1.itba.edu.ar (190.227.163.142), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  1.051 ms  1.566 ms  1.952 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  0.294 ms  0.289 ms  0.321 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.208 ms  0.208 ms  0.241 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  0.322 ms  0.313 ms  0.309 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  7.336 ms  7.386 ms  7.370 ms
+ 6  de-hmb.nordu.net (109.105.98.124)  15.001 ms  14.991 ms  15.005 ms
+ 7  nl-sar.nordu.net (109.105.97.17)  21.561 ms  21.610 ms  21.598 ms
+ 8  * * *
+ 9  149.3.183.24 (149.3.183.24)  327.053 ms te0-8-2-0.londra17.lon.seabone.net (89.221.43.114)  314.766 ms te0-9-0-0.londra17.lon.seabone.net (195.22.213.57)  322.477 ms
+10  te0-12-0-0.newark11.new.seabone.net (195.22.195.84)  316.463 ms  315.204 ms pos0-8-0-3.newyork50.new.seabone.net (195.22.195.46)  307.413 ms
+11  te0-1-0-18.miami13.mia.seabone.net (195.22.199.14)  327.698 ms te0-0-0-18.miami12.mia.seabone.net (195.22.199.92)  318.545 ms te0-1-0-18.miami13.mia.seabone.net (195.22.199.14)  323.333 ms
+12  te0-1-0-1.baires13.bai.seabone.net (195.22.220.138)  310.053 ms te0-1-0-2.baires13.bai.seabone.net (195.22.220.190)  317.483 ms te0-2-0-3.baires14.bai.seabone.net (195.22.199.71)  325.452 ms
+13  ae5.baires3.bai.seabone.net (195.22.220.9)  307.294 ms  313.684 ms  302.983 ms
+14  185.70.203.43 (185.70.203.43)  373.937 ms  378.602 ms  370.083 ms
+15  host142.190-227-163.telecom.net.ar (190.227.163.142)  385.895 ms  416.862 ms  373.595 ms
+traceroute to planet-lab1.itba.edu.ar (190.227.163.142), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  1.148 ms  1.940 ms  2.349 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  0.265 ms  0.304 ms  0.297 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.207 ms  0.238 ms  0.218 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  0.439 ms  0.325 ms  0.303 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  4.656 ms  4.756 ms  4.740 ms
+ 6  de-hmb.nordu.net (109.105.98.124)  16.001 ms  16.035 ms  16.024 ms
+ 7  nl-sar.nordu.net (109.105.97.17)  22.444 ms  22.514 ms  22.500 ms
+ 8  * * *
+ 9  te0-8-2-0.londra17.lon.seabone.net (89.221.43.114)  314.947 ms te0-15-0-0.londra16.lon.seabone.net (195.22.209.216)  321.786 ms te0-9-0-0.londra16.lon.seabone.net (195.22.213.55)  309.517 ms
+10  te0-12-0-0.newark11.new.seabone.net (195.22.195.84)  324.237 ms pos0-8-0-3.newyork50.new.seabone.net (195.22.195.46)  318.197 ms  318.185 ms
+11  te0-1-0-18.miami13.mia.seabone.net (195.22.199.14)  318.457 ms te0-0-0-18.miami12.mia.seabone.net (195.22.199.92)  312.510 ms te0-1-0-18.miami13.mia.seabone.net (195.22.199.14)  326.654 ms
+12  te0-2-0-4.baires13.bai.seabone.net (195.22.220.18)  330.201 ms 185.70.203.4 (185.70.203.4)  326.107 ms te0-2-0-0.baires14.bai.seabone.net (195.22.220.126)  319.170 ms
+13  ae7.baires3.bai.seabone.net (195.22.220.11)  311.284 ms  308.088 ms  318.784 ms
+14  185.70.203.43 (185.70.203.43)  369.675 ms  369.862 ms  377.737 ms
+15  host142.190-227-163.telecom.net.ar (190.227.163.142)  387.093 ms  400.279 ms  401.173 ms
+traceroute to planet-lab1.itba.edu.ar (190.227.163.142), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  1.340 ms  1.804 ms  2.188 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  0.260 ms  0.261 ms  0.307 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.203 ms  0.264 ms  0.244 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  0.520 ms  0.503 ms  0.484 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  7.236 ms  7.243 ms  7.226 ms
+ 6  de-hmb.nordu.net (109.105.98.124)  15.162 ms  15.011 ms  14.988 ms
+ 7  nl-sar.nordu.net (109.105.97.17)  21.538 ms  21.545 ms  21.531 ms
+ 8  * * *
+ 9  te0-9-0-0.londra17.lon.seabone.net (195.22.213.57)  322.223 ms te0-1-0-0.londra17.lon.seabone.net (89.221.43.124)  321.829 ms te0-15-0-0.londra16.lon.seabone.net (195.22.209.216)  323.842 ms
+10  te0-12-0-0.newark11.new.seabone.net (195.22.195.84)  312.667 ms  311.951 ms  311.848 ms
+11  te0-1-0-18.miami13.mia.seabone.net (195.22.199.14)  323.548 ms te0-0-0-18.miami12.mia.seabone.net (195.22.199.92)  313.745 ms  313.745 ms
+12  te0-6-0-3.baires13.bai.seabone.net (195.22.220.166)  321.032 ms te0-2-0-3.baires14.bai.seabone.net (195.22.199.71)  332.254 ms te0-1-0-3.baires13.bai.seabone.net (195.22.220.188)  326.794 ms
+13  ae5.baires3.bai.seabone.net (195.22.220.9)  306.333 ms ae7.baires3.bai.seabone.net (195.22.220.11)  313.199 ms ae5.baires3.bai.seabone.net (195.22.220.9)  305.361 ms
+14  185.70.203.43 (185.70.203.43)  372.052 ms  381.112 ms  380.517 ms
+15  host142.190-227-163.telecom.net.ar (190.227.163.142)  446.892 ms  465.682 ms  463.771 ms
+traceroute to planet-lab1.itba.edu.ar (190.227.163.142), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  1.218 ms  1.665 ms  2.069 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  0.269 ms  0.376 ms  0.364 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.207 ms  0.290 ms  0.285 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  0.328 ms  0.311 ms  0.291 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  4.654 ms  4.711 ms  4.684 ms
+ 6  de-hmb.nordu.net (109.105.98.124)  15.055 ms  15.133 ms  15.118 ms
+ 7  nl-sar.nordu.net (109.105.97.17)  21.625 ms  21.710 ms  21.694 ms
+ 8  * * *
+ 9  te0-9-0-0.londra17.lon.seabone.net (195.22.213.57)  322.059 ms te0-1-0-0.londra16.lon.seabone.net (89.221.43.126)  320.561 ms te0-9-0-0.londra16.lon.seabone.net (195.22.213.55)  307.542 ms
+10  pos0-8-0-3.newyork50.new.seabone.net (195.22.195.46)  315.119 ms te0-12-0-0.newark11.new.seabone.net (195.22.195.84)  322.199 ms pos0-8-0-3.newyork50.new.seabone.net (195.22.195.46)  313.310 ms
+11  te0-1-0-18.miami13.mia.seabone.net (195.22.199.14)  312.842 ms te0-0-0-18.miami12.mia.seabone.net (195.22.199.92)  312.045 ms te0-1-0-18.miami13.mia.seabone.net (195.22.199.14)  323.568 ms
+12  te0-2-0-2.baires14.bai.seabone.net (195.22.220.148)  309.966 ms te0-2-0-2.baires13.bai.seabone.net (195.22.220.182)  321.099 ms te0-2-0-0.baires13.bai.seabone.net (195.22.220.124)  312.618 ms
+13  ae5.baires3.bai.seabone.net (195.22.220.9)  305.556 ms  315.320 ms ae7.baires3.bai.seabone.net (195.22.220.11)  324.098 ms
+14  185.70.203.43 (185.70.203.43)  381.453 ms  367.758 ms  364.277 ms
+15  host142.190-227-163.telecom.net.ar (190.227.163.142)  425.970 ms  397.109 ms  396.680 ms
+traceroute to planet-lab1.itba.edu.ar (190.227.163.142), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  1.121 ms  1.616 ms  2.021 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  0.280 ms  0.287 ms *
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.184 ms  0.189 ms *
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  0.298 ms  0.332 ms  0.287 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  4.594 ms  4.643 ms  4.631 ms
+ 6  * de-hmb.nordu.net (109.105.98.124)  15.012 ms  15.048 ms
+ 7  nl-sar.nordu.net (109.105.97.17)  22.441 ms  22.491 ms  22.444 ms
+ 8  * * *
+ 9  te0-15-0-0.londra16.lon.seabone.net (195.22.209.216)  323.739 ms te0-15-2-0.londra16.lon.seabone.net (89.221.43.112)  319.457 ms te0-15-0-0.londra16.lon.seabone.net (195.22.209.216)  323.763 ms
+10  pos0-8-0-3.newyork50.new.seabone.net (195.22.195.46)  316.115 ms te0-12-0-0.newark11.new.seabone.net (195.22.195.84)  313.455 ms  322.805 ms
+11  te0-1-0-18.miami13.mia.seabone.net (195.22.199.14)  326.562 ms te0-0-0-18.miami12.mia.seabone.net (195.22.199.92)  318.407 ms te0-1-0-18.miami13.mia.seabone.net (195.22.199.14)  318.455 ms
+12  te0-2-0-3.baires13.bai.seabone.net (195.22.199.69)  318.493 ms te0-1-0-2.baires14.bai.seabone.net (195.22.220.234)  314.099 ms te0-7-0-4.baires13.bai.seabone.net (195.22.199.163)  318.562 ms
+13  ae7.baires3.bai.seabone.net (195.22.220.11)  321.163 ms  305.542 ms  315.684 ms
+14  185.70.203.43 (185.70.203.43)  373.619 ms  378.698 ms  361.263 ms
+15  host142.190-227-163.telecom.net.ar (190.227.163.142)  384.235 ms  384.858 ms  384.171 ms
+traceroute to planet-lab1.itba.edu.ar (190.227.163.142), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  1.065 ms  1.554 ms  1.949 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  0.346 ms  0.335 ms  0.316 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.251 ms  0.242 ms  0.228 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  0.349 ms  0.334 ms  0.314 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  4.809 ms  4.755 ms  4.739 ms
+ 6  de-hmb.nordu.net (109.105.98.124)  14.970 ms  14.980 ms  14.966 ms
+ 7  nl-sar.nordu.net (109.105.97.17)  21.519 ms  21.578 ms  21.564 ms
+ 8  * * *
+ 9  te0-15-0-0.londra17.lon.seabone.net (195.22.209.222)  322.084 ms te0-8-2-0.londra17.lon.seabone.net (89.221.43.114)  314.186 ms  314.151 ms
+10  pos0-8-0-3.newyork50.new.seabone.net (195.22.195.46)  312.329 ms  310.008 ms te0-12-0-0.newark11.new.seabone.net (195.22.195.84)  314.432 ms
+11  te0-0-0-18.miami12.mia.seabone.net (195.22.199.92)  312.104 ms  312.052 ms te0-1-0-18.miami13.mia.seabone.net (195.22.199.14)  318.268 ms
+12  te0-2-0-2.baires13.bai.seabone.net (195.22.220.182)  324.214 ms te0-6-0-3.baires14.bai.seabone.net (195.22.220.168)  320.254 ms te0-1-0-1.baires14.bai.seabone.net (195.22.220.142)  305.978 ms
+13  ae5.baires3.bai.seabone.net (195.22.220.9)  307.219 ms  306.244 ms  306.322 ms
+14  185.70.203.43 (185.70.203.43)  381.859 ms  381.952 ms  366.595 ms
+15  host142.190-227-163.telecom.net.ar (190.227.163.142)  374.752 ms  394.018 ms  393.658 ms
+traceroute to planet-lab1.itba.edu.ar (190.227.163.142), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  7.118 ms  7.633 ms  8.035 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  0.313 ms  0.308 ms  0.305 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.253 ms  0.240 ms  0.226 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  0.348 ms  0.332 ms  0.313 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  4.636 ms  4.689 ms  4.669 ms
+ 6  de-hmb.nordu.net (109.105.98.124)  15.009 ms  15.029 ms  14.984 ms
+ 7  nl-sar.nordu.net (109.105.97.17)  21.529 ms  21.569 ms  21.552 ms
+ 8  * * *
+ 9  te0-8-2-0.londra17.lon.seabone.net (89.221.43.114)  314.689 ms te0-15-0-0.londra16.lon.seabone.net (195.22.209.216)  325.454 ms 149.3.183.22 (149.3.183.22)  317.628 ms
+10  te0-12-0-0.newark11.new.seabone.net (195.22.195.84)  314.866 ms  316.013 ms  315.912 ms
+11  te0-1-0-18.miami13.mia.seabone.net (195.22.199.14)  318.282 ms  318.401 ms te0-0-0-18.miami12.mia.seabone.net (195.22.199.92)  320.231 ms
+12  185.70.203.2 (185.70.203.2)  325.770 ms te0-1-0-1.baires14.bai.seabone.net (195.22.220.142)  317.241 ms 185.70.203.2 (185.70.203.2)  319.391 ms
+13  ae5.baires3.bai.seabone.net (195.22.220.9)  307.349 ms  303.384 ms ae7.baires3.bai.seabone.net (195.22.220.11)  315.612 ms
+14  185.70.203.43 (185.70.203.43)  376.588 ms  373.564 ms  365.056 ms
+15  host142.190-227-163.telecom.net.ar (190.227.163.142)  388.568 ms  375.169 ms  380.434 ms
+traceroute to planet-lab1.itba.edu.ar (190.227.163.142), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  1.517 ms  1.947 ms  2.400 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  0.324 ms  0.321 ms  0.310 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.261 ms  0.242 ms  0.228 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  0.348 ms  0.331 ms  0.319 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  4.570 ms  4.708 ms  4.578 ms
+ 6  de-hmb.nordu.net (109.105.98.124)  14.942 ms  14.990 ms  14.957 ms
+ 7  nl-sar.nordu.net (109.105.97.17)  21.502 ms  21.545 ms  21.530 ms
+ 8  * * *
+ 9  149.3.183.22 (149.3.183.22)  318.871 ms te0-9-0-0.londra17.lon.seabone.net (195.22.213.57)  322.976 ms te0-15-0-0.londra16.lon.seabone.net (195.22.209.216)  321.865 ms
+10  te0-12-0-0.newark11.new.seabone.net (195.22.195.84)  314.413 ms pos0-8-0-3.newyork50.new.seabone.net (195.22.195.46)  315.595 ms  315.427 ms
+11  te0-0-0-18.miami12.mia.seabone.net (195.22.199.92)  312.011 ms te0-1-0-18.miami13.mia.seabone.net (195.22.199.14)  326.773 ms  326.719 ms
+12  te0-0-0-2.baires13.bai.seabone.net (195.22.220.196)  306.421 ms te0-1-0-3.baires14.bai.seabone.net (195.22.220.192)  314.298 ms te0-0-0-2.baires14.bai.seabone.net (195.22.220.230)  316.329 ms
+13  ae5.baires3.bai.seabone.net (195.22.220.9)  306.923 ms  305.561 ms ae7.baires3.bai.seabone.net (195.22.220.11)  310.234 ms
+14  185.70.203.43 (185.70.203.43)  372.515 ms  364.906 ms  360.830 ms
+15  host142.190-227-163.telecom.net.ar (190.227.163.142)  375.643 ms  369.269 ms  385.415 ms
+traceroute to planet-lab1.itba.edu.ar (190.227.163.142), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  9.888 ms  10.306 ms  10.722 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  0.345 ms  0.381 ms  0.374 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.287 ms  0.269 ms  0.288 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  0.329 ms  0.313 ms  0.294 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  4.638 ms  4.683 ms  4.665 ms
+ 6  de-hmb.nordu.net (109.105.98.124)  14.989 ms  15.099 ms  15.083 ms
+ 7  nl-sar.nordu.net (109.105.97.17)  21.566 ms  21.622 ms  21.607 ms
+ 8  * * *
+ 9  te0-9-0-0.londra16.lon.seabone.net (195.22.213.55)  308.784 ms te0-1-0-0.londra16.lon.seabone.net (89.221.43.126)  321.996 ms 149.3.183.24 (149.3.183.24)  326.658 ms
+10  te0-12-0-0.newark11.new.seabone.net (195.22.195.84)  315.627 ms  313.998 ms pos0-8-0-3.newyork50.new.seabone.net (195.22.195.46)  315.671 ms
+11  te0-0-0-18.miami12.mia.seabone.net (195.22.199.92)  320.831 ms te0-1-0-18.miami13.mia.seabone.net (195.22.199.14)  323.532 ms te0-0-0-18.miami12.mia.seabone.net (195.22.199.92)  312.173 ms
+12  te0-0-0-2.baires13.bai.seabone.net (195.22.220.196)  314.656 ms te0-7-0-4.baires14.bai.seabone.net (195.22.199.5)  323.407 ms te0-1-0-1.baires13.bai.seabone.net (195.22.220.138)  309.835 ms
+13  ae5.baires3.bai.seabone.net (195.22.220.9)  314.143 ms  313.727 ms  302.979 ms
+14  185.70.203.43 (185.70.203.43)  372.917 ms  365.896 ms  372.690 ms
+15  host142.190-227-163.telecom.net.ar (190.227.163.142)  375.197 ms  374.912 ms  373.792 ms
+traceroute to planet-lab1.itba.edu.ar (190.227.163.142), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  1.188 ms  1.610 ms  2.038 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  0.303 ms  0.300 ms  0.290 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.241 ms  0.219 ms  0.205 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  0.340 ms  0.324 ms  0.308 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  4.589 ms  4.642 ms  4.625 ms
+ 6  de-hmb.nordu.net (109.105.98.124)  14.973 ms  14.998 ms  14.983 ms
+ 7  nl-sar.nordu.net (109.105.97.17)  21.566 ms  21.619 ms  21.585 ms
+ 8  * * *
+ 9  te0-15-0-0.londra17.lon.seabone.net (195.22.209.222)  320.562 ms te0-9-0-0.londra16.lon.seabone.net (195.22.213.55)  307.259 ms te0-15-2-0.londra16.lon.seabone.net (89.221.43.112)  320.336 ms
+10  te0-12-0-0.newark11.new.seabone.net (195.22.195.84)  315.612 ms pos0-8-0-3.newyork50.new.seabone.net (195.22.195.46)  318.826 ms te0-12-0-0.newark11.new.seabone.net (195.22.195.84)  314.215 ms
+11  te0-1-0-18.miami13.mia.seabone.net (195.22.199.14)  326.567 ms te0-0-0-18.miami12.mia.seabone.net (195.22.199.92)  312.229 ms te0-1-0-18.miami13.mia.seabone.net (195.22.199.14)  318.232 ms
+12  te0-2-0-0.baires13.bai.seabone.net (195.22.220.124)  317.904 ms 185.70.203.0 (185.70.203.0)  319.335 ms te0-2-0-4.baires13.bai.seabone.net (195.22.220.18)  321.628 ms
+13  ae5.baires3.bai.seabone.net (195.22.220.9)  311.277 ms ae7.baires3.bai.seabone.net (195.22.220.11)  310.440 ms ae5.baires3.bai.seabone.net (195.22.220.9)  314.127 ms
+14  185.70.203.43 (185.70.203.43)  367.646 ms  376.308 ms  375.541 ms
+15  host142.190-227-163.telecom.net.ar (190.227.163.142)  373.624 ms  372.984 ms  373.165 ms
+traceroute to planet-lab1.itba.edu.ar (190.227.163.142), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  1.289 ms  1.745 ms  2.124 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  0.748 ms  0.760 ms  0.770 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.245 ms  0.233 ms  0.213 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  0.363 ms  0.353 ms  0.333 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  4.601 ms  4.651 ms  4.638 ms
+ 6  de-hmb.nordu.net (109.105.98.124)  14.943 ms  14.998 ms  14.984 ms
+ 7  nl-sar.nordu.net (109.105.97.17)  21.443 ms  21.487 ms  21.455 ms
+ 8  * * *
+ 9  te0-1-0-0.londra16.lon.seabone.net (89.221.43.126)  320.703 ms te0-15-0-0.londra17.lon.seabone.net (195.22.209.222)  318.706 ms te0-1-0-0.londra17.lon.seabone.net (89.221.43.124)  323.263 ms
+10  te0-12-0-0.newark11.new.seabone.net (195.22.195.84)  320.909 ms pos0-8-0-3.newyork50.new.seabone.net (195.22.195.46)  317.903 ms  317.953 ms
+11  te0-1-0-18.miami13.mia.seabone.net (195.22.199.14)  323.436 ms  324.309 ms te0-0-0-18.miami12.mia.seabone.net (195.22.199.92)  312.087 ms
+12  te0-7-0-4.baires14.bai.seabone.net (195.22.199.5)  327.181 ms te0-0-0-2.baires13.bai.seabone.net (195.22.220.196)  308.111 ms te0-1-0-3.baires14.bai.seabone.net (195.22.220.192)  314.378 ms
+13  ae7.baires3.bai.seabone.net (195.22.220.11)  312.614 ms  316.286 ms  313.325 ms
+14  185.70.203.43 (185.70.203.43)  374.505 ms  374.567 ms  373.068 ms
+15  host142.190-227-163.telecom.net.ar (190.227.163.142)  399.542 ms  398.254 ms  400.286 ms
+traceroute to planet-lab1.itba.edu.ar (190.227.163.142), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  1.324 ms  1.786 ms  2.182 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  0.295 ms  0.309 ms  0.294 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.233 ms  0.228 ms  0.216 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  0.320 ms  0.317 ms  0.300 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  31.326 ms  31.261 ms  31.244 ms
+ 6  de-hmb.nordu.net (109.105.98.124)  14.947 ms  14.974 ms  14.960 ms
+ 7  nl-sar.nordu.net (109.105.97.17)  21.826 ms  21.874 ms  21.857 ms
+ 8  * * *
+ 9  te0-1-0-0.londra17.lon.seabone.net (89.221.43.124)  320.388 ms te0-15-0-0.londra16.lon.seabone.net (195.22.209.216)  325.526 ms  325.565 ms
+10  pos0-8-0-3.newyork50.new.seabone.net (195.22.195.46)  307.551 ms  307.275 ms  315.366 ms
+11  te0-0-0-18.miami12.mia.seabone.net (195.22.199.92)  312.012 ms  312.012 ms te0-1-0-18.miami13.mia.seabone.net (195.22.199.14)  326.973 ms
+12  te0-7-0-4.baires13.bai.seabone.net (195.22.199.163)  316.617 ms te0-2-0-3.baires13.bai.seabone.net (195.22.199.69)  313.728 ms te0-7-0-4.baires14.bai.seabone.net (195.22.199.5)  322.212 ms
+13  ae7.baires3.bai.seabone.net (195.22.220.11)  315.470 ms  312.351 ms  318.799 ms
+14  185.70.203.43 (185.70.203.43)  372.561 ms  362.653 ms  367.924 ms
+15  host142.190-227-163.telecom.net.ar (190.227.163.142)  386.640 ms  373.306 ms  368.608 ms
+traceroute to planet-lab1.itba.edu.ar (190.227.163.142), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  1.089 ms  1.665 ms  2.067 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  0.254 ms  0.285 ms  0.270 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.220 ms  0.208 ms  0.191 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  0.325 ms  0.308 ms  0.289 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  4.571 ms  4.606 ms  4.657 ms
+ 6  de-hmb.nordu.net (109.105.98.124)  15.219 ms  15.101 ms  15.094 ms
+ 7  nl-sar.nordu.net (109.105.97.17)  21.478 ms  21.651 ms  21.640 ms
+ 8  * * *
+ 9  te0-15-0-0.londra16.lon.seabone.net (195.22.209.216)  321.870 ms te0-8-2-0.londra17.lon.seabone.net (89.221.43.114)  315.939 ms te0-15-0-0.londra16.lon.seabone.net (195.22.209.216)  324.104 ms
+10  te0-12-0-0.newark11.new.seabone.net (195.22.195.84)  322.991 ms  313.476 ms pos0-8-0-3.newyork50.new.seabone.net (195.22.195.46)  313.524 ms
+11  te0-0-0-18.miami12.mia.seabone.net (195.22.199.92)  311.987 ms  311.984 ms te0-1-0-18.miami13.mia.seabone.net (195.22.199.14)  323.459 ms
+12  te0-0-0-2.baires14.bai.seabone.net (195.22.220.230)  316.869 ms te0-2-0-0.baires13.bai.seabone.net (195.22.220.124)  315.821 ms te0-7-0-4.baires14.bai.seabone.net (195.22.199.5)  318.705 ms
+13  ae7.baires3.bai.seabone.net (195.22.220.11)  321.286 ms  318.743 ms ae5.baires3.bai.seabone.net (195.22.220.9)  305.439 ms
+14  185.70.203.43 (185.70.203.43)  354.553 ms  370.141 ms  368.116 ms
+15  host142.190-227-163.telecom.net.ar (190.227.163.142)  367.955 ms  379.386 ms  377.667 ms
+traceroute to planet-lab1.itba.edu.ar (190.227.163.142), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  1.082 ms  1.571 ms  1.973 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  0.258 ms  0.263 ms  0.283 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.197 ms  0.223 ms  0.210 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  0.324 ms  0.327 ms  0.310 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  4.563 ms  4.576 ms  4.587 ms
+ 6  de-hmb.nordu.net (109.105.98.124)  14.962 ms  14.997 ms  14.981 ms
+ 7  nl-sar.nordu.net (109.105.97.17)  21.503 ms  21.528 ms  21.516 ms
+ 8  * * *
+ 9  te0-9-0-0.londra16.lon.seabone.net (195.22.213.55)  309.384 ms te0-15-0-0.londra16.lon.seabone.net (195.22.209.216)  325.582 ms te0-9-0-0.londra16.lon.seabone.net (195.22.213.55)  308.612 ms
+10  pos0-8-0-3.newyork50.new.seabone.net (195.22.195.46)  308.935 ms  314.295 ms  307.343 ms
+11  te0-1-0-18.miami13.mia.seabone.net (195.22.199.14)  318.405 ms te0-0-0-18.miami12.mia.seabone.net (195.22.199.92)  320.106 ms  320.333 ms
+12  te0-2-0-0.baires14.bai.seabone.net (195.22.220.126)  318.116 ms 185.70.203.4 (185.70.203.4)  318.312 ms te0-2-0-3.baires13.bai.seabone.net (195.22.199.69)  317.342 ms
+13  ae7.baires3.bai.seabone.net (195.22.220.11)  310.518 ms ae5.baires3.bai.seabone.net (195.22.220.9)  321.203 ms  321.248 ms
+14  185.70.203.43 (185.70.203.43)  353.289 ms  356.692 ms  352.151 ms
+15  host142.190-227-163.telecom.net.ar (190.227.163.142)  356.591 ms  363.463 ms  355.635 ms
+traceroute to planet-lab1.itba.edu.ar (190.227.163.142), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  1.046 ms  1.538 ms  1.941 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  0.299 ms  0.292 ms  0.288 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.238 ms  0.224 ms  0.210 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  0.363 ms  0.362 ms  0.346 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  4.582 ms  4.600 ms  4.597 ms
+ 6  de-hmb.nordu.net (109.105.98.124)  15.006 ms  15.042 ms  14.998 ms
+ 7  nl-sar.nordu.net (109.105.97.17)  21.499 ms  21.563 ms  21.541 ms
+ 8  * * *
+ 9  te0-15-2-0.londra16.lon.seabone.net (89.221.43.112)  321.902 ms te0-1-0-0.londra17.lon.seabone.net (89.221.43.124)  320.201 ms te0-15-2-0.londra16.lon.seabone.net (89.221.43.112)  321.007 ms
+10  pos0-8-0-3.newyork50.new.seabone.net (195.22.195.46)  308.182 ms te0-12-0-0.newark11.new.seabone.net (195.22.195.84)  314.421 ms pos0-8-0-3.newyork50.new.seabone.net (195.22.195.46)  306.652 ms
+11  te0-1-0-18.miami13.mia.seabone.net (195.22.199.14)  326.687 ms te0-0-0-18.miami12.mia.seabone.net (195.22.199.92)  320.263 ms te0-1-0-18.miami13.mia.seabone.net (195.22.199.14)  326.975 ms
+12  te0-2-0-3.baires13.bai.seabone.net (195.22.199.69)  318.804 ms te0-2-0-2.baires14.bai.seabone.net (195.22.220.148)  314.175 ms te0-7-0-4.baires13.bai.seabone.net (195.22.199.163)  318.940 ms
+13  ae7.baires3.bai.seabone.net (195.22.220.11)  318.605 ms  313.164 ms  310.489 ms
+14  185.70.203.43 (185.70.203.43)  317.172 ms  313.097 ms  316.260 ms
+15  host142.190-227-163.telecom.net.ar (190.227.163.142)  329.671 ms  333.375 ms  330.925 ms
+traceroute to planet-lab1.itba.edu.ar (190.227.163.142), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  1.095 ms  1.592 ms  1.943 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  0.305 ms  0.302 ms  0.290 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.241 ms  0.222 ms  0.207 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  0.343 ms  0.331 ms  0.313 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  4.694 ms  4.734 ms  4.718 ms
+ 6  de-hmb.nordu.net (109.105.98.124)  14.993 ms  15.081 ms  14.973 ms
+ 7  nl-sar.nordu.net (109.105.97.17)  23.076 ms  23.137 ms  23.123 ms
+ 8  * * *
+ 9  te0-8-2-0.londra17.lon.seabone.net (89.221.43.114)  316.856 ms 149.3.183.24 (149.3.183.24)  326.891 ms te0-1-0-0.londra17.lon.seabone.net (89.221.43.124)  319.822 ms
+10  pos0-8-0-3.newyork50.new.seabone.net (195.22.195.46)  306.801 ms te0-12-0-0.newark11.new.seabone.net (195.22.195.84)  313.541 ms pos0-8-0-3.newyork50.new.seabone.net (195.22.195.46)  312.150 ms
+11  te0-0-0-18.miami12.mia.seabone.net (195.22.199.92)  312.236 ms te0-1-0-18.miami13.mia.seabone.net (195.22.199.14)  326.603 ms te0-0-0-18.miami12.mia.seabone.net (195.22.199.92)  320.094 ms
+12  te0-1-0-3.baires14.bai.seabone.net (195.22.220.192)  315.211 ms te0-7-0-4.baires13.bai.seabone.net (195.22.199.163)  314.713 ms te0-7-0-3.baires13.bai.seabone.net (195.22.199.129)  313.390 ms
+13  ae7.baires3.bai.seabone.net (195.22.220.11)  310.360 ms  318.703 ms  318.756 ms
+14  185.70.203.43 (185.70.203.43)  320.432 ms  308.056 ms  324.865 ms
+15  host142.190-227-163.telecom.net.ar (190.227.163.142)  329.458 ms  338.885 ms  337.476 ms
+traceroute to planet-lab1.itba.edu.ar (190.227.163.142), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  1.401 ms  1.853 ms  2.256 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  0.281 ms  0.286 ms  0.277 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.216 ms  0.199 ms  0.185 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  0.386 ms  0.372 ms  0.352 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  4.564 ms  4.621 ms  4.577 ms
+ 6  de-hmb.nordu.net (109.105.98.124)  15.105 ms  15.120 ms  15.104 ms
+ 7  nl-sar.nordu.net (109.105.97.17)  49.384 ms  49.432 ms  49.416 ms
+ 8  * * *
+ 9  te0-15-0-0.londra17.lon.seabone.net (195.22.209.222)  319.838 ms te0-1-0-0.londra17.lon.seabone.net (89.221.43.124)  323.345 ms te0-15-2-0.londra16.lon.seabone.net (89.221.43.112)  319.706 ms
+10  te0-12-0-0.newark11.new.seabone.net (195.22.195.84)  315.284 ms  322.517 ms  322.414 ms
+11  te0-0-0-18.miami12.mia.seabone.net (195.22.199.92)  312.035 ms te0-1-0-18.miami13.mia.seabone.net (195.22.199.14)  318.371 ms te0-0-0-18.miami12.mia.seabone.net (195.22.199.92)  320.083 ms
+12  185.70.203.2 (185.70.203.2)  325.392 ms te0-0-0-1.baires13.bai.seabone.net (195.22.220.136)  313.357 ms te0-2-0-3.baires13.bai.seabone.net (195.22.199.69)  316.598 ms
+13  ae5.baires3.bai.seabone.net (195.22.220.9)  305.535 ms ae7.baires3.bai.seabone.net (195.22.220.11)  305.149 ms ae5.baires3.bai.seabone.net (195.22.220.9)  307.093 ms
+14  185.70.203.43 (185.70.203.43)  317.844 ms  325.486 ms  324.524 ms
+15  host142.190-227-163.telecom.net.ar (190.227.163.142)  329.684 ms  324.857 ms  323.457 ms
+traceroute to planet-lab1.itba.edu.ar (190.227.163.142), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  1.145 ms  1.637 ms  2.044 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  0.286 ms  0.305 ms  0.297 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.217 ms  0.231 ms  0.211 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  0.350 ms  0.344 ms  0.369 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  4.625 ms  4.655 ms  4.640 ms
+ 6  de-hmb.nordu.net (109.105.98.124)  25.907 ms  25.915 ms  25.873 ms
+ 7  nl-sar.nordu.net (109.105.97.17)  21.562 ms  21.617 ms  21.602 ms
+ 8  * * *
+ 9  te0-1-0-0.londra17.lon.seabone.net (89.221.43.124)  322.131 ms  321.199 ms te0-1-0-0.londra16.lon.seabone.net (89.221.43.126)  319.272 ms
+10  te0-12-0-0.newark11.new.seabone.net (195.22.195.84)  315.323 ms pos0-8-0-3.newyork50.new.seabone.net (195.22.195.46)  313.138 ms te0-12-0-0.newark11.new.seabone.net (195.22.195.84)  313.329 ms
+11  te0-1-0-18.miami13.mia.seabone.net (195.22.199.14)  323.482 ms  323.375 ms  326.621 ms
+12  te0-0-0-1.baires13.bai.seabone.net (195.22.220.136)  315.989 ms te0-1-0-3.baires14.bai.seabone.net (195.22.220.192)  325.876 ms te0-7-0-3.baires14.bai.seabone.net (195.22.199.145)  320.298 ms
+13  ae5.baires3.bai.seabone.net (195.22.220.9)  303.069 ms  305.421 ms  305.454 ms
+14  185.70.203.43 (185.70.203.43)  310.710 ms  317.853 ms  320.060 ms
+15  host142.190-227-163.telecom.net.ar (190.227.163.142)  345.233 ms  339.468 ms  331.759 ms
+traceroute to planet-lab1.itba.edu.ar (190.227.163.142), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  1.094 ms  1.638 ms  1.998 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  0.324 ms  0.330 ms  0.317 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.227 ms  0.222 ms  0.233 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  0.345 ms  0.340 ms  0.322 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  12.777 ms  12.836 ms  12.825 ms
+ 6  de-hmb.nordu.net (109.105.98.124)  14.970 ms  15.016 ms  14.998 ms
+ 7  nl-sar.nordu.net (109.105.97.17)  21.481 ms  21.593 ms  21.579 ms
+ 8  * * *
+ 9  te0-15-0-0.londra16.lon.seabone.net (195.22.209.216)  323.421 ms te0-15-0-0.londra17.lon.seabone.net (195.22.209.222)  322.603 ms 149.3.183.24 (149.3.183.24)  328.696 ms
+10  te0-12-0-0.newark11.new.seabone.net (195.22.195.84)  312.863 ms pos0-8-0-3.newyork50.new.seabone.net (195.22.195.46)  316.958 ms te0-12-0-0.newark11.new.seabone.net (195.22.195.84)  314.261 ms
+11  te0-1-0-18.miami13.mia.seabone.net (195.22.199.14)  323.472 ms te0-0-0-18.miami12.mia.seabone.net (195.22.199.92)  312.100 ms  311.978 ms
+12  te0-1-0-3.baires14.bai.seabone.net (195.22.220.192)  320.407 ms te0-1-0-3.baires13.bai.seabone.net (195.22.220.188)  319.232 ms te0-2-0-2.baires14.bai.seabone.net (195.22.220.148)  317.594 ms
+13  ae5.baires3.bai.seabone.net (195.22.220.9)  305.514 ms ae7.baires3.bai.seabone.net (195.22.220.11)  310.462 ms  313.125 ms
+14  185.70.203.43 (185.70.203.43)  319.076 ms  319.444 ms  318.911 ms
+15  host142.190-227-163.telecom.net.ar (190.227.163.142)  358.045 ms  343.678 ms  349.523 ms
+traceroute to planet-lab1.itba.edu.ar (190.227.163.142), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  1.091 ms  1.586 ms  1.965 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  0.505 ms  0.492 ms  0.481 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.194 ms  0.192 ms  0.187 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  0.403 ms  0.311 ms  0.293 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  4.642 ms  4.693 ms  4.675 ms
+ 6  de-hmb.nordu.net (109.105.98.124)  14.966 ms  14.963 ms  14.957 ms
+ 7  nl-sar.nordu.net (109.105.97.17)  21.573 ms  21.626 ms  21.610 ms
+ 8  * * *
+ 9  te0-9-0-0.londra16.lon.seabone.net (195.22.213.55)  309.213 ms te0-15-2-0.londra16.lon.seabone.net (89.221.43.112)  318.739 ms te0-15-0-0.londra17.lon.seabone.net (195.22.209.222)  319.530 ms
+10  pos0-8-0-3.newyork50.new.seabone.net (195.22.195.46)  308.281 ms  318.049 ms  317.904 ms
+11  te0-1-0-18.miami13.mia.seabone.net (195.22.199.14)  326.714 ms  318.319 ms  327.106 ms
+12  te0-7-0-4.baires14.bai.seabone.net (195.22.199.5)  330.297 ms te0-1-0-2.baires14.bai.seabone.net (195.22.220.234)  320.144 ms te0-7-0-4.baires14.bai.seabone.net (195.22.199.5)  323.411 ms
+13  ae7.baires3.bai.seabone.net (195.22.220.11)  318.634 ms ae5.baires3.bai.seabone.net (195.22.220.9)  314.048 ms ae7.baires3.bai.seabone.net (195.22.220.11)  315.478 ms
+14  185.70.203.43 (185.70.203.43)  319.604 ms  309.011 ms  316.655 ms
+15  host142.190-227-163.telecom.net.ar (190.227.163.142)  350.781 ms  349.409 ms  339.976 ms
+traceroute to planet-lab1.itba.edu.ar (190.227.163.142), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  10.242 ms  10.818 ms  11.302 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  0.262 ms  0.285 ms  0.277 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.222 ms  0.204 ms  0.204 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  0.351 ms  0.332 ms  0.313 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  4.572 ms  4.627 ms  4.610 ms
+ 6  de-hmb.nordu.net (109.105.98.124)  46.018 ms  46.040 ms  46.023 ms
+ 7  nl-sar.nordu.net (109.105.97.17)  61.245 ms  61.299 ms  61.269 ms
+ 8  * * *
+ 9  te0-8-2-0.londra17.lon.seabone.net (89.221.43.114)  317.537 ms  316.565 ms 149.3.183.24 (149.3.183.24)  328.321 ms
+10  pos0-8-0-3.newyork50.new.seabone.net (195.22.195.46)  314.842 ms  316.468 ms te0-12-0-0.newark11.new.seabone.net (195.22.195.84)  314.120 ms
+11  te0-1-0-18.miami13.mia.seabone.net (195.22.199.14)  326.758 ms  318.426 ms te0-0-0-18.miami12.mia.seabone.net (195.22.199.92)  313.027 ms
+12  te0-2-0-0.baires13.bai.seabone.net (195.22.220.124)  317.601 ms 185.70.203.76 (185.70.203.76)  314.233 ms te0-1-0-1.baires13.bai.seabone.net (195.22.220.138)  309.125 ms
+13  ae5.baires3.bai.seabone.net (195.22.220.9)  305.408 ms ae7.baires3.bai.seabone.net (195.22.220.11)  310.305 ms ae5.baires3.bai.seabone.net (195.22.220.9)  299.747 ms
+14  185.70.203.43 (185.70.203.43)  318.797 ms  321.803 ms  319.522 ms
+15  host142.190-227-163.telecom.net.ar (190.227.163.142)  336.023 ms  333.441 ms  336.122 ms
+traceroute to planet-lab1.itba.edu.ar (190.227.163.142), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  1.097 ms  1.603 ms  2.009 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  0.264 ms  0.273 ms  0.275 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.215 ms  0.234 ms  0.213 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  0.349 ms  0.332 ms  0.312 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  4.569 ms  4.573 ms  4.577 ms
+ 6  de-hmb.nordu.net (109.105.98.124)  15.036 ms  15.054 ms  15.030 ms
+ 7  nl-sar.nordu.net (109.105.97.17)  21.516 ms  21.638 ms  21.626 ms
+ 8  * * *
+ 9  te0-1-0-0.londra16.lon.seabone.net (89.221.43.126)  318.758 ms 149.3.183.22 (149.3.183.22)  317.009 ms te0-9-0-0.londra17.lon.seabone.net (195.22.213.57)  321.645 ms
+10  te0-12-0-0.newark11.new.seabone.net (195.22.195.84)  313.266 ms  315.065 ms pos0-8-0-3.newyork50.new.seabone.net (195.22.195.46)  311.838 ms
+11  te0-1-0-18.miami13.mia.seabone.net (195.22.199.14)  323.834 ms  326.418 ms  319.023 ms
+12  te0-2-0-3.baires13.bai.seabone.net (195.22.199.69)  313.732 ms te0-2-0-0.baires13.bai.seabone.net (195.22.220.124)  320.435 ms 185.70.203.4 (185.70.203.4)  311.960 ms
+13  ae5.baires3.bai.seabone.net (195.22.220.9)  303.060 ms ae7.baires3.bai.seabone.net (195.22.220.11)  318.588 ms  310.702 ms
+14  185.70.203.43 (185.70.203.43)  320.037 ms  313.056 ms  317.848 ms
+15  host142.190-227-163.telecom.net.ar (190.227.163.142)  333.917 ms  354.790 ms  352.065 ms
+traceroute to planet-lab1.itba.edu.ar (190.227.163.142), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  1.317 ms  1.766 ms  2.190 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  0.296 ms  0.256 ms  0.267 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.250 ms  0.230 ms  0.212 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  0.269 ms  0.371 ms  0.328 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  4.621 ms  4.704 ms  4.686 ms
+ 6  de-hmb.nordu.net (109.105.98.124)  14.977 ms  14.991 ms  14.991 ms
+ 7  nl-sar.nordu.net (109.105.97.17)  21.534 ms  21.612 ms  21.590 ms
+ 8  * * *
+ 9  te0-15-0-0.londra17.lon.seabone.net (195.22.209.222)  321.919 ms  321.028 ms te0-1-0-0.londra16.lon.seabone.net (89.221.43.126)  321.318 ms
+10  pos0-8-0-3.newyork50.new.seabone.net (195.22.195.46)  317.654 ms te0-12-0-0.newark11.new.seabone.net (195.22.195.84)  314.088 ms pos0-8-0-3.newyork50.new.seabone.net (195.22.195.46)  308.376 ms
+11  te0-1-0-18.miami13.mia.seabone.net (195.22.199.14)  326.780 ms te0-0-0-18.miami12.mia.seabone.net (195.22.199.92)  312.054 ms te0-1-0-18.miami13.mia.seabone.net (195.22.199.14)  323.437 ms
+12  te0-6-0-2.baires13.bai.seabone.net (195.22.220.160)  310.562 ms te0-7-0-3.baires13.bai.seabone.net (195.22.199.129)  314.594 ms te0-7-0-4.baires13.bai.seabone.net (195.22.199.163)  323.493 ms
+13  ae7.baires3.bai.seabone.net (195.22.220.11)  318.781 ms ae5.baires3.bai.seabone.net (195.22.220.9)  305.369 ms ae7.baires3.bai.seabone.net (195.22.220.11)  310.182 ms
+14  185.70.203.43 (185.70.203.43)  319.890 ms  318.813 ms  331.182 ms
+15  host142.190-227-163.telecom.net.ar (190.227.163.142)  436.385 ms  430.079 ms  433.144 ms
+traceroute to planet-lab1.itba.edu.ar (190.227.163.142), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  1.150 ms  1.637 ms  2.098 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  80.162 ms  80.228 ms  80.218 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.219 ms  0.208 ms  0.196 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  0.362 ms  0.350 ms  0.332 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  4.572 ms  4.628 ms  4.605 ms
+ 6  de-hmb.nordu.net (109.105.98.124)  14.960 ms  15.000 ms  14.984 ms
+ 7  nl-sar.nordu.net (109.105.97.17)  21.455 ms  21.439 ms  21.445 ms
+ 8  * * *
+ 9  te0-1-0-0.londra16.lon.seabone.net (89.221.43.126)  319.708 ms te0-9-0-0.londra16.lon.seabone.net (195.22.213.55)  306.380 ms te0-1-0-0.londra17.lon.seabone.net (89.221.43.124)  321.061 ms
+10  pos0-8-0-3.newyork50.new.seabone.net (195.22.195.46)  309.586 ms te0-12-0-0.newark11.new.seabone.net (195.22.195.84)  315.124 ms pos0-8-0-3.newyork50.new.seabone.net (195.22.195.46)  307.262 ms
+11  te0-0-0-18.miami12.mia.seabone.net (195.22.199.92)  312.239 ms te0-1-0-18.miami13.mia.seabone.net (195.22.199.14)  326.493 ms  318.948 ms
+12  te0-1-0-1.baires13.bai.seabone.net (195.22.220.138)  307.471 ms 185.70.203.0 (185.70.203.0)  319.545 ms te0-6-0-3.baires14.bai.seabone.net (195.22.220.168)  319.843 ms
+13  ae5.baires3.bai.seabone.net (195.22.220.9)  305.368 ms ae7.baires3.bai.seabone.net (195.22.220.11)  312.812 ms  316.306 ms
+14  185.70.203.43 (185.70.203.43)  316.609 ms  315.846 ms  316.481 ms
+15  host142.190-227-163.telecom.net.ar (190.227.163.142)  376.398 ms  374.697 ms  370.215 ms
+traceroute to planet-lab1.itba.edu.ar (190.227.163.142), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  1.004 ms  1.443 ms  1.887 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  24.266 ms  24.276 ms  24.282 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.285 ms  0.443 ms  0.422 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  0.591 ms  0.580 ms  0.556 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  4.810 ms  4.710 ms  4.768 ms
+ 6  de-hmb.nordu.net (109.105.98.124)  15.685 ms  15.608 ms  15.504 ms
+ 7  nl-sar.nordu.net (109.105.97.17)  21.539 ms * *
+ 8  * * *
+ 9  te0-9-0-0.londra17.lon.seabone.net (195.22.213.57)  320.917 ms te0-1-0-0.londra16.lon.seabone.net (89.221.43.126)  320.841 ms te0-1-0-0.londra17.lon.seabone.net (89.221.43.124)  322.491 ms
+10  pos0-8-0-3.newyork50.new.seabone.net (195.22.195.46)  317.938 ms te0-12-0-0.newark11.new.seabone.net (195.22.195.84)  315.866 ms  315.894 ms
+11  te0-1-0-18.miami13.mia.seabone.net (195.22.199.14)  326.745 ms te0-0-0-18.miami12.mia.seabone.net (195.22.199.92)  312.358 ms  312.381 ms
+12  te0-2-0-4.baires13.bai.seabone.net (195.22.220.18)  320.086 ms te0-7-0-4.baires13.bai.seabone.net (195.22.199.163)  321.057 ms te0-0-0-2.baires14.bai.seabone.net (195.22.220.230)  324.132 ms
+13  ae5.baires3.bai.seabone.net (195.22.220.9)  307.190 ms ae7.baires3.bai.seabone.net (195.22.220.11)  318.770 ms ae5.baires3.bai.seabone.net (195.22.220.9)  314.180 ms
+14  185.70.203.43 (185.70.203.43)  306.543 ms *  321.507 ms
+15  host142.190-227-163.telecom.net.ar (190.227.163.142)  383.353 ms  394.680 ms  451.083 ms
+traceroute to planet-lab1.itba.edu.ar (190.227.163.142), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  1.052 ms  1.646 ms  1.970 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  0.312 ms  0.310 ms  0.296 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.250 ms  0.241 ms  0.227 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  0.357 ms  0.342 ms  0.314 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  7.412 ms  7.348 ms  7.330 ms
+ 6  de-hmb.nordu.net (109.105.98.124)  14.983 ms  15.083 ms  15.033 ms
+ 7  nl-sar.nordu.net (109.105.97.17)  21.513 ms  21.571 ms  21.556 ms
+ 8  * * *
+ 9  149.3.183.24 (149.3.183.24)  327.456 ms 149.3.183.22 (149.3.183.22)  316.099 ms te0-9-0-0.londra16.lon.seabone.net (195.22.213.55)  310.002 ms
+10  pos0-8-0-3.newyork50.new.seabone.net (195.22.195.46)  315.702 ms te0-12-0-0.newark11.new.seabone.net (195.22.195.84)  313.079 ms  313.036 ms
+11  te0-0-0-18.miami12.mia.seabone.net (195.22.199.92)  311.972 ms  312.507 ms  312.414 ms
+12  te0-2-0-2.baires13.bai.seabone.net (195.22.220.182)  333.108 ms te0-0-0-1.baires13.bai.seabone.net (195.22.220.136)  323.793 ms te0-0-0-2.baires14.bai.seabone.net (195.22.220.230)  325.451 ms
+13  ae5.baires3.bai.seabone.net (195.22.220.9)  313.901 ms ae7.baires3.bai.seabone.net (195.22.220.11)  310.433 ms  318.802 ms
+14  185.70.203.43 (185.70.203.43)  318.742 ms  320.014 ms  311.385 ms
+15  host142.190-227-163.telecom.net.ar (190.227.163.142)  387.212 ms  378.056 ms  381.544 ms
+traceroute to planet-lab1.itba.edu.ar (190.227.163.142), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  1.091 ms  1.878 ms  2.342 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  0.338 ms  0.331 ms  0.317 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.288 ms  0.275 ms  0.253 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  0.402 ms  0.380 ms  0.361 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  4.622 ms  5.040 ms  4.904 ms
+ 6  de-hmb.nordu.net (109.105.98.124)  15.297 ms  15.321 ms  15.305 ms
+ 7  nl-sar.nordu.net (109.105.97.17)  21.805 ms  21.855 ms  21.839 ms
+ 8  * * *
+ 9  te0-1-0-0.londra17.lon.seabone.net (89.221.43.124)  320.562 ms te0-15-0-0.londra16.lon.seabone.net (195.22.209.216)  322.995 ms te0-8-2-0.londra17.lon.seabone.net (89.221.43.114)  316.395 ms
+10  pos0-8-0-3.newyork50.new.seabone.net (195.22.195.46)  316.547 ms  315.451 ms te0-12-0-0.newark11.new.seabone.net (195.22.195.84)  315.936 ms
+11  te0-1-0-18.miami13.mia.seabone.net (195.22.199.14)  326.771 ms  318.259 ms te0-0-0-18.miami12.mia.seabone.net (195.22.199.92)  320.091 ms
+12  te0-0-0-2.baires13.bai.seabone.net (195.22.220.196)  309.050 ms te0-1-0-1.baires14.bai.seabone.net (195.22.220.142)  317.133 ms te0-7-0-3.baires14.bai.seabone.net (195.22.199.145)  321.364 ms
+13  ae5.baires3.bai.seabone.net (195.22.220.9)  305.502 ms ae7.baires3.bai.seabone.net (195.22.220.11)  312.798 ms  310.550 ms
+14  185.70.203.43 (185.70.203.43)  319.822 ms  323.844 ms  321.932 ms
+15  host142.190-227-163.telecom.net.ar (190.227.163.142)  344.005 ms  334.959 ms  340.635 ms
+traceroute to planet-lab1.itba.edu.ar (190.227.163.142), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  1.009 ms  1.443 ms  1.896 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  0.270 ms  0.279 ms  0.289 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.237 ms  0.228 ms  0.222 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  0.373 ms  0.369 ms  0.353 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  4.664 ms  4.667 ms  4.650 ms
+ 6  de-hmb.nordu.net (109.105.98.124)  15.050 ms  15.072 ms  15.055 ms
+ 7  nl-sar.nordu.net (109.105.97.17)  21.568 ms  21.619 ms  21.603 ms
+ 8  * * *
+ 9  te0-15-0-0.londra17.lon.seabone.net (195.22.209.222)  320.070 ms te0-1-0-0.londra17.lon.seabone.net (89.221.43.124)  329.800 ms te0-9-0-0.londra17.lon.seabone.net (195.22.213.57)  321.768 ms
+10  pos0-8-0-3.newyork50.new.seabone.net (195.22.195.46)  310.149 ms te0-12-0-0.newark11.new.seabone.net (195.22.195.84)  321.736 ms  321.594 ms
+11  te0-1-0-18.miami13.mia.seabone.net (195.22.199.14)  326.593 ms te0-0-0-18.miami12.mia.seabone.net (195.22.199.92)  311.996 ms te0-1-0-18.miami13.mia.seabone.net (195.22.199.14)  318.361 ms
+12  te0-2-0-3.baires13.bai.seabone.net (195.22.199.69)  319.019 ms te0-0-0-2.baires14.bai.seabone.net (195.22.220.230)  315.407 ms te0-7-0-4.baires13.bai.seabone.net (195.22.199.163)  317.440 ms
+13  ae7.baires3.bai.seabone.net (195.22.220.11)  318.664 ms  310.494 ms  316.565 ms
+14  185.70.203.43 (185.70.203.43)  322.898 ms  318.558 ms  320.851 ms
+15  host142.190-227-163.telecom.net.ar (190.227.163.142)  327.524 ms  322.154 ms  320.870 ms
+traceroute to planet-lab1.itba.edu.ar (190.227.163.142), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  1.411 ms  1.853 ms  2.256 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  0.256 ms  0.350 ms  0.341 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.291 ms  0.281 ms  0.263 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  0.344 ms  0.327 ms  0.309 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  4.592 ms  4.622 ms  4.607 ms
+ 6  de-hmb.nordu.net (109.105.98.124)  15.020 ms  15.055 ms  15.023 ms
+ 7  nl-sar.nordu.net (109.105.97.17)  21.539 ms  21.576 ms  21.563 ms
+ 8  * * *
+ 9  te0-9-0-0.londra16.lon.seabone.net (195.22.213.55)  306.046 ms te0-8-2-0.londra17.lon.seabone.net (89.221.43.114)  315.347 ms te0-15-0-0.londra17.lon.seabone.net (195.22.209.222)  323.409 ms
+10  pos0-8-0-3.newyork50.new.seabone.net (195.22.195.46)  316.864 ms  307.697 ms  307.746 ms
+11  te0-1-0-18.miami13.mia.seabone.net (195.22.199.14)  323.722 ms  318.505 ms  324.088 ms
+12  te0-2-0-2.baires14.bai.seabone.net (195.22.220.148)  318.208 ms te0-1-0-3.baires13.bai.seabone.net (195.22.220.188)  318.738 ms te0-2-0-0.baires13.bai.seabone.net (195.22.220.124)  321.596 ms
+13  ae7.baires3.bai.seabone.net (195.22.220.11)  308.260 ms  307.909 ms ae5.baires3.bai.seabone.net (195.22.220.9)  303.073 ms
+14  185.70.203.43 (185.70.203.43)  307.574 ms  311.668 ms  313.669 ms
+15  host142.190-227-163.telecom.net.ar (190.227.163.142)  356.867 ms  352.962 ms  346.651 ms
+traceroute to planet-lab1.itba.edu.ar (190.227.163.142), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  1.356 ms  2.034 ms  2.860 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  0.269 ms  0.262 ms  0.273 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.587 ms  0.575 ms  0.558 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  0.835 ms  0.886 ms  0.866 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  4.945 ms  4.959 ms  4.920 ms
+ 6  de-hmb.nordu.net (109.105.98.124)  16.390 ms  16.356 ms  16.338 ms
+ 7  nl-sar.nordu.net (109.105.97.17)  21.622 ms  21.666 ms  21.784 ms
+ 8  * * *
+ 9  149.3.183.22 (149.3.183.22)  316.784 ms te0-15-0-0.londra16.lon.seabone.net (195.22.209.216)  324.072 ms te0-15-0-0.londra17.lon.seabone.net (195.22.209.222)  318.679 ms
+10  te0-12-0-0.newark11.new.seabone.net (195.22.195.84)  315.174 ms  313.799 ms  313.778 ms
+11  te0-0-0-18.miami12.mia.seabone.net (195.22.199.92)  312.197 ms  312.399 ms  320.842 ms
+12  te0-1-0-1.baires14.bai.seabone.net (195.22.220.142)  315.241 ms te0-2-0-0.baires13.bai.seabone.net (195.22.220.124)  310.620 ms 185.70.203.78 (185.70.203.78)  320.657 ms
+13  ae7.baires3.bai.seabone.net (195.22.220.11)  320.800 ms  310.320 ms ae5.baires3.bai.seabone.net (195.22.220.9)  305.558 ms
+14  185.70.203.43 (185.70.203.43)  327.455 ms  313.538 ms  327.297 ms
+15  host142.190-227-163.telecom.net.ar (190.227.163.142)  341.024 ms  322.604 ms  323.530 ms
+traceroute to planet-lab1.itba.edu.ar (190.227.163.142), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  1.056 ms  1.520 ms  1.930 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  0.318 ms  0.311 ms  0.306 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.257 ms  0.244 ms  0.229 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  0.278 ms  0.331 ms  0.315 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  4.652 ms  4.753 ms  4.626 ms
+ 6  de-hmb.nordu.net (109.105.98.124)  15.458 ms  15.456 ms  15.427 ms
+ 7  nl-sar.nordu.net (109.105.97.17)  21.713 ms  21.771 ms  21.756 ms
+ 8  * * *
+ 9  te0-15-2-0.londra16.lon.seabone.net (89.221.43.112)  319.530 ms te0-1-0-0.londra17.lon.seabone.net (89.221.43.124)  322.939 ms  322.808 ms
+10  pos0-8-0-3.newyork50.new.seabone.net (195.22.195.46)  314.318 ms  309.099 ms te0-12-0-0.newark11.new.seabone.net (195.22.195.84)  314.317 ms
+11  te0-0-0-18.miami12.mia.seabone.net (195.22.199.92)  312.318 ms  312.096 ms  312.138 ms
+12  te0-2-0-2.baires13.bai.seabone.net (195.22.220.182)  320.760 ms te0-7-0-4.baires14.bai.seabone.net (195.22.199.5)  320.250 ms te0-6-0-3.baires13.bai.seabone.net (195.22.220.166)  320.320 ms
+13  ae7.baires3.bai.seabone.net (195.22.220.11)  310.598 ms ae5.baires3.bai.seabone.net (195.22.220.9)  303.057 ms  305.712 ms
+14  185.70.203.43 (185.70.203.43)  314.312 ms  308.078 ms  319.715 ms
+15  host142.190-227-163.telecom.net.ar (190.227.163.142)  336.175 ms  332.413 ms  328.615 ms
+traceroute to planet-lab1.itba.edu.ar (190.227.163.142), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  1.338 ms  1.829 ms  2.238 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  43.691 ms  43.753 ms  43.738 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.225 ms  0.212 ms  0.218 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  36.459 ms  36.510 ms  36.361 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  4.666 ms  4.662 ms  4.646 ms
+ 6  de-hmb.nordu.net (109.105.98.124)  15.067 ms  15.118 ms  15.120 ms
+ 7  nl-sar.nordu.net (109.105.97.17)  21.534 ms  21.637 ms  21.515 ms
+ 8  * * *
+ 9  149.3.183.24 (149.3.183.24)  329.635 ms  326.621 ms 149.3.183.22 (149.3.183.22)  317.073 ms
+10  te0-12-0-0.newark11.new.seabone.net (195.22.195.84)  313.384 ms  322.569 ms pos0-8-0-3.newyork50.new.seabone.net (195.22.195.46)  307.227 ms
+11  te0-1-0-18.miami13.mia.seabone.net (195.22.199.14)  323.630 ms  318.250 ms te0-0-0-18.miami12.mia.seabone.net (195.22.199.92)  312.095 ms
+12  te0-2-0-0.baires14.bai.seabone.net (195.22.220.126)  322.058 ms 185.70.203.0 (185.70.203.0)  321.708 ms te0-6-0-3.baires14.bai.seabone.net (195.22.220.168)  319.913 ms
+13  ae5.baires3.bai.seabone.net (195.22.220.9)  307.950 ms ae7.baires3.bai.seabone.net (195.22.220.11)  305.072 ms ae5.baires3.bai.seabone.net (195.22.220.9)  305.325 ms
+14  185.70.203.43 (185.70.203.43)  321.058 ms  323.018 ms  310.179 ms
+15  host142.190-227-163.telecom.net.ar (190.227.163.142)  319.481 ms  339.776 ms  338.779 ms
+traceroute to planet-lab1.itba.edu.ar (190.227.163.142), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  3.185 ms  3.608 ms  4.043 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  0.878 ms  0.888 ms  0.897 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.327 ms  0.312 ms  0.293 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  0.627 ms  0.675 ms  0.658 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  5.900 ms  5.949 ms  5.937 ms
+ 6  * * *
+ 7  nl-sar.nordu.net (109.105.97.17)  21.669 ms  22.401 ms  22.454 ms
+ 8  * * *
+ 9  * * *
+10  * * *
+11  * te0-1-0-18.miami13.mia.seabone.net (195.22.199.14)  318.498 ms te0-0-0-18.miami12.mia.seabone.net (195.22.199.92)  312.137 ms
+12  te0-7-0-3.baires13.bai.seabone.net (195.22.199.129)  314.129 ms te0-2-0-3.baires14.bai.seabone.net (195.22.199.71)  319.117 ms 185.70.203.4 (185.70.203.4)  311.600 ms
+13  ae5.baires3.bai.seabone.net (195.22.220.9)  305.489 ms ae7.baires3.bai.seabone.net (195.22.220.11)  311.879 ms  305.376 ms
+14  185.70.203.43 (185.70.203.43)  320.239 ms  320.294 ms  320.629 ms
+15  * * *
+16  host142.190-227-163.telecom.net.ar (190.227.163.142)  342.787 ms  339.924 ms  340.507 ms
+traceroute to planet-lab1.itba.edu.ar (190.227.163.142), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  1.069 ms  1.582 ms  1.981 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  0.318 ms  0.315 ms  0.303 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.255 ms  0.238 ms  0.227 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  0.422 ms  0.433 ms  0.416 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  8.315 ms  8.365 ms  8.236 ms
+ 6  de-hmb.nordu.net (109.105.98.124)  15.200 ms  15.231 ms  15.246 ms
+ 7  nl-sar.nordu.net (109.105.97.17)  21.689 ms  21.710 ms  21.678 ms
+ 8  * * *
+ 9  te0-1-0-0.londra16.lon.seabone.net (89.221.43.126)  320.208 ms te0-15-0-0.londra17.lon.seabone.net (195.22.209.222)  321.460 ms  321.452 ms
+10  pos0-8-0-3.newyork50.new.seabone.net (195.22.195.46)  308.041 ms  318.479 ms te0-12-0-0.newark11.new.seabone.net (195.22.195.84)  325.156 ms
+11  te0-0-0-18.miami12.mia.seabone.net (195.22.199.92)  312.778 ms  312.508 ms  312.455 ms
+12  te0-6-0-3.baires13.bai.seabone.net (195.22.220.166)  329.493 ms te0-0-0-2.baires14.bai.seabone.net (195.22.220.230)  315.452 ms te0-7-0-4.baires13.bai.seabone.net (195.22.199.163)  319.732 ms
+13  ae5.baires3.bai.seabone.net (195.22.220.9)  305.445 ms  305.503 ms  314.595 ms
+14  185.70.203.43 (185.70.203.43)  324.163 ms *  313.549 ms
+15  host142.190-227-163.telecom.net.ar (190.227.163.142)  369.415 ms  371.710 ms  395.888 ms
+traceroute to planet-lab1.itba.edu.ar (190.227.163.142), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  1.265 ms  1.838 ms  2.211 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  0.314 ms  0.305 ms  0.306 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.223 ms  0.212 ms  0.204 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  0.386 ms  0.464 ms  0.448 ms
+ 5  * * *
+ 6  de-hmb.nordu.net (109.105.98.124)  14.990 ms  14.978 ms  15.027 ms
+ 7  nl-sar.nordu.net (109.105.97.17)  21.553 ms  21.602 ms  21.586 ms
+ 8  * * *
+ 9  te0-15-2-0.londra16.lon.seabone.net (89.221.43.112)  321.402 ms  320.447 ms  320.382 ms
+10  te0-12-0-0.newark11.new.seabone.net (195.22.195.84)  313.323 ms  313.347 ms pos0-8-0-3.newyork50.new.seabone.net (195.22.195.46)  315.579 ms
+11  te0-1-0-18.miami13.mia.seabone.net (195.22.199.14)  318.181 ms  323.332 ms  326.781 ms
+12  te0-1-0-2.baires14.bai.seabone.net (195.22.220.234)  315.618 ms 185.70.203.76 (185.70.203.76)  314.551 ms te0-2-0-4.baires13.bai.seabone.net (195.22.220.18)  320.960 ms
+13  ae5.baires3.bai.seabone.net (195.22.220.9)  313.548 ms  303.101 ms ae7.baires3.bai.seabone.net (195.22.220.11)  310.521 ms
+14  185.70.203.43 (185.70.203.43)  316.092 ms  313.293 ms *
+15  * * *
+16  * * *
+17  * * *
+18  host142.190-227-163.telecom.net.ar (190.227.163.142)  315.243 ms  321.332 ms  321.589 ms
+traceroute to planet-lab1.itba.edu.ar (190.227.163.142), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  1.278 ms  1.699 ms  2.217 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  9.827 ms  9.872 ms  9.855 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.198 ms  0.195 ms  0.197 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  0.639 ms  0.628 ms  0.610 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  21.931 ms  21.980 ms  21.927 ms
+ 6  de-hmb.nordu.net (109.105.98.124)  16.439 ms  16.461 ms  16.445 ms
+ 7  nl-sar.nordu.net (109.105.97.17)  22.817 ms  22.421 ms  22.399 ms
+ 8  * * *
+ 9  149.3.183.22 (149.3.183.22)  317.777 ms  316.158 ms te0-9-0-0.londra17.lon.seabone.net (195.22.213.57)  321.124 ms
+10  te0-12-0-0.newark11.new.seabone.net (195.22.195.84)  315.404 ms pos0-8-0-3.newyork50.new.seabone.net (195.22.195.46)  314.273 ms te0-12-0-0.newark11.new.seabone.net (195.22.195.84)  315.592 ms
+11  te0-1-0-18.miami13.mia.seabone.net (195.22.199.14)  326.543 ms  318.458 ms te0-0-0-18.miami12.mia.seabone.net (195.22.199.92)  312.396 ms
+12  te0-2-0-4.baires13.bai.seabone.net (195.22.220.18)  324.462 ms te0-6-0-3.baires13.bai.seabone.net (195.22.220.166)  320.061 ms te0-2-0-3.baires14.bai.seabone.net (195.22.199.71)  320.014 ms
+13  ae5.baires3.bai.seabone.net (195.22.220.9)  305.958 ms  306.317 ms ae7.baires3.bai.seabone.net (195.22.220.11)  310.329 ms
+14  185.70.203.43 (185.70.203.43)  322.601 ms  325.970 ms  316.408 ms
+15  host142.190-227-163.telecom.net.ar (190.227.163.142)  327.592 ms  332.430 ms  327.856 ms
+traceroute to planet-lab1.itba.edu.ar (190.227.163.142), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  1.033 ms  1.478 ms  1.926 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  0.316 ms  0.309 ms  0.307 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.255 ms  0.247 ms  0.229 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  0.855 ms  0.839 ms  0.819 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  4.789 ms  4.842 ms  4.822 ms
+ 6  de-hmb.nordu.net (109.105.98.124)  15.165 ms  15.263 ms  15.214 ms
+ 7  nl-sar.nordu.net (109.105.97.17)  21.569 ms  21.574 ms  21.559 ms
+ 8  * * *
+ 9  te0-9-0-0.londra16.lon.seabone.net (195.22.213.55)  307.586 ms  307.651 ms  307.616 ms
+10  te0-12-0-0.newark11.new.seabone.net (195.22.195.84)  321.418 ms pos0-8-0-3.newyork50.new.seabone.net (195.22.195.46)  308.870 ms te0-12-0-0.newark11.new.seabone.net (195.22.195.84)  315.816 ms
+11  te0-1-0-18.miami13.mia.seabone.net (195.22.199.14)  318.397 ms  326.820 ms te0-0-0-18.miami12.mia.seabone.net (195.22.199.92)  312.316 ms
+12  185.70.203.0 (185.70.203.0)  328.868 ms te0-0-0-2.baires14.bai.seabone.net (195.22.220.230)  317.872 ms te0-2-0-3.baires13.bai.seabone.net (195.22.199.69)  316.934 ms
+13  ae5.baires3.bai.seabone.net (195.22.220.9)  315.031 ms ae7.baires3.bai.seabone.net (195.22.220.11)  316.330 ms  307.860 ms
+14  185.70.203.43 (185.70.203.43)  317.993 ms  311.765 ms  319.422 ms
+15  host142.190-227-163.telecom.net.ar (190.227.163.142)  333.469 ms  333.496 ms  327.020 ms
+traceroute to planet-lab1.itba.edu.ar (190.227.163.142), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  1.027 ms  1.582 ms  1.926 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  0.267 ms  0.287 ms  0.271 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.227 ms  0.214 ms  0.199 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  0.353 ms  0.335 ms  0.315 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  4.584 ms  4.646 ms  4.688 ms
+ 6  de-hmb.nordu.net (109.105.98.124)  15.085 ms  15.146 ms  15.112 ms
+ 7  nl-sar.nordu.net (109.105.97.17)  21.724 ms  21.786 ms  21.690 ms
+ 8  * * *
+ 9  te0-9-0-0.londra16.lon.seabone.net (195.22.213.55)  308.540 ms te0-15-0-0.londra17.lon.seabone.net (195.22.209.222)  319.566 ms te0-9-0-0.londra16.lon.seabone.net (195.22.213.55)  307.635 ms
+10  pos0-8-0-3.newyork50.new.seabone.net (195.22.195.46)  316.906 ms te0-12-0-0.newark11.new.seabone.net (195.22.195.84)  313.511 ms pos0-8-0-3.newyork50.new.seabone.net (195.22.195.46)  311.797 ms
+11  te0-0-0-18.miami12.mia.seabone.net (195.22.199.92)  312.326 ms  312.095 ms te0-1-0-18.miami13.mia.seabone.net (195.22.199.14)  318.333 ms
+12  185.70.203.4 (185.70.203.4)  326.958 ms te0-6-0-3.baires14.bai.seabone.net (195.22.220.168)  320.958 ms te0-0-0-2.baires14.bai.seabone.net (195.22.220.230)  326.332 ms
+13  ae7.baires3.bai.seabone.net (195.22.220.11)  307.939 ms ae5.baires3.bai.seabone.net (195.22.220.9)  315.574 ms  308.203 ms
+14  185.70.203.43 (185.70.203.43)  313.625 ms  316.975 ms  319.916 ms
+15  host142.190-227-163.telecom.net.ar (190.227.163.142)  388.420 ms  399.783 ms  396.219 ms
+traceroute to planet-lab1.itba.edu.ar (190.227.163.142), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  1.036 ms  1.518 ms  1.910 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  0.314 ms  0.305 ms  0.286 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.238 ms  0.224 ms  0.214 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  0.398 ms  0.385 ms  0.365 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  4.649 ms  4.701 ms  4.684 ms
+ 6  de-hmb.nordu.net (109.105.98.124)  15.169 ms  15.155 ms  15.154 ms
+ 7  nl-sar.nordu.net (109.105.97.17)  21.752 ms  21.718 ms  21.702 ms
+ 8  * * *
+ 9  te0-1-0-0.londra17.lon.seabone.net (89.221.43.124)  321.420 ms * *
+10  pos0-8-0-3.newyork50.new.seabone.net (195.22.195.46)  316.551 ms * *
+11  te0-0-0-18.miami12.mia.seabone.net (195.22.199.92)  313.696 ms  312.167 ms te0-1-0-18.miami13.mia.seabone.net (195.22.199.14)  323.381 ms
+12  te0-2-0-3.baires14.bai.seabone.net (195.22.199.71)  320.905 ms te0-7-0-4.baires13.bai.seabone.net (195.22.199.163)  328.348 ms te0-6-0-3.baires14.bai.seabone.net (195.22.220.168)  310.735 ms
+13  ae7.baires3.bai.seabone.net (195.22.220.11)  308.290 ms ae5.baires3.bai.seabone.net (195.22.220.9)  306.083 ms  303.240 ms
+14  185.70.203.43 (185.70.203.43)  319.593 ms  313.587 ms  310.680 ms
+15  * * *
+16  * * *
+17  * * *
+18  host142.190-227-163.telecom.net.ar (190.227.163.142)  336.237 ms  334.469 ms  335.200 ms
+traceroute to planet-lab1.itba.edu.ar (190.227.163.142), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  3.486 ms  4.017 ms  4.434 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  0.275 ms  0.343 ms  0.337 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.213 ms  0.276 ms  0.256 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  0.366 ms  0.349 ms  0.330 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  5.251 ms  5.232 ms  5.213 ms
+ 6  de-hmb.nordu.net (109.105.98.124)  15.031 ms  15.063 ms  15.009 ms
+ 7  nl-sar.nordu.net (109.105.97.17)  21.464 ms  21.480 ms  21.478 ms
+ 8  * * *
+ 9  te0-1-0-0.londra17.lon.seabone.net (89.221.43.124)  321.041 ms te0-15-0-0.londra17.lon.seabone.net (195.22.209.222)  320.634 ms  320.640 ms
+10  pos0-8-0-3.newyork50.new.seabone.net (195.22.195.46)  307.170 ms  306.690 ms te0-12-0-0.newark11.new.seabone.net (195.22.195.84)  313.174 ms
+11  te0-1-0-18.miami13.mia.seabone.net (195.22.199.14)  326.653 ms te0-0-0-18.miami12.mia.seabone.net (195.22.199.92)  313.473 ms  313.414 ms
+12  te0-1-0-2.baires13.bai.seabone.net (195.22.220.190)  318.312 ms te0-7-0-4.baires14.bai.seabone.net (195.22.199.5)  320.822 ms te0-2-0-3.baires14.bai.seabone.net (195.22.199.71)  326.794 ms
+13  ae5.baires3.bai.seabone.net (195.22.220.9)  311.303 ms  303.252 ms  305.519 ms
+14  185.70.203.43 (185.70.203.43)  313.743 ms  320.110 ms  316.823 ms
+15  host142.190-227-163.telecom.net.ar (190.227.163.142)  362.417 ms  366.684 ms *
+traceroute to planet-lab1.itba.edu.ar (190.227.163.142), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  8.157 ms  8.551 ms  8.992 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  0.268 ms  0.267 ms  0.337 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.210 ms  0.226 ms  0.238 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  0.267 ms  0.377 ms  0.315 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  7.627 ms  7.662 ms  7.632 ms
+ 6  de-hmb.nordu.net (109.105.98.124)  15.151 ms  15.155 ms  15.132 ms
+ 7  nl-sar.nordu.net (109.105.97.17)  22.230 ms  22.280 ms  22.252 ms
+ 8  * * *
+ 9  149.3.183.22 (149.3.183.22)  319.071 ms te0-1-0-0.londra17.lon.seabone.net (89.221.43.124)  323.045 ms 149.3.183.22 (149.3.183.22)  318.654 ms
+10  pos0-8-0-3.newyork50.new.seabone.net (195.22.195.46)  306.759 ms te0-12-0-0.newark11.new.seabone.net (195.22.195.84)  321.128 ms pos0-8-0-3.newyork50.new.seabone.net (195.22.195.46)  314.155 ms
+11  te0-0-0-18.miami12.mia.seabone.net (195.22.199.92)  320.125 ms  312.419 ms  312.362 ms
+12  te0-1-0-2.baires13.bai.seabone.net (195.22.220.190)  318.108 ms te0-1-0-3.baires13.bai.seabone.net (195.22.220.188)  315.699 ms te0-0-0-2.baires13.bai.seabone.net (195.22.220.196)  308.593 ms
+13  ae5.baires3.bai.seabone.net (195.22.220.9)  305.582 ms  310.757 ms  306.540 ms
+14  185.70.203.43 (185.70.203.43)  318.334 ms  313.891 ms  325.166 ms
+15  host142.190-227-163.telecom.net.ar (190.227.163.142)  395.774 ms  381.472 ms  382.349 ms
+traceroute to planet-lab1.itba.edu.ar (190.227.163.142), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  1.066 ms  1.544 ms  1.958 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  21.711 ms  21.702 ms  21.688 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.214 ms  0.202 ms  0.188 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  0.318 ms  0.302 ms  0.334 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  4.628 ms  4.681 ms  4.669 ms
+ 6  de-hmb.nordu.net (109.105.98.124)  14.946 ms  15.034 ms  15.000 ms
+ 7  nl-sar.nordu.net (109.105.97.17)  21.877 ms  21.834 ms  21.816 ms
+ 8  * * *
+ 9  te0-15-2-0.londra16.lon.seabone.net (89.221.43.112)  321.388 ms 149.3.183.24 (149.3.183.24)  328.030 ms te0-15-0-0.londra17.lon.seabone.net (195.22.209.222)  321.217 ms
+10  pos0-8-0-3.newyork50.new.seabone.net (195.22.195.46)  309.343 ms  314.468 ms  306.497 ms
+11  te0-1-0-18.miami13.mia.seabone.net (195.22.199.14)  326.727 ms te0-0-0-18.miami12.mia.seabone.net (195.22.199.92)  312.065 ms te0-1-0-18.miami13.mia.seabone.net (195.22.199.14)  323.519 ms
+12  te0-7-0-4.baires13.bai.seabone.net (195.22.199.163)  319.787 ms  319.356 ms te0-2-0-0.baires13.bai.seabone.net (195.22.220.124)  323.882 ms
+13  ae5.baires3.bai.seabone.net (195.22.220.9)  313.579 ms  305.491 ms ae7.baires3.bai.seabone.net (195.22.220.11)  310.015 ms
+14  185.70.203.43 (185.70.203.43)  312.863 ms  314.189 ms  314.572 ms
+15  host142.190-227-163.telecom.net.ar (190.227.163.142)  322.309 ms  317.683 ms  315.373 ms
+traceroute to planet-lab1.itba.edu.ar (190.227.163.142), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  5.558 ms  6.062 ms  6.463 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  0.349 ms  0.334 ms  0.323 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.256 ms  0.238 ms  0.221 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  6.366 ms  6.352 ms  6.332 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  4.638 ms  4.693 ms  4.676 ms
+ 6  de-hmb.nordu.net (109.105.98.124)  15.019 ms  15.024 ms  15.016 ms
+ 7  nl-sar.nordu.net (109.105.97.17)  21.581 ms  21.630 ms  21.614 ms
+ 8  * * *
+ 9  * te0-9-0-0.londra16.lon.seabone.net (195.22.213.55)  306.946 ms *
+10  te0-12-0-0.newark11.new.seabone.net (195.22.195.84)  313.796 ms  313.072 ms pos0-8-0-3.newyork50.new.seabone.net (195.22.195.46)  314.736 ms
+11  * * *
+12  * * te0-2-0-0.baires13.bai.seabone.net (195.22.220.124)  315.964 ms
+13  ae7.baires3.bai.seabone.net (195.22.220.11)  318.821 ms * ae5.baires3.bai.seabone.net (195.22.220.9)  304.031 ms
+14  185.70.203.43 (185.70.203.43)  319.024 ms  312.020 ms  313.999 ms
+15  * * *
+16  * * *
+17  host142.190-227-163.telecom.net.ar (190.227.163.142)  329.447 ms  336.257 ms  334.959 ms
+traceroute to planet-lab1.itba.edu.ar (190.227.163.142), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  1.381 ms  1.867 ms  2.276 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  5.021 ms  5.028 ms  5.038 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.220 ms  0.210 ms  0.192 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  0.331 ms  0.316 ms  0.295 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  4.636 ms  4.686 ms  4.672 ms
+ 6  * * *
+ 7  nl-sar.nordu.net (109.105.97.17)  22.154 ms  22.122 ms  22.090 ms
+ 8  * * *
+ 9  te0-15-0-0.londra17.lon.seabone.net (195.22.209.222)  319.971 ms te0-1-0-0.londra17.lon.seabone.net (89.221.43.124)  321.831 ms te0-8-2-0.londra17.lon.seabone.net (89.221.43.114)  320.899 ms
+10  te0-12-0-0.newark11.new.seabone.net (195.22.195.84)  314.636 ms pos0-8-0-3.newyork50.new.seabone.net (195.22.195.46)  316.856 ms te0-12-0-0.newark11.new.seabone.net (195.22.195.84)  314.271 ms
+11  te0-0-0-18.miami12.mia.seabone.net (195.22.199.92)  320.294 ms  312.317 ms  312.189 ms
+12  te0-2-0-3.baires14.bai.seabone.net (195.22.199.71)  324.388 ms te0-2-0-4.baires13.bai.seabone.net (195.22.220.18)  328.708 ms te0-2-0-2.baires14.bai.seabone.net (195.22.220.148)  317.630 ms
+13  ae5.baires3.bai.seabone.net (195.22.220.9)  305.422 ms  307.977 ms ae7.baires3.bai.seabone.net (195.22.220.11)  310.414 ms
+14  185.70.203.43 (185.70.203.43)  311.278 ms  306.724 ms  317.038 ms
+15  host142.190-227-163.telecom.net.ar (190.227.163.142)  329.377 ms  320.088 ms *
+traceroute to planet-lab1.itba.edu.ar (190.227.163.142), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  1.056 ms  1.593 ms  2.046 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  0.331 ms  0.329 ms  0.324 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.272 ms  0.259 ms  0.245 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  0.308 ms  0.354 ms  0.338 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  4.598 ms * *
+ 6  de-hmb.nordu.net (109.105.98.124)  15.008 ms  15.004 ms  14.987 ms
+ 7  nl-sar.nordu.net (109.105.97.17)  21.522 ms  21.570 ms  21.555 ms
+ 8  * * *
+ 9  te0-1-0-0.londra16.lon.seabone.net (89.221.43.126)  318.566 ms te0-9-0-0.londra16.lon.seabone.net (195.22.213.55)  309.254 ms te0-1-0-0.londra16.lon.seabone.net (89.221.43.126)  321.181 ms
+10  te0-12-0-0.newark11.new.seabone.net (195.22.195.84)  312.934 ms pos0-8-0-3.newyork50.new.seabone.net (195.22.195.46)  316.746 ms te0-12-0-0.newark11.new.seabone.net (195.22.195.84)  313.052 ms
+11  te0-1-0-18.miami13.mia.seabone.net (195.22.199.14)  323.742 ms  327.549 ms te0-0-0-18.miami12.mia.seabone.net (195.22.199.92)  312.046 ms
+12  te0-2-0-0.baires13.bai.seabone.net (195.22.220.124)  310.611 ms te0-2-0-0.baires14.bai.seabone.net (195.22.220.126)  319.482 ms te0-7-0-3.baires13.bai.seabone.net (195.22.199.129)  323.302 ms
+13  ae5.baires3.bai.seabone.net (195.22.220.9)  305.440 ms  313.765 ms  313.575 ms
+14  185.70.203.43 (185.70.203.43)  311.180 ms  319.465 ms  308.730 ms
+15  host142.190-227-163.telecom.net.ar (190.227.163.142)  321.183 ms  320.272 ms  320.085 ms
+traceroute to planet-lab1.itba.edu.ar (190.227.163.142), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  1.121 ms  1.628 ms  2.083 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  0.260 ms  0.278 ms  0.272 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.215 ms  0.203 ms  0.200 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  0.343 ms  0.326 ms  0.305 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  4.573 ms  4.614 ms  4.560 ms
+ 6  de-hmb.nordu.net (109.105.98.124)  15.197 ms  15.116 ms  15.098 ms
+ 7  nl-sar.nordu.net (109.105.97.17)  21.998 ms  21.981 ms  22.109 ms
+ 8  * * *
+ 9  te0-15-0-0.londra17.lon.seabone.net (195.22.209.222)  319.610 ms te0-15-0-0.londra16.lon.seabone.net (195.22.209.216)  322.852 ms te0-8-2-0.londra17.lon.seabone.net (89.221.43.114)  314.623 ms
+10  pos0-8-0-3.newyork50.new.seabone.net (195.22.195.46)  308.748 ms te0-12-0-0.newark11.new.seabone.net (195.22.195.84)  315.786 ms pos0-8-0-3.newyork50.new.seabone.net (195.22.195.46)  314.204 ms
+11  te0-0-0-18.miami12.mia.seabone.net (195.22.199.92)  312.493 ms te0-1-0-18.miami13.mia.seabone.net (195.22.199.14)  317.869 ms  326.690 ms
+12  te0-6-0-2.baires13.bai.seabone.net (195.22.220.160)  319.195 ms te0-2-0-2.baires13.bai.seabone.net (195.22.220.182)  322.126 ms te0-2-0-4.baires13.bai.seabone.net (195.22.220.18)  323.863 ms
+13  ae5.baires3.bai.seabone.net (195.22.220.9)  305.391 ms ae7.baires3.bai.seabone.net (195.22.220.11)  320.646 ms ae5.baires3.bai.seabone.net (195.22.220.9)  313.549 ms
+14  185.70.203.43 (185.70.203.43)  324.339 ms  312.972 ms  317.908 ms
+15  host142.190-227-163.telecom.net.ar (190.227.163.142)  335.705 ms  364.870 ms  360.350 ms
+traceroute to planet-lab1.itba.edu.ar (190.227.163.142), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  1.240 ms  1.689 ms  2.102 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  0.272 ms  0.270 ms  0.271 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.212 ms  0.204 ms  0.179 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  0.383 ms  0.370 ms  0.352 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  4.563 ms  4.624 ms  4.604 ms
+ 6  de-hmb.nordu.net (109.105.98.124)  15.097 ms  15.115 ms  15.097 ms
+ 7  nl-sar.nordu.net (109.105.97.17)  21.498 ms  21.556 ms  21.542 ms
+ 8  * * *
+ 9  te0-9-0-0.londra17.lon.seabone.net (195.22.213.57)  322.682 ms te0-1-0-0.londra16.lon.seabone.net (89.221.43.126)  317.997 ms 149.3.183.22 (149.3.183.22)  315.740 ms
+10  te0-12-0-0.newark11.new.seabone.net (195.22.195.84)  321.694 ms  312.923 ms pos0-8-0-3.newyork50.new.seabone.net (195.22.195.46)  308.928 ms
+11  te0-0-0-18.miami12.mia.seabone.net (195.22.199.92)  312.136 ms  320.153 ms  312.112 ms
+12  te0-2-0-2.baires14.bai.seabone.net (195.22.220.148)  314.459 ms  316.118 ms te0-0-0-2.baires13.bai.seabone.net (195.22.220.196)  307.457 ms
+13  ae7.baires3.bai.seabone.net (195.22.220.11)  307.843 ms  316.320 ms  310.511 ms
+14  185.70.203.43 (185.70.203.43)  317.172 ms  316.527 ms  314.392 ms
+15  host142.190-227-163.telecom.net.ar (190.227.163.142)  321.305 ms  321.195 ms  321.514 ms
+traceroute to planet-lab1.itba.edu.ar (190.227.163.142), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  7.405 ms  7.822 ms  8.392 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  0.318 ms  0.316 ms  0.297 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.257 ms  0.253 ms  0.257 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  0.376 ms  0.385 ms  0.411 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  4.680 ms  4.721 ms  4.707 ms
+ 6  de-hmb.nordu.net (109.105.98.124)  15.018 ms  15.017 ms  14.999 ms
+ 7  nl-sar.nordu.net (109.105.97.17)  21.559 ms  21.613 ms  21.596 ms
+ 8  * * *
+ 9  te0-1-0-0.londra17.lon.seabone.net (89.221.43.124)  323.081 ms te0-15-0-0.londra17.lon.seabone.net (195.22.209.222)  319.335 ms 149.3.183.22 (149.3.183.22)  317.783 ms
+10  te0-12-0-0.newark11.new.seabone.net (195.22.195.84)  322.234 ms  315.613 ms pos0-8-0-3.newyork50.new.seabone.net (195.22.195.46)  314.864 ms
+11  te0-0-0-18.miami12.mia.seabone.net (195.22.199.92)  320.172 ms  312.062 ms te0-1-0-18.miami13.mia.seabone.net (195.22.199.14)  326.836 ms
+12  te0-7-0-4.baires13.bai.seabone.net (195.22.199.163)  318.387 ms te0-7-0-4.baires14.bai.seabone.net (195.22.199.5)  319.332 ms te0-1-0-3.baires14.bai.seabone.net (195.22.220.192)  321.668 ms
+13  ae7.baires3.bai.seabone.net (195.22.220.11)  318.922 ms ae5.baires3.bai.seabone.net (195.22.220.9)  305.514 ms  305.472 ms
+14  185.70.203.43 (185.70.203.43)  324.093 ms  328.095 ms  314.660 ms
+15  host142.190-227-163.telecom.net.ar (190.227.163.142)  334.608 ms  325.433 ms  320.303 ms
+traceroute to planet-lab1.itba.edu.ar (190.227.163.142), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  1.157 ms  1.634 ms  2.049 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  0.315 ms  0.305 ms  0.292 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.245 ms  0.230 ms  0.221 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  0.485 ms  0.552 ms  0.534 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  4.586 ms  4.638 ms  4.622 ms
+ 6  de-hmb.nordu.net (109.105.98.124)  15.151 ms  15.250 ms  15.230 ms
+ 7  nl-sar.nordu.net (109.105.97.17)  21.515 ms  21.574 ms  21.545 ms
+ 8  * * *
+ 9  te0-15-2-0.londra16.lon.seabone.net (89.221.43.112)  319.880 ms te0-15-0-0.londra16.lon.seabone.net (195.22.209.216)  322.328 ms  322.296 ms
+10  pos0-8-0-3.newyork50.new.seabone.net (195.22.195.46)  314.750 ms  312.109 ms te0-12-0-0.newark11.new.seabone.net (195.22.195.84)  315.756 ms
+11  te0-1-0-18.miami13.mia.seabone.net (195.22.199.14)  323.852 ms te0-0-0-18.miami12.mia.seabone.net (195.22.199.92)  320.279 ms te0-1-0-18.miami13.mia.seabone.net (195.22.199.14)  327.546 ms
+12  te0-1-0-1.baires13.bai.seabone.net (195.22.220.138)  308.894 ms te0-7-0-3.baires13.bai.seabone.net (195.22.199.129)  319.145 ms  319.014 ms
+13  ae5.baires3.bai.seabone.net (195.22.220.9)  307.272 ms  307.538 ms  311.309 ms
+14  185.70.203.43 (185.70.203.43)  316.295 ms  313.084 ms  316.546 ms
+15  host142.190-227-163.telecom.net.ar (190.227.163.142)  369.679 ms  376.671 ms  359.307 ms
+traceroute to planet-lab1.itba.edu.ar (190.227.163.142), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  1.037 ms  1.554 ms  1.932 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  0.273 ms  0.281 ms  0.281 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.214 ms  0.204 ms  0.199 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  1.451 ms  1.434 ms  1.416 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  5.729 ms  5.814 ms  5.781 ms
+ 6  de-hmb.nordu.net (109.105.98.124)  15.996 ms  16.014 ms  15.998 ms
+ 7  nl-sar.nordu.net (109.105.97.17)  32.887 ms  32.934 ms  32.904 ms
+ 8  * * *
+ 9  te0-15-2-0.londra16.lon.seabone.net (89.221.43.112)  319.689 ms te0-9-0-0.londra17.lon.seabone.net (195.22.213.57)  323.248 ms te0-15-0-0.londra17.lon.seabone.net (195.22.209.222)  323.326 ms
+10  * pos0-0-1-0.newyork50.new.seabone.net (195.22.216.162)  325.455 ms te0-12-0-0.newark11.new.seabone.net (195.22.195.84)  313.209 ms
+11  te0-0-0-18.miami12.mia.seabone.net (195.22.199.92)  312.130 ms * *
+12  te0-0-0-1.baires13.bai.seabone.net (195.22.220.136)  322.151 ms * te0-2-0-3.baires14.bai.seabone.net (195.22.199.71)  331.208 ms
+13  * ae5.baires3.bai.seabone.net (195.22.220.9)  305.438 ms ae7.baires3.bai.seabone.net (195.22.220.11)  313.046 ms
+14  185.70.203.43 (185.70.203.43)  325.258 ms  313.614 ms  317.561 ms
+15  * * *
+16  * * *
+17  * * *
+18  host142.190-227-163.telecom.net.ar (190.227.163.142)  386.438 ms  386.033 ms  368.859 ms
+traceroute to planet-lab1.itba.edu.ar (190.227.163.142), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  1.010 ms  1.446 ms  1.902 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  0.316 ms  0.321 ms  0.313 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.265 ms  0.252 ms  0.243 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  0.328 ms  0.362 ms  0.347 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  45.323 ms  45.368 ms  45.353 ms
+ 6  de-hmb.nordu.net (109.105.98.124)  14.963 ms  14.985 ms  14.971 ms
+ 7  nl-sar.nordu.net (109.105.97.17)  21.537 ms  21.588 ms  21.572 ms
+ 8  * * *
+ 9  te0-1-0-0.londra17.lon.seabone.net (89.221.43.124)  322.427 ms 149.3.183.22 (149.3.183.22)  319.445 ms 149.3.183.24 (149.3.183.24)  326.025 ms
+10  pos0-8-0-3.newyork50.new.seabone.net (195.22.195.46)  307.000 ms te0-12-0-0.newark11.new.seabone.net (195.22.195.84)  315.470 ms  315.385 ms
+11  te0-0-0-18.miami12.mia.seabone.net (195.22.199.92)  312.263 ms  312.029 ms  312.075 ms
+12  te0-1-0-2.baires14.bai.seabone.net (195.22.220.234)  318.212 ms 185.70.203.0 (185.70.203.0)  320.250 ms te0-7-0-4.baires14.bai.seabone.net (195.22.199.5)  322.698 ms
+13  ae5.baires3.bai.seabone.net (195.22.220.9)  303.206 ms ae7.baires3.bai.seabone.net (195.22.220.11)  313.332 ms  310.481 ms
+14  185.70.203.43 (185.70.203.43)  335.530 ms  343.444 ms  350.780 ms
+15  host142.190-227-163.telecom.net.ar (190.227.163.142)  347.781 ms  371.667 ms  360.132 ms
+traceroute to planet-lab1.itba.edu.ar (190.227.163.142), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  1.164 ms  1.613 ms  2.020 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  0.260 ms  0.263 ms  0.269 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.279 ms  0.190 ms  0.188 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  0.274 ms  0.303 ms  0.283 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  4.643 ms  4.680 ms  4.664 ms
+ 6  de-hmb.nordu.net (109.105.98.124)  14.985 ms  15.025 ms  14.999 ms
+ 7  nl-sar.nordu.net (109.105.97.17)  21.535 ms  21.575 ms  21.559 ms
+ 8  * * *
+ 9  te0-1-0-0.londra16.lon.seabone.net (89.221.43.126)  321.716 ms  320.847 ms te0-1-0-0.londra17.lon.seabone.net (89.221.43.124)  321.464 ms
+10  pos0-8-0-3.newyork50.new.seabone.net (195.22.195.46)  309.458 ms te0-12-0-0.newark11.new.seabone.net (195.22.195.84)  322.202 ms  314.897 ms
+11  te0-1-0-18.miami13.mia.seabone.net (195.22.199.14)  326.724 ms te0-0-0-18.miami12.mia.seabone.net (195.22.199.92)  312.197 ms te0-1-0-18.miami13.mia.seabone.net (195.22.199.14)  327.346 ms
+12  185.70.203.0 (185.70.203.0)  320.977 ms te0-7-0-3.baires14.bai.seabone.net (195.22.199.145)  311.782 ms 185.70.203.78 (185.70.203.78)  310.654 ms
+13  ae5.baires3.bai.seabone.net (195.22.220.9)  310.135 ms ae7.baires3.bai.seabone.net (195.22.220.11)  309.142 ms ae5.baires3.bai.seabone.net (195.22.220.9)  305.586 ms
+14  185.70.203.43 (185.70.203.43)  353.539 ms  349.041 ms  343.067 ms
+15  host142.190-227-163.telecom.net.ar (190.227.163.142)  364.367 ms  375.959 ms  410.771 ms
+traceroute to planet-lab1.itba.edu.ar (190.227.163.142), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  1.074 ms  1.573 ms  1.985 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  0.269 ms  0.264 ms  0.272 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.435 ms  0.424 ms  0.406 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  0.405 ms  0.393 ms  0.373 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  4.772 ms  4.823 ms  4.806 ms
+ 6  de-hmb.nordu.net (109.105.98.124)  15.044 ms  15.070 ms  15.050 ms
+ 7  nl-sar.nordu.net (109.105.97.17)  21.468 ms  21.441 ms  21.478 ms
+ 8  * * *
+ 9  te0-15-0-0.londra17.lon.seabone.net (195.22.209.222)  321.087 ms te0-1-0-0.londra17.lon.seabone.net (89.221.43.124)  322.006 ms 149.3.183.22 (149.3.183.22)  317.131 ms
+10  pos0-8-0-3.newyork50.new.seabone.net (195.22.195.46)  307.146 ms te0-12-0-0.newark11.new.seabone.net (195.22.195.84)  313.008 ms pos0-8-0-3.newyork50.new.seabone.net (195.22.195.46)  317.390 ms
+11  te0-0-0-18.miami12.mia.seabone.net (195.22.199.92)  312.100 ms te0-1-0-18.miami13.mia.seabone.net (195.22.199.14)  326.553 ms te0-0-0-18.miami12.mia.seabone.net (195.22.199.92)  312.054 ms
+12  te0-2-0-4.baires13.bai.seabone.net (195.22.220.18)  328.372 ms te0-0-0-1.baires13.bai.seabone.net (195.22.220.136)  312.829 ms te0-2-0-2.baires13.bai.seabone.net (195.22.220.182)  320.259 ms
+13  ae5.baires3.bai.seabone.net (195.22.220.9)  311.439 ms  306.201 ms  303.016 ms
+14  185.70.203.43 (185.70.203.43)  347.751 ms  360.608 ms  352.474 ms
+15  host142.190-227-163.telecom.net.ar (190.227.163.142)  386.215 ms  421.199 ms  412.758 ms
+traceroute to planet-lab1.itba.edu.ar (190.227.163.142), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  1.133 ms  1.620 ms  2.268 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  0.257 ms  0.263 ms  0.287 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.196 ms  0.227 ms  0.214 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  0.343 ms  0.326 ms  0.305 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  4.559 ms  4.601 ms  4.584 ms
+ 6  de-hmb.nordu.net (109.105.98.124)  14.961 ms  15.014 ms  14.998 ms
+ 7  nl-sar.nordu.net (109.105.97.17)  21.640 ms  21.672 ms  21.671 ms
+ 8  * * *
+ 9  te0-1-0-0.londra16.lon.seabone.net (89.221.43.126)  320.095 ms 149.3.183.24 (149.3.183.24)  329.623 ms te0-9-0-0.londra17.lon.seabone.net (195.22.213.57)  322.877 ms
+10  te0-12-0-0.newark11.new.seabone.net (195.22.195.84)  313.699 ms pos0-8-0-3.newyork50.new.seabone.net (195.22.195.46)  313.585 ms  310.007 ms
+11  te0-1-0-18.miami13.mia.seabone.net (195.22.199.14)  318.628 ms te0-0-0-18.miami12.mia.seabone.net (195.22.199.92)  312.278 ms  312.134 ms
+12  te0-7-0-4.baires13.bai.seabone.net (195.22.199.163)  317.748 ms te0-2-0-2.baires14.bai.seabone.net (195.22.220.148)  315.363 ms te0-2-0-0.baires14.bai.seabone.net (195.22.220.126)  316.568 ms
+13  ae7.baires3.bai.seabone.net (195.22.220.11)  304.912 ms ae5.baires3.bai.seabone.net (195.22.220.9)  305.674 ms ae7.baires3.bai.seabone.net (195.22.220.11)  310.036 ms
+14  185.70.203.43 (185.70.203.43)  340.673 ms  343.027 ms  339.584 ms
+15  host142.190-227-163.telecom.net.ar (190.227.163.142)  350.735 ms  354.498 ms  351.556 ms
+traceroute to planet-lab1.itba.edu.ar (190.227.163.142), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  1.326 ms  1.766 ms  2.168 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  0.260 ms  0.278 ms  0.274 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.218 ms  0.207 ms  0.192 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  21.201 ms  21.251 ms  21.234 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  4.562 ms  4.593 ms  4.638 ms
+ 6  de-hmb.nordu.net (109.105.98.124)  14.999 ms  15.021 ms  15.005 ms
+ 7  nl-sar.nordu.net (109.105.97.17)  21.570 ms  21.558 ms  21.542 ms
+ 8  * * *
+ 9  te0-15-0-0.londra17.lon.seabone.net (195.22.209.222)  319.460 ms  321.276 ms te0-9-0-0.londra16.lon.seabone.net (195.22.213.55)  306.707 ms
+10  pos0-8-0-3.newyork50.new.seabone.net (195.22.195.46)  306.972 ms  316.109 ms te0-12-0-0.newark11.new.seabone.net (195.22.195.84)  315.899 ms
+11  te0-1-0-18.miami13.mia.seabone.net (195.22.199.14)  318.377 ms te0-0-0-18.miami12.mia.seabone.net (195.22.199.92)  312.215 ms te0-1-0-18.miami13.mia.seabone.net (195.22.199.14)  323.621 ms
+12  te0-0-0-2.baires13.bai.seabone.net (195.22.220.196)  317.429 ms te0-1-0-3.baires14.bai.seabone.net (195.22.220.192)  321.412 ms te0-2-0-2.baires13.bai.seabone.net (195.22.220.182)  323.994 ms
+13  ae5.baires3.bai.seabone.net (195.22.220.9)  305.570 ms  314.453 ms ae7.baires3.bai.seabone.net (195.22.220.11)  310.083 ms
+14  185.70.203.43 (185.70.203.43)  346.884 ms  333.972 ms  347.879 ms
+15  host142.190-227-163.telecom.net.ar (190.227.163.142)  432.887 ms  414.052 ms  408.269 ms
+traceroute to planet-lab1.itba.edu.ar (190.227.163.142), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  5.059 ms  5.499 ms  5.911 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  0.309 ms  0.307 ms  0.297 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.242 ms  0.223 ms  0.209 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  0.306 ms  0.307 ms  0.290 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  4.636 ms  4.692 ms  4.676 ms
+ 6  de-hmb.nordu.net (109.105.98.124)  14.972 ms  15.024 ms  14.985 ms
+ 7  nl-sar.nordu.net (109.105.97.17)  21.774 ms  21.835 ms  21.802 ms
+ 8  * * *
+ 9  te0-15-0-0.londra16.lon.seabone.net (195.22.209.216)  323.735 ms te0-9-0-0.londra17.lon.seabone.net (195.22.213.57)  323.461 ms 149.3.183.24 (149.3.183.24)  326.316 ms
+10  pos0-8-0-3.newyork50.new.seabone.net (195.22.195.46)  307.730 ms  307.787 ms  307.674 ms
+11  te0-1-0-18.miami13.mia.seabone.net (195.22.199.14)  318.585 ms  318.557 ms  324.466 ms
+12  185.70.203.0 (185.70.203.0)  321.508 ms te0-2-0-4.baires13.bai.seabone.net (195.22.220.18)  324.817 ms te0-6-0-3.baires14.bai.seabone.net (195.22.220.168)  318.690 ms
+13  ae7.baires3.bai.seabone.net (195.22.220.11)  313.895 ms ae5.baires3.bai.seabone.net (195.22.220.9)  315.521 ms ae7.baires3.bai.seabone.net (195.22.220.11)  318.315 ms
+14  185.70.203.43 (185.70.203.43)  325.138 ms  334.791 ms  328.342 ms
+15  host142.190-227-163.telecom.net.ar (190.227.163.142)  345.261 ms  340.436 ms  333.929 ms
+traceroute to planet-lab1.itba.edu.ar (190.227.163.142), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  1.047 ms  1.611 ms  1.964 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  7.873 ms  7.862 ms  7.849 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.270 ms  0.258 ms  0.241 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  0.667 ms  0.725 ms  0.709 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  4.581 ms  4.631 ms  4.614 ms
+ 6  de-hmb.nordu.net (109.105.98.124)  15.009 ms  14.975 ms  15.001 ms
+ 7  nl-sar.nordu.net (109.105.97.17)  21.579 ms  21.485 ms  21.456 ms
+ 8  * * *
+ 9  te0-8-2-0.londra17.lon.seabone.net (89.221.43.114)  316.210 ms te0-1-0-0.londra16.lon.seabone.net (89.221.43.126)  320.756 ms te0-8-2-0.londra17.lon.seabone.net (89.221.43.114)  316.509 ms
+10  pos0-8-0-3.newyork50.new.seabone.net (195.22.195.46)  317.828 ms te0-12-0-0.newark11.new.seabone.net (195.22.195.84)  322.647 ms  322.690 ms
+11  te0-1-0-18.miami13.mia.seabone.net (195.22.199.14)  326.821 ms te0-0-0-18.miami12.mia.seabone.net (195.22.199.92)  312.556 ms  312.571 ms
+12  te0-0-0-2.baires13.bai.seabone.net (195.22.220.196)  309.319 ms 185.70.203.78 (185.70.203.78)  314.574 ms te0-7-0-4.baires14.bai.seabone.net (195.22.199.5)  326.527 ms
+13  ae7.baires3.bai.seabone.net (195.22.220.11)  319.399 ms  324.607 ms  310.447 ms
+14  185.70.203.43 (185.70.203.43)  341.662 ms  331.268 ms  334.683 ms
+15  host142.190-227-163.telecom.net.ar (190.227.163.142)  347.464 ms  339.422 ms  333.676 ms

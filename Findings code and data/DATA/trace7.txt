@@ -1,0 +1,2147 @@
+traceroute to pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  1.084 ms  1.675 ms  2.012 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  0.317 ms  0.317 ms  0.309 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.257 ms  0.238 ms  0.229 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  0.335 ms  0.349 ms  0.332 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  4.636 ms  4.624 ms  4.603 ms
+ 6  pionier.mx1.poz.pl.geant.net (62.40.125.245)  4.661 ms  4.633 ms  4.764 ms
+ 7  ae3.mx1.fra.de.geant.net (62.40.98.130)  25.635 ms  25.694 ms  25.679 ms
+ 8  ae1.mx1.ams.nl.geant.net (62.40.98.129)  32.406 ms  32.470 ms  32.439 ms
+ 9  ae2.mx1.lon.uk.geant.net (62.40.98.80)  39.906 ms  40.458 ms  40.458 ms
+10  ae0.mx1.lon2.uk.geant.net.geant.net (62.40.98.79)  40.762 ms  40.717 ms  40.737 ms
+11  sinet-gw.mx1.lon2.uk.geant.net (62.40.124.174)  40.896 ms  40.801 ms  40.851 ms
+12  tokyo1-GM-XE-7-2-0-100.s5.sinet.ad.jp (150.99.93.230)  250.924 ms  250.928 ms  250.946 ms
+13  hiroshima-RM-ET-7-1-0-1151.s5.sinet.ad.jp (150.99.89.200)  262.930 ms  262.833 ms  262.811 ms
+14  super-csi.gw.sinet.ad.jp (150.99.188.2)  264.126 ms  264.137 ms  255.240 ms
+15  202.15.114.4 (202.15.114.4)  264.025 ms  264.192 ms  255.310 ms
+16  165.242.3.33 (165.242.3.33)  255.536 ms  255.565 ms  264.337 ms
+17  165.242.35.65 (165.242.35.65)  256.822 ms  256.634 ms  265.572 ms
+18  pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129)  264.153 ms  255.342 ms  255.335 ms
+traceroute to pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  1.347 ms  1.868 ms  1.912 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  0.269 ms  0.277 ms  0.285 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.209 ms  0.199 ms  0.204 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  0.365 ms  0.349 ms  0.331 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  4.605 ms  4.658 ms  4.646 ms
+ 6  pionier.mx1.poz.pl.geant.net (62.40.125.245)  4.638 ms  4.646 ms  4.658 ms
+ 7  ae3.mx1.fra.de.geant.net (62.40.98.130)  25.614 ms  25.672 ms  25.658 ms
+ 8  ae1.mx1.ams.nl.geant.net (62.40.98.129)  32.508 ms  32.507 ms  32.484 ms
+ 9  ae2.mx1.lon.uk.geant.net (62.40.98.80)  39.777 ms  39.789 ms  39.829 ms
+10  ae0.mx1.lon2.uk.geant.net.geant.net (62.40.98.79)  40.771 ms  40.720 ms  40.738 ms
+11  sinet-gw.mx1.lon2.uk.geant.net (62.40.124.174)  40.891 ms  40.887 ms  40.853 ms
+12  tokyo1-GM-XE-7-2-0-100.s5.sinet.ad.jp (150.99.93.230)  250.850 ms  250.855 ms  250.818 ms
+13  hiroshima-RM-ET-7-1-0-1151.s5.sinet.ad.jp (150.99.89.200)  263.005 ms  263.017 ms  263.058 ms
+14  super-csi.gw.sinet.ad.jp (150.99.188.2)  263.985 ms  264.267 ms  257.509 ms
+15  202.15.114.4 (202.15.114.4)  263.973 ms  263.989 ms  257.501 ms
+16  165.242.3.33 (165.242.3.33)  257.609 ms  257.726 ms  264.305 ms
+17  165.242.35.65 (165.242.35.65)  258.881 ms  259.035 ms  265.600 ms
+18  pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129)  264.005 ms  257.279 ms  273.612 ms
+traceroute to pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  1.153 ms  1.672 ms  2.068 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  0.260 ms  0.293 ms  0.275 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.230 ms  0.215 ms  0.198 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  0.374 ms  0.346 ms  0.328 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  4.614 ms  4.633 ms  4.620 ms
+ 6  pionier.mx1.poz.pl.geant.net (62.40.125.245)  4.660 ms  4.640 ms  4.673 ms
+ 7  ae3.mx1.fra.de.geant.net (62.40.98.130)  25.600 ms  25.643 ms  25.629 ms
+ 8  ae1.mx1.ams.nl.geant.net (62.40.98.129)  32.651 ms  32.686 ms  32.655 ms
+ 9  ae2.mx1.lon.uk.geant.net (62.40.98.80)  39.849 ms  39.797 ms  39.832 ms
+10  ae0.mx1.lon2.uk.geant.net.geant.net (62.40.98.79)  40.740 ms  40.813 ms  40.706 ms
+11  sinet-gw.mx1.lon2.uk.geant.net (62.40.124.174)  40.888 ms  40.934 ms  40.915 ms
+12  tokyo1-GM-XE-7-2-0-100.s5.sinet.ad.jp (150.99.93.230)  250.911 ms  251.198 ms  251.212 ms
+13  hiroshima-RM-ET-7-1-0-1151.s5.sinet.ad.jp (150.99.89.200)  263.105 ms  263.083 ms  263.130 ms
+14  super-csi.gw.sinet.ad.jp (150.99.188.2)  264.240 ms  264.223 ms  257.669 ms
+15  202.15.114.4 (202.15.114.4)  264.197 ms  264.283 ms  257.505 ms
+16  165.242.3.33 (165.242.3.33)  257.760 ms  257.633 ms  264.356 ms
+17  165.242.35.65 (165.242.35.65)  258.941 ms  259.047 ms  265.794 ms
+18  pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129)  264.134 ms  257.416 ms  294.978 ms
+traceroute to pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  1.189 ms  1.638 ms  2.046 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  0.336 ms  0.328 ms  0.312 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.261 ms  0.246 ms  0.232 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  0.353 ms  0.338 ms  0.320 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  4.657 ms  4.649 ms  4.632 ms
+ 6  pionier.mx1.poz.pl.geant.net (62.40.125.245)  9.289 ms  9.162 ms  4.649 ms
+ 7  ae3.mx1.fra.de.geant.net (62.40.98.130)  25.849 ms  25.842 ms  25.549 ms
+ 8  ae1.mx1.ams.nl.geant.net (62.40.98.129)  32.333 ms  32.602 ms  32.594 ms
+ 9  ae2.mx1.lon.uk.geant.net (62.40.98.80)  39.902 ms  39.897 ms  39.918 ms
+10  ae0.mx1.lon2.uk.geant.net.geant.net (62.40.98.79)  40.704 ms  40.754 ms  40.800 ms
+11  sinet-gw.mx1.lon2.uk.geant.net (62.40.124.174)  40.783 ms  40.748 ms  40.731 ms
+12  tokyo1-GM-XE-7-2-0-100.s5.sinet.ad.jp (150.99.93.230)  250.809 ms  250.964 ms  250.828 ms
+13  hiroshima-RM-ET-7-1-0-1151.s5.sinet.ad.jp (150.99.89.200)  279.611 ms  273.192 ms  273.144 ms
+14  super-csi.gw.sinet.ad.jp (150.99.188.2)  264.088 ms  264.072 ms  255.237 ms
+15  202.15.114.4 (202.15.114.4)  263.971 ms  263.941 ms  255.189 ms
+16  165.242.3.33 (165.242.3.33)  255.878 ms  255.421 ms  264.221 ms
+17  165.242.35.65 (165.242.35.65)  256.760 ms  256.813 ms  265.605 ms
+18  pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129)  340.088 ms  322.702 ms  321.508 ms
+traceroute to pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  0.996 ms  1.449 ms  1.879 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  0.309 ms  0.295 ms  0.285 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.237 ms  0.218 ms  0.203 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  13.656 ms  13.707 ms  13.620 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  4.662 ms  4.709 ms  4.692 ms
+ 6  pionier.mx1.poz.pl.geant.net (62.40.125.245)  4.679 ms  4.676 ms  4.660 ms
+ 7  ae3.mx1.fra.de.geant.net (62.40.98.130)  25.561 ms  25.644 ms  25.630 ms
+ 8  ae1.mx1.ams.nl.geant.net (62.40.98.129)  32.320 ms  32.369 ms  32.448 ms
+ 9  ae2.mx1.lon.uk.geant.net (62.40.98.80)  39.925 ms  39.886 ms  39.917 ms
+10  ae0.mx1.lon2.uk.geant.net.geant.net (62.40.98.79)  40.848 ms  40.896 ms  40.847 ms
+11  sinet-gw.mx1.lon2.uk.geant.net (62.40.124.174)  41.358 ms  42.017 ms  41.907 ms
+12  tokyo1-GM-XE-7-2-0-100.s5.sinet.ad.jp (150.99.93.230)  250.826 ms  250.795 ms  250.809 ms
+13  hiroshima-RM-ET-7-1-0-1151.s5.sinet.ad.jp (150.99.89.200)  264.250 ms  262.940 ms  262.900 ms
+14  super-csi.gw.sinet.ad.jp (150.99.188.2)  264.123 ms  264.127 ms  255.243 ms
+15  202.15.114.4 (202.15.114.4)  286.992 ms  285.493 ms  285.363 ms
+16  165.242.3.33 (165.242.3.33)  255.323 ms  255.415 ms  264.345 ms
+17  165.242.35.65 (165.242.35.65)  275.817 ms  256.877 ms  265.613 ms
+18  pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129)  264.000 ms  259.986 ms  263.959 ms
+traceroute to pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  1.162 ms  1.594 ms  1.964 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  0.270 ms  0.278 ms  0.272 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.213 ms  0.211 ms  0.207 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  0.352 ms  0.339 ms  0.308 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  4.574 ms  4.629 ms  4.572 ms
+ 6  pionier.mx1.poz.pl.geant.net (62.40.125.245)  4.712 ms  5.618 ms  4.653 ms
+ 7  ae3.mx1.fra.de.geant.net (62.40.98.130)  25.740 ms  25.635 ms  25.702 ms
+ 8  ae1.mx1.ams.nl.geant.net (62.40.98.129)  32.402 ms  32.460 ms  32.380 ms
+ 9  ae2.mx1.lon.uk.geant.net (62.40.98.80)  39.903 ms  39.957 ms  39.942 ms
+10  ae0.mx1.lon2.uk.geant.net.geant.net (62.40.98.79)  40.692 ms  40.746 ms  40.741 ms
+11  sinet-gw.mx1.lon2.uk.geant.net (62.40.124.174)  40.847 ms  40.839 ms  40.776 ms
+12  tokyo1-GM-XE-7-2-0-100.s5.sinet.ad.jp (150.99.93.230)  251.007 ms  250.903 ms  250.782 ms
+13  hiroshima-RM-ET-7-1-0-1151.s5.sinet.ad.jp (150.99.89.200)  263.000 ms  263.554 ms  263.597 ms
+14  super-csi.gw.sinet.ad.jp (150.99.188.2)  264.082 ms  264.057 ms  255.232 ms
+15  202.15.114.4 (202.15.114.4)  298.415 ms  297.799 ms  257.269 ms
+16  165.242.3.33 (165.242.3.33)  255.583 ms  255.438 ms  264.215 ms
+17  165.242.35.65 (165.242.35.65)  257.436 ms  256.729 ms  265.413 ms
+18  pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129)  264.019 ms  255.222 ms  255.144 ms
+traceroute to pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  1.032 ms  1.468 ms  1.916 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  0.254 ms  0.300 ms  0.271 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.229 ms  0.218 ms  0.253 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  0.265 ms  0.303 ms  0.285 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  32.260 ms  32.311 ms  32.284 ms
+ 6  pionier.mx1.poz.pl.geant.net (62.40.125.245)  4.648 ms  4.677 ms  4.662 ms
+ 7  ae3.mx1.fra.de.geant.net (62.40.98.130)  25.599 ms  25.645 ms  25.635 ms
+ 8  ae1.mx1.ams.nl.geant.net (62.40.98.129)  32.392 ms  32.363 ms  32.403 ms
+ 9  ae2.mx1.lon.uk.geant.net (62.40.98.80)  39.929 ms  39.776 ms  39.830 ms
+10  ae0.mx1.lon2.uk.geant.net.geant.net (62.40.98.79)  40.842 ms  40.782 ms  40.823 ms
+11  sinet-gw.mx1.lon2.uk.geant.net (62.40.124.174)  40.853 ms  40.936 ms  40.811 ms
+12  tokyo1-GM-XE-7-2-0-100.s5.sinet.ad.jp (150.99.93.230)  250.813 ms  251.329 ms  251.376 ms
+13  hiroshima-RM-ET-7-1-0-1151.s5.sinet.ad.jp (150.99.89.200)  262.928 ms  263.173 ms  263.157 ms
+14  super-csi.gw.sinet.ad.jp (150.99.188.2)  264.263 ms  264.116 ms  255.380 ms
+15  202.15.114.4 (202.15.114.4)  264.101 ms  263.948 ms  255.237 ms
+16  165.242.3.33 (165.242.3.33)  255.483 ms  255.398 ms  264.379 ms
+17  165.242.35.65 (165.242.35.65)  256.745 ms  256.734 ms  265.563 ms
+18  pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129)  263.956 ms  255.121 ms  255.059 ms
+traceroute to pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  1.124 ms  1.618 ms  2.111 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  0.258 ms  0.305 ms  0.281 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.234 ms  0.202 ms  0.204 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  0.342 ms  0.326 ms  0.296 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  4.581 ms  4.636 ms  4.620 ms
+ 6  pionier.mx1.poz.pl.geant.net (62.40.125.245)  4.642 ms  4.687 ms  4.668 ms
+ 7  ae3.mx1.fra.de.geant.net (62.40.98.130)  25.942 ms  25.999 ms  25.985 ms
+ 8  ae1.mx1.ams.nl.geant.net (62.40.98.129)  32.533 ms  32.447 ms  32.415 ms
+ 9  ae2.mx1.lon.uk.geant.net (62.40.98.80)  39.867 ms  39.836 ms  39.876 ms
+10  ae0.mx1.lon2.uk.geant.net.geant.net (62.40.98.79)  40.769 ms  40.877 ms  40.764 ms
+11  sinet-gw.mx1.lon2.uk.geant.net (62.40.124.174)  40.824 ms  40.781 ms  40.760 ms
+12  tokyo1-GM-XE-7-2-0-100.s5.sinet.ad.jp (150.99.93.230)  251.003 ms  251.019 ms  251.013 ms
+13  hiroshima-RM-ET-7-1-0-1151.s5.sinet.ad.jp (150.99.89.200)  263.121 ms  262.987 ms  262.953 ms
+14  super-csi.gw.sinet.ad.jp (150.99.188.2)  264.164 ms  264.240 ms  255.430 ms
+15  202.15.114.4 (202.15.114.4)  264.181 ms  264.214 ms  255.342 ms
+16  165.242.3.33 (165.242.3.33)  255.473 ms  255.510 ms  264.486 ms
+17  165.242.35.65 (165.242.35.65)  256.865 ms  256.938 ms  265.845 ms
+18  pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129)  264.124 ms  255.148 ms  255.183 ms
+traceroute to pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  1.067 ms  1.640 ms  1.971 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  0.272 ms  0.269 ms  0.271 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.212 ms  0.203 ms  0.184 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  13.475 ms  13.521 ms  13.511 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  4.604 ms  4.657 ms  4.633 ms
+ 6  pionier.mx1.poz.pl.geant.net (62.40.125.245)  4.706 ms  4.684 ms  4.657 ms
+ 7  ae3.mx1.fra.de.geant.net (62.40.98.130)  25.669 ms  25.744 ms  25.712 ms
+ 8  ae1.mx1.ams.nl.geant.net (62.40.98.129)  32.404 ms  32.399 ms  32.368 ms
+ 9  ae2.mx1.lon.uk.geant.net (62.40.98.80)  39.802 ms  39.926 ms  39.808 ms
+10  ae0.mx1.lon2.uk.geant.net.geant.net (62.40.98.79)  40.740 ms  40.778 ms  40.765 ms
+11  sinet-gw.mx1.lon2.uk.geant.net (62.40.124.174)  40.852 ms  41.309 ms  41.199 ms
+12  tokyo1-GM-XE-7-2-0-100.s5.sinet.ad.jp (150.99.93.230)  250.796 ms  250.793 ms  250.804 ms
+13  hiroshima-RM-ET-7-1-0-1151.s5.sinet.ad.jp (150.99.89.200)  262.838 ms  263.019 ms  263.023 ms
+14  super-csi.gw.sinet.ad.jp (150.99.188.2)  264.045 ms  264.062 ms  255.338 ms
+15  202.15.114.4 (202.15.114.4)  265.158 ms  264.074 ms  263.037 ms
+16  165.242.3.33 (165.242.3.33)  255.382 ms  255.395 ms  264.250 ms
+17  165.242.35.65 (165.242.35.65)  258.034 ms  256.753 ms  265.589 ms
+18  pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129)  264.108 ms  255.113 ms  276.824 ms
+traceroute to pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  1.547 ms  2.152 ms  2.991 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  0.338 ms  0.328 ms  0.314 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.251 ms  0.247 ms  0.228 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  0.439 ms  0.344 ms  0.324 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  4.638 ms  4.623 ms  4.605 ms
+ 6  pionier.mx1.poz.pl.geant.net (62.40.125.245)  4.653 ms  4.702 ms  4.685 ms
+ 7  ae3.mx1.fra.de.geant.net (62.40.98.130)  25.613 ms  25.667 ms  25.658 ms
+ 8  ae1.mx1.ams.nl.geant.net (62.40.98.129)  32.370 ms  32.388 ms  32.361 ms
+ 9  ae2.mx1.lon.uk.geant.net (62.40.98.80)  39.848 ms  39.881 ms  39.891 ms
+10  ae0.mx1.lon2.uk.geant.net.geant.net (62.40.98.79)  40.776 ms  40.844 ms  40.747 ms
+11  sinet-gw.mx1.lon2.uk.geant.net (62.40.124.174)  40.788 ms  40.793 ms  40.771 ms
+12  tokyo1-GM-XE-7-2-0-100.s5.sinet.ad.jp (150.99.93.230)  250.910 ms  250.948 ms  250.904 ms
+13  hiroshima-RM-ET-7-1-0-1151.s5.sinet.ad.jp (150.99.89.200)  262.979 ms  263.029 ms  263.025 ms
+14  super-csi.gw.sinet.ad.jp (150.99.188.2)  264.097 ms  264.039 ms  255.227 ms
+15  202.15.114.4 (202.15.114.4)  264.063 ms  264.050 ms  255.169 ms
+16  165.242.3.33 (165.242.3.33)  255.518 ms  255.585 ms  264.316 ms
+17  165.242.35.65 (165.242.35.65)  256.749 ms  257.657 ms  265.478 ms
+18  pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129)  267.150 ms  255.337 ms  255.181 ms
+traceroute to pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  1.117 ms  1.629 ms  2.038 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  0.293 ms  0.302 ms  0.307 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.224 ms  0.206 ms  0.190 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  0.281 ms  0.348 ms  0.298 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  4.643 ms  4.693 ms  4.676 ms
+ 6  pionier.mx1.poz.pl.geant.net (62.40.125.245)  4.659 ms  4.704 ms  4.688 ms
+ 7  ae3.mx1.fra.de.geant.net (62.40.98.130)  25.974 ms  26.033 ms  26.019 ms
+ 8  ae1.mx1.ams.nl.geant.net (62.40.98.129)  32.319 ms  32.366 ms  32.351 ms
+ 9  ae2.mx1.lon.uk.geant.net (62.40.98.80)  39.825 ms  39.853 ms  39.856 ms
+10  ae0.mx1.lon2.uk.geant.net.geant.net (62.40.98.79)  40.740 ms  40.761 ms  40.759 ms
+11  sinet-gw.mx1.lon2.uk.geant.net (62.40.124.174)  40.919 ms  40.777 ms  40.812 ms
+12  tokyo1-GM-XE-7-2-0-100.s5.sinet.ad.jp (150.99.93.230)  250.864 ms  250.901 ms  250.966 ms
+13  hiroshima-RM-ET-7-1-0-1151.s5.sinet.ad.jp (150.99.89.200)  263.732 ms  262.890 ms  262.932 ms
+14  super-csi.gw.sinet.ad.jp (150.99.188.2)  264.021 ms  264.226 ms  255.282 ms
+15  202.15.114.4 (202.15.114.4)  264.153 ms  264.179 ms  255.265 ms
+16  165.242.3.33 (165.242.3.33)  255.432 ms  255.393 ms  264.629 ms
+17  165.242.35.65 (165.242.35.65)  256.967 ms  256.861 ms  265.623 ms
+18  pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129)  263.950 ms  255.236 ms  255.382 ms
+traceroute to pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  1.088 ms  1.588 ms  2.016 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  0.314 ms  0.306 ms  0.292 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.227 ms  0.225 ms  0.210 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  0.322 ms  0.305 ms  0.420 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  4.593 ms  4.651 ms  4.634 ms
+ 6  pionier.mx1.poz.pl.geant.net (62.40.125.245)  4.640 ms  4.650 ms  4.632 ms
+ 7  ae3.mx1.fra.de.geant.net (62.40.98.130)  25.660 ms  25.760 ms  25.734 ms
+ 8  ae1.mx1.ams.nl.geant.net (62.40.98.129)  32.371 ms  32.420 ms  32.386 ms
+ 9  ae2.mx1.lon.uk.geant.net (62.40.98.80)  39.833 ms  39.857 ms  39.881 ms
+10  ae0.mx1.lon2.uk.geant.net.geant.net (62.40.98.79)  40.732 ms  40.708 ms  40.668 ms
+11  sinet-gw.mx1.lon2.uk.geant.net (62.40.124.174)  40.807 ms  40.916 ms  40.811 ms
+12  tokyo1-GM-XE-7-2-0-100.s5.sinet.ad.jp (150.99.93.230)  250.802 ms  250.845 ms  250.903 ms
+13  hiroshima-RM-ET-7-1-0-1151.s5.sinet.ad.jp (150.99.89.200)  263.180 ms  263.182 ms  263.070 ms
+14  super-csi.gw.sinet.ad.jp (150.99.188.2)  264.217 ms  264.129 ms  255.213 ms
+15  202.15.114.4 (202.15.114.4)  264.254 ms  263.978 ms  255.036 ms
+16  165.242.3.33 (165.242.3.33)  255.550 ms  255.522 ms  264.311 ms
+17  165.242.35.65 (165.242.35.65)  256.837 ms  256.937 ms  265.656 ms
+18  pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129)  288.139 ms  275.397 ms  269.601 ms
+traceroute to pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  1.067 ms  1.623 ms  1.986 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  0.317 ms  0.302 ms  0.292 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.231 ms  0.225 ms  0.209 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  0.392 ms  0.367 ms  0.330 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  6.242 ms  6.289 ms  6.273 ms
+ 6  pionier.mx1.poz.pl.geant.net (62.40.125.245)  4.676 ms  4.691 ms  4.650 ms
+ 7  ae3.mx1.fra.de.geant.net (62.40.98.130)  36.159 ms  36.150 ms  25.626 ms
+ 8  ae1.mx1.ams.nl.geant.net (62.40.98.129)  32.346 ms  32.385 ms  32.369 ms
+ 9  ae2.mx1.lon.uk.geant.net (62.40.98.80)  39.923 ms  39.854 ms  39.840 ms
+10  ae0.mx1.lon2.uk.geant.net.geant.net (62.40.98.79)  40.752 ms  40.816 ms  40.887 ms
+11  sinet-gw.mx1.lon2.uk.geant.net (62.40.124.174)  40.870 ms  40.923 ms  40.784 ms
+12  tokyo1-GM-XE-7-2-0-100.s5.sinet.ad.jp (150.99.93.230)  250.842 ms  250.957 ms  250.928 ms
+13  hiroshima-RM-ET-7-1-0-1151.s5.sinet.ad.jp (150.99.89.200)  262.993 ms  262.993 ms  263.195 ms
+14  super-csi.gw.sinet.ad.jp (150.99.188.2)  264.393 ms  264.426 ms  255.297 ms
+15  202.15.114.4 (202.15.114.4)  264.189 ms  263.890 ms  255.204 ms
+16  165.242.3.33 (165.242.3.33)  255.373 ms  255.335 ms  264.500 ms
+17  165.242.35.65 (165.242.35.65)  256.989 ms  256.743 ms  265.641 ms
+18  pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129)  265.445 ms  255.145 ms  258.087 ms
+traceroute to pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  1.231 ms  1.698 ms  2.095 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  0.240 ms  0.283 ms  0.284 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.235 ms  0.216 ms  0.226 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  39.361 ms  39.392 ms  39.375 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  4.635 ms  4.701 ms  4.671 ms
+ 6  pionier.mx1.poz.pl.geant.net (62.40.125.245)  4.680 ms * *
+ 7  * * *
+ 8  * ae1.mx1.ams.nl.geant.net (62.40.98.129)  32.401 ms  32.381 ms
+ 9  ae2.mx1.lon.uk.geant.net (62.40.98.80)  39.909 ms  39.893 ms  39.919 ms
+10  ae0.mx1.lon2.uk.geant.net.geant.net (62.40.98.79)  40.745 ms  40.776 ms  40.751 ms
+11  sinet-gw.mx1.lon2.uk.geant.net (62.40.124.174)  41.161 ms  40.789 ms  40.789 ms
+12  tokyo1-GM-XE-7-2-0-100.s5.sinet.ad.jp (150.99.93.230)  252.172 ms  250.855 ms  250.792 ms
+13  hiroshima-RM-ET-7-1-0-1151.s5.sinet.ad.jp (150.99.89.200)  262.845 ms  263.028 ms  263.055 ms
+14  super-csi.gw.sinet.ad.jp (150.99.188.2)  264.106 ms  264.004 ms  255.227 ms
+15  202.15.114.4 (202.15.114.4)  263.946 ms  263.994 ms  255.345 ms
+16  165.242.3.33 (165.242.3.33)  255.493 ms  255.437 ms  264.330 ms
+17  165.242.35.65 (165.242.35.65)  256.850 ms  256.793 ms  265.721 ms
+18  pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129)  263.979 ms  255.154 ms  264.006 ms
+traceroute to pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  8.403 ms  8.899 ms  9.302 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  0.287 ms  0.305 ms  0.285 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.212 ms  0.228 ms  0.209 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  0.378 ms  0.355 ms  0.334 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  7.011 ms  7.063 ms  7.024 ms
+ 6  pionier.mx1.poz.pl.geant.net (62.40.125.245)  4.661 ms  4.657 ms  4.643 ms
+ 7  ae3.mx1.fra.de.geant.net (62.40.98.130)  25.698 ms  25.755 ms  25.740 ms
+ 8  ae1.mx1.ams.nl.geant.net (62.40.98.129)  32.590 ms  32.468 ms  32.528 ms
+ 9  ae2.mx1.lon.uk.geant.net (62.40.98.80)  39.908 ms  39.782 ms  39.833 ms
+10  ae0.mx1.lon2.uk.geant.net.geant.net (62.40.98.79)  40.794 ms  40.873 ms  40.744 ms
+11  sinet-gw.mx1.lon2.uk.geant.net (62.40.124.174)  40.828 ms  40.822 ms  40.842 ms
+12  tokyo1-GM-XE-7-2-0-100.s5.sinet.ad.jp (150.99.93.230)  250.922 ms  250.835 ms  250.857 ms
+13  hiroshima-RM-ET-7-1-0-1151.s5.sinet.ad.jp (150.99.89.200)  263.172 ms  263.004 ms  262.889 ms
+14  super-csi.gw.sinet.ad.jp (150.99.188.2)  264.044 ms  264.075 ms  255.382 ms
+15  202.15.114.4 (202.15.114.4)  263.949 ms  264.048 ms  255.281 ms
+16  165.242.3.33 (165.242.3.33)  255.793 ms  255.679 ms  264.602 ms
+17  165.242.35.65 (165.242.35.65)  256.664 ms  256.805 ms  265.771 ms
+18  pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129)  264.141 ms  257.536 ms  255.304 ms
+traceroute to pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  1.275 ms  1.849 ms  2.226 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  0.290 ms  0.285 ms  0.272 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.228 ms  0.215 ms  0.271 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  0.392 ms  0.382 ms  0.363 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  4.647 ms  4.630 ms  4.616 ms
+ 6  pionier.mx1.poz.pl.geant.net (62.40.125.245)  4.676 ms  4.695 ms  4.691 ms
+ 7  ae3.mx1.fra.de.geant.net (62.40.98.130)  25.693 ms  25.816 ms  25.803 ms
+ 8  ae1.mx1.ams.nl.geant.net (62.40.98.129)  32.370 ms  32.401 ms  32.395 ms
+ 9  ae2.mx1.lon.uk.geant.net (62.40.98.80)  39.878 ms  39.899 ms  39.936 ms
+10  ae0.mx1.lon2.uk.geant.net.geant.net (62.40.98.79)  40.713 ms  40.752 ms  40.681 ms
+11  sinet-gw.mx1.lon2.uk.geant.net (62.40.124.174)  40.861 ms  40.812 ms  40.798 ms
+12  tokyo1-GM-XE-7-2-0-100.s5.sinet.ad.jp (150.99.93.230)  250.968 ms  250.891 ms  251.009 ms
+13  hiroshima-RM-ET-7-1-0-1151.s5.sinet.ad.jp (150.99.89.200)  263.042 ms  262.995 ms  263.009 ms
+14  super-csi.gw.sinet.ad.jp (150.99.188.2)  264.405 ms  264.144 ms  255.410 ms
+15  202.15.114.4 (202.15.114.4)  263.973 ms  263.958 ms  255.338 ms
+16  165.242.3.33 (165.242.3.33)  255.510 ms  255.527 ms  264.641 ms
+17  165.242.35.65 (165.242.35.65)  256.670 ms  257.092 ms  265.565 ms
+18  pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129)  264.099 ms  255.331 ms  255.148 ms
+traceroute to pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  1.354 ms  1.814 ms  2.223 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  0.288 ms  0.283 ms  0.285 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.228 ms  0.244 ms  0.202 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  0.354 ms  0.337 ms  0.317 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  4.564 ms  4.593 ms  4.584 ms
+ 6  pionier.mx1.poz.pl.geant.net (62.40.125.245)  4.652 ms  4.667 ms  4.673 ms
+ 7  ae3.mx1.fra.de.geant.net (62.40.98.130)  25.675 ms  25.690 ms  25.679 ms
+ 8  ae1.mx1.ams.nl.geant.net (62.40.98.129)  32.511 ms  32.383 ms  32.457 ms
+ 9  ae2.mx1.lon.uk.geant.net (62.40.98.80)  39.781 ms  39.860 ms  39.873 ms
+10  ae0.mx1.lon2.uk.geant.net.geant.net (62.40.98.79)  40.782 ms  40.729 ms  40.778 ms
+11  sinet-gw.mx1.lon2.uk.geant.net (62.40.124.174)  40.957 ms  40.986 ms  40.967 ms
+12  tokyo1-GM-XE-7-2-0-100.s5.sinet.ad.jp (150.99.93.230)  251.081 ms  250.971 ms  251.025 ms
+13  hiroshima-RM-ET-7-1-0-1151.s5.sinet.ad.jp (150.99.89.200)  263.232 ms  263.202 ms  263.243 ms
+14  super-csi.gw.sinet.ad.jp (150.99.188.2)  264.152 ms  264.289 ms  255.386 ms
+15  202.15.114.4 (202.15.114.4)  263.873 ms  263.990 ms  255.217 ms
+16  165.242.3.33 (165.242.3.33)  255.489 ms  255.634 ms  264.393 ms
+17  165.242.35.65 (165.242.35.65)  256.975 ms  256.734 ms  265.662 ms
+18  pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129)  264.303 ms  255.444 ms  255.403 ms
+traceroute to pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  5.613 ms  5.953 ms  6.319 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  0.265 ms  0.268 ms  0.280 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.461 ms  0.459 ms  0.498 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  10.500 ms  10.556 ms  10.542 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  56.299 ms  56.349 ms  56.301 ms
+ 6  pionier.mx1.poz.pl.geant.net (62.40.125.245)  4.742 ms  4.702 ms  4.687 ms
+ 7  ae3.mx1.fra.de.geant.net (62.40.98.130)  25.616 ms  25.632 ms  25.711 ms
+ 8  ae1.mx1.ams.nl.geant.net (62.40.98.129)  32.426 ms  32.392 ms  32.325 ms
+ 9  ae2.mx1.lon.uk.geant.net (62.40.98.80)  39.932 ms  39.970 ms  39.937 ms
+10  ae0.mx1.lon2.uk.geant.net.geant.net (62.40.98.79)  40.711 ms  40.708 ms  40.754 ms
+11  sinet-gw.mx1.lon2.uk.geant.net (62.40.124.174)  40.735 ms  40.728 ms  40.772 ms
+12  tokyo1-GM-XE-7-2-0-100.s5.sinet.ad.jp (150.99.93.230)  250.951 ms  250.780 ms  250.847 ms
+13  hiroshima-RM-ET-7-1-0-1151.s5.sinet.ad.jp (150.99.89.200)  279.478 ms  271.886 ms  271.880 ms
+14  super-csi.gw.sinet.ad.jp (150.99.188.2)  264.353 ms  264.268 ms  255.358 ms
+15  202.15.114.4 (202.15.114.4)  264.009 ms  264.468 ms  255.267 ms
+16  165.242.3.33 (165.242.3.33)  255.564 ms  255.551 ms  264.532 ms
+17  165.242.35.65 (165.242.35.65)  256.743 ms  256.900 ms  265.890 ms
+18  pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129)  264.149 ms  255.366 ms  255.229 ms
+traceroute to pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  1.066 ms  1.635 ms  1.967 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  0.291 ms  0.293 ms  0.273 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.216 ms  0.203 ms  0.192 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  3.795 ms  3.853 ms  3.836 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  60.632 ms  60.681 ms  60.664 ms
+ 6  pionier.mx1.poz.pl.geant.net (62.40.125.245)  4.690 ms  4.724 ms  4.710 ms
+ 7  ae3.mx1.fra.de.geant.net (62.40.98.130)  25.644 ms  25.698 ms  25.687 ms
+ 8  ae1.mx1.ams.nl.geant.net (62.40.98.129)  33.089 ms  33.201 ms  32.955 ms
+ 9  ae2.mx1.lon.uk.geant.net (62.40.98.80)  39.911 ms  39.846 ms  39.862 ms
+10  ae0.mx1.lon2.uk.geant.net.geant.net (62.40.98.79)  40.739 ms  40.752 ms  40.796 ms
+11  sinet-gw.mx1.lon2.uk.geant.net (62.40.124.174)  40.833 ms  40.813 ms  40.854 ms
+12  tokyo1-GM-XE-7-2-0-100.s5.sinet.ad.jp (150.99.93.230)  250.958 ms  250.917 ms  250.844 ms
+13  hiroshima-RM-ET-7-1-0-1151.s5.sinet.ad.jp (150.99.89.200)  263.140 ms  263.110 ms  262.980 ms
+14  super-csi.gw.sinet.ad.jp (150.99.188.2)  264.264 ms  264.730 ms  255.431 ms
+15  202.15.114.4 (202.15.114.4)  264.212 ms  264.185 ms  255.383 ms
+16  165.242.3.33 (165.242.3.33)  255.580 ms  255.565 ms  264.366 ms
+17  165.242.35.65 (165.242.35.65)  256.712 ms  256.917 ms  265.690 ms
+18  pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129)  264.147 ms  255.261 ms  264.170 ms
+traceroute to pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  1.073 ms  1.653 ms  2.077 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  0.306 ms  0.306 ms  0.296 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.239 ms  0.219 ms  0.203 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  0.345 ms  0.436 ms  0.447 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  4.679 ms  4.670 ms  4.653 ms
+ 6  pionier.mx1.poz.pl.geant.net (62.40.125.245)  4.636 ms  4.626 ms  4.649 ms
+ 7  ae3.mx1.fra.de.geant.net (62.40.98.130)  25.624 ms  25.679 ms  25.653 ms
+ 8  ae1.mx1.ams.nl.geant.net (62.40.98.129)  32.495 ms  32.523 ms  32.507 ms
+ 9  ae2.mx1.lon.uk.geant.net (62.40.98.80)  40.015 ms  39.896 ms  39.917 ms
+10  ae0.mx1.lon2.uk.geant.net.geant.net (62.40.98.79)  40.712 ms  40.771 ms  40.823 ms
+11  sinet-gw.mx1.lon2.uk.geant.net (62.40.124.174)  40.805 ms  40.771 ms  40.747 ms
+12  tokyo1-GM-XE-7-2-0-100.s5.sinet.ad.jp (150.99.93.230)  251.015 ms  251.032 ms  250.983 ms
+13  hiroshima-RM-ET-7-1-0-1151.s5.sinet.ad.jp (150.99.89.200)  263.080 ms  280.143 ms  280.186 ms
+14  super-csi.gw.sinet.ad.jp (150.99.188.2)  264.217 ms  264.204 ms  255.356 ms
+15  202.15.114.4 (202.15.114.4)  264.036 ms  264.143 ms  255.301 ms
+16  165.242.3.33 (165.242.3.33)  255.548 ms  255.438 ms  264.503 ms
+17  165.242.35.65 (165.242.35.65)  256.787 ms  256.854 ms  265.746 ms
+18  pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129)  266.750 ms  255.148 ms  260.645 ms
+traceroute to pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  1.112 ms  1.627 ms  2.023 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  0.296 ms  0.291 ms  0.294 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.214 ms  0.208 ms  0.202 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  0.343 ms  0.320 ms  0.315 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  4.586 ms  4.637 ms  4.562 ms
+ 6  pionier.mx1.poz.pl.geant.net (62.40.125.245)  4.727 ms  4.701 ms  4.684 ms
+ 7  ae3.mx1.fra.de.geant.net (62.40.98.130)  25.806 ms  25.668 ms  25.739 ms
+ 8  ae1.mx1.ams.nl.geant.net (62.40.98.129)  32.460 ms  32.497 ms  32.462 ms
+ 9  ae2.mx1.lon.uk.geant.net (62.40.98.80)  39.844 ms  39.886 ms  39.896 ms
+10  ae0.mx1.lon2.uk.geant.net.geant.net (62.40.98.79)  40.844 ms  41.004 ms  40.897 ms
+11  sinet-gw.mx1.lon2.uk.geant.net (62.40.124.174)  40.968 ms  40.972 ms  40.950 ms
+12  tokyo1-GM-XE-7-2-0-100.s5.sinet.ad.jp (150.99.93.230)  251.051 ms  250.770 ms  251.036 ms
+13  hiroshima-RM-ET-7-1-0-1151.s5.sinet.ad.jp (150.99.89.200)  263.009 ms  263.110 ms  263.054 ms
+14  super-csi.gw.sinet.ad.jp (150.99.188.2)  264.358 ms  264.185 ms  255.180 ms
+15  202.15.114.4 (202.15.114.4)  264.350 ms  264.247 ms  255.378 ms
+16  165.242.3.33 (165.242.3.33)  255.625 ms  255.500 ms  264.617 ms
+17  165.242.35.65 (165.242.35.65)  256.886 ms  256.976 ms  265.746 ms
+18  pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129)  264.148 ms  255.273 ms  255.387 ms
+traceroute to pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  1.108 ms  1.629 ms  2.037 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  0.349 ms  0.341 ms  0.330 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.286 ms  0.272 ms  0.252 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  0.331 ms  0.340 ms  0.382 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  7.182 ms  7.243 ms  6.944 ms
+ 6  pionier.mx1.poz.pl.geant.net (62.40.125.245)  4.666 ms  4.699 ms  4.680 ms
+ 7  ae3.mx1.fra.de.geant.net (62.40.98.130)  25.732 ms  25.800 ms  25.787 ms
+ 8  ae1.mx1.ams.nl.geant.net (62.40.98.129)  32.633 ms  32.619 ms  32.432 ms
+ 9  ae2.mx1.lon.uk.geant.net (62.40.98.80)  39.857 ms  39.814 ms  39.877 ms
+10  ae0.mx1.lon2.uk.geant.net.geant.net (62.40.98.79)  40.970 ms  40.816 ms  40.869 ms
+11  sinet-gw.mx1.lon2.uk.geant.net (62.40.124.174)  40.835 ms  40.815 ms  40.869 ms
+12  tokyo1-GM-XE-7-2-0-100.s5.sinet.ad.jp (150.99.93.230)  250.885 ms  250.890 ms  250.849 ms
+13  hiroshima-RM-ET-7-1-0-1151.s5.sinet.ad.jp (150.99.89.200)  263.080 ms  263.021 ms  263.070 ms
+14  super-csi.gw.sinet.ad.jp (150.99.188.2)  264.326 ms  264.190 ms  255.411 ms
+15  202.15.114.4 (202.15.114.4)  264.340 ms  264.122 ms  255.198 ms
+16  165.242.3.33 (165.242.3.33)  255.881 ms  255.784 ms  264.390 ms
+17  165.242.35.65 (165.242.35.65)  257.675 ms  260.923 ms  266.630 ms
+18  pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129)  264.969 ms  255.663 ms  255.861 ms
+traceroute to pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  1.243 ms  1.778 ms  2.106 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  0.266 ms  0.273 ms  0.296 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.205 ms  0.256 ms  0.191 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  0.447 ms  0.417 ms  0.398 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  7.331 ms  7.379 ms  7.363 ms
+ 6  pionier.mx1.poz.pl.geant.net (62.40.125.245)  4.643 ms  4.677 ms  4.712 ms
+ 7  ae3.mx1.fra.de.geant.net (62.40.98.130)  25.720 ms  25.774 ms  25.759 ms
+ 8  ae1.mx1.ams.nl.geant.net (62.40.98.129)  33.900 ms  33.826 ms  33.805 ms
+ 9  ae2.mx1.lon.uk.geant.net (62.40.98.80)  39.864 ms  39.853 ms  39.873 ms
+10  ae0.mx1.lon2.uk.geant.net.geant.net (62.40.98.79)  40.732 ms  40.665 ms  40.692 ms
+11  sinet-gw.mx1.lon2.uk.geant.net (62.40.124.174)  40.719 ms  40.704 ms  40.750 ms
+12  tokyo1-GM-XE-7-2-0-100.s5.sinet.ad.jp (150.99.93.230)  251.135 ms  251.105 ms  251.152 ms
+13  hiroshima-RM-ET-7-1-0-1151.s5.sinet.ad.jp (150.99.89.200)  263.122 ms  263.109 ms  263.007 ms
+14  super-csi.gw.sinet.ad.jp (150.99.188.2)  264.261 ms  264.275 ms  255.463 ms
+15  202.15.114.4 (202.15.114.4)  264.024 ms  263.963 ms  255.245 ms
+16  165.242.3.33 (165.242.3.33)  255.520 ms  255.595 ms  264.360 ms
+17  165.242.35.65 (165.242.35.65)  256.884 ms  257.014 ms  265.778 ms
+18  pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129)  268.368 ms  255.732 ms  255.260 ms
+traceroute to pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  1.152 ms  1.730 ms  2.084 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  0.306 ms  0.322 ms  0.309 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.205 ms  0.240 ms  0.229 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  0.326 ms  0.310 ms  0.357 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  4.605 ms  4.653 ms  4.636 ms
+ 6  pionier.mx1.poz.pl.geant.net (62.40.125.245)  4.704 ms  4.727 ms  4.728 ms
+ 7  ae3.mx1.fra.de.geant.net (62.40.98.130)  25.691 ms  25.585 ms  25.677 ms
+ 8  ae1.mx1.ams.nl.geant.net (62.40.98.129)  32.502 ms  32.537 ms  32.525 ms
+ 9  ae2.mx1.lon.uk.geant.net (62.40.98.80)  39.955 ms  39.965 ms  40.024 ms
+10  ae0.mx1.lon2.uk.geant.net.geant.net (62.40.98.79)  40.786 ms  40.688 ms  40.739 ms
+11  sinet-gw.mx1.lon2.uk.geant.net (62.40.124.174)  40.839 ms  40.812 ms  40.792 ms
+12  tokyo1-GM-XE-7-2-0-100.s5.sinet.ad.jp (150.99.93.230)  251.038 ms  250.827 ms  250.991 ms
+13  hiroshima-RM-ET-7-1-0-1151.s5.sinet.ad.jp (150.99.89.200)  263.179 ms  263.168 ms  263.183 ms
+14  super-csi.gw.sinet.ad.jp (150.99.188.2)  264.396 ms  264.284 ms  255.547 ms
+15  202.15.114.4 (202.15.114.4)  264.092 ms  264.016 ms  255.283 ms
+16  165.242.3.33 (165.242.3.33)  255.659 ms  255.655 ms  264.335 ms
+17  165.242.35.65 (165.242.35.65)  256.833 ms  256.843 ms  265.783 ms
+18  pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129)  265.154 ms  255.639 ms  255.163 ms
+traceroute to pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  1.087 ms  1.547 ms  1.943 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  0.297 ms  0.301 ms  0.292 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.259 ms  0.296 ms  0.223 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  0.335 ms  0.328 ms  0.350 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  4.670 ms  4.723 ms  4.669 ms
+ 6  pionier.mx1.poz.pl.geant.net (62.40.125.245)  4.776 ms  4.738 ms  4.722 ms
+ 7  ae3.mx1.fra.de.geant.net (62.40.98.130)  25.796 ms  26.632 ms  25.817 ms
+ 8  ae1.mx1.ams.nl.geant.net (62.40.98.129)  32.487 ms  32.520 ms  32.497 ms
+ 9  ae2.mx1.lon.uk.geant.net (62.40.98.80)  39.928 ms  39.928 ms  39.901 ms
+10  ae0.mx1.lon2.uk.geant.net.geant.net (62.40.98.79)  40.691 ms  40.736 ms  40.680 ms
+11  sinet-gw.mx1.lon2.uk.geant.net (62.40.124.174)  40.924 ms  40.942 ms  40.925 ms
+12  tokyo1-GM-XE-7-2-0-100.s5.sinet.ad.jp (150.99.93.230)  251.054 ms  250.889 ms  250.988 ms
+13  hiroshima-RM-ET-7-1-0-1151.s5.sinet.ad.jp (150.99.89.200)  263.032 ms  263.259 ms  263.259 ms
+14  super-csi.gw.sinet.ad.jp (150.99.188.2)  264.298 ms  264.551 ms  255.675 ms
+15  202.15.114.4 (202.15.114.4)  264.092 ms  264.144 ms  255.542 ms
+16  165.242.3.33 (165.242.3.33)  255.782 ms  255.466 ms  264.529 ms
+17  165.242.35.65 (165.242.35.65)  257.074 ms  256.857 ms  265.806 ms
+18  pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129)  264.008 ms  255.487 ms  255.200 ms
+traceroute to pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  1.200 ms  1.666 ms  2.071 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  0.306 ms  0.534 ms  0.549 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.235 ms  0.220 ms  0.203 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  0.414 ms  0.398 ms  0.392 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  4.640 ms  4.692 ms  4.674 ms
+ 6  pionier.mx1.poz.pl.geant.net (62.40.125.245)  4.674 ms  4.726 ms  4.708 ms
+ 7  ae3.mx1.fra.de.geant.net (62.40.98.130)  25.645 ms  25.701 ms  25.652 ms
+ 8  ae1.mx1.ams.nl.geant.net (62.40.98.129)  32.445 ms  32.495 ms  32.477 ms
+ 9  ae2.mx1.lon.uk.geant.net (62.40.98.80)  39.865 ms  39.948 ms  39.972 ms
+10  ae0.mx1.lon2.uk.geant.net.geant.net (62.40.98.79)  40.755 ms  40.717 ms  40.709 ms
+11  sinet-gw.mx1.lon2.uk.geant.net (62.40.124.174)  40.792 ms  40.850 ms  40.822 ms
+12  tokyo1-GM-XE-7-2-0-100.s5.sinet.ad.jp (150.99.93.230)  251.039 ms  251.054 ms  251.060 ms
+13  hiroshima-RM-ET-7-1-0-1151.s5.sinet.ad.jp (150.99.89.200)  263.100 ms  262.957 ms  263.136 ms
+14  super-csi.gw.sinet.ad.jp (150.99.188.2)  264.173 ms  264.126 ms  255.561 ms
+15  202.15.114.4 (202.15.114.4)  282.229 ms  279.129 ms  277.887 ms
+16  165.242.3.33 (165.242.3.33)  255.578 ms  255.590 ms  264.408 ms
+17  165.242.35.65 (165.242.35.65)  277.858 ms  257.016 ms  265.774 ms
+18  pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129)  264.156 ms  255.278 ms  255.317 ms
+traceroute to pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  2.443 ms  2.883 ms  3.288 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  0.320 ms  0.320 ms  0.313 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.261 ms  0.252 ms  0.233 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  23.627 ms  23.784 ms  23.769 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  4.718 ms  4.817 ms  4.800 ms
+ 6  pionier.mx1.poz.pl.geant.net (62.40.125.245)  4.782 ms  4.715 ms  4.690 ms
+ 7  ae3.mx1.fra.de.geant.net (62.40.98.130)  25.669 ms  25.724 ms  25.714 ms
+ 8  ae1.mx1.ams.nl.geant.net (62.40.98.129)  32.421 ms  32.349 ms  32.390 ms
+ 9  ae2.mx1.lon.uk.geant.net (62.40.98.80)  39.875 ms  39.916 ms  39.912 ms
+10  ae0.mx1.lon2.uk.geant.net.geant.net (62.40.98.79)  40.957 ms  40.939 ms  40.900 ms
+11  sinet-gw.mx1.lon2.uk.geant.net (62.40.124.174)  40.803 ms  40.770 ms  40.816 ms
+12  tokyo1-GM-XE-7-2-0-100.s5.sinet.ad.jp (150.99.93.230)  251.142 ms  251.054 ms  250.998 ms
+13  hiroshima-RM-ET-7-1-0-1151.s5.sinet.ad.jp (150.99.89.200)  263.175 ms  263.266 ms  263.359 ms
+14  super-csi.gw.sinet.ad.jp (150.99.188.2)  264.305 ms  264.262 ms  255.373 ms
+15  202.15.114.4 (202.15.114.4)  264.121 ms  264.117 ms  255.401 ms
+16  165.242.3.33 (165.242.3.33)  255.723 ms  255.535 ms  264.290 ms
+17  165.242.35.65 (165.242.35.65)  256.784 ms  256.855 ms  265.931 ms
+18  pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129)  264.192 ms  255.323 ms  255.136 ms
+traceroute to pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  33.311 ms  33.819 ms  34.312 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  0.300 ms  0.290 ms  0.289 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.253 ms  0.376 ms  0.275 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  0.373 ms  0.358 ms  0.339 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  4.581 ms  4.639 ms  4.620 ms
+ 6  pionier.mx1.poz.pl.geant.net (62.40.125.245)  4.701 ms  4.787 ms  4.774 ms
+ 7  ae3.mx1.fra.de.geant.net (62.40.98.130)  25.695 ms  27.306 ms  25.707 ms
+ 8  ae1.mx1.ams.nl.geant.net (62.40.98.129)  32.522 ms  32.569 ms  32.633 ms
+ 9  ae2.mx1.lon.uk.geant.net (62.40.98.80)  39.887 ms  40.000 ms  39.869 ms
+10  ae0.mx1.lon2.uk.geant.net.geant.net (62.40.98.79)  40.748 ms  40.796 ms  40.780 ms
+11  sinet-gw.mx1.lon2.uk.geant.net (62.40.124.174)  40.815 ms  40.772 ms  40.805 ms
+12  tokyo1-GM-XE-7-2-0-100.s5.sinet.ad.jp (150.99.93.230)  250.972 ms  251.022 ms  250.814 ms
+13  hiroshima-RM-ET-7-1-0-1151.s5.sinet.ad.jp (150.99.89.200)  263.409 ms  263.484 ms  263.469 ms
+14  super-csi.gw.sinet.ad.jp (150.99.188.2)  264.185 ms  264.215 ms  255.470 ms
+15  202.15.114.4 (202.15.114.4)  264.257 ms  264.072 ms  255.248 ms
+16  165.242.3.33 (165.242.3.33)  255.567 ms  255.555 ms  264.480 ms
+17  165.242.35.65 (165.242.35.65)  256.919 ms  395.580 ms  391.081 ms
+18  pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129)  264.247 ms  255.199 ms  255.215 ms
+traceroute to pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  1.113 ms  1.853 ms  2.252 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  0.259 ms  0.299 ms  0.281 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.232 ms  0.218 ms  0.201 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  0.489 ms  0.485 ms  0.434 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  4.671 ms  4.732 ms  4.716 ms
+ 6  pionier.mx1.poz.pl.geant.net (62.40.125.245)  4.701 ms  4.713 ms  4.697 ms
+ 7  ae3.mx1.fra.de.geant.net (62.40.98.130)  25.687 ms  25.746 ms  25.734 ms
+ 8  ae1.mx1.ams.nl.geant.net (62.40.98.129)  32.879 ms  32.903 ms  32.778 ms
+ 9  ae2.mx1.lon.uk.geant.net (62.40.98.80)  40.065 ms  39.884 ms  39.892 ms
+10  ae0.mx1.lon2.uk.geant.net.geant.net (62.40.98.79)  41.791 ms  41.461 ms  41.506 ms
+11  sinet-gw.mx1.lon2.uk.geant.net (62.40.124.174)  79.865 ms  79.834 ms  79.781 ms
+12  tokyo1-GM-XE-7-2-0-100.s5.sinet.ad.jp (150.99.93.230)  250.933 ms  251.170 ms  251.231 ms
+13  hiroshima-RM-ET-7-1-0-1151.s5.sinet.ad.jp (150.99.89.200)  263.024 ms  263.092 ms  263.247 ms
+14  super-csi.gw.sinet.ad.jp (150.99.188.2)  264.325 ms  264.126 ms  255.438 ms
+15  202.15.114.4 (202.15.114.4)  263.941 ms  264.086 ms  255.254 ms
+16  165.242.3.33 (165.242.3.33)  255.433 ms  255.363 ms  264.909 ms
+17  165.242.35.65 (165.242.35.65)  256.835 ms  257.008 ms  265.609 ms
+18  pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129)  264.154 ms  255.571 ms  255.266 ms
+traceroute to pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  1.124 ms  1.618 ms  2.020 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  0.265 ms  0.266 ms  0.281 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.216 ms  0.225 ms  0.206 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  0.390 ms  0.375 ms  0.357 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  4.615 ms  4.677 ms  4.661 ms
+ 6  pionier.mx1.poz.pl.geant.net (62.40.125.245)  4.800 ms  4.833 ms  4.845 ms
+ 7  ae3.mx1.fra.de.geant.net (62.40.98.130)  26.252 ms  25.682 ms  26.168 ms
+ 8  ae1.mx1.ams.nl.geant.net (62.40.98.129)  32.489 ms  32.532 ms  32.517 ms
+ 9  ae2.mx1.lon.uk.geant.net (62.40.98.80)  39.902 ms  39.933 ms  39.949 ms
+10  ae0.mx1.lon2.uk.geant.net.geant.net (62.40.98.79)  40.687 ms  40.674 ms  40.804 ms
+11  sinet-gw.mx1.lon2.uk.geant.net (62.40.124.174)  40.853 ms  40.837 ms  40.814 ms
+12  tokyo1-GM-XE-7-2-0-100.s5.sinet.ad.jp (150.99.93.230)  252.025 ms  251.026 ms  250.931 ms
+13  hiroshima-RM-ET-7-1-0-1151.s5.sinet.ad.jp (150.99.89.200)  263.149 ms  263.082 ms  263.086 ms
+14  super-csi.gw.sinet.ad.jp (150.99.188.2)  264.335 ms  264.126 ms  255.433 ms
+15  202.15.114.4 (202.15.114.4)  264.061 ms  263.988 ms  255.250 ms
+16  165.242.3.33 (165.242.3.33)  255.550 ms  255.405 ms  264.326 ms
+17  165.242.35.65 (165.242.35.65)  256.951 ms  257.041 ms  265.554 ms
+18  pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129)  264.105 ms  255.245 ms  255.396 ms
+traceroute to pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  1.021 ms  1.461 ms  1.911 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  0.269 ms  0.294 ms  0.308 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.237 ms  0.254 ms  0.240 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  0.384 ms  0.348 ms  0.326 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  4.586 ms  4.605 ms  4.565 ms
+ 6  pionier.mx1.poz.pl.geant.net (62.40.125.245)  4.699 ms  4.666 ms  4.695 ms
+ 7  ae3.mx1.fra.de.geant.net (62.40.98.130)  25.712 ms  25.759 ms  25.750 ms
+ 8  ae1.mx1.ams.nl.geant.net (62.40.98.129)  33.024 ms  33.057 ms  33.041 ms
+ 9  ae2.mx1.lon.uk.geant.net (62.40.98.80)  39.968 ms  39.965 ms  39.933 ms
+10  ae0.mx1.lon2.uk.geant.net.geant.net (62.40.98.79)  41.029 ms  40.777 ms  40.823 ms
+11  sinet-gw.mx1.lon2.uk.geant.net (62.40.124.174)  40.861 ms  40.846 ms  40.826 ms
+12  tokyo1-GM-XE-7-2-0-100.s5.sinet.ad.jp (150.99.93.230)  251.025 ms  250.908 ms  250.882 ms
+13  hiroshima-RM-ET-7-1-0-1151.s5.sinet.ad.jp (150.99.89.200)  263.084 ms  263.353 ms  263.300 ms
+14  super-csi.gw.sinet.ad.jp (150.99.188.2)  264.222 ms  264.209 ms  255.321 ms
+15  202.15.114.4 (202.15.114.4)  264.040 ms  264.073 ms  255.139 ms
+16  165.242.3.33 (165.242.3.33)  255.580 ms  255.631 ms  264.412 ms
+17  165.242.35.65 (165.242.35.65)  257.001 ms  257.279 ms  265.825 ms
+18  pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129)  264.174 ms  255.332 ms  255.140 ms
+traceroute to pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  1.089 ms  1.657 ms  2.006 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  0.304 ms  0.294 ms  0.278 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.226 ms  0.212 ms  0.196 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  0.394 ms  0.369 ms  0.330 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  4.602 ms  4.664 ms  4.648 ms
+ 6  pionier.mx1.poz.pl.geant.net (62.40.125.245)  4.630 ms  4.639 ms  4.659 ms
+ 7  ae3.mx1.fra.de.geant.net (62.40.98.130)  25.611 ms  25.674 ms  25.662 ms
+ 8  ae1.mx1.ams.nl.geant.net (62.40.98.129)  32.462 ms  32.515 ms  32.481 ms
+ 9  ae2.mx1.lon.uk.geant.net (62.40.98.80)  39.984 ms  39.890 ms  39.913 ms
+10  ae0.mx1.lon2.uk.geant.net.geant.net (62.40.98.79)  40.840 ms  40.836 ms  40.890 ms
+11  sinet-gw.mx1.lon2.uk.geant.net (62.40.124.174)  40.845 ms  40.915 ms  40.856 ms
+12  tokyo1-GM-XE-7-2-0-100.s5.sinet.ad.jp (150.99.93.230)  251.070 ms  251.036 ms  251.077 ms
+13  hiroshima-RM-ET-7-1-0-1151.s5.sinet.ad.jp (150.99.89.200)  263.271 ms  263.284 ms  263.266 ms
+14  super-csi.gw.sinet.ad.jp (150.99.188.2)  264.128 ms  264.341 ms  255.370 ms
+15  202.15.114.4 (202.15.114.4)  264.115 ms  264.122 ms  255.340 ms
+16  165.242.3.33 (165.242.3.33)  255.590 ms  255.609 ms  264.327 ms
+17  165.242.35.65 (165.242.35.65)  256.786 ms  256.894 ms  265.580 ms
+18  pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129)  264.123 ms  255.383 ms  255.311 ms
+traceroute to pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  1.299 ms  1.745 ms  2.281 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  0.268 ms  0.266 ms  0.291 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.221 ms  0.241 ms  0.219 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  0.354 ms  0.338 ms  0.318 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  4.684 ms  4.667 ms  4.622 ms
+ 6  pionier.mx1.poz.pl.geant.net (62.40.125.245)  5.109 ms  5.058 ms  5.039 ms
+ 7  ae3.mx1.fra.de.geant.net (62.40.98.130)  25.748 ms  25.810 ms  25.777 ms
+ 8  ae1.mx1.ams.nl.geant.net (62.40.98.129)  32.371 ms  32.830 ms  32.797 ms
+ 9  ae2.mx1.lon.uk.geant.net (62.40.98.80)  39.954 ms  39.924 ms  39.890 ms
+10  ae0.mx1.lon2.uk.geant.net.geant.net (62.40.98.79)  40.835 ms  40.892 ms  40.774 ms
+11  sinet-gw.mx1.lon2.uk.geant.net (62.40.124.174)  41.593 ms  41.031 ms  41.009 ms
+12  tokyo1-GM-XE-7-2-0-100.s5.sinet.ad.jp (150.99.93.230)  250.807 ms  250.833 ms  250.878 ms
+13  hiroshima-RM-ET-7-1-0-1151.s5.sinet.ad.jp (150.99.89.200)  263.100 ms  263.067 ms  263.078 ms
+14  super-csi.gw.sinet.ad.jp (150.99.188.2)  264.045 ms  264.268 ms  255.487 ms
+15  202.15.114.4 (202.15.114.4)  264.212 ms  264.097 ms  255.276 ms
+16  165.242.3.33 (165.242.3.33)  255.588 ms  255.561 ms  264.303 ms
+17  165.242.35.65 (165.242.35.65)  257.002 ms  256.832 ms  265.739 ms
+18  pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129)  264.193 ms  255.223 ms  255.151 ms
+traceroute to pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  1.059 ms  1.555 ms  1.955 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  0.274 ms  0.294 ms  0.288 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.213 ms  0.229 ms  0.210 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  0.335 ms  0.339 ms  0.321 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  4.623 ms  4.701 ms  4.627 ms
+ 6  pionier.mx1.poz.pl.geant.net (62.40.125.245)  4.734 ms  4.786 ms  4.769 ms
+ 7  ae3.mx1.fra.de.geant.net (62.40.98.130)  25.661 ms  25.768 ms  25.755 ms
+ 8  ae1.mx1.ams.nl.geant.net (62.40.98.129)  32.470 ms  32.505 ms  32.489 ms
+ 9  ae2.mx1.lon.uk.geant.net (62.40.98.80)  40.583 ms  40.353 ms  40.346 ms
+10  ae0.mx1.lon2.uk.geant.net.geant.net (62.40.98.79)  40.823 ms  40.800 ms  40.837 ms
+11  sinet-gw.mx1.lon2.uk.geant.net (62.40.124.174)  40.891 ms  40.872 ms  40.842 ms
+12  tokyo1-GM-XE-7-2-0-100.s5.sinet.ad.jp (150.99.93.230)  250.878 ms  251.225 ms  251.241 ms
+13  hiroshima-RM-ET-7-1-0-1151.s5.sinet.ad.jp (150.99.89.200)  263.187 ms  263.115 ms  262.992 ms
+14  super-csi.gw.sinet.ad.jp (150.99.188.2)  264.194 ms  264.386 ms  255.326 ms
+15  202.15.114.4 (202.15.114.4)  264.134 ms  264.057 ms  255.220 ms
+16  165.242.3.33 (165.242.3.33)  255.629 ms  255.573 ms  264.406 ms
+17  165.242.35.65 (165.242.35.65)  256.784 ms  256.964 ms  265.709 ms
+18  pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129)  264.155 ms  255.325 ms  255.245 ms
+traceroute to pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  1.463 ms  1.985 ms  2.377 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  4.175 ms  4.232 ms  4.217 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.201 ms  0.191 ms  0.202 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  26.199 ms  26.267 ms  26.250 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  6.919 ms  6.967 ms  6.946 ms
+ 6  pionier.mx1.poz.pl.geant.net (62.40.125.245)  4.678 ms  4.686 ms  4.673 ms
+ 7  ae3.mx1.fra.de.geant.net (62.40.98.130)  25.754 ms  25.717 ms  25.874 ms
+ 8  ae1.mx1.ams.nl.geant.net (62.40.98.129)  32.438 ms  32.383 ms  32.522 ms
+ 9  ae2.mx1.lon.uk.geant.net (62.40.98.80)  40.316 ms  40.355 ms  40.322 ms
+10  ae0.mx1.lon2.uk.geant.net.geant.net (62.40.98.79)  41.708 ms  41.973 ms  41.933 ms
+11  sinet-gw.mx1.lon2.uk.geant.net (62.40.124.174)  41.818 ms  40.786 ms  40.763 ms
+12  tokyo1-GM-XE-7-2-0-100.s5.sinet.ad.jp (150.99.93.230)  250.835 ms  250.891 ms  250.858 ms
+13  hiroshima-RM-ET-7-1-0-1151.s5.sinet.ad.jp (150.99.89.200)  265.319 ms  263.255 ms  262.997 ms
+14  super-csi.gw.sinet.ad.jp (150.99.188.2)  264.314 ms  264.139 ms  255.240 ms
+15  202.15.114.4 (202.15.114.4)  264.124 ms  264.207 ms  255.094 ms
+16  165.242.3.33 (165.242.3.33)  255.575 ms  255.618 ms  264.391 ms
+17  165.242.35.65 (165.242.35.65)  256.862 ms  256.951 ms  265.564 ms
+18  pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129)  264.076 ms  255.247 ms  255.183 ms
+traceroute to pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  1.224 ms  1.682 ms  2.097 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  0.340 ms  0.293 ms  0.241 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.226 ms  0.206 ms  0.195 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  0.383 ms  0.368 ms  0.340 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  4.653 ms  4.705 ms  4.690 ms
+ 6  pionier.mx1.poz.pl.geant.net (62.40.125.245)  4.676 ms  4.646 ms  4.685 ms
+ 7  ae3.mx1.fra.de.geant.net (62.40.98.130)  25.681 ms  25.676 ms  25.609 ms
+ 8  ae1.mx1.ams.nl.geant.net (62.40.98.129)  32.359 ms  32.437 ms  32.419 ms
+ 9  ae2.mx1.lon.uk.geant.net (62.40.98.80)  41.444 ms  40.636 ms  40.591 ms
+10  ae0.mx1.lon2.uk.geant.net.geant.net (62.40.98.79)  40.798 ms  40.910 ms  40.748 ms
+11  sinet-gw.mx1.lon2.uk.geant.net (62.40.124.174)  40.789 ms  40.837 ms  40.816 ms
+12  tokyo1-GM-XE-7-2-0-100.s5.sinet.ad.jp (150.99.93.230)  251.057 ms  250.996 ms  251.000 ms
+13  hiroshima-RM-ET-7-1-0-1151.s5.sinet.ad.jp (150.99.89.200)  263.216 ms  263.132 ms  263.140 ms
+14  super-csi.gw.sinet.ad.jp (150.99.188.2)  264.227 ms  264.311 ms  255.373 ms
+15  202.15.114.4 (202.15.114.4)  264.121 ms  264.114 ms  255.234 ms
+16  165.242.3.33 (165.242.3.33)  255.576 ms  255.463 ms  264.191 ms
+17  165.242.35.65 (165.242.35.65)  256.862 ms  256.774 ms  265.901 ms
+18  pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129)  264.187 ms  255.359 ms  255.347 ms
+traceroute to pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  1.229 ms  1.738 ms  2.101 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  0.212 ms  0.301 ms  0.246 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.226 ms  0.207 ms  0.215 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  0.509 ms  0.522 ms  0.506 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  4.798 ms  4.843 ms  4.835 ms
+ 6  pionier.mx1.poz.pl.geant.net (62.40.125.245)  4.790 ms  4.731 ms  4.714 ms
+ 7  ae3.mx1.fra.de.geant.net (62.40.98.130)  25.590 ms  25.648 ms  25.668 ms
+ 8  ae1.mx1.ams.nl.geant.net (62.40.98.129)  32.386 ms  32.358 ms  32.424 ms
+ 9  ae2.mx1.lon.uk.geant.net (62.40.98.80)  40.006 ms  40.064 ms  40.007 ms
+10  ae0.mx1.lon2.uk.geant.net.geant.net (62.40.98.79)  40.838 ms  40.877 ms  40.768 ms
+11  sinet-gw.mx1.lon2.uk.geant.net (62.40.124.174)  40.916 ms  40.867 ms  40.859 ms
+12  * tokyo1-GM-XE-7-2-0-100.s5.sinet.ad.jp (150.99.93.230)  250.802 ms  250.861 ms
+13  hiroshima-RM-ET-7-1-0-1151.s5.sinet.ad.jp (150.99.89.200)  263.083 ms  263.186 ms  263.230 ms
+14  super-csi.gw.sinet.ad.jp (150.99.188.2)  264.207 ms  264.256 ms  255.405 ms
+15  202.15.114.4 (202.15.114.4)  264.220 ms  264.274 ms  255.163 ms
+16  165.242.3.33 (165.242.3.33)  255.621 ms  255.525 ms  264.425 ms
+17  165.242.35.65 (165.242.35.65)  257.036 ms  256.780 ms  265.703 ms
+18  pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129)  287.113 ms  279.903 ms  278.856 ms
+traceroute to pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  1.284 ms  1.763 ms  2.158 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  0.315 ms  0.310 ms  0.312 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.220 ms  0.209 ms  0.203 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  0.329 ms  0.387 ms  0.323 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  5.976 ms  5.997 ms  5.980 ms
+ 6  pionier.mx1.poz.pl.geant.net (62.40.125.245)  4.644 ms  4.647 ms  4.643 ms
+ 7  ae3.mx1.fra.de.geant.net (62.40.98.130)  25.639 ms  25.699 ms  25.655 ms
+ 8  ae1.mx1.ams.nl.geant.net (62.40.98.129)  32.387 ms  32.408 ms  32.398 ms
+ 9  ae2.mx1.lon.uk.geant.net (62.40.98.80)  39.877 ms  39.869 ms  39.894 ms
+10  ae0.mx1.lon2.uk.geant.net.geant.net (62.40.98.79)  40.786 ms  40.752 ms  40.798 ms
+11  sinet-gw.mx1.lon2.uk.geant.net (62.40.124.174)  40.738 ms  41.052 ms  41.157 ms
+12  tokyo1-GM-XE-7-2-0-100.s5.sinet.ad.jp (150.99.93.230)  250.915 ms  250.929 ms  250.971 ms
+13  hiroshima-RM-ET-7-1-0-1151.s5.sinet.ad.jp (150.99.89.200)  263.109 ms  263.352 ms  263.393 ms
+14  super-csi.gw.sinet.ad.jp (150.99.188.2)  264.116 ms  264.270 ms  255.440 ms
+15  202.15.114.4 (202.15.114.4)  264.078 ms  264.143 ms  255.163 ms
+16  165.242.3.33 (165.242.3.33)  255.478 ms  255.518 ms  264.306 ms
+17  165.242.35.65 (165.242.35.65)  256.925 ms  256.944 ms  265.756 ms
+18  pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129)  264.156 ms  255.305 ms  255.383 ms
+traceroute to pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  1.387 ms  2.055 ms  8.523 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  0.258 ms  0.263 ms  0.263 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.200 ms  0.215 ms  0.201 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  0.357 ms  0.366 ms  0.332 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  4.829 ms  4.804 ms  4.791 ms
+ 6  pionier.mx1.poz.pl.geant.net (62.40.125.245)  4.666 ms  4.797 ms  4.832 ms
+ 7  ae3.mx1.fra.de.geant.net (62.40.98.130)  25.669 ms  25.766 ms  25.681 ms
+ 8  ae1.mx1.ams.nl.geant.net (62.40.98.129)  32.344 ms  32.421 ms  32.424 ms
+ 9  ae2.mx1.lon.uk.geant.net (62.40.98.80)  40.016 ms  39.972 ms  40.014 ms
+10  ae0.mx1.lon2.uk.geant.net.geant.net (62.40.98.79)  40.904 ms  40.937 ms  40.917 ms
+11  sinet-gw.mx1.lon2.uk.geant.net (62.40.124.174)  40.859 ms  40.845 ms  40.830 ms
+12  tokyo1-GM-XE-7-2-0-100.s5.sinet.ad.jp (150.99.93.230)  251.007 ms  251.037 ms  251.020 ms
+13  hiroshima-RM-ET-7-1-0-1151.s5.sinet.ad.jp (150.99.89.200)  263.164 ms  263.317 ms  263.305 ms
+14  super-csi.gw.sinet.ad.jp (150.99.188.2)  264.407 ms  264.280 ms  255.428 ms
+15  202.15.114.4 (202.15.114.4)  264.058 ms  264.028 ms  255.207 ms
+16  165.242.3.33 (165.242.3.33)  255.619 ms  255.608 ms  264.310 ms
+17  165.242.35.65 (165.242.35.65)  256.799 ms  256.882 ms  265.818 ms
+18  pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129)  264.156 ms  255.527 ms  255.464 ms
+traceroute to pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  1.083 ms  1.593 ms  1.990 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  0.229 ms  0.232 ms  0.252 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.313 ms  0.293 ms  0.256 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  0.331 ms  0.333 ms  0.314 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  4.652 ms  4.704 ms  4.687 ms
+ 6  pionier.mx1.poz.pl.geant.net (62.40.125.245)  4.862 ms  5.444 ms  5.430 ms
+ 7  ae3.mx1.fra.de.geant.net (62.40.98.130)  25.788 ms  25.687 ms  25.739 ms
+ 8  ae1.mx1.ams.nl.geant.net (62.40.98.129)  32.595 ms  32.493 ms  32.508 ms
+ 9  ae2.mx1.lon.uk.geant.net (62.40.98.80)  39.901 ms  39.940 ms  39.969 ms
+10  ae0.mx1.lon2.uk.geant.net.geant.net (62.40.98.79)  41.415 ms  41.288 ms  41.271 ms
+11  sinet-gw.mx1.lon2.uk.geant.net (62.40.124.174)  40.770 ms  40.760 ms  40.710 ms
+12  tokyo1-GM-XE-7-2-0-100.s5.sinet.ad.jp (150.99.93.230)  250.930 ms  251.135 ms  251.180 ms
+13  hiroshima-RM-ET-7-1-0-1151.s5.sinet.ad.jp (150.99.89.200)  262.965 ms  263.145 ms  263.123 ms
+14  super-csi.gw.sinet.ad.jp (150.99.188.2)  264.211 ms  264.253 ms  255.388 ms
+15  202.15.114.4 (202.15.114.4)  264.159 ms  264.154 ms  255.334 ms
+16  165.242.3.33 (165.242.3.33)  255.701 ms  255.477 ms  264.465 ms
+17  165.242.35.65 (165.242.35.65)  256.905 ms  256.956 ms  265.799 ms
+18  pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129)  264.304 ms  255.361 ms  255.421 ms
+traceroute to pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  1.245 ms  1.720 ms  2.127 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  1.062 ms  1.106 ms  1.092 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.288 ms  0.275 ms  0.252 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  0.395 ms  0.338 ms  0.319 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  4.660 ms  4.710 ms  4.696 ms
+ 6  pionier.mx1.poz.pl.geant.net (62.40.125.245)  4.694 ms  4.690 ms  4.672 ms
+ 7  ae3.mx1.fra.de.geant.net (62.40.98.130)  25.614 ms  25.657 ms  25.620 ms
+ 8  ae1.mx1.ams.nl.geant.net (62.40.98.129)  38.388 ms  37.985 ms  37.309 ms
+ 9  ae2.mx1.lon.uk.geant.net (62.40.98.80)  40.583 ms  40.623 ms  40.448 ms
+10  ae0.mx1.lon2.uk.geant.net.geant.net (62.40.98.79)  40.919 ms  40.775 ms  40.778 ms
+11  sinet-gw.mx1.lon2.uk.geant.net (62.40.124.174)  40.873 ms  40.887 ms  40.851 ms
+12  tokyo1-GM-XE-7-2-0-100.s5.sinet.ad.jp (150.99.93.230)  251.010 ms  251.287 ms  251.219 ms
+13  hiroshima-RM-ET-7-1-0-1151.s5.sinet.ad.jp (150.99.89.200)  263.060 ms  263.112 ms  263.107 ms
+14  super-csi.gw.sinet.ad.jp (150.99.188.2)  264.314 ms  264.189 ms  255.509 ms
+15  202.15.114.4 (202.15.114.4)  264.276 ms  264.315 ms  255.502 ms
+16  165.242.3.33 (165.242.3.33)  255.631 ms  255.534 ms  264.493 ms
+17  165.242.35.65 (165.242.35.65)  257.441 ms  256.828 ms  265.992 ms
+18  pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129)  264.039 ms  255.422 ms  255.270 ms
+traceroute to pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  2.638 ms  3.071 ms  3.476 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  0.261 ms  0.263 ms  0.270 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.320 ms  0.305 ms  0.296 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  0.333 ms  0.333 ms  0.312 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  4.571 ms  4.616 ms  4.590 ms
+ 6  pionier.mx1.poz.pl.geant.net (62.40.125.245)  4.843 ms  4.800 ms  4.781 ms
+ 7  ae3.mx1.fra.de.geant.net (62.40.98.130)  25.694 ms  25.723 ms  25.712 ms
+ 8  ae1.mx1.ams.nl.geant.net (62.40.98.129)  32.391 ms  32.505 ms  32.450 ms
+ 9  ae2.mx1.lon.uk.geant.net (62.40.98.80)  44.658 ms  41.934 ms  41.889 ms
+10  ae0.mx1.lon2.uk.geant.net.geant.net (62.40.98.79)  41.361 ms  41.335 ms  41.286 ms
+11  sinet-gw.mx1.lon2.uk.geant.net (62.40.124.174)  41.282 ms  41.339 ms  41.253 ms
+12  tokyo1-GM-XE-7-2-0-100.s5.sinet.ad.jp (150.99.93.230)  251.003 ms  251.025 ms  250.964 ms
+13  hiroshima-RM-ET-7-1-0-1151.s5.sinet.ad.jp (150.99.89.200)  263.189 ms  263.480 ms  263.412 ms
+14  super-csi.gw.sinet.ad.jp (150.99.188.2)  264.137 ms  264.490 ms  255.387 ms
+15  202.15.114.4 (202.15.114.4)  264.063 ms  264.085 ms  255.413 ms
+16  165.242.3.33 (165.242.3.33)  255.570 ms  255.557 ms  264.404 ms
+17  165.242.35.65 (165.242.35.65)  256.875 ms  256.955 ms  265.736 ms
+18  pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129)  264.158 ms  255.288 ms  255.521 ms
+traceroute to pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  1.056 ms  1.476 ms  2.059 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  0.324 ms  0.315 ms  0.310 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.235 ms  0.231 ms  0.212 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  0.335 ms  0.378 ms  0.302 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  4.573 ms  4.622 ms  4.610 ms
+ 6  pionier.mx1.poz.pl.geant.net (62.40.125.245)  4.669 ms  4.676 ms  4.716 ms
+ 7  ae3.mx1.fra.de.geant.net (62.40.98.130)  25.717 ms  25.774 ms  25.760 ms
+ 8  ae1.mx1.ams.nl.geant.net (62.40.98.129)  32.419 ms  32.476 ms  32.466 ms
+ 9  ae2.mx1.lon.uk.geant.net (62.40.98.80)  39.945 ms  39.913 ms  39.883 ms
+10  ae0.mx1.lon2.uk.geant.net.geant.net (62.40.98.79)  40.813 ms  40.846 ms  40.738 ms
+11  sinet-gw.mx1.lon2.uk.geant.net (62.40.124.174)  40.771 ms  40.812 ms  40.793 ms
+12  tokyo1-GM-XE-7-2-0-100.s5.sinet.ad.jp (150.99.93.230)  250.820 ms  250.941 ms  250.983 ms
+13  hiroshima-RM-ET-7-1-0-1151.s5.sinet.ad.jp (150.99.89.200)  263.151 ms  263.165 ms  263.059 ms
+14  super-csi.gw.sinet.ad.jp (150.99.188.2)  264.406 ms  264.255 ms  255.502 ms
+15  202.15.114.4 (202.15.114.4)  264.217 ms  264.186 ms  255.292 ms
+16  165.242.3.33 (165.242.3.33)  255.493 ms  255.742 ms  264.395 ms
+17  165.242.35.65 (165.242.35.65)  256.766 ms  256.929 ms  265.761 ms
+18  pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129)  264.076 ms  255.365 ms  255.349 ms
+traceroute to pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  1.879 ms  2.333 ms  2.737 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  0.287 ms  0.314 ms  0.299 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.215 ms  0.238 ms  0.220 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  0.463 ms  0.446 ms  0.433 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  4.776 ms  4.823 ms  4.791 ms
+ 6  pionier.mx1.poz.pl.geant.net (62.40.125.245)  5.046 ms  5.138 ms  5.071 ms
+ 7  ae3.mx1.fra.de.geant.net (62.40.98.130)  25.690 ms  25.587 ms  25.651 ms
+ 8  ae1.mx1.ams.nl.geant.net (62.40.98.129)  32.470 ms  32.503 ms  32.488 ms
+ 9  ae2.mx1.lon.uk.geant.net (62.40.98.80)  39.880 ms  39.981 ms  39.887 ms
+10  ae0.mx1.lon2.uk.geant.net.geant.net (62.40.98.79)  40.793 ms  40.808 ms  40.738 ms
+11  sinet-gw.mx1.lon2.uk.geant.net (62.40.124.174)  40.841 ms  40.836 ms  40.815 ms
+12  tokyo1-GM-XE-7-2-0-100.s5.sinet.ad.jp (150.99.93.230)  251.047 ms  250.863 ms  251.061 ms
+13  hiroshima-RM-ET-7-1-0-1151.s5.sinet.ad.jp (150.99.89.200)  263.377 ms  263.522 ms  263.531 ms
+14  super-csi.gw.sinet.ad.jp (150.99.188.2)  264.391 ms  264.198 ms  255.348 ms
+15  202.15.114.4 (202.15.114.4)  264.143 ms  264.621 ms  255.378 ms
+16  165.242.3.33 (165.242.3.33)  255.650 ms  255.714 ms  264.511 ms
+17  165.242.35.65 (165.242.35.65)  256.977 ms  257.133 ms  265.712 ms
+18  pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129)  264.108 ms  255.246 ms  255.213 ms
+traceroute to pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  1.126 ms  1.614 ms  2.036 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  0.292 ms  0.268 ms  0.260 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.225 ms  0.205 ms  0.192 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  1.285 ms  1.286 ms  1.269 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  9.314 ms  9.358 ms  9.346 ms
+ 6  pionier.mx1.poz.pl.geant.net (62.40.125.245)  4.687 ms  4.698 ms  4.700 ms
+ 7  ae3.mx1.fra.de.geant.net (62.40.98.130)  25.678 ms  25.755 ms  65.607 ms
+ 8  ae1.mx1.ams.nl.geant.net (62.40.98.129)  32.371 ms  32.465 ms  32.462 ms
+ 9  ae2.mx1.lon.uk.geant.net (62.40.98.80)  40.116 ms  40.172 ms  40.141 ms
+10  ae0.mx1.lon2.uk.geant.net.geant.net (62.40.98.79)  40.823 ms  40.782 ms  40.831 ms
+11  sinet-gw.mx1.lon2.uk.geant.net (62.40.124.174)  40.800 ms  40.729 ms  40.765 ms
+12  tokyo1-GM-XE-7-2-0-100.s5.sinet.ad.jp (150.99.93.230)  251.099 ms  251.389 ms  251.434 ms
+13  hiroshima-RM-ET-7-1-0-1151.s5.sinet.ad.jp (150.99.89.200)  263.115 ms  263.512 ms  263.469 ms
+14  super-csi.gw.sinet.ad.jp (150.99.188.2)  264.456 ms  264.499 ms  255.519 ms
+15  202.15.114.4 (202.15.114.4)  264.431 ms  264.380 ms  255.335 ms
+16  165.242.3.33 (165.242.3.33)  255.715 ms  255.609 ms  264.486 ms
+17  165.242.35.65 (165.242.35.65)  257.142 ms  256.917 ms  265.714 ms
+18  pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129)  264.443 ms  255.307 ms  264.188 ms
+traceroute to pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  1.125 ms  1.626 ms  2.036 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  0.250 ms  0.311 ms  0.295 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.189 ms  0.229 ms  0.217 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  0.271 ms  0.350 ms  0.262 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  4.590 ms  4.683 ms  4.655 ms
+ 6  pionier.mx1.poz.pl.geant.net (62.40.125.245)  4.684 ms  4.681 ms  4.676 ms
+ 7  ae3.mx1.fra.de.geant.net (62.40.98.130)  25.666 ms  25.720 ms  25.708 ms
+ 8  ae1.mx1.ams.nl.geant.net (62.40.98.129)  32.394 ms  32.453 ms  32.444 ms
+ 9  ae2.mx1.lon.uk.geant.net (62.40.98.80)  59.947 ms  59.043 ms  58.969 ms
+10  ae0.mx1.lon2.uk.geant.net.geant.net (62.40.98.79)  40.840 ms  40.745 ms  40.881 ms
+11  sinet-gw.mx1.lon2.uk.geant.net (62.40.124.174)  40.919 ms  40.817 ms  40.775 ms
+12  tokyo1-GM-XE-7-2-0-100.s5.sinet.ad.jp (150.99.93.230)  250.993 ms  251.146 ms  251.078 ms
+13  hiroshima-RM-ET-7-1-0-1151.s5.sinet.ad.jp (150.99.89.200)  263.091 ms  263.444 ms  263.359 ms
+14  super-csi.gw.sinet.ad.jp (150.99.188.2)  264.309 ms  264.333 ms  255.394 ms
+15  202.15.114.4 (202.15.114.4)  264.116 ms  264.117 ms  255.277 ms
+16  165.242.3.33 (165.242.3.33)  255.633 ms  255.636 ms  264.498 ms
+17  165.242.35.65 (165.242.35.65)  256.906 ms  256.922 ms  265.795 ms
+18  pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129)  264.176 ms  255.277 ms  305.845 ms
+traceroute to pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  1.228 ms  1.679 ms  2.086 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  0.305 ms  0.305 ms  0.307 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.189 ms  0.199 ms  0.200 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  0.285 ms  0.326 ms  0.315 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  6.242 ms  6.294 ms  6.279 ms
+ 6  pionier.mx1.poz.pl.geant.net (62.40.125.245)  4.661 ms  4.658 ms  4.699 ms
+ 7  ae3.mx1.fra.de.geant.net (62.40.98.130)  25.550 ms  25.624 ms  25.610 ms
+ 8  ae1.mx1.ams.nl.geant.net (62.40.98.129)  32.542 ms  32.431 ms  32.489 ms
+ 9  ae2.mx1.lon.uk.geant.net (62.40.98.80)  40.618 ms  40.754 ms  40.695 ms
+10  ae0.mx1.lon2.uk.geant.net.geant.net (62.40.98.79)  40.757 ms  40.739 ms  40.772 ms
+11  sinet-gw.mx1.lon2.uk.geant.net (62.40.124.174)  40.768 ms  40.907 ms  40.952 ms
+12  tokyo1-GM-XE-7-2-0-100.s5.sinet.ad.jp (150.99.93.230)  251.003 ms  250.819 ms  251.051 ms
+13  hiroshima-RM-ET-7-1-0-1151.s5.sinet.ad.jp (150.99.89.200)  263.175 ms  263.051 ms  263.167 ms
+14  super-csi.gw.sinet.ad.jp (150.99.188.2)  264.264 ms  264.149 ms  255.546 ms
+15  202.15.114.4 (202.15.114.4)  264.262 ms  264.177 ms  255.422 ms
+16  165.242.3.33 (165.242.3.33)  255.721 ms  255.762 ms  264.572 ms
+17  165.242.35.65 (165.242.35.65)  256.965 ms  256.853 ms  266.547 ms
+18  pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129)  265.111 ms  256.324 ms  256.332 ms
+traceroute to pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  1.023 ms  1.476 ms  1.950 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  0.295 ms  0.316 ms  0.298 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.215 ms  0.221 ms  0.210 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  0.328 ms  0.329 ms  0.348 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  4.619 ms  4.665 ms  4.647 ms
+ 6  pionier.mx1.poz.pl.geant.net (62.40.125.245)  4.678 ms  4.745 ms  4.727 ms
+ 7  ae3.mx1.fra.de.geant.net (62.40.98.130)  25.696 ms  25.732 ms  25.715 ms
+ 8  ae1.mx1.ams.nl.geant.net (62.40.98.129)  32.529 ms  32.579 ms  32.546 ms
+ 9  ae2.mx1.lon.uk.geant.net (62.40.98.80)  39.875 ms  40.054 ms  39.996 ms
+10  ae0.mx1.lon2.uk.geant.net.geant.net (62.40.98.79)  40.752 ms  40.924 ms  40.817 ms
+11  sinet-gw.mx1.lon2.uk.geant.net (62.40.124.174)  66.064 ms  65.748 ms  65.726 ms
+12  tokyo1-GM-XE-7-2-0-100.s5.sinet.ad.jp (150.99.93.230)  251.857 ms  251.184 ms  251.226 ms
+13  hiroshima-RM-ET-7-1-0-1151.s5.sinet.ad.jp (150.99.89.200)  263.074 ms  263.310 ms  263.187 ms
+14  super-csi.gw.sinet.ad.jp (150.99.188.2)  264.476 ms  264.244 ms  255.409 ms
+15  202.15.114.4 (202.15.114.4)  264.175 ms  264.165 ms  255.299 ms
+16  165.242.3.33 (165.242.3.33)  255.727 ms  255.534 ms  264.349 ms
+17  165.242.35.65 (165.242.35.65)  256.771 ms  256.883 ms  265.821 ms
+18  pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129)  264.208 ms  255.428 ms  255.144 ms
+traceroute to pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  1.035 ms  1.543 ms  1.947 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  0.233 ms  0.253 ms  0.275 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.213 ms  0.305 ms  0.223 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  0.337 ms  0.393 ms  0.378 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  4.636 ms  4.684 ms  4.670 ms
+ 6  pionier.mx1.poz.pl.geant.net (62.40.125.245)  5.241 ms  5.311 ms  5.294 ms
+ 7  ae3.mx1.fra.de.geant.net (62.40.98.130)  25.571 ms  25.647 ms  25.669 ms
+ 8  ae1.mx1.ams.nl.geant.net (62.40.98.129)  32.420 ms  33.096 ms  32.974 ms
+ 9  ae2.mx1.lon.uk.geant.net (62.40.98.80)  39.913 ms  39.981 ms  39.938 ms
+10  ae0.mx1.lon2.uk.geant.net.geant.net (62.40.98.79)  40.743 ms  40.715 ms  40.766 ms
+11  sinet-gw.mx1.lon2.uk.geant.net (62.40.124.174)  40.818 ms  40.890 ms  40.882 ms
+12  tokyo1-GM-XE-7-2-0-100.s5.sinet.ad.jp (150.99.93.230)  251.099 ms  250.790 ms  250.955 ms
+13  hiroshima-RM-ET-7-1-0-1151.s5.sinet.ad.jp (150.99.89.200)  263.193 ms  263.072 ms  263.224 ms
+14  super-csi.gw.sinet.ad.jp (150.99.188.2)  264.256 ms  264.160 ms  255.455 ms
+15  202.15.114.4 (202.15.114.4)  264.065 ms  264.038 ms  255.346 ms
+16  165.242.3.33 (165.242.3.33)  255.759 ms  255.805 ms  264.531 ms
+17  165.242.35.65 (165.242.35.65)  256.742 ms  256.920 ms  265.707 ms
+18  pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129)  264.132 ms  255.290 ms  255.345 ms
+traceroute to pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  1.090 ms  1.607 ms  2.005 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  0.319 ms  0.306 ms  0.297 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.236 ms  0.226 ms  0.213 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  0.316 ms  0.365 ms  0.340 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  4.583 ms  4.626 ms  4.635 ms
+ 6  pionier.mx1.poz.pl.geant.net (62.40.125.245)  4.705 ms  4.691 ms  4.672 ms
+ 7  ae3.mx1.fra.de.geant.net (62.40.98.130)  25.581 ms  25.528 ms  25.592 ms
+ 8  ae1.mx1.ams.nl.geant.net (62.40.98.129)  32.358 ms  32.411 ms  32.379 ms
+ 9  ae2.mx1.lon.uk.geant.net (62.40.98.80)  39.911 ms  39.871 ms  39.934 ms
+10  ae0.mx1.lon2.uk.geant.net.geant.net (62.40.98.79)  40.775 ms  40.725 ms  40.741 ms
+11  sinet-gw.mx1.lon2.uk.geant.net (62.40.124.174)  40.866 ms  40.889 ms  40.817 ms
+12  tokyo1-GM-XE-7-2-0-100.s5.sinet.ad.jp (150.99.93.230)  250.856 ms  250.843 ms  250.862 ms
+13  hiroshima-RM-ET-7-1-0-1151.s5.sinet.ad.jp (150.99.89.200)  263.094 ms  268.384 ms  268.304 ms
+14  super-csi.gw.sinet.ad.jp (150.99.188.2)  264.267 ms  264.243 ms  255.375 ms
+15  202.15.114.4 (202.15.114.4)  264.087 ms  264.094 ms  255.221 ms
+16  165.242.3.33 (165.242.3.33)  255.558 ms  255.525 ms  264.432 ms
+17  165.242.35.65 (165.242.35.65)  257.155 ms  257.091 ms  265.671 ms
+18  pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129)  264.097 ms  255.345 ms  255.521 ms
+traceroute to pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  1.007 ms  1.444 ms  1.896 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  33.994 ms  34.048 ms  34.019 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.199 ms  0.212 ms  0.248 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  11.101 ms  11.129 ms  11.072 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  4.681 ms  4.701 ms  4.688 ms
+ 6  pionier.mx1.poz.pl.geant.net (62.40.125.245)  4.687 ms  4.709 ms  4.691 ms
+ 7  ae3.mx1.fra.de.geant.net (62.40.98.130)  25.613 ms  25.571 ms  25.613 ms
+ 8  ae1.mx1.ams.nl.geant.net (62.40.98.129)  32.367 ms  32.750 ms  32.620 ms
+ 9  ae2.mx1.lon.uk.geant.net (62.40.98.80)  39.874 ms  39.975 ms  39.951 ms
+10  ae0.mx1.lon2.uk.geant.net.geant.net (62.40.98.79)  40.736 ms  41.211 ms  41.172 ms
+11  sinet-gw.mx1.lon2.uk.geant.net (62.40.124.174)  40.812 ms  40.864 ms  40.843 ms
+12  tokyo1-GM-XE-7-2-0-100.s5.sinet.ad.jp (150.99.93.230)  258.148 ms  255.311 ms  252.524 ms
+13  hiroshima-RM-ET-7-1-0-1151.s5.sinet.ad.jp (150.99.89.200)  263.154 ms  263.203 ms  263.397 ms
+14  super-csi.gw.sinet.ad.jp (150.99.188.2)  264.164 ms  264.263 ms  255.520 ms
+15  202.15.114.4 (202.15.114.4)  264.324 ms  264.169 ms  255.436 ms
+16  165.242.3.33 (165.242.3.33)  255.538 ms  255.589 ms  264.347 ms
+17  165.242.35.65 (165.242.35.65)  257.067 ms  257.026 ms  265.765 ms
+18  pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129)  264.265 ms  255.246 ms  255.199 ms
+traceroute to pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  1.134 ms  1.667 ms  2.004 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  0.267 ms  0.274 ms  0.273 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.217 ms  0.206 ms  0.194 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  0.295 ms  0.341 ms  0.271 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  4.577 ms  4.615 ms  4.600 ms
+ 6  pionier.mx1.poz.pl.geant.net (62.40.125.245)  4.686 ms  4.741 ms  4.761 ms
+ 7  ae3.mx1.fra.de.geant.net (62.40.98.130)  25.591 ms  25.638 ms  25.602 ms
+ 8  ae1.mx1.ams.nl.geant.net (62.40.98.129)  32.374 ms  32.436 ms  32.423 ms
+ 9  ae2.mx1.lon.uk.geant.net (62.40.98.80)  39.863 ms  39.896 ms  39.932 ms
+10  ae0.mx1.lon2.uk.geant.net.geant.net (62.40.98.79)  40.710 ms  40.694 ms  40.794 ms
+11  sinet-gw.mx1.lon2.uk.geant.net (62.40.124.174)  40.749 ms  40.775 ms  40.753 ms
+12  tokyo1-GM-XE-7-2-0-100.s5.sinet.ad.jp (150.99.93.230)  253.346 ms  250.884 ms  250.896 ms
+13  hiroshima-RM-ET-7-1-0-1151.s5.sinet.ad.jp (150.99.89.200)  262.983 ms  263.305 ms  263.197 ms
+14  super-csi.gw.sinet.ad.jp (150.99.188.2)  264.258 ms  264.223 ms  255.585 ms
+15  202.15.114.4 (202.15.114.4)  264.292 ms  264.215 ms  255.392 ms
+16  165.242.3.33 (165.242.3.33)  255.667 ms  255.633 ms  264.259 ms
+17  165.242.35.65 (165.242.35.65)  256.853 ms  256.888 ms  265.676 ms
+18  pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129)  264.074 ms  255.802 ms  255.184 ms
+traceroute to pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  1.102 ms  1.647 ms  1.991 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  0.299 ms  0.287 ms  0.282 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.240 ms  0.224 ms  0.210 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  0.359 ms  0.343 ms  0.396 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  4.581 ms  4.634 ms  4.618 ms
+ 6  pionier.mx1.poz.pl.geant.net (62.40.125.245)  4.648 ms  4.648 ms  4.652 ms
+ 7  ae3.mx1.fra.de.geant.net (62.40.98.130)  25.654 ms  55.288 ms  55.336 ms
+ 8  ae1.mx1.ams.nl.geant.net (62.40.98.129)  32.459 ms  32.500 ms  32.484 ms
+ 9  ae2.mx1.lon.uk.geant.net (62.40.98.80)  39.914 ms  39.882 ms  39.956 ms
+10  ae0.mx1.lon2.uk.geant.net.geant.net (62.40.98.79)  40.875 ms  40.732 ms  40.786 ms
+11  sinet-gw.mx1.lon2.uk.geant.net (62.40.124.174)  40.748 ms  40.863 ms  40.747 ms
+12  tokyo1-GM-XE-7-2-0-100.s5.sinet.ad.jp (150.99.93.230)  250.962 ms  256.493 ms  262.398 ms
+13  hiroshima-RM-ET-7-1-0-1151.s5.sinet.ad.jp (150.99.89.200)  263.058 ms  263.111 ms  263.049 ms
+14  super-csi.gw.sinet.ad.jp (150.99.188.2)  264.329 ms  264.329 ms  255.570 ms
+15  202.15.114.4 (202.15.114.4)  264.055 ms  264.205 ms  255.303 ms
+16  165.242.3.33 (165.242.3.33)  255.806 ms  255.850 ms  264.563 ms
+17  165.242.35.65 (165.242.35.65)  256.805 ms  257.090 ms  265.962 ms
+18  pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129)  264.101 ms  255.287 ms  264.192 ms
+traceroute to pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  1.098 ms  1.673 ms  2.009 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  41.681 ms  41.738 ms  41.737 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.291 ms  0.282 ms  0.273 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  0.358 ms  0.363 ms  0.345 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  4.624 ms  4.621 ms  4.603 ms
+ 6  pionier.mx1.poz.pl.geant.net (62.40.125.245)  4.892 ms  4.919 ms  4.903 ms
+ 7  ae3.mx1.fra.de.geant.net (62.40.98.130)  25.609 ms  25.640 ms  25.738 ms
+ 8  ae1.mx1.ams.nl.geant.net (62.40.98.129)  32.349 ms  32.342 ms  32.786 ms
+ 9  ae2.mx1.lon.uk.geant.net (62.40.98.80)  39.855 ms  39.863 ms  39.887 ms
+10  ae0.mx1.lon2.uk.geant.net.geant.net (62.40.98.79)  41.276 ms  40.862 ms  40.838 ms
+11  sinet-gw.mx1.lon2.uk.geant.net (62.40.124.174)  40.740 ms  40.737 ms  40.792 ms
+12  tokyo1-GM-XE-7-2-0-100.s5.sinet.ad.jp (150.99.93.230)  250.881 ms  250.928 ms  250.818 ms
+13  hiroshima-RM-ET-7-1-0-1151.s5.sinet.ad.jp (150.99.89.200)  263.029 ms  263.083 ms  263.124 ms
+14  super-csi.gw.sinet.ad.jp (150.99.188.2)  264.235 ms  264.129 ms  255.423 ms
+15  202.15.114.4 (202.15.114.4)  264.015 ms  264.151 ms  255.131 ms
+16  165.242.3.33 (165.242.3.33)  255.560 ms  255.516 ms  264.806 ms
+17  165.242.35.65 (165.242.35.65)  256.917 ms  256.828 ms  265.696 ms
+18  pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129)  264.234 ms  255.256 ms  264.046 ms
+traceroute to pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  1.034 ms  1.546 ms  1.950 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  0.283 ms  0.301 ms  0.298 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.260 ms  0.340 ms  0.281 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  6.898 ms  6.883 ms  6.866 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  9.589 ms  9.652 ms  9.634 ms
+ 6  pionier.mx1.poz.pl.geant.net (62.40.125.245)  4.702 ms  4.792 ms  4.777 ms
+ 7  ae3.mx1.fra.de.geant.net (62.40.98.130)  25.722 ms  25.726 ms  25.709 ms
+ 8  ae1.mx1.ams.nl.geant.net (62.40.98.129)  32.371 ms  32.444 ms  32.370 ms
+ 9  ae2.mx1.lon.uk.geant.net (62.40.98.80)  39.993 ms  39.962 ms  39.887 ms
+10  ae0.mx1.lon2.uk.geant.net.geant.net (62.40.98.79)  40.755 ms  40.898 ms  40.895 ms
+11  sinet-gw.mx1.lon2.uk.geant.net (62.40.124.174)  41.281 ms  40.809 ms  40.797 ms
+12  tokyo1-GM-XE-7-2-0-100.s5.sinet.ad.jp (150.99.93.230)  250.990 ms  250.900 ms  251.040 ms
+13  hiroshima-RM-ET-7-1-0-1151.s5.sinet.ad.jp (150.99.89.200)  263.150 ms  263.156 ms  263.174 ms
+14  super-csi.gw.sinet.ad.jp (150.99.188.2)  264.226 ms  264.218 ms  255.490 ms
+15  202.15.114.4 (202.15.114.4)  264.390 ms  264.370 ms  255.307 ms
+16  165.242.3.33 (165.242.3.33)  255.510 ms  255.476 ms  264.317 ms
+17  165.242.35.65 (165.242.35.65)  257.072 ms  268.299 ms  265.890 ms
+18  pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129)  255.442 ms  256.108 ms  255.969 ms
+traceroute to pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  1.067 ms  1.585 ms  1.982 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  0.361 ms  0.349 ms  0.338 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.273 ms  0.268 ms  0.254 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  0.429 ms  0.461 ms  0.423 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  4.564 ms  4.618 ms  4.615 ms
+ 6  pionier.mx1.poz.pl.geant.net (62.40.125.245)  4.672 ms  4.740 ms  4.722 ms
+ 7  ae3.mx1.fra.de.geant.net (62.40.98.130)  25.752 ms  25.744 ms  25.612 ms
+ 8  ae1.mx1.ams.nl.geant.net (62.40.98.129)  32.438 ms  32.318 ms  32.381 ms
+ 9  ae2.mx1.lon.uk.geant.net (62.40.98.80)  40.000 ms  39.928 ms  40.000 ms
+10  ae0.mx1.lon2.uk.geant.net.geant.net (62.40.98.79)  40.844 ms  40.939 ms  41.395 ms
+11  sinet-gw.mx1.lon2.uk.geant.net (62.40.124.174)  41.443 ms  41.419 ms  41.348 ms
+12  tokyo1-GM-XE-7-2-0-100.s5.sinet.ad.jp (150.99.93.230)  251.613 ms  250.788 ms  250.804 ms
+13  hiroshima-RM-ET-7-1-0-1151.s5.sinet.ad.jp (150.99.89.200)  263.085 ms  263.663 ms  263.239 ms
+14  super-csi.gw.sinet.ad.jp (150.99.188.2)  264.247 ms  264.111 ms  255.466 ms
+15  202.15.114.4 (202.15.114.4)  264.128 ms  264.241 ms  255.314 ms
+16  165.242.3.33 (165.242.3.33)  256.229 ms  255.613 ms  264.609 ms
+17  165.242.35.65 (165.242.35.65)  256.923 ms  256.847 ms  265.878 ms
+18  pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129)  264.303 ms  255.238 ms  255.349 ms
+traceroute to pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  1.216 ms  1.734 ms  2.141 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  0.300 ms  0.293 ms  0.284 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.238 ms  0.224 ms  0.205 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  0.282 ms  0.282 ms  0.398 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  4.595 ms  4.638 ms  4.623 ms
+ 6  pionier.mx1.poz.pl.geant.net (62.40.125.245)  4.632 ms  4.705 ms  4.686 ms
+ 7  ae3.mx1.fra.de.geant.net (62.40.98.130)  25.767 ms  25.645 ms  25.727 ms
+ 8  ae1.mx1.ams.nl.geant.net (62.40.98.129)  32.502 ms  32.492 ms  32.378 ms
+ 9  ae2.mx1.lon.uk.geant.net (62.40.98.80)  39.898 ms  39.910 ms  39.903 ms
+10  ae0.mx1.lon2.uk.geant.net.geant.net (62.40.98.79)  40.966 ms  40.723 ms  40.757 ms
+11  sinet-gw.mx1.lon2.uk.geant.net (62.40.124.174)  40.835 ms  40.883 ms  40.798 ms
+12  tokyo1-GM-XE-7-2-0-100.s5.sinet.ad.jp (150.99.93.230)  250.833 ms  251.057 ms  251.108 ms
+13  hiroshima-RM-ET-7-1-0-1151.s5.sinet.ad.jp (150.99.89.200)  263.045 ms  262.981 ms  263.042 ms
+14  super-csi.gw.sinet.ad.jp (150.99.188.2)  264.162 ms  264.263 ms  255.412 ms
+15  202.15.114.4 (202.15.114.4)  263.954 ms  263.972 ms  255.335 ms
+16  165.242.3.33 (165.242.3.33)  255.449 ms  255.492 ms  264.441 ms
+17  165.242.35.65 (165.242.35.65)  256.847 ms  256.873 ms  265.616 ms
+18  pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129)  263.933 ms  255.184 ms  255.332 ms
+traceroute to pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  1.079 ms  1.592 ms  1.931 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  0.228 ms  0.236 ms  0.237 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.240 ms  0.188 ms  0.191 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  0.371 ms  0.356 ms  0.336 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  4.561 ms  4.624 ms  4.609 ms
+ 6  pionier.mx1.poz.pl.geant.net (62.40.125.245)  4.794 ms  4.667 ms  4.680 ms
+ 7  ae3.mx1.fra.de.geant.net (62.40.98.130)  25.651 ms  25.681 ms  25.620 ms
+ 8  ae1.mx1.ams.nl.geant.net (62.40.98.129)  32.487 ms  32.520 ms  32.504 ms
+ 9  ae2.mx1.lon.uk.geant.net (62.40.98.80)  39.896 ms  39.934 ms  39.931 ms
+10  ae0.mx1.lon2.uk.geant.net.geant.net (62.40.98.79)  40.836 ms  40.908 ms  40.775 ms
+11  sinet-gw.mx1.lon2.uk.geant.net (62.40.124.174)  40.834 ms  40.786 ms  40.779 ms
+12  tokyo1-GM-XE-7-2-0-100.s5.sinet.ad.jp (150.99.93.230)  250.727 ms  250.856 ms  250.818 ms
+13  hiroshima-RM-ET-7-1-0-1151.s5.sinet.ad.jp (150.99.89.200)  263.204 ms  262.979 ms  262.907 ms
+14  super-csi.gw.sinet.ad.jp (150.99.188.2)  264.098 ms  264.339 ms  255.319 ms
+15  202.15.114.4 (202.15.114.4)  263.967 ms  264.110 ms  255.330 ms
+16  165.242.3.33 (165.242.3.33)  255.423 ms  255.453 ms  264.382 ms
+17  165.242.35.65 (165.242.35.65)  256.690 ms  256.707 ms  265.768 ms
+18  pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129)  264.201 ms  255.169 ms  255.165 ms
+traceroute to pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  1.117 ms  1.633 ms  2.038 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  0.395 ms  0.483 ms  0.473 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.236 ms  0.305 ms  0.313 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  0.332 ms  0.314 ms  0.281 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  4.598 ms  4.610 ms  4.595 ms
+ 6  pionier.mx1.poz.pl.geant.net (62.40.125.245)  4.659 ms  4.673 ms  4.657 ms
+ 7  ae3.mx1.fra.de.geant.net (62.40.98.130)  26.001 ms  25.994 ms  25.978 ms
+ 8  ae1.mx1.ams.nl.geant.net (62.40.98.129)  32.666 ms  32.711 ms  32.630 ms
+ 9  ae2.mx1.lon.uk.geant.net (62.40.98.80)  39.890 ms  39.889 ms  39.959 ms
+10  ae0.mx1.lon2.uk.geant.net.geant.net (62.40.98.79)  40.902 ms  40.743 ms  40.768 ms
+11  sinet-gw.mx1.lon2.uk.geant.net (62.40.124.174)  40.775 ms  40.841 ms  40.826 ms
+12  tokyo1-GM-XE-7-2-0-100.s5.sinet.ad.jp (150.99.93.230)  250.830 ms  251.174 ms  251.057 ms
+13  hiroshima-RM-ET-7-1-0-1151.s5.sinet.ad.jp (150.99.89.200)  263.097 ms  263.036 ms  263.026 ms
+14  super-csi.gw.sinet.ad.jp (150.99.188.2)  264.237 ms  264.145 ms  255.192 ms
+15  202.15.114.4 (202.15.114.4)  264.117 ms  263.907 ms  255.096 ms
+16  165.242.3.33 (165.242.3.33)  255.422 ms  255.321 ms  264.252 ms
+17  165.242.35.65 (165.242.35.65)  256.667 ms  256.986 ms  265.560 ms
+18  pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129)  264.242 ms  255.158 ms  255.287 ms
+traceroute to pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  1.020 ms  1.472 ms  1.912 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  3.911 ms  3.969 ms  3.954 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.203 ms  0.223 ms  0.206 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  0.327 ms  0.308 ms  0.363 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  17.740 ms  17.800 ms  17.783 ms
+ 6  pionier.mx1.poz.pl.geant.net (62.40.125.245)  4.647 ms  4.751 ms  4.664 ms
+ 7  ae3.mx1.fra.de.geant.net (62.40.98.130)  25.617 ms  25.686 ms  25.634 ms
+ 8  ae1.mx1.ams.nl.geant.net (62.40.98.129)  32.314 ms  32.373 ms  32.453 ms
+ 9  ae2.mx1.lon.uk.geant.net (62.40.98.80)  39.922 ms  39.907 ms  39.896 ms
+10  ae0.mx1.lon2.uk.geant.net.geant.net (62.40.98.79)  40.867 ms  40.847 ms  40.816 ms
+11  sinet-gw.mx1.lon2.uk.geant.net (62.40.124.174)  40.779 ms  40.754 ms  40.735 ms
+12  tokyo1-GM-XE-7-2-0-100.s5.sinet.ad.jp (150.99.93.230)  250.823 ms  250.772 ms  250.876 ms
+13  hiroshima-RM-ET-7-1-0-1151.s5.sinet.ad.jp (150.99.89.200)  263.318 ms  262.884 ms  263.149 ms
+14  super-csi.gw.sinet.ad.jp (150.99.188.2)  264.068 ms  264.187 ms  255.342 ms
+15  202.15.114.4 (202.15.114.4)  263.962 ms  264.226 ms  255.091 ms
+16  165.242.3.33 (165.242.3.33)  255.517 ms  255.568 ms  264.251 ms
+17  165.242.35.65 (165.242.35.65)  256.809 ms  256.729 ms  265.601 ms
+18  pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129)  275.316 ms  262.423 ms  255.380 ms
+traceroute to pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  2.300 ms  2.720 ms  3.121 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  0.251 ms  0.287 ms  0.272 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.227 ms  0.206 ms  0.191 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  0.373 ms  0.291 ms  0.323 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  4.639 ms  4.629 ms  4.609 ms
+ 6  pionier.mx1.poz.pl.geant.net (62.40.125.245)  4.658 ms  4.762 ms  4.746 ms
+ 7  ae3.mx1.fra.de.geant.net (62.40.98.130)  26.295 ms  25.668 ms  25.654 ms
+ 8  ae1.mx1.ams.nl.geant.net (62.40.98.129)  32.432 ms  32.464 ms  32.452 ms
+ 9  ae2.mx1.lon.uk.geant.net (62.40.98.80)  39.951 ms  39.917 ms  39.949 ms
+10  ae0.mx1.lon2.uk.geant.net.geant.net (62.40.98.79)  40.782 ms  40.741 ms  40.735 ms
+11  sinet-gw.mx1.lon2.uk.geant.net (62.40.124.174)  43.386 ms  42.773 ms  42.757 ms
+12  tokyo1-GM-XE-7-2-0-100.s5.sinet.ad.jp (150.99.93.230)  251.003 ms  250.895 ms  250.878 ms
+13  hiroshima-RM-ET-7-1-0-1151.s5.sinet.ad.jp (150.99.89.200)  262.880 ms  262.943 ms  262.987 ms
+14  super-csi.gw.sinet.ad.jp (150.99.188.2)  264.041 ms  264.026 ms  255.288 ms
+15  202.15.114.4 (202.15.114.4)  263.904 ms  263.972 ms  255.368 ms
+16  165.242.3.33 (165.242.3.33)  255.722 ms  255.582 ms  264.256 ms
+17  165.242.35.65 (165.242.35.65)  256.965 ms  256.829 ms  265.494 ms
+18  pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129)  264.070 ms  255.160 ms  255.144 ms
+traceroute to pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  1.088 ms  1.467 ms  1.855 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  0.268 ms  0.311 ms  0.298 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.204 ms  0.231 ms  0.217 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  0.345 ms  0.329 ms  0.309 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  4.585 ms  4.616 ms  4.578 ms
+ 6  pionier.mx1.poz.pl.geant.net (62.40.125.245)  4.709 ms  4.761 ms  4.745 ms
+ 7  ae3.mx1.fra.de.geant.net (62.40.98.130)  25.655 ms  25.712 ms  25.696 ms
+ 8  ae1.mx1.ams.nl.geant.net (62.40.98.129)  32.340 ms  32.382 ms  32.350 ms
+ 9  ae2.mx1.lon.uk.geant.net (62.40.98.80)  39.890 ms  39.906 ms  39.918 ms
+10  ae0.mx1.lon2.uk.geant.net.geant.net (62.40.98.79)  40.759 ms  40.799 ms  40.782 ms
+11  sinet-gw.mx1.lon2.uk.geant.net (62.40.124.174)  40.878 ms  40.856 ms  40.843 ms
+12  tokyo1-GM-XE-7-2-0-100.s5.sinet.ad.jp (150.99.93.230)  250.785 ms  250.817 ms  250.820 ms
+13  hiroshima-RM-ET-7-1-0-1151.s5.sinet.ad.jp (150.99.89.200)  262.860 ms  262.988 ms  263.026 ms
+14  super-csi.gw.sinet.ad.jp (150.99.188.2)  264.076 ms  264.381 ms  255.307 ms
+15  202.15.114.4 (202.15.114.4)  263.911 ms  264.068 ms  255.134 ms
+16  165.242.3.33 (165.242.3.33)  255.643 ms  255.301 ms  264.446 ms
+17  165.242.35.65 (165.242.35.65)  256.746 ms  256.724 ms  265.503 ms
+18  pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129)  263.914 ms  255.314 ms  255.331 ms
+traceroute to pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  1.091 ms  1.594 ms  1.999 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  0.293 ms  0.287 ms  0.274 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.233 ms  0.219 ms  0.205 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  0.290 ms  0.301 ms  0.281 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  4.566 ms  4.573 ms  4.560 ms
+ 6  pionier.mx1.poz.pl.geant.net (62.40.125.245)  4.638 ms  4.764 ms  4.749 ms
+ 7  ae3.mx1.fra.de.geant.net (62.40.98.130)  25.718 ms  25.704 ms  25.586 ms
+ 8  ae1.mx1.ams.nl.geant.net (62.40.98.129)  32.347 ms  32.401 ms  32.377 ms
+ 9  ae2.mx1.lon.uk.geant.net (62.40.98.80)  39.926 ms  39.833 ms  39.863 ms
+10  ae0.mx1.lon2.uk.geant.net.geant.net (62.40.98.79)  40.742 ms  40.778 ms  40.733 ms
+11  sinet-gw.mx1.lon2.uk.geant.net (62.40.124.174)  40.849 ms  40.798 ms  40.783 ms
+12  tokyo1-GM-XE-7-2-0-100.s5.sinet.ad.jp (150.99.93.230)  250.839 ms  250.881 ms  250.967 ms
+13  hiroshima-RM-ET-7-1-0-1151.s5.sinet.ad.jp (150.99.89.200)  263.146 ms  262.975 ms  262.988 ms
+14  super-csi.gw.sinet.ad.jp (150.99.188.2)  264.057 ms  264.261 ms  255.242 ms
+15  202.15.114.4 (202.15.114.4)  264.116 ms  264.142 ms  255.071 ms
+16  165.242.3.33 (165.242.3.33)  255.436 ms  255.417 ms  264.586 ms
+17  165.242.35.65 (165.242.35.65)  256.641 ms  256.719 ms  265.528 ms
+18  pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129)  264.024 ms  255.272 ms  264.231 ms
+traceroute to pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  1.090 ms  1.537 ms  1.951 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  0.247 ms  0.309 ms  0.295 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.251 ms  0.240 ms  0.253 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  0.310 ms  0.320 ms  0.272 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  4.635 ms  4.687 ms  4.672 ms
+ 6  pionier.mx1.poz.pl.geant.net (62.40.125.245)  4.663 ms  4.697 ms  4.681 ms
+ 7  ae3.mx1.fra.de.geant.net (62.40.98.130)  25.728 ms  33.281 ms  25.743 ms
+ 8  ae1.mx1.ams.nl.geant.net (62.40.98.129)  32.374 ms  32.427 ms  32.403 ms
+ 9  ae2.mx1.lon.uk.geant.net (62.40.98.80)  40.004 ms  39.872 ms  39.926 ms
+10  ae0.mx1.lon2.uk.geant.net.geant.net (62.40.98.79)  40.838 ms  40.862 ms  40.914 ms
+11  sinet-gw.mx1.lon2.uk.geant.net (62.40.124.174)  40.876 ms  40.791 ms  40.808 ms
+12  tokyo1-GM-XE-7-2-0-100.s5.sinet.ad.jp (150.99.93.230)  250.924 ms  250.778 ms  251.004 ms
+13  hiroshima-RM-ET-7-1-0-1151.s5.sinet.ad.jp (150.99.89.200)  262.972 ms  263.036 ms  263.019 ms
+14  super-csi.gw.sinet.ad.jp (150.99.188.2)  264.106 ms  264.029 ms  255.219 ms
+15  202.15.114.4 (202.15.114.4)  286.273 ms  282.994 ms  280.677 ms
+16  165.242.3.33 (165.242.3.33)  255.434 ms  255.362 ms  264.248 ms
+17  165.242.35.65 (165.242.35.65)  281.616 ms  256.683 ms  265.526 ms
+18  pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129)  263.925 ms  255.204 ms  255.170 ms
+traceroute to pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  2.191 ms  2.620 ms  3.020 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  0.294 ms  0.281 ms  0.264 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.220 ms  0.259 ms  0.198 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  0.336 ms  0.319 ms  0.298 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  4.646 ms  4.696 ms  4.680 ms
+ 6  pionier.mx1.poz.pl.geant.net (62.40.125.245)  4.762 ms  4.655 ms  4.675 ms
+ 7  ae3.mx1.fra.de.geant.net (62.40.98.130)  25.622 ms  25.688 ms  25.651 ms
+ 8  ae1.mx1.ams.nl.geant.net (62.40.98.129)  32.402 ms  32.440 ms  32.429 ms
+ 9  ae2.mx1.lon.uk.geant.net (62.40.98.80)  39.910 ms  39.968 ms  39.992 ms
+10  ae0.mx1.lon2.uk.geant.net.geant.net (62.40.98.79)  40.807 ms  40.801 ms  40.840 ms
+11  sinet-gw.mx1.lon2.uk.geant.net (62.40.124.174)  40.822 ms  40.831 ms  40.824 ms
+12  tokyo1-GM-XE-7-2-0-100.s5.sinet.ad.jp (150.99.93.230)  250.787 ms  250.885 ms  250.948 ms
+13  hiroshima-RM-ET-7-1-0-1151.s5.sinet.ad.jp (150.99.89.200)  262.946 ms  262.945 ms  262.985 ms
+14  super-csi.gw.sinet.ad.jp (150.99.188.2)  264.062 ms  264.036 ms  255.202 ms
+15  202.15.114.4 (202.15.114.4)  283.676 ms  280.760 ms  279.726 ms
+16  165.242.3.33 (165.242.3.33)  255.550 ms  255.601 ms  264.207 ms
+17  165.242.35.65 (165.242.35.65)  280.209 ms  256.719 ms  265.604 ms
+18  pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129)  265.604 ms  255.162 ms  270.589 ms
+traceroute to pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  1.061 ms  1.592 ms  1.965 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  25.227 ms  25.278 ms  25.257 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.205 ms  0.213 ms  0.196 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  0.361 ms  0.349 ms  0.336 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  25.409 ms  25.392 ms  25.373 ms
+ 6  pionier.mx1.poz.pl.geant.net (62.40.125.245)  4.637 ms  4.640 ms  4.672 ms
+ 7  ae3.mx1.fra.de.geant.net (62.40.98.130)  25.565 ms  25.646 ms  25.633 ms
+ 8  ae1.mx1.ams.nl.geant.net (62.40.98.129)  32.330 ms  32.401 ms  32.416 ms
+ 9  ae2.mx1.lon.uk.geant.net (62.40.98.80)  39.891 ms  39.853 ms  39.891 ms
+10  ae0.mx1.lon2.uk.geant.net.geant.net (62.40.98.79)  40.703 ms  40.709 ms  40.722 ms
+11  sinet-gw.mx1.lon2.uk.geant.net (62.40.124.174)  40.804 ms  40.792 ms  40.728 ms
+12  tokyo1-GM-XE-7-2-0-100.s5.sinet.ad.jp (150.99.93.230)  250.851 ms  250.808 ms  250.927 ms
+13  hiroshima-RM-ET-7-1-0-1151.s5.sinet.ad.jp (150.99.89.200)  262.924 ms  262.824 ms  262.885 ms
+14  super-csi.gw.sinet.ad.jp (150.99.188.2)  264.023 ms  264.210 ms  255.233 ms
+15  202.15.114.4 (202.15.114.4)  264.073 ms  263.931 ms  255.065 ms
+16  165.242.3.33 (165.242.3.33)  255.368 ms  255.340 ms  264.422 ms
+17  165.242.35.65 (165.242.35.65)  256.875 ms  256.752 ms  265.571 ms
+18  pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129)  264.242 ms  255.158 ms  263.958 ms
+traceroute to pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  1.067 ms  1.619 ms  1.967 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  0.323 ms  0.311 ms  0.296 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.235 ms  0.229 ms  0.278 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  0.349 ms  0.332 ms  0.312 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  5.052 ms  5.041 ms  5.023 ms
+ 6  pionier.mx1.poz.pl.geant.net (62.40.125.245)  4.755 ms  4.717 ms  4.699 ms
+ 7  ae3.mx1.fra.de.geant.net (62.40.98.130)  25.701 ms  25.767 ms  25.734 ms
+ 8  ae1.mx1.ams.nl.geant.net (62.40.98.129)  32.361 ms  32.426 ms  32.410 ms
+ 9  ae2.mx1.lon.uk.geant.net (62.40.98.80)  39.844 ms  39.773 ms  39.829 ms
+10  ae0.mx1.lon2.uk.geant.net.geant.net (62.40.98.79)  40.818 ms  40.781 ms  40.809 ms
+11  sinet-gw.mx1.lon2.uk.geant.net (62.40.124.174)  40.814 ms  40.815 ms  40.806 ms
+12  tokyo1-GM-XE-7-2-0-100.s5.sinet.ad.jp (150.99.93.230)  251.369 ms  250.723 ms  250.777 ms
+13  hiroshima-RM-ET-7-1-0-1151.s5.sinet.ad.jp (150.99.89.200)  262.896 ms  262.928 ms  262.927 ms
+14  super-csi.gw.sinet.ad.jp (150.99.188.2)  264.145 ms  264.076 ms  255.298 ms
+15  202.15.114.4 (202.15.114.4)  264.070 ms  264.147 ms  255.115 ms
+16  165.242.3.33 (165.242.3.33)  255.460 ms  255.355 ms  264.178 ms
+17  165.242.35.65 (165.242.35.65)  256.728 ms  256.726 ms  267.671 ms
+18  pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129)  263.897 ms  255.219 ms  255.143 ms
+traceroute to pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  1.075 ms  1.576 ms  1.979 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  0.276 ms  0.315 ms  0.300 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.216 ms  0.234 ms  0.222 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  0.345 ms  0.329 ms  0.303 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  5.268 ms  5.200 ms  5.102 ms
+ 6  pionier.mx1.poz.pl.geant.net (62.40.125.245)  4.652 ms  4.642 ms  4.698 ms
+ 7  ae3.mx1.fra.de.geant.net (62.40.98.130)  25.565 ms  26.103 ms  26.088 ms
+ 8  ae1.mx1.ams.nl.geant.net (62.40.98.129)  32.453 ms  32.507 ms  32.491 ms
+ 9  ae2.mx1.lon.uk.geant.net (62.40.98.80)  39.838 ms  39.934 ms  39.894 ms
+10  ae0.mx1.lon2.uk.geant.net.geant.net (62.40.98.79)  40.792 ms  40.775 ms  40.790 ms
+11  sinet-gw.mx1.lon2.uk.geant.net (62.40.124.174)  40.768 ms  40.734 ms  40.729 ms
+12  tokyo1-GM-XE-7-2-0-100.s5.sinet.ad.jp (150.99.93.230)  250.808 ms  250.797 ms  250.815 ms
+13  hiroshima-RM-ET-7-1-0-1151.s5.sinet.ad.jp (150.99.89.200)  263.024 ms  262.978 ms  262.933 ms
+14  super-csi.gw.sinet.ad.jp (150.99.188.2)  264.141 ms  264.024 ms  255.289 ms
+15  202.15.114.4 (202.15.114.4)  263.878 ms  263.905 ms  255.074 ms
+16  165.242.3.33 (165.242.3.33)  255.404 ms  255.354 ms  264.159 ms
+17  165.242.35.65 (165.242.35.65)  256.591 ms  256.691 ms  265.575 ms
+18  pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129)  264.096 ms  255.127 ms  255.146 ms
+traceroute to pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  7.381 ms  7.797 ms  8.276 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  0.266 ms  0.292 ms  0.294 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.229 ms  0.204 ms  0.210 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  0.341 ms  0.340 ms  0.301 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  6.406 ms  6.429 ms  6.327 ms
+ 6  pionier.mx1.poz.pl.geant.net (62.40.125.245)  4.657 ms  4.666 ms  4.650 ms
+ 7  ae3.mx1.fra.de.geant.net (62.40.98.130)  25.791 ms  25.668 ms  25.730 ms
+ 8  ae1.mx1.ams.nl.geant.net (62.40.98.129)  32.380 ms  32.437 ms  32.411 ms
+ 9  ae2.mx1.lon.uk.geant.net (62.40.98.80)  39.892 ms  39.908 ms  39.889 ms
+10  ae0.mx1.lon2.uk.geant.net.geant.net (62.40.98.79)  40.791 ms  40.905 ms  40.779 ms
+11  sinet-gw.mx1.lon2.uk.geant.net (62.40.124.174)  64.027 ms  62.881 ms  62.827 ms
+12  tokyo1-GM-XE-7-2-0-100.s5.sinet.ad.jp (150.99.93.230)  250.779 ms  253.924 ms  253.210 ms
+13  hiroshima-RM-ET-7-1-0-1151.s5.sinet.ad.jp (150.99.89.200)  262.978 ms  262.879 ms  262.890 ms
+14  super-csi.gw.sinet.ad.jp (150.99.188.2)  264.137 ms  264.181 ms  255.392 ms
+15  202.15.114.4 (202.15.114.4)  264.064 ms  264.062 ms  255.451 ms
+16  165.242.3.33 (165.242.3.33)  255.771 ms  255.368 ms  264.378 ms
+17  165.242.35.65 (165.242.35.65)  256.748 ms  285.047 ms  267.217 ms
+18  pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129)  264.368 ms  255.262 ms  270.743 ms
+traceroute to pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  1.061 ms  1.569 ms  1.963 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  0.279 ms  0.272 ms  0.277 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.207 ms  0.192 ms  0.241 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  0.399 ms  0.380 ms  0.336 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  49.552 ms  49.533 ms  49.516 ms
+ 6  pionier.mx1.poz.pl.geant.net (62.40.125.245)  4.680 ms  4.693 ms  4.676 ms
+ 7  ae3.mx1.fra.de.geant.net (62.40.98.130)  25.564 ms  25.659 ms  25.655 ms
+ 8  ae1.mx1.ams.nl.geant.net (62.40.98.129)  32.495 ms  32.469 ms  32.452 ms
+ 9  ae2.mx1.lon.uk.geant.net (62.40.98.80)  39.963 ms  39.849 ms  39.901 ms
+10  ae0.mx1.lon2.uk.geant.net.geant.net (62.40.98.79)  40.804 ms  40.827 ms  40.851 ms
+11  sinet-gw.mx1.lon2.uk.geant.net (62.40.124.174)  40.838 ms  40.952 ms  40.821 ms
+12  tokyo1-GM-XE-7-2-0-100.s5.sinet.ad.jp (150.99.93.230)  250.858 ms  250.772 ms  250.784 ms
+13  hiroshima-RM-ET-7-1-0-1151.s5.sinet.ad.jp (150.99.89.200)  262.975 ms  262.927 ms  262.930 ms
+14  super-csi.gw.sinet.ad.jp (150.99.188.2)  264.231 ms  264.114 ms  255.255 ms
+15  202.15.114.4 (202.15.114.4)  263.879 ms  263.960 ms  255.217 ms
+16  165.242.3.33 (165.242.3.33)  255.630 ms  255.868 ms  264.224 ms
+17  165.242.35.65 (165.242.35.65)  256.716 ms  256.735 ms  265.609 ms
+18  pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129)  264.079 ms  255.235 ms  255.113 ms
+traceroute to pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  1.069 ms  1.581 ms  1.991 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  0.268 ms  0.254 ms  0.281 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.198 ms  0.185 ms  0.200 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  0.308 ms  0.346 ms  0.290 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  4.636 ms  4.691 ms  4.673 ms
+ 6  pionier.mx1.poz.pl.geant.net (62.40.125.245)  4.661 ms  4.688 ms  4.663 ms
+ 7  ae3.mx1.fra.de.geant.net (62.40.98.130)  25.579 ms  25.667 ms  25.653 ms
+ 8  ae1.mx1.ams.nl.geant.net (62.40.98.129)  32.444 ms  32.489 ms  32.453 ms
+ 9  ae2.mx1.lon.uk.geant.net (62.40.98.80)  39.892 ms  39.964 ms  39.986 ms
+10  ae0.mx1.lon2.uk.geant.net.geant.net (62.40.98.79)  40.741 ms  40.745 ms  40.735 ms
+11  sinet-gw.mx1.lon2.uk.geant.net (62.40.124.174)  40.886 ms  40.869 ms  40.792 ms
+12  tokyo1-GM-XE-7-2-0-100.s5.sinet.ad.jp (150.99.93.230)  250.880 ms  250.943 ms  250.967 ms
+13  hiroshima-RM-ET-7-1-0-1151.s5.sinet.ad.jp (150.99.89.200)  262.983 ms  262.879 ms  262.937 ms
+14  super-csi.gw.sinet.ad.jp (150.99.188.2)  264.033 ms  264.125 ms  255.192 ms
+15  202.15.114.4 (202.15.114.4)  265.500 ms  263.889 ms  255.669 ms
+16  165.242.3.33 (165.242.3.33)  255.798 ms  255.896 ms  264.282 ms
+17  165.242.35.65 (165.242.35.65)  257.183 ms  257.190 ms  265.563 ms
+18  pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129)  264.014 ms  255.103 ms  255.110 ms
+traceroute to pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  1.168 ms  1.692 ms  1.816 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  0.326 ms  0.332 ms  0.315 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.238 ms  0.240 ms  0.222 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  0.337 ms  0.317 ms  0.297 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  4.613 ms  4.665 ms  4.654 ms
+ 6  pionier.mx1.poz.pl.geant.net (62.40.125.245)  4.666 ms  4.686 ms  4.666 ms
+ 7  ae3.mx1.fra.de.geant.net (62.40.98.130)  25.687 ms  25.747 ms  25.733 ms
+ 8  ae1.mx1.ams.nl.geant.net (62.40.98.129)  32.344 ms  32.435 ms  32.421 ms
+ 9  ae2.mx1.lon.uk.geant.net (62.40.98.80)  39.909 ms  39.912 ms  39.857 ms
+10  ae0.mx1.lon2.uk.geant.net.geant.net (62.40.98.79)  40.745 ms  40.725 ms  40.722 ms
+11  sinet-gw.mx1.lon2.uk.geant.net (62.40.124.174)  40.842 ms  40.833 ms  40.813 ms
+12  tokyo1-GM-XE-7-2-0-100.s5.sinet.ad.jp (150.99.93.230)  250.864 ms  250.812 ms  250.786 ms
+13  hiroshima-RM-ET-7-1-0-1151.s5.sinet.ad.jp (150.99.89.200)  262.876 ms  262.954 ms  263.080 ms
+14  super-csi.gw.sinet.ad.jp (150.99.188.2)  264.119 ms  264.189 ms  255.396 ms
+15  202.15.114.4 (202.15.114.4)  263.913 ms  264.081 ms  255.084 ms
+16  165.242.3.33 (165.242.3.33)  255.336 ms  255.469 ms  264.349 ms
+17  165.242.35.65 (165.242.35.65)  256.964 ms  256.772 ms  265.633 ms
+18  pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129)  263.987 ms  255.121 ms  255.148 ms
+traceroute to pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  1.153 ms  1.679 ms  2.088 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  0.263 ms  0.282 ms  0.287 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.217 ms  0.204 ms  0.195 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  0.310 ms  0.320 ms  0.288 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  4.580 ms  4.616 ms  4.601 ms
+ 6  pionier.mx1.poz.pl.geant.net (62.40.125.245)  4.652 ms  4.660 ms  4.644 ms
+ 7  ae3.mx1.fra.de.geant.net (62.40.98.130)  25.649 ms  25.602 ms  25.634 ms
+ 8  ae1.mx1.ams.nl.geant.net (62.40.98.129)  32.512 ms  32.428 ms  32.394 ms
+ 9  ae2.mx1.lon.uk.geant.net (62.40.98.80)  39.879 ms  39.896 ms  39.915 ms
+10  ae0.mx1.lon2.uk.geant.net.geant.net (62.40.98.79)  40.805 ms  40.781 ms  40.812 ms
+11  sinet-gw.mx1.lon2.uk.geant.net (62.40.124.174)  40.759 ms  40.812 ms  40.807 ms
+12  tokyo1-GM-XE-7-2-0-100.s5.sinet.ad.jp (150.99.93.230)  253.592 ms  250.857 ms  250.850 ms
+13  hiroshima-RM-ET-7-1-0-1151.s5.sinet.ad.jp (150.99.89.200)  263.048 ms  262.977 ms  263.004 ms
+14  super-csi.gw.sinet.ad.jp (150.99.188.2)  264.166 ms  264.101 ms  255.453 ms
+15  202.15.114.4 (202.15.114.4)  263.905 ms  263.921 ms  255.316 ms
+16  165.242.3.33 (165.242.3.33)  255.577 ms  255.614 ms  264.359 ms
+17  165.242.35.65 (165.242.35.65)  256.949 ms  256.970 ms  265.606 ms
+18  pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129)  264.146 ms  255.166 ms  255.441 ms
+traceroute to pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  1.048 ms  1.563 ms  1.956 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  0.258 ms  0.271 ms  0.278 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.210 ms  0.219 ms  0.207 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  0.419 ms  0.403 ms  0.384 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  47.340 ms  47.272 ms  47.231 ms
+ 6  pionier.mx1.poz.pl.geant.net (62.40.125.245)  4.649 ms  4.668 ms  4.654 ms
+ 7  ae3.mx1.fra.de.geant.net (62.40.98.130)  25.701 ms  25.660 ms  25.644 ms
+ 8  ae1.mx1.ams.nl.geant.net (62.40.98.129)  32.382 ms  32.447 ms  32.432 ms
+ 9  ae2.mx1.lon.uk.geant.net (62.40.98.80)  39.908 ms  39.901 ms  39.925 ms
+10  ae0.mx1.lon2.uk.geant.net.geant.net (62.40.98.79)  40.688 ms  40.748 ms  40.792 ms
+11  sinet-gw.mx1.lon2.uk.geant.net (62.40.124.174)  40.774 ms  40.880 ms  40.924 ms
+12  tokyo1-GM-XE-7-2-0-100.s5.sinet.ad.jp (150.99.93.230)  250.819 ms  251.013 ms  251.056 ms
+13  hiroshima-RM-ET-7-1-0-1151.s5.sinet.ad.jp (150.99.89.200)  263.091 ms  263.023 ms  263.018 ms
+14  super-csi.gw.sinet.ad.jp (150.99.188.2)  264.184 ms  264.054 ms  255.347 ms
+15  202.15.114.4 (202.15.114.4)  432.904 ms  432.885 ms  430.685 ms
+16  165.242.3.33 (165.242.3.33)  255.481 ms  255.431 ms  264.392 ms
+17  165.242.35.65 (165.242.35.65)  412.921 ms  362.750 ms  354.938 ms
+18  pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129)  264.125 ms  255.239 ms  255.165 ms
+traceroute to pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  1.055 ms  1.571 ms  1.981 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  0.282 ms  0.288 ms  0.296 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.208 ms  0.195 ms  0.204 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  0.315 ms  0.355 ms  0.279 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  4.633 ms  4.622 ms  4.605 ms
+ 6  pionier.mx1.poz.pl.geant.net (62.40.125.245)  4.639 ms  4.713 ms  4.697 ms
+ 7  ae3.mx1.fra.de.geant.net (62.40.98.130)  25.687 ms  25.728 ms  25.718 ms
+ 8  ae1.mx1.ams.nl.geant.net (62.40.98.129)  32.438 ms  32.468 ms  32.451 ms
+ 9  ae2.mx1.lon.uk.geant.net (62.40.98.80)  39.888 ms  40.032 ms  40.039 ms
+10  ae0.mx1.lon2.uk.geant.net.geant.net (62.40.98.79)  40.751 ms  40.681 ms  40.738 ms
+11  sinet-gw.mx1.lon2.uk.geant.net (62.40.124.174)  40.848 ms  40.814 ms  40.808 ms
+12  tokyo1-GM-XE-7-2-0-100.s5.sinet.ad.jp (150.99.93.230)  250.926 ms  251.081 ms  250.973 ms
+13  hiroshima-RM-ET-7-1-0-1151.s5.sinet.ad.jp (150.99.89.200)  262.996 ms  263.197 ms  263.239 ms
+14  super-csi.gw.sinet.ad.jp (150.99.188.2)  264.196 ms  264.112 ms  255.287 ms
+15  202.15.114.4 (202.15.114.4)  264.158 ms  264.080 ms  255.268 ms
+16  165.242.3.33 (165.242.3.33)  255.699 ms  255.570 ms  264.509 ms
+17  165.242.35.65 (165.242.35.65)  256.933 ms  256.797 ms  265.984 ms
+18  pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129)  264.141 ms  255.369 ms  255.402 ms
+traceroute to pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  1.079 ms  1.590 ms  2.000 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  0.357 ms  0.353 ms  0.341 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.296 ms  0.281 ms  0.262 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  0.373 ms  0.356 ms  0.323 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  4.715 ms  4.764 ms  4.688 ms
+ 6  pionier.mx1.poz.pl.geant.net (62.40.125.245)  4.669 ms  4.643 ms  4.633 ms
+ 7  ae3.mx1.fra.de.geant.net (62.40.98.130)  25.688 ms  25.745 ms  25.736 ms
+ 8  ae1.mx1.ams.nl.geant.net (62.40.98.129)  32.390 ms  32.432 ms  32.416 ms
+ 9  ae2.mx1.lon.uk.geant.net (62.40.98.80)  39.851 ms  39.899 ms  39.927 ms
+10  ae0.mx1.lon2.uk.geant.net.geant.net (62.40.98.79)  40.708 ms  40.741 ms  40.756 ms
+11  sinet-gw.mx1.lon2.uk.geant.net (62.40.124.174)  40.785 ms  40.874 ms  40.813 ms
+12  tokyo1-GM-XE-7-2-0-100.s5.sinet.ad.jp (150.99.93.230)  250.979 ms  250.924 ms  250.855 ms
+13  hiroshima-RM-ET-7-1-0-1151.s5.sinet.ad.jp (150.99.89.200)  263.109 ms  263.190 ms  263.134 ms
+14  super-csi.gw.sinet.ad.jp (150.99.188.2)  264.059 ms  264.133 ms  255.222 ms
+15  202.15.114.4 (202.15.114.4)  264.224 ms  263.987 ms  255.763 ms
+16  165.242.3.33 (165.242.3.33)  255.510 ms  255.436 ms  264.139 ms
+17  165.242.35.65 (165.242.35.65)  256.690 ms  256.927 ms  265.572 ms
+18  pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129)  264.071 ms  255.229 ms  255.188 ms
+traceroute to pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  1.126 ms  1.566 ms  1.966 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  0.312 ms  0.304 ms  0.285 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.242 ms  0.272 ms  0.198 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  0.383 ms  0.357 ms  0.300 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  4.564 ms  4.583 ms  4.564 ms
+ 6  pionier.mx1.poz.pl.geant.net (62.40.125.245)  4.681 ms  4.722 ms  4.703 ms
+ 7  ae3.mx1.fra.de.geant.net (62.40.98.130)  25.706 ms  30.088 ms  25.742 ms
+ 8  ae1.mx1.ams.nl.geant.net (62.40.98.129)  32.426 ms  32.308 ms  32.371 ms
+ 9  ae2.mx1.lon.uk.geant.net (62.40.98.80)  39.862 ms  39.860 ms  39.906 ms
+10  ae0.mx1.lon2.uk.geant.net.geant.net (62.40.98.79)  40.757 ms  40.724 ms  40.822 ms
+11  sinet-gw.mx1.lon2.uk.geant.net (62.40.124.174)  40.789 ms  40.788 ms  40.792 ms
+12  tokyo1-GM-XE-7-2-0-100.s5.sinet.ad.jp (150.99.93.230)  250.959 ms  250.910 ms  250.852 ms
+13  hiroshima-RM-ET-7-1-0-1151.s5.sinet.ad.jp (150.99.89.200)  262.819 ms  263.015 ms  263.066 ms
+14  super-csi.gw.sinet.ad.jp (150.99.188.2)  264.164 ms  264.133 ms  255.210 ms
+15  202.15.114.4 (202.15.114.4)  263.891 ms  264.105 ms  255.240 ms
+16  165.242.3.33 (165.242.3.33)  255.521 ms  255.438 ms  264.284 ms
+17  165.242.35.65 (165.242.35.65)  256.681 ms  299.294 ms  279.474 ms
+18  pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129)  264.003 ms  255.165 ms  255.204 ms
+traceroute to pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  1.071 ms  1.599 ms  2.001 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  6.365 ms  6.424 ms  6.408 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.227 ms  0.213 ms  0.199 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  0.322 ms  0.320 ms  0.299 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  4.570 ms  4.616 ms  4.789 ms
+ 6  pionier.mx1.poz.pl.geant.net (62.40.125.245)  4.775 ms  4.713 ms  4.639 ms
+ 7  ae3.mx1.fra.de.geant.net (62.40.98.130)  25.563 ms  25.638 ms  25.604 ms
+ 8  ae1.mx1.ams.nl.geant.net (62.40.98.129)  32.288 ms  32.511 ms  32.548 ms
+ 9  ae2.mx1.lon.uk.geant.net (62.40.98.80)  39.845 ms  40.102 ms  39.964 ms
+10  ae0.mx1.lon2.uk.geant.net.geant.net (62.40.98.79)  40.688 ms  40.828 ms  40.844 ms
+11  sinet-gw.mx1.lon2.uk.geant.net (62.40.124.174)  40.897 ms  40.976 ms  41.018 ms
+12  tokyo1-GM-XE-7-2-0-100.s5.sinet.ad.jp (150.99.93.230)  251.099 ms  250.959 ms  251.076 ms
+13  hiroshima-RM-ET-7-1-0-1151.s5.sinet.ad.jp (150.99.89.200)  263.017 ms  263.043 ms  263.098 ms
+14  super-csi.gw.sinet.ad.jp (150.99.188.2)  264.292 ms  264.288 ms  255.200 ms
+15  202.15.114.4 (202.15.114.4)  264.210 ms  264.184 ms  255.289 ms
+16  165.242.3.33 (165.242.3.33)  255.673 ms  255.649 ms  264.444 ms
+17  165.242.35.65 (165.242.35.65)  256.917 ms  256.864 ms  265.810 ms
+18  pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129)  264.107 ms  255.504 ms  255.378 ms
+traceroute to pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  1.091 ms  1.527 ms  1.972 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  0.276 ms  0.298 ms  0.278 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.499 ms  0.491 ms  0.502 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  0.635 ms  0.637 ms  0.615 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  4.880 ms  4.908 ms  4.896 ms
+ 6  pionier.mx1.poz.pl.geant.net (62.40.125.245)  4.890 ms  4.846 ms  4.807 ms
+ 7  ae3.mx1.fra.de.geant.net (62.40.98.130)  25.759 ms  25.712 ms  25.670 ms
+ 8  ae1.mx1.ams.nl.geant.net (62.40.98.129)  34.495 ms  34.417 ms  34.387 ms
+ 9  ae2.mx1.lon.uk.geant.net (62.40.98.80)  39.907 ms  39.896 ms  39.893 ms
+10  ae0.mx1.lon2.uk.geant.net.geant.net (62.40.98.79)  41.145 ms  40.850 ms  40.894 ms
+11  sinet-gw.mx1.lon2.uk.geant.net (62.40.124.174)  42.567 ms  42.606 ms  42.524 ms
+12  tokyo1-GM-XE-7-2-0-100.s5.sinet.ad.jp (150.99.93.230)  250.887 ms  250.933 ms  250.979 ms
+13  hiroshima-RM-ET-7-1-0-1151.s5.sinet.ad.jp (150.99.89.200)  263.044 ms  263.063 ms  263.105 ms
+14  super-csi.gw.sinet.ad.jp (150.99.188.2)  264.078 ms  264.072 ms  255.227 ms
+15  202.15.114.4 (202.15.114.4)  264.088 ms  264.026 ms  255.128 ms
+16  165.242.3.33 (165.242.3.33)  255.486 ms  255.302 ms  264.581 ms
+17  165.242.35.65 (165.242.35.65)  256.684 ms  256.800 ms  265.707 ms
+18  pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129)  264.078 ms  255.305 ms  255.189 ms
+traceroute to pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  1.056 ms  1.543 ms  1.974 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  0.251 ms  0.276 ms  0.287 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.195 ms  0.198 ms  0.203 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  0.363 ms  0.411 ms  0.294 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  4.640 ms  4.686 ms  4.670 ms
+ 6  pionier.mx1.poz.pl.geant.net (62.40.125.245)  4.655 ms  4.658 ms  4.641 ms
+ 7  ae3.mx1.fra.de.geant.net (62.40.98.130)  41.022 ms  25.628 ms  40.965 ms
+ 8  ae1.mx1.ams.nl.geant.net (62.40.98.129)  32.389 ms  32.457 ms  32.428 ms
+ 9  ae2.mx1.lon.uk.geant.net (62.40.98.80)  39.830 ms  39.828 ms  39.858 ms
+10  ae0.mx1.lon2.uk.geant.net.geant.net (62.40.98.79)  40.792 ms  40.759 ms  40.719 ms
+11  sinet-gw.mx1.lon2.uk.geant.net (62.40.124.174)  40.828 ms  40.741 ms  40.751 ms
+12  tokyo1-GM-XE-7-2-0-100.s5.sinet.ad.jp (150.99.93.230)  250.966 ms  251.018 ms  251.071 ms
+13  hiroshima-RM-ET-7-1-0-1151.s5.sinet.ad.jp (150.99.89.200)  263.383 ms  263.263 ms  263.042 ms
+14  super-csi.gw.sinet.ad.jp (150.99.188.2)  264.196 ms  264.191 ms  255.273 ms
+15  202.15.114.4 (202.15.114.4)  263.904 ms  264.033 ms  255.204 ms
+16  165.242.3.33 (165.242.3.33)  255.446 ms  255.489 ms  264.318 ms
+17  165.242.35.65 (165.242.35.65)  256.807 ms  256.781 ms  265.618 ms
+18  pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129)  264.055 ms  255.261 ms  255.496 ms
+traceroute to pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  1.139 ms  1.667 ms  2.056 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  25.373 ms  25.424 ms  25.405 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.197 ms  0.303 ms  0.223 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  0.358 ms  0.350 ms  0.332 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  4.657 ms  4.732 ms  4.717 ms
+ 6  pionier.mx1.poz.pl.geant.net (62.40.125.245)  4.692 ms  4.669 ms  4.652 ms
+ 7  ae3.mx1.fra.de.geant.net (62.40.98.130)  25.637 ms  25.624 ms  25.613 ms
+ 8  ae1.mx1.ams.nl.geant.net (62.40.98.129)  32.337 ms  32.273 ms  32.334 ms
+ 9  ae2.mx1.lon.uk.geant.net (62.40.98.80)  39.881 ms  39.812 ms  39.887 ms
+10  ae0.mx1.lon2.uk.geant.net.geant.net (62.40.98.79)  40.906 ms  40.907 ms  40.856 ms
+11  sinet-gw.mx1.lon2.uk.geant.net (62.40.124.174)  40.800 ms  40.866 ms  40.854 ms
+12  tokyo1-GM-XE-7-2-0-100.s5.sinet.ad.jp (150.99.93.230)  250.965 ms  251.030 ms  251.056 ms
+13  hiroshima-RM-ET-7-1-0-1151.s5.sinet.ad.jp (150.99.89.200)  263.044 ms  262.962 ms  262.965 ms
+14  super-csi.gw.sinet.ad.jp (150.99.188.2)  264.168 ms  264.134 ms  255.225 ms
+15  202.15.114.4 (202.15.114.4)  264.137 ms  264.183 ms  255.280 ms
+16  165.242.3.33 (165.242.3.33)  255.521 ms  255.479 ms  264.215 ms
+17  165.242.35.65 (165.242.35.65)  256.777 ms  256.835 ms  265.829 ms
+18  pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129)  264.279 ms  255.284 ms  255.152 ms
+traceroute to pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  1.165 ms  1.671 ms  2.064 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  0.311 ms  0.306 ms  0.301 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.251 ms  0.226 ms  0.210 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  2.265 ms  2.253 ms  2.228 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  4.597 ms  4.651 ms  4.635 ms
+ 6  pionier.mx1.poz.pl.geant.net (62.40.125.245)  4.677 ms  4.696 ms  4.675 ms
+ 7  ae3.mx1.fra.de.geant.net (62.40.98.130)  25.698 ms  25.562 ms  25.660 ms
+ 8  ae1.mx1.ams.nl.geant.net (62.40.98.129)  32.338 ms  32.280 ms  32.313 ms
+ 9  ae2.mx1.lon.uk.geant.net (62.40.98.80)  39.828 ms  39.895 ms  39.940 ms
+10  ae0.mx1.lon2.uk.geant.net.geant.net (62.40.98.79)  40.765 ms  40.780 ms  40.733 ms
+11  sinet-gw.mx1.lon2.uk.geant.net (62.40.124.174)  40.856 ms  40.735 ms  40.800 ms
+12  tokyo1-GM-XE-7-2-0-100.s5.sinet.ad.jp (150.99.93.230)  250.819 ms  250.860 ms  250.862 ms
+13  hiroshima-RM-ET-7-1-0-1151.s5.sinet.ad.jp (150.99.89.200)  262.946 ms  262.962 ms  263.071 ms
+14  super-csi.gw.sinet.ad.jp (150.99.188.2)  264.097 ms  264.174 ms  255.238 ms
+15  202.15.114.4 (202.15.114.4)  264.048 ms  263.961 ms  255.245 ms
+16  165.242.3.33 (165.242.3.33)  255.401 ms  255.558 ms  264.322 ms
+17  165.242.35.65 (165.242.35.65)  256.719 ms * *
+18  pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129)  264.016 ms  255.346 ms  255.108 ms
+traceroute to pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  1.154 ms  1.295 ms  1.664 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  7.657 ms  7.666 ms  7.676 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.200 ms  0.195 ms  0.190 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  0.361 ms  0.351 ms  0.333 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  4.748 ms  4.739 ms  4.723 ms
+ 6  pionier.mx1.poz.pl.geant.net (62.40.125.245)  4.879 ms  4.818 ms  6.896 ms
+ 7  ae3.mx1.fra.de.geant.net (62.40.98.130)  25.579 ms  25.650 ms  25.593 ms
+ 8  ae1.mx1.ams.nl.geant.net (62.40.98.129)  32.334 ms  32.458 ms  32.420 ms
+ 9  ae2.mx1.lon.uk.geant.net (62.40.98.80)  39.842 ms  40.211 ms  40.195 ms
+10  ae0.mx1.lon2.uk.geant.net.geant.net (62.40.98.79)  40.872 ms  40.835 ms  40.841 ms
+11  sinet-gw.mx1.lon2.uk.geant.net (62.40.124.174)  40.816 ms  40.797 ms  40.811 ms
+12  tokyo1-GM-XE-7-2-0-100.s5.sinet.ad.jp (150.99.93.230)  250.894 ms  250.980 ms  250.994 ms
+13  hiroshima-RM-ET-7-1-0-1151.s5.sinet.ad.jp (150.99.89.200)  262.986 ms  262.945 ms  262.957 ms
+14  super-csi.gw.sinet.ad.jp (150.99.188.2)  264.081 ms  264.172 ms  255.369 ms
+15  202.15.114.4 (202.15.114.4)  264.067 ms  264.045 ms  255.494 ms
+16  165.242.3.33 (165.242.3.33)  255.551 ms  255.549 ms  264.294 ms
+17  165.242.35.65 (165.242.35.65)  256.836 ms  256.874 ms  265.656 ms
+18  pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129)  313.617 ms  301.183 ms  293.109 ms
+traceroute to pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  1.218 ms  1.675 ms  2.076 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  0.252 ms  0.256 ms  0.263 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.376 ms  0.374 ms  0.548 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  0.607 ms  0.625 ms  0.655 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  5.008 ms  5.063 ms  5.062 ms
+ 6  pionier.mx1.poz.pl.geant.net (62.40.125.245)  5.129 ms  5.124 ms  5.135 ms
+ 7  ae3.mx1.fra.de.geant.net (62.40.98.130)  26.327 ms  26.386 ms  26.360 ms
+ 8  ae1.mx1.ams.nl.geant.net (62.40.98.129)  32.650 ms  32.621 ms  32.578 ms
+ 9  ae2.mx1.lon.uk.geant.net (62.40.98.80)  39.967 ms  39.942 ms  39.851 ms
+10  ae0.mx1.lon2.uk.geant.net.geant.net (62.40.98.79)  40.839 ms  40.840 ms  41.099 ms
+11  sinet-gw.mx1.lon2.uk.geant.net (62.40.124.174)  40.850 ms  40.844 ms  40.821 ms
+12  tokyo1-GM-XE-7-2-0-100.s5.sinet.ad.jp (150.99.93.230)  250.922 ms  251.014 ms  251.013 ms
+13  hiroshima-RM-ET-7-1-0-1151.s5.sinet.ad.jp (150.99.89.200)  262.971 ms  263.132 ms  262.999 ms
+14  super-csi.gw.sinet.ad.jp (150.99.188.2)  264.281 ms  264.117 ms  255.371 ms
+15  202.15.114.4 (202.15.114.4)  297.124 ms  293.272 ms  291.684 ms
+16  165.242.3.33 (165.242.3.33)  255.551 ms  255.396 ms  264.484 ms
+17  165.242.35.65 (165.242.35.65)  291.217 ms  256.797 ms  265.613 ms
+18  pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129)  264.069 ms  255.398 ms  255.256 ms
+traceroute to pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  1.212 ms  1.685 ms  2.093 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  0.247 ms  0.278 ms  0.320 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.222 ms  0.278 ms  0.260 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  0.289 ms  0.383 ms  0.297 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  5.252 ms  5.234 ms  5.216 ms
+ 6  pionier.mx1.poz.pl.geant.net (62.40.125.245)  4.751 ms  4.764 ms  4.745 ms
+ 7  ae3.mx1.fra.de.geant.net (62.40.98.130)  25.560 ms  25.630 ms  25.616 ms
+ 8  ae1.mx1.ams.nl.geant.net (62.40.98.129)  32.467 ms  32.449 ms  32.390 ms
+ 9  ae2.mx1.lon.uk.geant.net (62.40.98.80)  39.855 ms  39.839 ms  40.056 ms
+10  ae0.mx1.lon2.uk.geant.net.geant.net (62.40.98.79)  40.734 ms  40.807 ms  40.904 ms
+11  sinet-gw.mx1.lon2.uk.geant.net (62.40.124.174)  40.910 ms  40.773 ms  40.700 ms
+12  tokyo1-GM-XE-7-2-0-100.s5.sinet.ad.jp (150.99.93.230)  251.138 ms  251.038 ms  250.976 ms
+13  hiroshima-RM-ET-7-1-0-1151.s5.sinet.ad.jp (150.99.89.200)  262.980 ms  263.137 ms  262.981 ms
+14  super-csi.gw.sinet.ad.jp (150.99.188.2)  264.210 ms  264.105 ms  255.230 ms
+15  202.15.114.4 (202.15.114.4)  264.602 ms  264.031 ms  255.228 ms
+16  165.242.3.33 (165.242.3.33)  255.408 ms  255.968 ms  264.885 ms
+17  165.242.35.65 (165.242.35.65)  257.702 ms  257.014 ms  265.539 ms
+18  pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129)  264.061 ms  255.150 ms  255.230 ms
+traceroute to pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  1.453 ms  2.182 ms  2.916 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  0.299 ms  0.298 ms  0.282 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.239 ms  0.221 ms  0.206 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  0.795 ms  0.776 ms  0.758 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  4.587 ms  4.576 ms  4.558 ms
+ 6  pionier.mx1.poz.pl.geant.net (62.40.125.245)  4.741 ms  4.701 ms  4.684 ms
+ 7  ae3.mx1.fra.de.geant.net (62.40.98.130)  34.265 ms  34.306 ms *
+ 8  ae1.mx1.ams.nl.geant.net (62.40.98.129)  32.378 ms  32.415 ms  32.306 ms
+ 9  ae2.mx1.lon.uk.geant.net (62.40.98.80)  39.914 ms  40.051 ms  39.927 ms
+10  ae0.mx1.lon2.uk.geant.net.geant.net (62.40.98.79)  40.740 ms  40.851 ms  40.883 ms
+11  sinet-gw.mx1.lon2.uk.geant.net (62.40.124.174)  40.869 ms  40.906 ms  40.887 ms
+12  tokyo1-GM-XE-7-2-0-100.s5.sinet.ad.jp (150.99.93.230)  250.867 ms  250.848 ms  250.899 ms
+13  hiroshima-RM-ET-7-1-0-1151.s5.sinet.ad.jp (150.99.89.200)  263.026 ms  263.083 ms  263.126 ms
+14  super-csi.gw.sinet.ad.jp (150.99.188.2)  264.188 ms  264.135 ms  255.392 ms
+15  202.15.114.4 (202.15.114.4)  264.039 ms  264.117 ms  255.524 ms
+16  165.242.3.33 (165.242.3.33)  255.646 ms  255.695 ms  264.342 ms
+17  165.242.35.65 (165.242.35.65)  256.791 ms  256.733 ms  265.583 ms
+18  pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129)  263.982 ms  255.323 ms  255.514 ms
+traceroute to pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  1.113 ms  1.620 ms  2.064 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  0.281 ms  0.270 ms  0.279 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.391 ms  0.378 ms  0.360 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  0.397 ms  0.378 ms  0.356 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  4.641 ms  4.694 ms  4.679 ms
+ 6  pionier.mx1.poz.pl.geant.net (62.40.125.245)  4.670 ms  4.753 ms  4.763 ms
+ 7  ae3.mx1.fra.de.geant.net (62.40.98.130)  25.679 ms  25.742 ms  25.728 ms
+ 8  ae1.mx1.ams.nl.geant.net (62.40.98.129)  32.394 ms  32.488 ms  32.496 ms
+ 9  ae2.mx1.lon.uk.geant.net (62.40.98.80)  39.989 ms  39.795 ms  39.848 ms
+10  ae0.mx1.lon2.uk.geant.net.geant.net (62.40.98.79)  40.765 ms  40.746 ms  40.791 ms
+11  sinet-gw.mx1.lon2.uk.geant.net (62.40.124.174)  40.803 ms  40.778 ms  40.732 ms
+12  tokyo1-GM-XE-7-2-0-100.s5.sinet.ad.jp (150.99.93.230)  250.913 ms  250.778 ms  250.815 ms
+13  hiroshima-RM-ET-7-1-0-1151.s5.sinet.ad.jp (150.99.89.200)  262.955 ms  263.059 ms  263.074 ms
+14  super-csi.gw.sinet.ad.jp (150.99.188.2)  264.076 ms  264.076 ms  255.294 ms
+15  202.15.114.4 (202.15.114.4)  264.099 ms  264.053 ms  255.191 ms
+16  165.242.3.33 (165.242.3.33)  255.551 ms  255.544 ms  264.270 ms
+17  165.242.35.65 (165.242.35.65)  256.758 ms  256.889 ms  265.631 ms
+18  pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129)  264.098 ms  255.259 ms  255.286 ms
+traceroute to pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  1.107 ms  1.634 ms  2.019 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  0.269 ms  0.267 ms  0.280 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.209 ms  0.200 ms  0.190 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  0.333 ms  0.316 ms  0.296 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  4.568 ms  4.621 ms  4.572 ms
+ 6  pionier.mx1.poz.pl.geant.net (62.40.125.245)  4.649 ms  4.723 ms  4.705 ms
+ 7  ae3.mx1.fra.de.geant.net (62.40.98.130)  25.715 ms  25.751 ms  25.737 ms
+ 8  ae1.mx1.ams.nl.geant.net (62.40.98.129)  32.404 ms  32.378 ms  32.437 ms
+ 9  ae2.mx1.lon.uk.geant.net (62.40.98.80)  39.838 ms  40.132 ms  40.103 ms
+10  ae0.mx1.lon2.uk.geant.net.geant.net (62.40.98.79)  40.747 ms  40.892 ms  40.783 ms
+11  sinet-gw.mx1.lon2.uk.geant.net (62.40.124.174)  41.157 ms  41.045 ms  41.108 ms
+12  tokyo1-GM-XE-7-2-0-100.s5.sinet.ad.jp (150.99.93.230)  250.884 ms  250.981 ms  250.965 ms
+13  hiroshima-RM-ET-7-1-0-1151.s5.sinet.ad.jp (150.99.89.200)  263.030 ms  263.139 ms  263.028 ms
+14  super-csi.gw.sinet.ad.jp (150.99.188.2)  264.536 ms  264.056 ms  255.405 ms
+15  202.15.114.4 (202.15.114.4)  264.007 ms  264.051 ms  255.191 ms
+16  165.242.3.33 (165.242.3.33)  255.407 ms  255.779 ms  264.269 ms
+17  165.242.35.65 (165.242.35.65)  256.727 ms  280.299 ms  265.709 ms
+18  pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129)  264.371 ms  255.073 ms  255.964 ms
+traceroute to pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  1.040 ms  1.515 ms  1.913 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  0.291 ms  0.280 ms  0.347 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.424 ms  0.414 ms  0.412 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  0.323 ms  0.311 ms  0.293 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  4.604 ms *  4.601 ms
+ 6  pionier.mx1.poz.pl.geant.net (62.40.125.245)  4.711 ms  4.745 ms  4.711 ms
+ 7  ae3.mx1.fra.de.geant.net (62.40.98.130)  25.631 ms  25.700 ms  25.662 ms
+ 8  ae1.mx1.ams.nl.geant.net (62.40.98.129)  32.459 ms  32.457 ms  32.439 ms
+ 9  ae2.mx1.lon.uk.geant.net (62.40.98.80)  39.841 ms  39.909 ms  40.129 ms
+10  ae0.mx1.lon2.uk.geant.net.geant.net (62.40.98.79)  40.698 ms  45.165 ms  45.187 ms
+11  sinet-gw.mx1.lon2.uk.geant.net (62.40.124.174)  40.845 ms  40.901 ms  40.886 ms
+12  tokyo1-GM-XE-7-2-0-100.s5.sinet.ad.jp (150.99.93.230)  251.041 ms  250.939 ms  250.963 ms
+13  hiroshima-RM-ET-7-1-0-1151.s5.sinet.ad.jp (150.99.89.200)  263.192 ms  263.176 ms  263.158 ms
+14  super-csi.gw.sinet.ad.jp (150.99.188.2)  264.247 ms  264.055 ms  255.358 ms
+15  202.15.114.4 (202.15.114.4)  264.002 ms  263.868 ms  255.368 ms
+16  165.242.3.33 (165.242.3.33)  255.663 ms  255.512 ms  264.399 ms
+17  165.242.35.65 (165.242.35.65)  256.807 ms  256.802 ms  265.738 ms
+18  pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129)  264.126 ms  255.334 ms  264.157 ms
+traceroute to pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  1.023 ms  1.531 ms  1.913 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  0.382 ms  0.378 ms  0.373 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.288 ms  0.291 ms  0.277 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  0.402 ms  0.383 ms  0.363 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  4.642 ms  4.694 ms  4.678 ms
+ 6  pionier.mx1.poz.pl.geant.net (62.40.125.245)  4.674 ms  4.676 ms  4.698 ms
+ 7  ae3.mx1.fra.de.geant.net (62.40.98.130)  25.672 ms  25.736 ms  25.705 ms
+ 8  ae1.mx1.ams.nl.geant.net (62.40.98.129)  32.520 ms  32.387 ms  32.452 ms
+ 9  ae2.mx1.lon.uk.geant.net (62.40.98.80)  39.872 ms  39.850 ms  39.882 ms
+10  ae0.mx1.lon2.uk.geant.net.geant.net (62.40.98.79)  40.721 ms  40.733 ms  40.665 ms
+11  sinet-gw.mx1.lon2.uk.geant.net (62.40.124.174)  40.875 ms  40.854 ms  40.800 ms
+12  tokyo1-GM-XE-7-2-0-100.s5.sinet.ad.jp (150.99.93.230)  250.898 ms  251.982 ms  251.920 ms
+13  hiroshima-RM-ET-7-1-0-1151.s5.sinet.ad.jp (150.99.89.200)  262.978 ms  263.062 ms  263.081 ms
+14  super-csi.gw.sinet.ad.jp (150.99.188.2)  264.079 ms  264.245 ms  255.266 ms
+15  202.15.114.4 (202.15.114.4)  263.933 ms  263.966 ms  255.195 ms
+16  165.242.3.33 (165.242.3.33)  255.437 ms  255.506 ms  264.228 ms
+17  165.242.35.65 (165.242.35.65)  256.904 ms  256.959 ms  266.078 ms
+18  pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129)  264.392 ms  257.086 ms  255.946 ms
+traceroute to pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  1.047 ms  1.560 ms  1.956 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  0.320 ms  0.315 ms  0.341 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.222 ms  0.216 ms  0.278 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  0.348 ms  0.329 ms  0.311 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  4.600 ms  4.590 ms  4.573 ms
+ 6  pionier.mx1.poz.pl.geant.net (62.40.125.245)  4.661 ms  4.649 ms  4.630 ms
+ 7  ae3.mx1.fra.de.geant.net (62.40.98.130)  25.608 ms  25.657 ms  25.641 ms
+ 8  ae1.mx1.ams.nl.geant.net (62.40.98.129)  32.438 ms  32.482 ms  32.449 ms
+ 9  ae2.mx1.lon.uk.geant.net (62.40.98.80)  40.100 ms  40.136 ms  40.133 ms
+10  ae0.mx1.lon2.uk.geant.net.geant.net (62.40.98.79)  40.771 ms  40.718 ms  40.679 ms
+11  sinet-gw.mx1.lon2.uk.geant.net (62.40.124.174)  56.484 ms  56.539 ms  56.502 ms
+12  tokyo1-GM-XE-7-2-0-100.s5.sinet.ad.jp (150.99.93.230)  250.976 ms  250.852 ms  250.923 ms
+13  hiroshima-RM-ET-7-1-0-1151.s5.sinet.ad.jp (150.99.89.200)  263.095 ms  263.314 ms  263.169 ms
+14  super-csi.gw.sinet.ad.jp (150.99.188.2)  264.251 ms  264.262 ms  255.358 ms
+15  202.15.114.4 (202.15.114.4)  264.207 ms  264.070 ms  256.066 ms
+16  165.242.3.33 (165.242.3.33)  255.587 ms  255.406 ms  264.436 ms
+17  165.242.35.65 (165.242.35.65)  256.812 ms  256.907 ms  265.628 ms
+18  pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129)  263.992 ms  255.193 ms  264.171 ms
+traceroute to pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  1.163 ms  1.680 ms  2.072 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  0.265 ms  0.261 ms  0.276 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.210 ms  0.202 ms  0.197 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  0.319 ms  0.295 ms  0.271 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  4.569 ms  4.633 ms  4.619 ms
+ 6  pionier.mx1.poz.pl.geant.net (62.40.125.245)  4.641 ms  4.659 ms  4.654 ms
+ 7  ae3.mx1.fra.de.geant.net (62.40.98.130)  25.643 ms  25.685 ms  25.670 ms
+ 8  ae1.mx1.ams.nl.geant.net (62.40.98.129)  32.464 ms  32.521 ms  32.510 ms
+ 9  ae2.mx1.lon.uk.geant.net (62.40.98.80)  39.980 ms  39.907 ms  39.915 ms
+10  ae0.mx1.lon2.uk.geant.net.geant.net (62.40.98.79)  40.751 ms  40.791 ms  40.732 ms
+11  sinet-gw.mx1.lon2.uk.geant.net (62.40.124.174)  40.874 ms  40.866 ms  40.934 ms
+12  tokyo1-GM-XE-7-2-0-100.s5.sinet.ad.jp (150.99.93.230)  250.960 ms  251.014 ms  250.852 ms
+13  hiroshima-RM-ET-7-1-0-1151.s5.sinet.ad.jp (150.99.89.200)  266.085 ms  268.915 ms  268.969 ms
+14  super-csi.gw.sinet.ad.jp (150.99.188.2)  264.170 ms  264.122 ms  255.353 ms
+15  202.15.114.4 (202.15.114.4)  264.035 ms  264.214 ms  255.246 ms
+16  165.242.3.33 (165.242.3.33)  255.742 ms  255.526 ms  264.223 ms
+17  165.242.35.65 (165.242.35.65)  256.938 ms  256.935 ms  265.750 ms
+18  pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129)  273.078 ms  257.675 ms  256.126 ms
+traceroute to pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  1.052 ms  1.594 ms  1.957 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  0.267 ms  0.269 ms  0.270 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.206 ms  0.220 ms  0.208 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  0.421 ms  0.406 ms  0.386 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  4.618 ms  4.609 ms  4.662 ms
+ 6  pionier.mx1.poz.pl.geant.net (62.40.125.245)  4.699 ms  4.725 ms  4.693 ms
+ 7  ae3.mx1.fra.de.geant.net (62.40.98.130)  25.739 ms  25.794 ms  25.779 ms
+ 8  ae1.mx1.ams.nl.geant.net (62.40.98.129)  32.390 ms  32.478 ms  32.462 ms
+ 9  ae2.mx1.lon.uk.geant.net (62.40.98.80)  39.954 ms  40.008 ms  39.991 ms
+10  ae0.mx1.lon2.uk.geant.net.geant.net (62.40.98.79)  40.790 ms  40.796 ms  40.843 ms
+11  sinet-gw.mx1.lon2.uk.geant.net (62.40.124.174)  40.850 ms  40.897 ms  40.899 ms
+12  tokyo1-GM-XE-7-2-0-100.s5.sinet.ad.jp (150.99.93.230)  250.966 ms  251.063 ms  251.034 ms
+13  hiroshima-RM-ET-7-1-0-1151.s5.sinet.ad.jp (150.99.89.200)  264.780 ms  263.757 ms  263.704 ms
+14  super-csi.gw.sinet.ad.jp (150.99.188.2)  264.219 ms  264.169 ms  255.433 ms
+15  202.15.114.4 (202.15.114.4)  264.074 ms  264.423 ms  255.139 ms
+16  165.242.3.33 (165.242.3.33)  255.501 ms  255.667 ms  264.287 ms
+17  165.242.35.65 (165.242.35.65)  256.692 ms  257.035 ms  265.818 ms
+18  pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129)  264.307 ms  255.209 ms  255.188 ms
+traceroute to pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  1.041 ms  1.489 ms  2.003 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  4.947 ms  4.913 ms  4.903 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.224 ms  0.210 ms  0.203 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  0.367 ms  0.361 ms  0.346 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  4.608 ms  4.663 ms  4.666 ms
+ 6  pionier.mx1.poz.pl.geant.net (62.40.125.245)  4.718 ms  4.679 ms  4.743 ms
+ 7  ae3.mx1.fra.de.geant.net (62.40.98.130)  25.714 ms  25.731 ms  25.699 ms
+ 8  ae1.mx1.ams.nl.geant.net (62.40.98.129)  32.368 ms  32.472 ms  32.491 ms
+ 9  ae2.mx1.lon.uk.geant.net (62.40.98.80)  39.931 ms  39.905 ms  39.969 ms
+10  ae0.mx1.lon2.uk.geant.net.geant.net (62.40.98.79)  40.757 ms  40.748 ms  40.732 ms
+11  sinet-gw.mx1.lon2.uk.geant.net (62.40.124.174)  41.003 ms  42.156 ms  42.147 ms
+12  tokyo1-GM-XE-7-2-0-100.s5.sinet.ad.jp (150.99.93.230)  251.015 ms  250.834 ms  250.884 ms
+13  hiroshima-RM-ET-7-1-0-1151.s5.sinet.ad.jp (150.99.89.200)  262.960 ms  263.111 ms  263.006 ms
+14  super-csi.gw.sinet.ad.jp (150.99.188.2)  264.100 ms  264.115 ms  255.315 ms
+15  202.15.114.4 (202.15.114.4)  263.913 ms  264.035 ms  255.166 ms
+16  165.242.3.33 (165.242.3.33)  255.552 ms  255.499 ms  264.471 ms
+17  165.242.35.65 (165.242.35.65)  256.728 ms  256.888 ms  266.062 ms
+18  pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129)  264.355 ms  255.146 ms  293.071 ms
+traceroute to pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  1.400 ms  1.824 ms  2.223 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  0.263 ms  0.304 ms  0.286 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.237 ms  0.223 ms  0.212 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  19.551 ms  19.589 ms  19.577 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  5.193 ms  5.180 ms  5.125 ms
+ 6  pionier.mx1.poz.pl.geant.net (62.40.125.245)  4.662 ms  5.112 ms  5.101 ms
+ 7  ae3.mx1.fra.de.geant.net (62.40.98.130)  25.811 ms  25.873 ms  25.859 ms
+ 8  ae1.mx1.ams.nl.geant.net (62.40.98.129)  32.440 ms  32.533 ms  32.558 ms
+ 9  ae2.mx1.lon.uk.geant.net (62.40.98.80)  45.302 ms  43.458 ms  43.163 ms
+10  ae0.mx1.lon2.uk.geant.net.geant.net (62.40.98.79)  40.816 ms  40.864 ms  40.789 ms
+11  sinet-gw.mx1.lon2.uk.geant.net (62.40.124.174)  40.878 ms  40.910 ms  40.798 ms
+12  tokyo1-GM-XE-7-2-0-100.s5.sinet.ad.jp (150.99.93.230)  251.000 ms  250.966 ms  251.039 ms
+13  hiroshima-RM-ET-7-1-0-1151.s5.sinet.ad.jp (150.99.89.200)  263.520 ms  263.092 ms  263.027 ms
+14  super-csi.gw.sinet.ad.jp (150.99.188.2)  264.103 ms  264.201 ms  255.364 ms
+15  202.15.114.4 (202.15.114.4)  264.388 ms  264.283 ms  255.229 ms
+16  165.242.3.33 (165.242.3.33)  255.773 ms  255.844 ms  264.227 ms
+17  165.242.35.65 (165.242.35.65)  256.753 ms  256.880 ms  265.582 ms
+18  pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129)  263.924 ms  255.297 ms  264.051 ms
+traceroute to pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  1.059 ms  1.606 ms  1.968 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  21.088 ms  21.146 ms  21.129 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.258 ms  0.268 ms  0.250 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  0.464 ms  0.447 ms  0.427 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  5.297 ms  5.314 ms  5.108 ms
+ 6  pionier.mx1.poz.pl.geant.net (62.40.125.245)  4.717 ms  4.689 ms  4.673 ms
+ 7  ae3.mx1.fra.de.geant.net (62.40.98.130)  25.636 ms  25.679 ms  25.645 ms
+ 8  ae1.mx1.ams.nl.geant.net (62.40.98.129)  32.399 ms * *
+ 9  ae2.mx1.lon.uk.geant.net (62.40.98.80)  39.965 ms  39.961 ms  39.975 ms
+10  ae0.mx1.lon2.uk.geant.net.geant.net (62.40.98.79)  40.673 ms  40.848 ms  40.902 ms
+11  sinet-gw.mx1.lon2.uk.geant.net (62.40.124.174)  41.041 ms  41.003 ms  41.021 ms
+12  tokyo1-GM-XE-7-2-0-100.s5.sinet.ad.jp (150.99.93.230)  250.920 ms  251.018 ms  251.063 ms
+13  hiroshima-RM-ET-7-1-0-1151.s5.sinet.ad.jp (150.99.89.200)  263.114 ms  262.952 ms  262.899 ms
+14  super-csi.gw.sinet.ad.jp (150.99.188.2)  264.133 ms  264.181 ms  255.316 ms
+15  202.15.114.4 (202.15.114.4)  272.331 ms  272.238 ms  271.959 ms
+16  165.242.3.33 (165.242.3.33)  255.375 ms  255.407 ms  264.247 ms
+17  165.242.35.65 (165.242.35.65)  257.317 ms  257.197 ms  269.296 ms
+18  pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129)  263.984 ms  255.314 ms  264.242 ms
+traceroute to pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  1.082 ms  1.573 ms  1.912 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  0.271 ms  0.278 ms  0.278 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.210 ms  0.210 ms  0.203 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  0.835 ms  0.919 ms  0.901 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  4.889 ms  4.871 ms  4.798 ms
+ 6  pionier.mx1.poz.pl.geant.net (62.40.125.245)  4.676 ms  4.704 ms  4.691 ms
+ 7  ae3.mx1.fra.de.geant.net (62.40.98.130)  25.602 ms  25.657 ms  25.642 ms
+ 8  ae1.mx1.ams.nl.geant.net (62.40.98.129)  32.381 ms  32.532 ms  32.405 ms
+ 9  ae2.mx1.lon.uk.geant.net (62.40.98.80)  39.975 ms  40.040 ms  40.006 ms
+10  ae0.mx1.lon2.uk.geant.net.geant.net (62.40.98.79)  40.732 ms  40.809 ms  40.703 ms
+11  sinet-gw.mx1.lon2.uk.geant.net (62.40.124.174)  60.692 ms  60.747 ms  60.726 ms
+12  tokyo1-GM-XE-7-2-0-100.s5.sinet.ad.jp (150.99.93.230)  250.863 ms  250.935 ms  250.982 ms
+13  hiroshima-RM-ET-7-1-0-1151.s5.sinet.ad.jp (150.99.89.200)  262.917 ms  263.080 ms  262.898 ms
+14  super-csi.gw.sinet.ad.jp (150.99.188.2)  264.293 ms  264.205 ms  255.320 ms
+15  202.15.114.4 (202.15.114.4)  263.980 ms  264.231 ms  255.155 ms
+16  165.242.3.33 (165.242.3.33)  255.630 ms  255.405 ms  264.259 ms
+17  165.242.35.65 (165.242.35.65)  256.731 ms  256.712 ms  265.794 ms
+18  pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129)  263.995 ms  255.200 ms  264.055 ms
+traceroute to pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  1.016 ms  1.469 ms  1.916 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  0.303 ms  0.298 ms  0.283 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.242 ms  0.227 ms  0.215 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  0.369 ms  0.353 ms  0.333 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  4.626 ms  4.616 ms  4.604 ms
+ 6  pionier.mx1.poz.pl.geant.net (62.40.125.245)  4.662 ms  4.647 ms  4.717 ms
+ 7  ae3.mx1.fra.de.geant.net (62.40.98.130)  25.642 ms  25.697 ms  25.712 ms
+ 8  ae1.mx1.ams.nl.geant.net (62.40.98.129)  32.470 ms  32.508 ms  32.464 ms
+ 9  ae2.mx1.lon.uk.geant.net (62.40.98.80)  39.871 ms  39.905 ms  39.907 ms
+10  ae0.mx1.lon2.uk.geant.net.geant.net (62.40.98.79)  40.706 ms  40.738 ms  40.734 ms
+11  sinet-gw.mx1.lon2.uk.geant.net (62.40.124.174)  40.782 ms  40.837 ms  40.794 ms
+12  tokyo1-GM-XE-7-2-0-100.s5.sinet.ad.jp (150.99.93.230)  250.913 ms  250.915 ms  250.887 ms
+13  hiroshima-RM-ET-7-1-0-1151.s5.sinet.ad.jp (150.99.89.200)  264.957 ms  264.942 ms  264.982 ms
+14  super-csi.gw.sinet.ad.jp (150.99.188.2)  264.071 ms  264.082 ms  255.364 ms
+15  202.15.114.4 (202.15.114.4)  263.961 ms  264.255 ms  255.156 ms
+16  165.242.3.33 (165.242.3.33)  255.602 ms  255.644 ms  264.256 ms
+17  165.242.35.65 (165.242.35.65)  256.795 ms  256.883 ms  265.702 ms
+18  pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129)  264.074 ms  270.907 ms  264.400 ms
+traceroute to pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  1.041 ms  1.553 ms  1.960 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  0.238 ms  0.233 ms  0.268 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.633 ms  0.690 ms  0.674 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  0.679 ms  0.634 ms  0.615 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  5.035 ms  5.024 ms  5.007 ms
+ 6  pionier.mx1.poz.pl.geant.net (62.40.125.245)  5.001 ms  5.010 ms  4.994 ms
+ 7  ae3.mx1.fra.de.geant.net (62.40.98.130)  25.857 ms  25.764 ms  25.830 ms
+ 8  ae1.mx1.ams.nl.geant.net (62.40.98.129)  32.500 ms  32.434 ms  32.416 ms
+ 9  ae2.mx1.lon.uk.geant.net (62.40.98.80)  40.158 ms  40.056 ms  40.100 ms
+10  ae0.mx1.lon2.uk.geant.net.geant.net (62.40.98.79)  40.742 ms  40.887 ms  40.826 ms
+11  sinet-gw.mx1.lon2.uk.geant.net (62.40.124.174)  40.909 ms  40.842 ms  40.791 ms
+12  tokyo1-GM-XE-7-2-0-100.s5.sinet.ad.jp (150.99.93.230)  251.142 ms  250.935 ms  250.900 ms
+13  hiroshima-RM-ET-7-1-0-1151.s5.sinet.ad.jp (150.99.89.200)  263.010 ms  262.972 ms  263.037 ms
+14  super-csi.gw.sinet.ad.jp (150.99.188.2)  264.202 ms  264.223 ms  255.310 ms
+15  202.15.114.4 (202.15.114.4)  264.236 ms  264.129 ms  255.270 ms
+16  165.242.3.33 (165.242.3.33)  255.674 ms  255.444 ms  264.283 ms
+17  165.242.35.65 (165.242.35.65)  257.131 ms  257.136 ms  265.783 ms
+18  pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129)  264.115 ms  255.477 ms  255.138 ms
+traceroute to pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  1.478 ms  1.989 ms  2.399 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  0.260 ms  0.274 ms  0.279 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.220 ms  0.207 ms  0.200 ms
+ 4  * * *
+ 5  * * z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  4.686 ms
+ 6  pionier.mx1.poz.pl.geant.net (62.40.125.245)  4.658 ms  4.669 ms  4.679 ms
+ 7  ae3.mx1.fra.de.geant.net (62.40.98.130)  25.581 ms  25.632 ms  25.602 ms
+ 8  * ae1.mx1.ams.nl.geant.net (62.40.98.129)  32.359 ms  32.393 ms
+ 9  ae2.mx1.lon.uk.geant.net (62.40.98.80)  39.906 ms  39.988 ms  39.869 ms
+10  ae0.mx1.lon2.uk.geant.net.geant.net (62.40.98.79)  40.715 ms  40.743 ms  40.694 ms
+11  sinet-gw.mx1.lon2.uk.geant.net (62.40.124.174)  40.777 ms  40.807 ms  40.989 ms
+12  tokyo1-GM-XE-7-2-0-100.s5.sinet.ad.jp (150.99.93.230)  250.925 ms  250.958 ms *
+13  * hiroshima-RM-ET-7-1-0-1151.s5.sinet.ad.jp (150.99.89.200)  263.102 ms  262.973 ms
+14  * * super-csi.gw.sinet.ad.jp (150.99.188.2)  255.339 ms
+15  202.15.114.4 (202.15.114.4)  263.969 ms  264.090 ms  255.153 ms
+16  165.242.3.33 (165.242.3.33)  255.629 ms  255.496 ms  264.284 ms
+17  165.242.35.65 (165.242.35.65)  256.753 ms  256.810 ms  265.652 ms
+18  pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129)  264.107 ms  255.176 ms  264.063 ms
+traceroute to pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  1.049 ms  1.554 ms  1.850 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  0.300 ms  0.296 ms  0.287 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.238 ms  0.223 ms  0.215 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  0.360 ms  0.344 ms  0.328 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  4.631 ms  4.685 ms  4.669 ms
+ 6  pionier.mx1.poz.pl.geant.net (62.40.125.245)  4.646 ms  4.749 ms  4.664 ms
+ 7  ae3.mx1.fra.de.geant.net (62.40.98.130)  25.614 ms  25.553 ms  25.577 ms
+ 8  ae1.mx1.ams.nl.geant.net (62.40.98.129)  32.577 ms  32.609 ms  32.593 ms
+ 9  ae2.mx1.lon.uk.geant.net (62.40.98.80)  39.883 ms * *
+10  ae0.mx1.lon2.uk.geant.net.geant.net (62.40.98.79)  40.771 ms  40.742 ms  40.795 ms
+11  sinet-gw.mx1.lon2.uk.geant.net (62.40.124.174)  40.850 ms  40.812 ms  40.800 ms
+12  tokyo1-GM-XE-7-2-0-100.s5.sinet.ad.jp (150.99.93.230)  251.006 ms  250.790 ms  250.768 ms
+13  hiroshima-RM-ET-7-1-0-1151.s5.sinet.ad.jp (150.99.89.200)  263.012 ms  263.082 ms  263.130 ms
+14  super-csi.gw.sinet.ad.jp (150.99.188.2)  264.214 ms  264.190 ms  255.316 ms
+15  202.15.114.4 (202.15.114.4)  264.281 ms  264.016 ms  255.206 ms
+16  165.242.3.33 (165.242.3.33)  255.579 ms  255.620 ms  264.429 ms
+17  165.242.35.65 (165.242.35.65)  256.839 ms  256.657 ms  265.581 ms
+18  pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129)  264.145 ms  255.288 ms  264.081 ms
+traceroute to pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  6.125 ms  6.568 ms  6.962 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  0.309 ms  0.299 ms  0.295 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.223 ms  0.217 ms  0.208 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  0.331 ms  0.313 ms  0.294 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  8.061 ms  8.041 ms  7.875 ms
+ 6  pionier.mx1.poz.pl.geant.net (62.40.125.245)  4.741 ms  4.726 ms  4.714 ms
+ 7  ae3.mx1.fra.de.geant.net (62.40.98.130)  25.687 ms  25.680 ms  25.663 ms
+ 8  ae1.mx1.ams.nl.geant.net (62.40.98.129)  32.440 ms  32.473 ms  32.462 ms
+ 9  ae2.mx1.lon.uk.geant.net (62.40.98.80)  39.931 ms  39.952 ms  40.007 ms
+10  ae0.mx1.lon2.uk.geant.net.geant.net (62.40.98.79)  40.769 ms  40.682 ms  40.724 ms
+11  sinet-gw.mx1.lon2.uk.geant.net (62.40.124.174)  40.838 ms  40.838 ms  40.819 ms
+12  tokyo1-GM-XE-7-2-0-100.s5.sinet.ad.jp (150.99.93.230)  250.879 ms  251.193 ms  251.244 ms
+13  hiroshima-RM-ET-7-1-0-1151.s5.sinet.ad.jp (150.99.89.200)  263.359 ms  263.128 ms  263.022 ms
+14  super-csi.gw.sinet.ad.jp (150.99.188.2)  264.132 ms  264.182 ms  255.244 ms
+15  202.15.114.4 (202.15.114.4)  264.190 ms  264.047 ms  255.364 ms
+16  165.242.3.33 (165.242.3.33)  255.455 ms  255.539 ms  264.303 ms
+17  165.242.35.65 (165.242.35.65)  256.798 ms  257.948 ms  265.682 ms
+18  pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129)  264.033 ms  255.231 ms  255.653 ms
+traceroute to pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  1.051 ms  1.489 ms  1.944 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  0.294 ms  0.316 ms  0.304 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.239 ms  0.251 ms  0.234 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  0.319 ms  0.322 ms  0.297 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  4.645 ms  4.716 ms  4.698 ms
+ 6  pionier.mx1.poz.pl.geant.net (62.40.125.245)  4.685 ms  4.639 ms  4.646 ms
+ 7  ae3.mx1.fra.de.geant.net (62.40.98.130)  25.643 ms  25.703 ms  25.688 ms
+ 8  ae1.mx1.ams.nl.geant.net (62.40.98.129)  32.374 ms  32.440 ms  32.406 ms
+ 9  ae2.mx1.lon.uk.geant.net (62.40.98.80)  39.847 ms  40.374 ms  40.430 ms
+10  ae0.mx1.lon2.uk.geant.net.geant.net (62.40.98.79)  40.805 ms  40.781 ms  40.879 ms
+11  sinet-gw.mx1.lon2.uk.geant.net (62.40.124.174)  40.758 ms  40.819 ms  40.719 ms
+12  tokyo1-GM-XE-7-2-0-100.s5.sinet.ad.jp (150.99.93.230)  250.967 ms  251.393 ms  251.337 ms
+13  hiroshima-RM-ET-7-1-0-1151.s5.sinet.ad.jp (150.99.89.200)  263.095 ms  263.010 ms  263.030 ms
+14  super-csi.gw.sinet.ad.jp (150.99.188.2)  264.243 ms  264.279 ms  255.405 ms
+15  202.15.114.4 (202.15.114.4)  264.114 ms  264.162 ms  255.212 ms
+16  165.242.3.33 (165.242.3.33)  255.573 ms  255.570 ms  264.379 ms
+17  165.242.35.65 (165.242.35.65)  257.166 ms  257.010 ms  265.794 ms
+18  pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129)  264.049 ms  255.358 ms  255.238 ms
+traceroute to pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  1.132 ms  1.635 ms  2.033 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  0.313 ms  0.308 ms  0.298 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.251 ms  0.233 ms  0.275 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  0.414 ms  0.399 ms  0.401 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  4.694 ms  4.633 ms  4.615 ms
+ 6  pionier.mx1.poz.pl.geant.net (62.40.125.245)  4.659 ms  4.687 ms  4.691 ms
+ 7  ae3.mx1.fra.de.geant.net (62.40.98.130)  25.666 ms  25.651 ms  25.606 ms
+ 8  ae1.mx1.ams.nl.geant.net (62.40.98.129)  32.571 ms  32.606 ms  32.591 ms
+ 9  ae2.mx1.lon.uk.geant.net (62.40.98.80)  39.930 ms  39.876 ms  39.928 ms
+10  ae0.mx1.lon2.uk.geant.net.geant.net (62.40.98.79)  40.739 ms  40.681 ms  40.737 ms
+11  sinet-gw.mx1.lon2.uk.geant.net (62.40.124.174)  40.922 ms  40.910 ms  40.827 ms
+12  tokyo1-GM-XE-7-2-0-100.s5.sinet.ad.jp (150.99.93.230)  250.902 ms  250.982 ms  250.872 ms
+13  hiroshima-RM-ET-7-1-0-1151.s5.sinet.ad.jp (150.99.89.200)  263.054 ms  263.273 ms  263.259 ms
+14  super-csi.gw.sinet.ad.jp (150.99.188.2)  264.348 ms  264.396 ms  255.377 ms
+15  202.15.114.4 (202.15.114.4)  264.171 ms  263.969 ms  255.181 ms
+16  165.242.3.33 (165.242.3.33)  255.757 ms  255.653 ms  264.540 ms
+17  165.242.35.65 (165.242.35.65)  256.974 ms  257.025 ms  265.880 ms
+18  pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129)  264.133 ms  255.339 ms  255.213 ms
+traceroute to pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  1.067 ms  1.612 ms  1.964 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  0.264 ms  0.271 ms  0.315 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.205 ms  0.193 ms  0.251 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  0.384 ms  0.378 ms  0.360 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  4.575 ms  4.634 ms  4.616 ms
+ 6  pionier.mx1.poz.pl.geant.net (62.40.125.245)  4.704 ms  4.696 ms  4.738 ms
+ 7  ae3.mx1.fra.de.geant.net (62.40.98.130)  25.728 ms  25.786 ms  25.776 ms
+ 8  ae1.mx1.ams.nl.geant.net (62.40.98.129)  32.610 ms  32.487 ms  32.550 ms
+ 9  ae2.mx1.lon.uk.geant.net (62.40.98.80)  39.799 ms  39.904 ms  39.859 ms
+10  ae0.mx1.lon2.uk.geant.net.geant.net (62.40.98.79)  40.790 ms  40.864 ms  40.910 ms
+11  sinet-gw.mx1.lon2.uk.geant.net (62.40.124.174)  40.894 ms  40.884 ms  40.853 ms
+12  tokyo1-GM-XE-7-2-0-100.s5.sinet.ad.jp (150.99.93.230)  250.937 ms  251.590 ms  251.442 ms
+13  hiroshima-RM-ET-7-1-0-1151.s5.sinet.ad.jp (150.99.89.200)  263.598 ms  263.264 ms  263.143 ms
+14  super-csi.gw.sinet.ad.jp (150.99.188.2)  264.200 ms  264.306 ms  255.668 ms
+15  202.15.114.4 (202.15.114.4)  264.222 ms  264.098 ms  255.291 ms
+16  165.242.3.33 (165.242.3.33)  255.619 ms  255.608 ms  264.356 ms
+17  165.242.35.65 (165.242.35.65)  257.011 ms  256.973 ms  265.768 ms
+18  pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129)  264.186 ms  255.533 ms  255.198 ms
+traceroute to pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  1.046 ms  0.986 ms  1.428 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  0.289 ms  0.290 ms  0.290 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.227 ms  0.213 ms  0.217 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  0.371 ms  0.355 ms  0.350 ms
+ 5  * * *
+ 6  pionier.mx1.poz.pl.geant.net (62.40.125.245)  4.735 ms  4.643 ms  4.691 ms
+ 7  ae3.mx1.fra.de.geant.net (62.40.98.130)  25.593 ms  25.656 ms  25.642 ms
+ 8  ae1.mx1.ams.nl.geant.net (62.40.98.129)  32.513 ms  32.569 ms  32.499 ms
+ 9  ae2.mx1.lon.uk.geant.net (62.40.98.80)  39.971 ms  39.873 ms  39.930 ms
+10  ae0.mx1.lon2.uk.geant.net.geant.net (62.40.98.79)  40.816 ms  40.742 ms  40.770 ms
+11  sinet-gw.mx1.lon2.uk.geant.net (62.40.124.174)  40.913 ms  40.807 ms  40.837 ms
+12  tokyo1-GM-XE-7-2-0-100.s5.sinet.ad.jp (150.99.93.230)  250.930 ms  251.027 ms  251.073 ms
+13  hiroshima-RM-ET-7-1-0-1151.s5.sinet.ad.jp (150.99.89.200)  263.160 ms  263.240 ms  263.281 ms
+14  super-csi.gw.sinet.ad.jp (150.99.188.2)  264.236 ms  264.327 ms  255.287 ms
+15  202.15.114.4 (202.15.114.4)  266.407 ms  266.385 ms  257.295 ms
+16  165.242.3.33 (165.242.3.33)  257.826 ms  257.620 ms  266.197 ms
+17  165.242.35.65 (165.242.35.65)  258.739 ms  258.707 ms  269.394 ms
+18  pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129)  267.008 ms  257.631 ms  266.990 ms
+traceroute to pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  1.041 ms  1.550 ms  1.938 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  0.272 ms  0.272 ms  0.280 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.217 ms  0.205 ms  0.202 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  0.385 ms  0.369 ms  0.349 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  4.603 ms  4.648 ms  4.609 ms
+ 6  pionier.mx1.poz.pl.geant.net (62.40.125.245)  4.650 ms  4.633 ms  4.644 ms
+ 7  ae3.mx1.fra.de.geant.net (62.40.98.130)  25.626 ms  25.655 ms  25.640 ms
+ 8  ae1.mx1.ams.nl.geant.net (62.40.98.129)  32.317 ms  32.433 ms  32.418 ms
+ 9  ae2.mx1.lon.uk.geant.net (62.40.98.80)  39.851 ms  39.867 ms  39.850 ms
+10  ae0.mx1.lon2.uk.geant.net.geant.net (62.40.98.79)  40.784 ms  40.780 ms  40.802 ms
+11  sinet-gw.mx1.lon2.uk.geant.net (62.40.124.174)  42.543 ms  42.561 ms  42.519 ms
+12  tokyo1-GM-XE-7-2-0-100.s5.sinet.ad.jp (150.99.93.230)  251.049 ms  251.077 ms  251.055 ms
+13  hiroshima-RM-ET-7-1-0-1151.s5.sinet.ad.jp (150.99.89.200)  263.289 ms  263.169 ms  263.219 ms
+14  super-csi.gw.sinet.ad.jp (150.99.188.2)  264.389 ms  264.186 ms  255.618 ms
+15  202.15.114.4 (202.15.114.4)  275.550 ms  272.407 ms  256.370 ms
+16  165.242.3.33 (165.242.3.33)  255.754 ms  255.601 ms  264.386 ms
+17  165.242.35.65 (165.242.35.65)  268.898 ms  257.162 ms  266.169 ms
+18  pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129)  264.830 ms  255.859 ms  256.008 ms
+traceroute to pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  1.062 ms  1.571 ms  1.983 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  0.261 ms  0.264 ms  0.278 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.216 ms  0.237 ms  0.216 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  0.299 ms  0.466 ms  0.397 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  4.681 ms  4.722 ms  4.696 ms
+ 6  pionier.mx1.poz.pl.geant.net (62.40.125.245)  4.679 ms  4.660 ms  4.658 ms
+ 7  ae3.mx1.fra.de.geant.net (62.40.98.130)  25.678 ms  25.747 ms  25.712 ms
+ 8  ae1.mx1.ams.nl.geant.net (62.40.98.129)  32.641 ms  32.604 ms  32.547 ms
+ 9  ae2.mx1.lon.uk.geant.net (62.40.98.80)  39.834 ms  39.833 ms  39.848 ms
+10  ae0.mx1.lon2.uk.geant.net.geant.net (62.40.98.79)  40.775 ms  40.797 ms  40.868 ms
+11  sinet-gw.mx1.lon2.uk.geant.net (62.40.124.174)  40.821 ms  40.811 ms  40.716 ms
+12  tokyo1-GM-XE-7-2-0-100.s5.sinet.ad.jp (150.99.93.230)  251.002 ms  250.890 ms  250.883 ms
+13  hiroshima-RM-ET-7-1-0-1151.s5.sinet.ad.jp (150.99.89.200)  263.102 ms  263.013 ms  263.155 ms
+14  super-csi.gw.sinet.ad.jp (150.99.188.2)  264.227 ms  264.163 ms  255.490 ms
+15  202.15.114.4 (202.15.114.4)  264.007 ms  264.241 ms  255.373 ms
+16  165.242.3.33 (165.242.3.33)  255.595 ms  255.488 ms  264.313 ms
+17  165.242.35.65 (165.242.35.65)  256.769 ms  257.071 ms  265.815 ms
+18  pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129)  264.054 ms  255.344 ms  255.177 ms
+traceroute to pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  1.002 ms  1.497 ms  1.883 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  0.251 ms  0.265 ms  0.268 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.217 ms  0.204 ms  0.321 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  0.380 ms  0.380 ms  0.348 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  4.617 ms  4.671 ms  4.657 ms
+ 6  pionier.mx1.poz.pl.geant.net (62.40.125.245)  4.688 ms  4.700 ms  4.684 ms
+ 7  ae3.mx1.fra.de.geant.net (62.40.98.130)  25.762 ms  25.766 ms  25.751 ms
+ 8  ae1.mx1.ams.nl.geant.net (62.40.98.129)  32.468 ms  32.497 ms  32.464 ms
+ 9  ae2.mx1.lon.uk.geant.net (62.40.98.80)  39.942 ms  39.919 ms  39.881 ms
+10  ae0.mx1.lon2.uk.geant.net.geant.net (62.40.98.79)  40.757 ms  40.809 ms  40.771 ms
+11  sinet-gw.mx1.lon2.uk.geant.net (62.40.124.174)  40.844 ms  40.776 ms  40.722 ms
+12  tokyo1-GM-XE-7-2-0-100.s5.sinet.ad.jp (150.99.93.230)  250.955 ms  250.993 ms  250.925 ms
+13  hiroshima-RM-ET-7-1-0-1151.s5.sinet.ad.jp (150.99.89.200)  263.748 ms  263.355 ms  263.303 ms
+14  super-csi.gw.sinet.ad.jp (150.99.188.2)  264.367 ms  264.510 ms  255.405 ms
+15  202.15.114.4 (202.15.114.4)  264.401 ms  264.304 ms  255.474 ms
+16  165.242.3.33 (165.242.3.33)  255.873 ms  255.626 ms  264.456 ms
+17  165.242.35.65 (165.242.35.65)  257.156 ms  259.452 ms  266.867 ms
+18  pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129)  265.332 ms  255.939 ms  256.039 ms
+traceroute to pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  1.064 ms  1.620 ms  1.994 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  0.314 ms  0.301 ms  0.296 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.243 ms  0.230 ms  0.211 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  0.615 ms  0.604 ms  0.581 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  4.635 ms  4.687 ms  4.670 ms
+ 6  pionier.mx1.poz.pl.geant.net (62.40.125.245)  5.036 ms  5.045 ms  5.029 ms
+ 7  ae3.mx1.fra.de.geant.net (62.40.98.130)  25.769 ms  25.670 ms  25.730 ms
+ 8  ae1.mx1.ams.nl.geant.net (62.40.98.129)  32.481 ms  32.528 ms  32.487 ms
+ 9  ae2.mx1.lon.uk.geant.net (62.40.98.80)  39.829 ms  39.828 ms  39.829 ms
+10  ae0.mx1.lon2.uk.geant.net.geant.net (62.40.98.79)  40.806 ms  40.904 ms  40.773 ms
+11  sinet-gw.mx1.lon2.uk.geant.net (62.40.124.174)  41.031 ms  40.908 ms  40.867 ms
+12  tokyo1-GM-XE-7-2-0-100.s5.sinet.ad.jp (150.99.93.230)  250.956 ms  250.934 ms  250.973 ms
+13  hiroshima-RM-ET-7-1-0-1151.s5.sinet.ad.jp (150.99.89.200)  263.087 ms  263.458 ms  263.420 ms
+14  super-csi.gw.sinet.ad.jp (150.99.188.2)  264.347 ms  264.139 ms  255.442 ms
+15  202.15.114.4 (202.15.114.4)  264.117 ms  264.116 ms  255.214 ms
+16  165.242.3.33 (165.242.3.33)  255.584 ms  255.574 ms  264.363 ms
+17  165.242.35.65 (165.242.35.65)  256.948 ms  407.105 ms  386.937 ms
+18  pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129)  264.217 ms  255.174 ms  255.568 ms
+traceroute to pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  1.050 ms  1.483 ms  1.934 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  0.323 ms  0.315 ms  0.296 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.253 ms  0.281 ms  0.206 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  0.347 ms  0.329 ms  0.310 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  4.569 ms  4.621 ms  4.607 ms
+ 6  pionier.mx1.poz.pl.geant.net (62.40.125.245)  4.653 ms  4.694 ms  4.675 ms
+ 7  ae3.mx1.fra.de.geant.net (62.40.98.130)  25.639 ms  39.060 ms  25.668 ms
+ 8  ae1.mx1.ams.nl.geant.net (62.40.98.129)  32.477 ms  32.444 ms  32.462 ms
+ 9  ae2.mx1.lon.uk.geant.net (62.40.98.80)  39.939 ms  39.885 ms  39.862 ms
+10  ae0.mx1.lon2.uk.geant.net.geant.net (62.40.98.79)  40.836 ms  40.795 ms  40.821 ms
+11  sinet-gw.mx1.lon2.uk.geant.net (62.40.124.174)  41.033 ms  40.855 ms  40.831 ms
+12  tokyo1-GM-XE-7-2-0-100.s5.sinet.ad.jp (150.99.93.230)  250.836 ms  250.955 ms  250.997 ms
+13  hiroshima-RM-ET-7-1-0-1151.s5.sinet.ad.jp (150.99.89.200)  267.987 ms  268.019 ms  267.975 ms
+14  super-csi.gw.sinet.ad.jp (150.99.188.2)  264.212 ms  264.355 ms  255.414 ms
+15  202.15.114.4 (202.15.114.4)  264.150 ms  264.112 ms  255.278 ms
+16  165.242.3.33 (165.242.3.33)  255.992 ms  255.619 ms  264.423 ms
+17  165.242.35.65 (165.242.35.65)  256.926 ms  257.350 ms  266.148 ms
+18  pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129)  264.471 ms  255.371 ms  255.383 ms
+traceroute to pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  8.301 ms  8.733 ms  9.178 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  0.260 ms  0.266 ms  0.263 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.200 ms  0.214 ms  0.208 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  0.378 ms  0.348 ms  0.328 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  4.586 ms  4.610 ms  4.594 ms
+ 6  pionier.mx1.poz.pl.geant.net (62.40.125.245)  4.662 ms  4.669 ms  4.653 ms
+ 7  ae3.mx1.fra.de.geant.net (62.40.98.130)  25.634 ms  25.654 ms  25.640 ms
+ 8  ae1.mx1.ams.nl.geant.net (62.40.98.129)  32.452 ms  32.317 ms  32.471 ms
+ 9  ae2.mx1.lon.uk.geant.net (62.40.98.80)  39.852 ms  39.899 ms  39.945 ms
+10  ae0.mx1.lon2.uk.geant.net.geant.net (62.40.98.79)  43.052 ms  43.065 ms  43.030 ms
+11  sinet-gw.mx1.lon2.uk.geant.net (62.40.124.174)  40.793 ms  40.874 ms  40.836 ms
+12  tokyo1-GM-XE-7-2-0-100.s5.sinet.ad.jp (150.99.93.230)  250.999 ms  250.902 ms  250.953 ms
+13  hiroshima-RM-ET-7-1-0-1151.s5.sinet.ad.jp (150.99.89.200)  263.006 ms  263.086 ms  262.975 ms
+14  super-csi.gw.sinet.ad.jp (150.99.188.2)  264.085 ms  264.315 ms  255.378 ms
+15  202.15.114.4 (202.15.114.4)  264.155 ms  263.951 ms  255.261 ms
+16  165.242.3.33 (165.242.3.33)  255.457 ms  255.414 ms  264.537 ms
+17  165.242.35.65 (165.242.35.65)  256.951 ms  256.945 ms  265.944 ms
+18  pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129)  264.089 ms  255.764 ms  255.238 ms
+traceroute to pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  1.275 ms  1.741 ms  2.080 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  0.342 ms  0.371 ms  0.282 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.250 ms  0.237 ms  0.217 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  3.166 ms  3.184 ms  3.165 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  4.569 ms  4.627 ms  4.611 ms
+ 6  pionier.mx1.poz.pl.geant.net (62.40.125.245)  4.648 ms  4.728 ms  4.661 ms
+ 7  ae3.mx1.fra.de.geant.net (62.40.98.130)  25.719 ms  25.734 ms  25.719 ms
+ 8  ae1.mx1.ams.nl.geant.net (62.40.98.129)  32.410 ms  32.305 ms  32.364 ms
+ 9  ae2.mx1.lon.uk.geant.net (62.40.98.80)  39.974 ms  39.969 ms  39.876 ms
+10  ae0.mx1.lon2.uk.geant.net.geant.net (62.40.98.79)  40.789 ms  41.054 ms  41.261 ms
+11  sinet-gw.mx1.lon2.uk.geant.net (62.40.124.174)  41.073 ms  41.113 ms  41.098 ms
+12  tokyo1-GM-XE-7-2-0-100.s5.sinet.ad.jp (150.99.93.230)  250.847 ms  250.773 ms  250.863 ms
+13  hiroshima-RM-ET-7-1-0-1151.s5.sinet.ad.jp (150.99.89.200)  263.235 ms  263.176 ms  263.093 ms
+14  super-csi.gw.sinet.ad.jp (150.99.188.2)  264.234 ms  264.402 ms  255.511 ms
+15  202.15.114.4 (202.15.114.4)  264.104 ms  264.133 ms  255.448 ms
+16  165.242.3.33 (165.242.3.33)  255.812 ms  255.835 ms  264.222 ms
+17  165.242.35.65 (165.242.35.65)  256.966 ms  256.868 ms  265.742 ms
+18  pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129)  264.303 ms  255.393 ms  255.416 ms

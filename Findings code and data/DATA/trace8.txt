@@ -1,0 +1,2373 @@
+traceroute to saturn.planetlab.carleton.ca (134.117.226.180), 30 hops max, 60 byte packets
+ 1  156.62.231.241 (156.62.231.241)  0.908 ms  0.975 ms  0.964 ms
+ 2  210.7.38.49 (210.7.38.49)  1.091 ms  1.091 ms  1.081 ms
+ 3  et-1-2-0-202.pe1.wnpa.akl.aarnet.net.au (182.255.119.204)  1.759 ms  1.754 ms  1.741 ms
+ 4  et-2-0-0.pe1.msct.nsw.aarnet.net.au (113.197.15.76)  24.552 ms  24.633 ms  24.624 ms
+ 5  et-1-3-0-199.pe2.brwy.nsw.aarnet.net.au (113.197.15.78)  24.913 ms  24.899 ms  24.867 ms
+ 6  et-0-0-0.pe1.a.hnl.aarnet.net.au (113.197.15.99)  117.942 ms  117.916 ms  117.912 ms
+ 7  et-1-0-0.bb1.a.sea.aarnet.net.au (202.158.194.110)  169.480 ms  169.557 ms  169.543 ms
+ 8  207.231.240.21 (207.231.240.21)  162.990 ms  163.081 ms  163.066 ms
+ 9  clgr2rtr1.canarie.ca (205.189.32.175)  173.808 ms  173.820 ms  173.811 ms
+10  wnpg1rtr1.canarie.ca (205.189.32.177)  188.160 ms  188.158 ms  188.147 ms
+11  toro1rtr1.canarie.ca (205.189.32.181)  221.332 ms  209.432 ms  209.397 ms
+12  border3.orion.on.ca (205.189.32.42)  209.880 ms  209.836 ms  209.885 ms
+13  be201.p01-toro.orion.on.ca (66.97.16.21)  210.163 ms  210.206 ms  210.252 ms
+14  be107.pe01-otwa.orion.on.ca (66.97.16.54)  214.858 ms  215.416 ms  215.495 ms
+15  CARLETON-ORION-RNE.DIST1-OTWA.IP.orion.on.ca (66.97.23.142)  214.611 ms  214.673 ms  214.754 ms
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  saturn.planetlab.carleton.ca (134.117.226.180)  214.724 ms  214.726 ms  214.745 ms
+traceroute to saturn.planetlab.carleton.ca (134.117.226.180), 30 hops max, 60 byte packets
+ 1  156.62.231.241 (156.62.231.241)  0.868 ms  0.942 ms  0.930 ms
+ 2  210.7.38.49 (210.7.38.49)  1.354 ms  1.348 ms  1.338 ms
+ 3  et-1-2-0-202.pe1.wnpa.akl.aarnet.net.au (182.255.119.204)  1.804 ms  1.793 ms  1.782 ms
+ 4  et-2-0-0.pe1.msct.nsw.aarnet.net.au (113.197.15.76)  25.055 ms  25.097 ms  25.085 ms
+ 5  et-1-3-0-199.pe2.brwy.nsw.aarnet.net.au (113.197.15.78)  24.945 ms  24.977 ms  25.012 ms
+ 6  et-0-0-0.pe1.a.hnl.aarnet.net.au (113.197.15.99)  117.958 ms  117.920 ms  117.921 ms
+ 7  et-1-0-0.bb1.a.sea.aarnet.net.au (202.158.194.110)  169.512 ms  169.605 ms  169.596 ms
+ 8  207.231.240.21 (207.231.240.21)  162.970 ms  163.059 ms  163.050 ms
+ 9  clgr2rtr1.canarie.ca (205.189.32.175)  173.830 ms  174.221 ms  174.205 ms
+10  wnpg1rtr1.canarie.ca (205.189.32.177)  188.346 ms  188.334 ms  188.319 ms
+11  toro1rtr1.canarie.ca (205.189.32.181)  209.498 ms  209.468 ms  209.381 ms
+12  border3.orion.on.ca (205.189.32.42)  210.147 ms  210.128 ms  210.185 ms
+13  be201.p01-toro.orion.on.ca (66.97.16.21)  210.087 ms  210.063 ms  211.577 ms
+14  be107.pe01-otwa.orion.on.ca (66.97.16.54)  215.601 ms  215.538 ms  215.526 ms
+15  CARLETON-ORION-RNE.DIST1-OTWA.IP.orion.on.ca (66.97.23.142)  214.783 ms  214.848 ms  214.838 ms
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  saturn.planetlab.carleton.ca (134.117.226.180)  214.983 ms  215.065 ms  214.977 ms
+traceroute to saturn.planetlab.carleton.ca (134.117.226.180), 30 hops max, 60 byte packets
+ 1  156.62.231.241 (156.62.231.241)  0.899 ms  0.986 ms  0.975 ms
+ 2  210.7.38.49 (210.7.38.49)  1.105 ms  1.109 ms  1.098 ms
+ 3  et-1-2-0-202.pe1.wnpa.akl.aarnet.net.au (182.255.119.204)  1.766 ms  1.754 ms  1.743 ms
+ 4  et-2-0-0.pe1.msct.nsw.aarnet.net.au (113.197.15.76)  25.011 ms  25.102 ms  25.092 ms
+ 5  et-1-3-0-199.pe2.brwy.nsw.aarnet.net.au (113.197.15.78)  26.689 ms  26.720 ms  26.705 ms
+ 6  et-0-0-0.pe1.a.hnl.aarnet.net.au (113.197.15.99)  117.942 ms  117.924 ms  117.944 ms
+ 7  et-1-0-0.bb1.a.sea.aarnet.net.au (202.158.194.110)  169.508 ms  169.586 ms  169.571 ms
+ 8  207.231.240.21 (207.231.240.21)  162.887 ms  162.977 ms  162.967 ms
+ 9  clgr2rtr1.canarie.ca (205.189.32.175)  173.761 ms  173.784 ms  173.775 ms
+10  wnpg1rtr1.canarie.ca (205.189.32.177)  188.148 ms  188.140 ms  188.178 ms
+11  toro1rtr1.canarie.ca (205.189.32.181)  209.418 ms  209.435 ms  209.361 ms
+12  border3.orion.on.ca (205.189.32.42)  210.366 ms  210.028 ms  210.074 ms
+13  be201.p01-toro.orion.on.ca (66.97.16.21)  210.105 ms  210.023 ms  210.189 ms
+14  be107.pe01-otwa.orion.on.ca (66.97.16.54)  215.232 ms  215.475 ms  215.544 ms
+15  CARLETON-ORION-RNE.DIST1-OTWA.IP.orion.on.ca (66.97.23.142)  214.660 ms  214.718 ms  214.804 ms
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  saturn.planetlab.carleton.ca (134.117.226.180)  214.902 ms  214.949 ms  214.770 ms
+traceroute to saturn.planetlab.carleton.ca (134.117.226.180), 30 hops max, 60 byte packets
+ 1  156.62.231.241 (156.62.231.241)  0.902 ms  0.961 ms  0.949 ms
+ 2  210.7.38.49 (210.7.38.49)  1.080 ms  1.071 ms  1.206 ms
+ 3  et-1-2-0-202.pe1.wnpa.akl.aarnet.net.au (182.255.119.204)  1.786 ms  1.779 ms  1.769 ms
+ 4  et-2-0-0.pe1.msct.nsw.aarnet.net.au (113.197.15.76)  28.565 ms  28.657 ms  28.649 ms
+ 5  et-1-3-0-199.pe2.brwy.nsw.aarnet.net.au (113.197.15.78)  24.994 ms  24.972 ms  25.001 ms
+ 6  et-0-0-0.pe1.a.hnl.aarnet.net.au (113.197.15.99)  118.064 ms  117.934 ms  117.926 ms
+ 7  et-1-0-0.bb1.a.sea.aarnet.net.au (202.158.194.110)  169.489 ms  169.578 ms  169.562 ms
+ 8  207.231.240.21 (207.231.240.21)  162.903 ms  162.989 ms  162.975 ms
+ 9  clgr2rtr1.canarie.ca (205.189.32.175)  173.837 ms  173.814 ms  173.788 ms
+10  wnpg1rtr1.canarie.ca (205.189.32.177)  188.348 ms  188.120 ms  188.124 ms
+11  toro1rtr1.canarie.ca (205.189.32.181)  209.448 ms  209.410 ms  209.392 ms
+12  border3.orion.on.ca (205.189.32.42)  210.158 ms  210.068 ms  210.142 ms
+13  be201.p01-toro.orion.on.ca (66.97.16.21)  210.425 ms  210.136 ms  210.200 ms
+14  be107.pe01-otwa.orion.on.ca (66.97.16.54)  215.364 ms  215.345 ms  215.409 ms
+15  CARLETON-ORION-RNE.DIST1-OTWA.IP.orion.on.ca (66.97.23.142)  214.635 ms  214.731 ms  214.754 ms
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  saturn.planetlab.carleton.ca (134.117.226.180)  214.763 ms  214.818 ms  214.777 ms
+traceroute to saturn.planetlab.carleton.ca (134.117.226.180), 30 hops max, 60 byte packets
+ 1  156.62.231.241 (156.62.231.241)  0.894 ms  0.998 ms  0.972 ms
+ 2  210.7.38.49 (210.7.38.49)  1.097 ms  1.099 ms  1.087 ms
+ 3  et-1-2-0-202.pe1.wnpa.akl.aarnet.net.au (182.255.119.204)  1.754 ms  1.746 ms  1.735 ms
+ 4  et-2-0-0.pe1.msct.nsw.aarnet.net.au (113.197.15.76)  24.965 ms  25.054 ms  25.045 ms
+ 5  et-1-3-0-199.pe2.brwy.nsw.aarnet.net.au (113.197.15.78)  25.353 ms  25.345 ms  25.107 ms
+ 6  et-0-0-0.pe1.a.hnl.aarnet.net.au (113.197.15.99)  117.936 ms  118.226 ms  118.293 ms
+ 7  et-1-0-0.bb1.a.sea.aarnet.net.au (202.158.194.110)  169.458 ms  169.460 ms  169.534 ms
+ 8  207.231.240.21 (207.231.240.21)  162.858 ms  162.944 ms  162.787 ms
+ 9  clgr2rtr1.canarie.ca (205.189.32.175)  173.815 ms  174.059 ms  174.046 ms
+10  wnpg1rtr1.canarie.ca (205.189.32.177)  188.461 ms  188.452 ms  188.442 ms
+11  toro1rtr1.canarie.ca (205.189.32.181)  209.414 ms  209.443 ms  209.355 ms
+12  border3.orion.on.ca (205.189.32.42)  210.188 ms  209.918 ms  209.901 ms
+13  be201.p01-toro.orion.on.ca (66.97.16.21)  210.220 ms  209.931 ms  210.232 ms
+14  be107.pe01-otwa.orion.on.ca (66.97.16.54)  215.349 ms  215.504 ms  215.579 ms
+15  CARLETON-ORION-RNE.DIST1-OTWA.IP.orion.on.ca (66.97.23.142)  214.640 ms  214.704 ms  214.742 ms
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  saturn.planetlab.carleton.ca (134.117.226.180)  214.827 ms  214.893 ms  214.749 ms
+traceroute to saturn.planetlab.carleton.ca (134.117.226.180), 30 hops max, 60 byte packets
+ 1  156.62.231.241 (156.62.231.241)  0.889 ms  0.982 ms  0.971 ms
+ 2  210.7.38.49 (210.7.38.49)  1.094 ms  1.091 ms  1.076 ms
+ 3  et-1-2-0-202.pe1.wnpa.akl.aarnet.net.au (182.255.119.204)  1.760 ms  1.758 ms  1.748 ms
+ 4  et-2-0-0.pe1.msct.nsw.aarnet.net.au (113.197.15.76)  24.552 ms  24.642 ms  24.633 ms
+ 5  et-1-3-0-199.pe2.brwy.nsw.aarnet.net.au (113.197.15.78)  25.005 ms  25.003 ms  24.944 ms
+ 6  et-0-0-0.pe1.a.hnl.aarnet.net.au (113.197.15.99)  117.949 ms  117.920 ms  117.919 ms
+ 7  et-1-0-0.bb1.a.sea.aarnet.net.au (202.158.194.110)  169.494 ms  169.583 ms  169.569 ms
+ 8  207.231.240.21 (207.231.240.21)  173.179 ms  173.260 ms  173.246 ms
+ 9  clgr2rtr1.canarie.ca (205.189.32.175)  173.855 ms  173.834 ms  173.824 ms
+10  wnpg1rtr1.canarie.ca (205.189.32.177)  188.255 ms  188.247 ms  188.236 ms
+11  toro1rtr1.canarie.ca (205.189.32.181)  209.406 ms  209.656 ms  209.514 ms
+12  border3.orion.on.ca (205.189.32.42)  210.166 ms  209.980 ms  210.042 ms
+13  be201.p01-toro.orion.on.ca (66.97.16.21)  210.083 ms  210.382 ms  210.549 ms
+14  be107.pe01-otwa.orion.on.ca (66.97.16.54)  215.620 ms  215.699 ms  215.691 ms
+15  CARLETON-ORION-RNE.DIST1-OTWA.IP.orion.on.ca (66.97.23.142)  214.657 ms  214.749 ms  214.782 ms
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  saturn.planetlab.carleton.ca (134.117.226.180)  214.764 ms  214.742 ms  214.811 ms
+traceroute to saturn.planetlab.carleton.ca (134.117.226.180), 30 hops max, 60 byte packets
+ 1  156.62.231.241 (156.62.231.241)  0.900 ms  1.037 ms  1.025 ms
+ 2  210.7.38.49 (210.7.38.49)  1.102 ms  1.099 ms  1.088 ms
+ 3  et-1-2-0-202.pe1.wnpa.akl.aarnet.net.au (182.255.119.204)  1.773 ms  1.766 ms  1.750 ms
+ 4  et-2-0-0.pe1.msct.nsw.aarnet.net.au (113.197.15.76)  24.578 ms  24.624 ms  24.615 ms
+ 5  et-1-3-0-199.pe2.brwy.nsw.aarnet.net.au (113.197.15.78)  25.195 ms  25.187 ms  25.254 ms
+ 6  et-0-0-0.pe1.a.hnl.aarnet.net.au (113.197.15.99)  117.971 ms  117.964 ms  118.002 ms
+ 7  et-1-0-0.bb1.a.sea.aarnet.net.au (202.158.194.110)  169.498 ms  169.552 ms  169.535 ms
+ 8  207.231.240.21 (207.231.240.21)  163.043 ms  163.175 ms  163.164 ms
+ 9  clgr2rtr1.canarie.ca (205.189.32.175)  173.830 ms  173.823 ms  173.811 ms
+10  wnpg1rtr1.canarie.ca (205.189.32.177)  188.095 ms  188.340 ms  188.329 ms
+11  toro1rtr1.canarie.ca (205.189.32.181)  209.401 ms  209.407 ms  209.387 ms
+12  border3.orion.on.ca (205.189.32.42)  209.962 ms  210.128 ms  210.196 ms
+13  be201.p01-toro.orion.on.ca (66.97.16.21)  210.044 ms  210.066 ms  210.166 ms
+14  be107.pe01-otwa.orion.on.ca (66.97.16.54)  215.366 ms  215.632 ms  215.713 ms
+15  CARLETON-ORION-RNE.DIST1-OTWA.IP.orion.on.ca (66.97.23.142)  214.649 ms  214.723 ms  214.749 ms
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  saturn.planetlab.carleton.ca (134.117.226.180)  214.751 ms  214.804 ms  214.921 ms
+traceroute to saturn.planetlab.carleton.ca (134.117.226.180), 30 hops max, 60 byte packets
+ 1  156.62.231.241 (156.62.231.241)  0.898 ms  0.993 ms  0.957 ms
+ 2  210.7.38.49 (210.7.38.49)  1.615 ms  1.626 ms  1.614 ms
+ 3  et-1-2-0-202.pe1.wnpa.akl.aarnet.net.au (182.255.119.204)  1.764 ms  1.759 ms  1.746 ms
+ 4  et-2-0-0.pe1.msct.nsw.aarnet.net.au (113.197.15.76)  24.550 ms  24.643 ms  24.633 ms
+ 5  et-1-3-0-199.pe2.brwy.nsw.aarnet.net.au (113.197.15.78)  24.935 ms  24.926 ms  25.010 ms
+ 6  et-0-0-0.pe1.a.hnl.aarnet.net.au (113.197.15.99)  117.937 ms  117.966 ms  118.050 ms
+ 7  et-1-0-0.bb1.a.sea.aarnet.net.au (202.158.194.110)  169.816 ms  169.462 ms  169.519 ms
+ 8  207.231.240.21 (207.231.240.21)  162.977 ms  163.056 ms  163.039 ms
+ 9  clgr2rtr1.canarie.ca (205.189.32.175)  173.827 ms  174.323 ms  174.378 ms
+10  wnpg1rtr1.canarie.ca (205.189.32.177)  189.174 ms  189.166 ms  189.218 ms
+11  toro1rtr1.canarie.ca (205.189.32.181)  209.451 ms  209.502 ms  209.441 ms
+12  border3.orion.on.ca (205.189.32.42)  209.744 ms  210.276 ms  210.265 ms
+13  be201.p01-toro.orion.on.ca (66.97.16.21)  210.211 ms  210.139 ms  210.136 ms
+14  be107.pe01-otwa.orion.on.ca (66.97.16.54)  215.352 ms  215.355 ms  215.445 ms
+15  CARLETON-ORION-RNE.DIST1-OTWA.IP.orion.on.ca (66.97.23.142)  214.643 ms  214.743 ms  214.746 ms
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  saturn.planetlab.carleton.ca (134.117.226.180)  214.891 ms  214.772 ms  214.804 ms
+traceroute to saturn.planetlab.carleton.ca (134.117.226.180), 30 hops max, 60 byte packets
+ 1  156.62.231.241 (156.62.231.241)  0.899 ms  0.908 ms  0.893 ms
+ 2  210.7.38.49 (210.7.38.49)  1.161 ms  1.156 ms  1.145 ms
+ 3  et-1-2-0-202.pe1.wnpa.akl.aarnet.net.au (182.255.119.204)  1.764 ms  1.757 ms  1.747 ms
+ 4  et-2-0-0.pe1.msct.nsw.aarnet.net.au (113.197.15.76)  24.562 ms  24.643 ms  24.633 ms
+ 5  et-1-3-0-199.pe2.brwy.nsw.aarnet.net.au (113.197.15.78)  24.968 ms  24.946 ms  25.003 ms
+ 6  et-0-0-0.pe1.a.hnl.aarnet.net.au (113.197.15.99)  117.936 ms  117.925 ms  117.924 ms
+ 7  et-1-0-0.bb1.a.sea.aarnet.net.au (202.158.194.110)  169.498 ms  169.574 ms  169.560 ms
+ 8  207.231.240.21 (207.231.240.21)  162.944 ms  163.024 ms  163.015 ms
+ 9  clgr2rtr1.canarie.ca (205.189.32.175)  173.786 ms  173.848 ms  173.836 ms
+10  wnpg1rtr1.canarie.ca (205.189.32.177)  188.183 ms  188.180 ms  188.169 ms
+11  toro1rtr1.canarie.ca (205.189.32.181)  209.434 ms  209.463 ms  209.384 ms
+12  border3.orion.on.ca (205.189.32.42)  210.206 ms  210.035 ms  210.067 ms
+13  be201.p01-toro.orion.on.ca (66.97.16.21)  210.050 ms  210.105 ms  210.143 ms
+14  be107.pe01-otwa.orion.on.ca (66.97.16.54)  215.314 ms  215.326 ms  215.371 ms
+15  CARLETON-ORION-RNE.DIST1-OTWA.IP.orion.on.ca (66.97.23.142)  214.624 ms  214.714 ms  214.750 ms
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  saturn.planetlab.carleton.ca (134.117.226.180)  214.758 ms  214.825 ms  214.752 ms
+traceroute to saturn.planetlab.carleton.ca (134.117.226.180), 30 hops max, 60 byte packets
+ 1  156.62.231.241 (156.62.231.241)  0.900 ms  0.897 ms  0.976 ms
+ 2  210.7.38.49 (210.7.38.49)  1.145 ms  1.138 ms  1.121 ms
+ 3  et-1-2-0-202.pe1.wnpa.akl.aarnet.net.au (182.255.119.204)  1.775 ms  1.776 ms  1.765 ms
+ 4  et-2-0-0.pe1.msct.nsw.aarnet.net.au (113.197.15.76)  24.525 ms  24.615 ms  24.592 ms
+ 5  et-1-3-0-199.pe2.brwy.nsw.aarnet.net.au (113.197.15.78)  24.969 ms  24.958 ms  25.009 ms
+ 6  et-0-0-0.pe1.a.hnl.aarnet.net.au (113.197.15.99)  119.023 ms  119.968 ms  120.227 ms
+ 7  et-1-0-0.bb1.a.sea.aarnet.net.au (202.158.194.110)  169.515 ms  169.600 ms  169.585 ms
+ 8  207.231.240.21 (207.231.240.21)  162.888 ms  163.022 ms  163.010 ms
+ 9  clgr2rtr1.canarie.ca (205.189.32.175)  173.787 ms  173.842 ms  173.828 ms
+10  wnpg1rtr1.canarie.ca (205.189.32.177)  188.219 ms  188.207 ms  188.196 ms
+11  toro1rtr1.canarie.ca (205.189.32.181)  209.398 ms  209.403 ms  209.382 ms
+12  border3.orion.on.ca (205.189.32.42)  210.034 ms  210.314 ms  210.305 ms
+13  be201.p01-toro.orion.on.ca (66.97.16.21)  210.140 ms  210.212 ms  210.269 ms
+14  be107.pe01-otwa.orion.on.ca (66.97.16.54)  215.291 ms  215.492 ms  215.580 ms
+15  CARLETON-ORION-RNE.DIST1-OTWA.IP.orion.on.ca (66.97.23.142)  214.604 ms  214.697 ms  214.722 ms
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  saturn.planetlab.carleton.ca (134.117.226.180)  214.862 ms  215.020 ms  214.886 ms
+traceroute to saturn.planetlab.carleton.ca (134.117.226.180), 30 hops max, 60 byte packets
+ 1  156.62.231.241 (156.62.231.241)  0.875 ms  0.956 ms  0.941 ms
+ 2  210.7.38.49 (210.7.38.49)  1.078 ms  1.078 ms  1.060 ms
+ 3  et-1-2-0-202.pe1.wnpa.akl.aarnet.net.au (182.255.119.204)  1.775 ms  1.767 ms  1.751 ms
+ 4  et-2-0-0.pe1.msct.nsw.aarnet.net.au (113.197.15.76)  24.527 ms  24.622 ms  24.611 ms
+ 5  et-1-3-0-199.pe2.brwy.nsw.aarnet.net.au (113.197.15.78)  24.902 ms  24.896 ms  24.880 ms
+ 6  et-0-0-0.pe1.a.hnl.aarnet.net.au (113.197.15.99)  117.947 ms  117.917 ms  117.917 ms
+ 7  et-1-0-0.bb1.a.sea.aarnet.net.au (202.158.194.110)  169.479 ms  169.557 ms  169.548 ms
+ 8  207.231.240.21 (207.231.240.21)  162.999 ms  163.091 ms  163.082 ms
+ 9  clgr2rtr1.canarie.ca (205.189.32.175)  173.797 ms  173.803 ms  173.791 ms
+10  wnpg1rtr1.canarie.ca (205.189.32.177)  188.224 ms  188.224 ms  188.214 ms
+11  toro1rtr1.canarie.ca (205.189.32.181)  209.571 ms  209.502 ms  209.414 ms
+12  border3.orion.on.ca (205.189.32.42)  210.228 ms  210.072 ms  210.126 ms
+13  be201.p01-toro.orion.on.ca (66.97.16.21)  210.100 ms  210.248 ms  210.149 ms
+14  be107.pe01-otwa.orion.on.ca (66.97.16.54)  215.435 ms  215.420 ms  215.513 ms
+15  CARLETON-ORION-RNE.DIST1-OTWA.IP.orion.on.ca (66.97.23.142)  214.751 ms  214.804 ms  215.039 ms
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  saturn.planetlab.carleton.ca (134.117.226.180)  214.783 ms  214.718 ms  214.829 ms
+traceroute to saturn.planetlab.carleton.ca (134.117.226.180), 30 hops max, 60 byte packets
+ 1  156.62.231.241 (156.62.231.241)  0.901 ms  0.892 ms  0.881 ms
+ 2  210.7.38.49 (210.7.38.49)  1.183 ms  1.183 ms  1.171 ms
+ 3  et-1-2-0-202.pe1.wnpa.akl.aarnet.net.au (182.255.119.204)  1.710 ms  1.813 ms  1.734 ms
+ 4  et-2-0-0.pe1.msct.nsw.aarnet.net.au (113.197.15.76)  24.525 ms  24.623 ms  24.611 ms
+ 5  et-1-3-0-199.pe2.brwy.nsw.aarnet.net.au (113.197.15.78)  24.938 ms  24.935 ms  24.922 ms
+ 6  et-0-0-0.pe1.a.hnl.aarnet.net.au (113.197.15.99)  117.976 ms  117.931 ms  117.927 ms
+ 7  et-1-0-0.bb1.a.sea.aarnet.net.au (202.158.194.110)  169.481 ms  169.581 ms  169.568 ms
+ 8  207.231.240.21 (207.231.240.21)  163.028 ms  163.170 ms  163.159 ms
+ 9  clgr2rtr1.canarie.ca (205.189.32.175)  173.913 ms  174.155 ms  174.145 ms
+10  wnpg1rtr1.canarie.ca (205.189.32.177)  188.181 ms  188.173 ms  188.251 ms
+11  toro1rtr1.canarie.ca (205.189.32.181)  209.543 ms  209.523 ms  209.448 ms
+12  border3.orion.on.ca (205.189.32.42)  210.240 ms  210.047 ms  210.091 ms
+13  be201.p01-toro.orion.on.ca (66.97.16.21)  210.323 ms  210.206 ms  210.203 ms
+14  be107.pe01-otwa.orion.on.ca (66.97.16.54)  215.522 ms  215.159 ms  215.237 ms
+15  CARLETON-ORION-RNE.DIST1-OTWA.IP.orion.on.ca (66.97.23.142)  214.638 ms  214.736 ms  214.770 ms
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  saturn.planetlab.carleton.ca (134.117.226.180)  214.780 ms  214.809 ms  214.732 ms
+traceroute to saturn.planetlab.carleton.ca (134.117.226.180), 30 hops max, 60 byte packets
+ 1  156.62.231.241 (156.62.231.241)  0.901 ms  0.965 ms  0.949 ms
+ 2  210.7.38.49 (210.7.38.49)  1.179 ms  1.169 ms  1.158 ms
+ 3  et-1-2-0-202.pe1.wnpa.akl.aarnet.net.au (182.255.119.204)  1.758 ms  1.751 ms  1.741 ms
+ 4  et-2-0-0.pe1.msct.nsw.aarnet.net.au (113.197.15.76)  24.541 ms  24.623 ms  24.614 ms
+ 5  et-1-3-0-199.pe2.brwy.nsw.aarnet.net.au (113.197.15.78)  24.934 ms  24.926 ms  25.018 ms
+ 6  et-0-0-0.pe1.a.hnl.aarnet.net.au (113.197.15.99)  117.987 ms  117.912 ms  117.924 ms
+ 7  et-1-0-0.bb1.a.sea.aarnet.net.au (202.158.194.110)  169.504 ms  169.564 ms  169.552 ms
+ 8  207.231.240.21 (207.231.240.21)  171.133 ms  171.126 ms  171.115 ms
+ 9  clgr2rtr1.canarie.ca (205.189.32.175)  174.015 ms  173.978 ms  173.966 ms
+10  wnpg1rtr1.canarie.ca (205.189.32.177)  188.629 ms  188.621 ms  188.610 ms
+11  toro1rtr1.canarie.ca (205.189.32.181)  209.459 ms  209.619 ms  209.597 ms
+12  border3.orion.on.ca (205.189.32.42)  210.257 ms  210.068 ms  210.053 ms
+13  be201.p01-toro.orion.on.ca (66.97.16.21)  210.038 ms  210.314 ms  210.345 ms
+14  be107.pe01-otwa.orion.on.ca (66.97.16.54)  215.350 ms  215.413 ms  215.484 ms
+15  CARLETON-ORION-RNE.DIST1-OTWA.IP.orion.on.ca (66.97.23.142)  214.603 ms  214.698 ms  214.732 ms
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  saturn.planetlab.carleton.ca (134.117.226.180)  214.826 ms  214.880 ms  214.755 ms
+traceroute to saturn.planetlab.carleton.ca (134.117.226.180), 30 hops max, 60 byte packets
+ 1  156.62.231.241 (156.62.231.241)  0.914 ms  0.896 ms  0.879 ms
+ 2  210.7.38.49 (210.7.38.49)  1.105 ms  1.097 ms  1.086 ms
+ 3  et-1-2-0-202.pe1.wnpa.akl.aarnet.net.au (182.255.119.204)  1.782 ms  1.780 ms  1.768 ms
+ 4  et-2-0-0.pe1.msct.nsw.aarnet.net.au (113.197.15.76)  24.647 ms  24.614 ms  24.605 ms
+ 5  et-1-3-0-199.pe2.brwy.nsw.aarnet.net.au (113.197.15.78)  24.908 ms  24.929 ms  24.866 ms
+ 6  et-0-0-0.pe1.a.hnl.aarnet.net.au (113.197.15.99)  117.956 ms  117.974 ms  117.968 ms
+ 7  et-1-0-0.bb1.a.sea.aarnet.net.au (202.158.194.110)  169.597 ms  169.561 ms  169.552 ms
+ 8  207.231.240.21 (207.231.240.21)  162.913 ms  162.985 ms  162.974 ms
+ 9  clgr2rtr1.canarie.ca (205.189.32.175)  174.714 ms  173.813 ms  173.800 ms
+10  wnpg1rtr1.canarie.ca (205.189.32.177)  188.523 ms  188.797 ms  188.783 ms
+11  toro1rtr1.canarie.ca (205.189.32.181)  209.471 ms  209.446 ms  209.394 ms
+12  border3.orion.on.ca (205.189.32.42)  210.065 ms  210.083 ms  210.054 ms
+13  be201.p01-toro.orion.on.ca (66.97.16.21)  210.065 ms  210.004 ms  210.084 ms
+14  be107.pe01-otwa.orion.on.ca (66.97.16.54)  215.304 ms  215.478 ms  215.575 ms
+15  CARLETON-ORION-RNE.DIST1-OTWA.IP.orion.on.ca (66.97.23.142)  214.614 ms  214.688 ms  214.716 ms
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  saturn.planetlab.carleton.ca (134.117.226.180)  214.755 ms  214.827 ms  214.702 ms
+traceroute to saturn.planetlab.carleton.ca (134.117.226.180), 30 hops max, 60 byte packets
+ 1  156.62.231.241 (156.62.231.241)  0.885 ms  0.970 ms  0.960 ms
+ 2  210.7.38.49 (210.7.38.49)  1.095 ms  1.091 ms  1.079 ms
+ 3  et-1-2-0-202.pe1.wnpa.akl.aarnet.net.au (182.255.119.204)  1.771 ms  1.760 ms  1.744 ms
+ 4  et-2-0-0.pe1.msct.nsw.aarnet.net.au (113.197.15.76)  24.594 ms  24.653 ms  24.644 ms
+ 5  et-1-3-0-199.pe2.brwy.nsw.aarnet.net.au (113.197.15.78)  24.930 ms  24.917 ms  24.982 ms
+ 6  et-0-0-0.pe1.a.hnl.aarnet.net.au (113.197.15.99)  117.961 ms  117.923 ms  118.107 ms
+ 7  et-1-0-0.bb1.a.sea.aarnet.net.au (202.158.194.110)  169.444 ms  169.470 ms  169.638 ms
+ 8  207.231.240.21 (207.231.240.21)  165.022 ms  165.214 ms  165.204 ms
+ 9  clgr2rtr1.canarie.ca (205.189.32.175)  173.848 ms  173.790 ms  173.778 ms
+10  wnpg1rtr1.canarie.ca (205.189.32.177)  188.160 ms  188.193 ms  188.187 ms
+11  toro1rtr1.canarie.ca (205.189.32.181)  209.454 ms  209.464 ms  209.440 ms
+12  border3.orion.on.ca (205.189.32.42)  209.974 ms  209.911 ms  209.902 ms
+13  be201.p01-toro.orion.on.ca (66.97.16.21)  210.043 ms  210.024 ms  210.089 ms
+14  be107.pe01-otwa.orion.on.ca (66.97.16.54)  215.343 ms  215.399 ms  215.486 ms
+15  CARLETON-ORION-RNE.DIST1-OTWA.IP.orion.on.ca (66.97.23.142)  214.672 ms  214.766 ms  214.792 ms
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  saturn.planetlab.carleton.ca (134.117.226.180)  214.721 ms  214.802 ms  214.749 ms
+traceroute to saturn.planetlab.carleton.ca (134.117.226.180), 30 hops max, 60 byte packets
+ 1  156.62.231.241 (156.62.231.241)  0.899 ms  1.031 ms  1.017 ms
+ 2  210.7.38.49 (210.7.38.49)  1.078 ms  1.069 ms  1.058 ms
+ 3  et-1-2-0-202.pe1.wnpa.akl.aarnet.net.au (182.255.119.204)  1.758 ms  1.748 ms  1.731 ms
+ 4  et-2-0-0.pe1.msct.nsw.aarnet.net.au (113.197.15.76)  24.630 ms  24.708 ms  24.698 ms
+ 5  et-1-3-0-199.pe2.brwy.nsw.aarnet.net.au (113.197.15.78)  24.954 ms  24.944 ms  25.046 ms
+ 6  et-0-0-0.pe1.a.hnl.aarnet.net.au (113.197.15.99)  117.937 ms  117.903 ms  117.906 ms
+ 7  et-1-0-0.bb1.a.sea.aarnet.net.au (202.158.194.110)  169.506 ms  169.595 ms  169.587 ms
+ 8  207.231.240.21 (207.231.240.21)  162.937 ms  163.022 ms  163.011 ms
+ 9  clgr2rtr1.canarie.ca (205.189.32.175)  173.973 ms  173.856 ms  173.844 ms
+10  wnpg1rtr1.canarie.ca (205.189.32.177)  188.203 ms  188.194 ms  188.183 ms
+11  toro1rtr1.canarie.ca (205.189.32.181)  209.417 ms  209.497 ms  209.434 ms
+12  border3.orion.on.ca (205.189.32.42)  209.957 ms  210.024 ms  210.014 ms
+13  be201.p01-toro.orion.on.ca (66.97.16.21)  210.037 ms  210.238 ms  210.291 ms
+14  be107.pe01-otwa.orion.on.ca (66.97.16.54)  215.366 ms  215.313 ms  215.387 ms
+15  CARLETON-ORION-RNE.DIST1-OTWA.IP.orion.on.ca (66.97.23.142)  214.697 ms  214.780 ms  214.807 ms
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  saturn.planetlab.carleton.ca (134.117.226.180)  214.762 ms  214.845 ms  214.755 ms
+traceroute to saturn.planetlab.carleton.ca (134.117.226.180), 30 hops max, 60 byte packets
+ 1  156.62.231.241 (156.62.231.241)  0.863 ms  0.946 ms  0.933 ms
+ 2  210.7.38.49 (210.7.38.49)  1.073 ms  1.069 ms  1.058 ms
+ 3  et-1-2-0-202.pe1.wnpa.akl.aarnet.net.au (182.255.119.204)  1.748 ms  1.739 ms  1.724 ms
+ 4  et-2-0-0.pe1.msct.nsw.aarnet.net.au (113.197.15.76)  24.554 ms  24.634 ms  24.623 ms
+ 5  et-1-3-0-199.pe2.brwy.nsw.aarnet.net.au (113.197.15.78)  24.954 ms  24.946 ms  25.024 ms
+ 6  et-0-0-0.pe1.a.hnl.aarnet.net.au (113.197.15.99)  117.937 ms  117.926 ms  117.929 ms
+ 7  et-1-0-0.bb1.a.sea.aarnet.net.au (202.158.194.110)  169.508 ms  169.587 ms  169.574 ms
+ 8  207.231.240.21 (207.231.240.21)  168.090 ms  168.176 ms  168.164 ms
+ 9  clgr2rtr1.canarie.ca (205.189.32.175)  173.828 ms  173.817 ms  173.802 ms
+10  wnpg1rtr1.canarie.ca (205.189.32.177)  188.189 ms  188.183 ms  188.173 ms
+11  toro1rtr1.canarie.ca (205.189.32.181)  209.433 ms  209.523 ms  209.438 ms
+12  border3.orion.on.ca (205.189.32.42)  209.994 ms  210.138 ms  210.128 ms
+13  be201.p01-toro.orion.on.ca (66.97.16.21)  210.023 ms  210.027 ms  210.046 ms
+14  be107.pe01-otwa.orion.on.ca (66.97.16.54)  215.345 ms  215.300 ms  215.347 ms
+15  CARLETON-ORION-RNE.DIST1-OTWA.IP.orion.on.ca (66.97.23.142)  214.629 ms  214.710 ms  214.748 ms
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  saturn.planetlab.carleton.ca (134.117.226.180)  214.788 ms  214.854 ms  214.750 ms
+traceroute to saturn.planetlab.carleton.ca (134.117.226.180), 30 hops max, 60 byte packets
+ 1  156.62.231.241 (156.62.231.241)  0.901 ms  0.967 ms  0.954 ms
+ 2  210.7.38.49 (210.7.38.49)  1.078 ms  1.072 ms  1.060 ms
+ 3  et-1-2-0-202.pe1.wnpa.akl.aarnet.net.au (182.255.119.204)  1.756 ms  1.748 ms  1.751 ms
+ 4  et-2-0-0.pe1.msct.nsw.aarnet.net.au (113.197.15.76)  26.950 ms  27.034 ms  27.023 ms
+ 5  et-1-3-0-199.pe2.brwy.nsw.aarnet.net.au (113.197.15.78)  25.022 ms  25.136 ms  25.120 ms
+ 6  et-0-0-0.pe1.a.hnl.aarnet.net.au (113.197.15.99)  118.025 ms  117.962 ms  118.042 ms
+ 7  et-1-0-0.bb1.a.sea.aarnet.net.au (202.158.194.110)  169.489 ms  169.566 ms  169.557 ms
+ 8  207.231.240.21 (207.231.240.21)  162.988 ms  163.102 ms  163.089 ms
+ 9  clgr2rtr1.canarie.ca (205.189.32.175)  173.780 ms  173.814 ms  173.801 ms
+10  wnpg1rtr1.canarie.ca (205.189.32.177)  188.104 ms  188.125 ms  188.112 ms
+11  toro1rtr1.canarie.ca (205.189.32.181)  209.593 ms  209.390 ms  209.368 ms
+12  border3.orion.on.ca (205.189.32.42)  210.070 ms  209.839 ms  209.866 ms
+13  be201.p01-toro.orion.on.ca (66.97.16.21)  209.957 ms  210.171 ms  210.158 ms
+14  be107.pe01-otwa.orion.on.ca (66.97.16.54)  215.368 ms  215.313 ms  215.422 ms
+15  CARLETON-ORION-RNE.DIST1-OTWA.IP.orion.on.ca (66.97.23.142)  214.785 ms  214.707 ms  214.695 ms
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  saturn.planetlab.carleton.ca (134.117.226.180)  214.821 ms  214.991 ms  214.798 ms
+traceroute to saturn.planetlab.carleton.ca (134.117.226.180), 30 hops max, 60 byte packets
+ 1  156.62.231.241 (156.62.231.241)  0.880 ms  1.014 ms  1.002 ms
+ 2  210.7.38.49 (210.7.38.49)  1.123 ms  1.121 ms  1.109 ms
+ 3  et-1-2-0-202.pe1.wnpa.akl.aarnet.net.au (182.255.119.204)  1.751 ms  1.743 ms  1.731 ms
+ 4  et-2-0-0.pe1.msct.nsw.aarnet.net.au (113.197.15.76)  24.598 ms  24.691 ms  24.668 ms
+ 5  et-1-3-0-199.pe2.brwy.nsw.aarnet.net.au (113.197.15.78)  24.950 ms  24.946 ms  24.935 ms
+ 6  et-0-0-0.pe1.a.hnl.aarnet.net.au (113.197.15.99)  118.087 ms  118.105 ms  117.944 ms
+ 7  et-1-0-0.bb1.a.sea.aarnet.net.au (202.158.194.110)  169.470 ms  169.548 ms  169.537 ms
+ 8  207.231.240.21 (207.231.240.21)  162.889 ms  162.981 ms  162.972 ms
+ 9  clgr2rtr1.canarie.ca (205.189.32.175)  174.158 ms  173.815 ms  173.802 ms
+10  wnpg1rtr1.canarie.ca (205.189.32.177)  188.570 ms  189.040 ms  189.029 ms
+11  toro1rtr1.canarie.ca (205.189.32.181)  209.421 ms  209.451 ms  209.420 ms
+12  border3.orion.on.ca (205.189.32.42)  209.802 ms  209.829 ms  209.862 ms
+13  be201.p01-toro.orion.on.ca (66.97.16.21)  210.165 ms  210.135 ms  210.438 ms
+14  be107.pe01-otwa.orion.on.ca (66.97.16.54)  215.246 ms  215.437 ms  215.425 ms
+15  CARLETON-ORION-RNE.DIST1-OTWA.IP.orion.on.ca (66.97.23.142)  214.679 ms  214.775 ms  214.811 ms
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  saturn.planetlab.carleton.ca (134.117.226.180)  214.815 ms  214.900 ms  214.729 ms
+traceroute to saturn.planetlab.carleton.ca (134.117.226.180), 30 hops max, 60 byte packets
+ 1  156.62.231.241 (156.62.231.241)  0.900 ms  0.983 ms  0.971 ms
+ 2  210.7.38.49 (210.7.38.49)  1.104 ms  1.083 ms  1.070 ms
+ 3  et-1-2-0-202.pe1.wnpa.akl.aarnet.net.au (182.255.119.204)  1.768 ms  1.762 ms  1.751 ms
+ 4  et-2-0-0.pe1.msct.nsw.aarnet.net.au (113.197.15.76)  24.583 ms  24.675 ms  24.667 ms
+ 5  et-1-3-0-199.pe2.brwy.nsw.aarnet.net.au (113.197.15.78)  24.968 ms  24.957 ms  25.008 ms
+ 6  et-0-0-0.pe1.a.hnl.aarnet.net.au (113.197.15.99)  120.304 ms  118.882 ms  118.870 ms
+ 7  et-1-0-0.bb1.a.sea.aarnet.net.au (202.158.194.110)  169.456 ms  169.414 ms  169.480 ms
+ 8  207.231.240.21 (207.231.240.21)  162.916 ms  163.003 ms  162.993 ms
+ 9  clgr2rtr1.canarie.ca (205.189.32.175)  173.756 ms  173.790 ms  173.779 ms
+10  wnpg1rtr1.canarie.ca (205.189.32.177)  188.150 ms  188.145 ms  188.135 ms
+11  toro1rtr1.canarie.ca (205.189.32.181)  209.397 ms  209.924 ms  209.895 ms
+12  border3.orion.on.ca (205.189.32.42)  210.107 ms  209.980 ms  210.010 ms
+13  be201.p01-toro.orion.on.ca (66.97.16.21)  210.188 ms  210.106 ms  210.082 ms
+14  be107.pe01-otwa.orion.on.ca (66.97.16.54)  215.091 ms  215.177 ms  215.228 ms
+15  CARLETON-ORION-RNE.DIST1-OTWA.IP.orion.on.ca (66.97.23.142)  214.631 ms  214.795 ms  214.778 ms
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  saturn.planetlab.carleton.ca (134.117.226.180)  215.009 ms  214.913 ms  214.898 ms
+traceroute to saturn.planetlab.carleton.ca (134.117.226.180), 30 hops max, 60 byte packets
+ 1  156.62.231.241 (156.62.231.241)  0.905 ms  0.990 ms  0.978 ms
+ 2  210.7.38.49 (210.7.38.49)  1.104 ms  1.102 ms  1.091 ms
+ 3  et-1-2-0-202.pe1.wnpa.akl.aarnet.net.au (182.255.119.204)  1.754 ms  1.749 ms  1.738 ms
+ 4  et-2-0-0.pe1.msct.nsw.aarnet.net.au (113.197.15.76)  24.609 ms  24.611 ms  24.601 ms
+ 5  et-1-3-0-199.pe2.brwy.nsw.aarnet.net.au (113.197.15.78)  24.968 ms  24.961 ms  24.993 ms
+ 6  et-0-0-0.pe1.a.hnl.aarnet.net.au (113.197.15.99)  117.951 ms  117.970 ms  117.964 ms
+ 7  et-1-0-0.bb1.a.sea.aarnet.net.au (202.158.194.110)  169.755 ms  169.588 ms  169.558 ms
+ 8  207.231.240.21 (207.231.240.21)  165.320 ms  165.413 ms  165.403 ms
+ 9  clgr2rtr1.canarie.ca (205.189.32.175)  173.889 ms  173.860 ms  173.848 ms
+10  wnpg1rtr1.canarie.ca (205.189.32.177)  188.210 ms  188.208 ms  188.195 ms
+11  toro1rtr1.canarie.ca (205.189.32.181)  209.721 ms  209.513 ms  209.572 ms
+12  border3.orion.on.ca (205.189.32.42)  210.055 ms  210.074 ms  210.045 ms
+13  be201.p01-toro.orion.on.ca (66.97.16.21)  210.080 ms  210.007 ms  210.619 ms
+14  be107.pe01-otwa.orion.on.ca (66.97.16.54)  215.461 ms  215.198 ms  215.306 ms
+15  CARLETON-ORION-RNE.DIST1-OTWA.IP.orion.on.ca (66.97.23.142)  214.604 ms  214.691 ms  214.718 ms
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  saturn.planetlab.carleton.ca (134.117.226.180)  214.759 ms  214.835 ms  214.750 ms
+traceroute to saturn.planetlab.carleton.ca (134.117.226.180), 30 hops max, 60 byte packets
+ 1  156.62.231.241 (156.62.231.241)  0.895 ms  0.885 ms  0.876 ms
+ 2  210.7.38.49 (210.7.38.49)  1.145 ms  1.142 ms  1.130 ms
+ 3  et-1-2-0-202.pe1.wnpa.akl.aarnet.net.au (182.255.119.204)  1.749 ms  1.745 ms  1.732 ms
+ 4  et-2-0-0.pe1.msct.nsw.aarnet.net.au (113.197.15.76)  24.573 ms  24.712 ms  24.690 ms
+ 5  et-1-3-0-199.pe2.brwy.nsw.aarnet.net.au (113.197.15.78)  24.975 ms  24.967 ms  24.951 ms
+ 6  et-0-0-0.pe1.a.hnl.aarnet.net.au (113.197.15.99)  117.956 ms  117.920 ms  117.929 ms
+ 7  et-1-0-0.bb1.a.sea.aarnet.net.au (202.158.194.110)  169.515 ms  169.597 ms  169.587 ms
+ 8  207.231.240.21 (207.231.240.21)  162.924 ms  162.986 ms  162.973 ms
+ 9  clgr2rtr1.canarie.ca (205.189.32.175)  173.866 ms  173.801 ms  173.835 ms
+10  wnpg1rtr1.canarie.ca (205.189.32.177)  188.165 ms  188.147 ms  188.135 ms
+11  toro1rtr1.canarie.ca (205.189.32.181)  209.494 ms  209.532 ms  209.405 ms
+12  border3.orion.on.ca (205.189.32.42)  210.103 ms  209.853 ms  209.976 ms
+13  be201.p01-toro.orion.on.ca (66.97.16.21)  210.322 ms  210.207 ms  210.197 ms
+14  be107.pe01-otwa.orion.on.ca (66.97.16.54)  215.358 ms  215.514 ms  215.640 ms
+15  CARLETON-ORION-RNE.DIST1-OTWA.IP.orion.on.ca (66.97.23.142)  214.609 ms  214.751 ms  214.741 ms
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  saturn.planetlab.carleton.ca (134.117.226.180)  214.759 ms  214.863 ms  214.885 ms
+traceroute to saturn.planetlab.carleton.ca (134.117.226.180), 30 hops max, 60 byte packets
+ 1  156.62.231.241 (156.62.231.241)  0.911 ms  0.896 ms  0.885 ms
+ 2  210.7.38.49 (210.7.38.49)  1.106 ms  1.096 ms  1.081 ms
+ 3  et-1-2-0-202.pe1.wnpa.akl.aarnet.net.au (182.255.119.204)  1.775 ms  1.760 ms  1.742 ms
+ 4  et-2-0-0.pe1.msct.nsw.aarnet.net.au (113.197.15.76)  24.546 ms  24.630 ms  24.620 ms
+ 5  et-1-3-0-199.pe2.brwy.nsw.aarnet.net.au (113.197.15.78)  24.943 ms  24.929 ms  24.956 ms
+ 6  et-0-0-0.pe1.a.hnl.aarnet.net.au (113.197.15.99)  117.996 ms  117.949 ms  117.943 ms
+ 7  et-1-0-0.bb1.a.sea.aarnet.net.au (202.158.194.110)  169.432 ms  169.436 ms  169.630 ms
+ 8  207.231.240.21 (207.231.240.21)  163.015 ms  163.096 ms  163.083 ms
+ 9  clgr2rtr1.canarie.ca (205.189.32.175)  173.828 ms  173.839 ms  173.872 ms
+10  wnpg1rtr1.canarie.ca (205.189.32.177)  188.140 ms  188.134 ms  188.123 ms
+11  toro1rtr1.canarie.ca (205.189.32.181)  209.429 ms  209.441 ms  209.367 ms
+12  border3.orion.on.ca (205.189.32.42)  210.113 ms  210.008 ms  210.078 ms
+13  be201.p01-toro.orion.on.ca (66.97.16.21)  211.849 ms  210.380 ms  210.331 ms
+14  be107.pe01-otwa.orion.on.ca (66.97.16.54)  215.339 ms  215.367 ms  215.336 ms
+15  CARLETON-ORION-RNE.DIST1-OTWA.IP.orion.on.ca (66.97.23.142)  214.608 ms  214.702 ms  214.727 ms
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  saturn.planetlab.carleton.ca (134.117.226.180)  214.793 ms  214.871 ms  214.956 ms
+traceroute to saturn.planetlab.carleton.ca (134.117.226.180), 30 hops max, 60 byte packets
+ 1  156.62.231.241 (156.62.231.241)  0.877 ms  0.870 ms  0.859 ms
+ 2  210.7.38.49 (210.7.38.49)  1.160 ms  1.156 ms  1.144 ms
+ 3  et-1-2-0-202.pe1.wnpa.akl.aarnet.net.au (182.255.119.204)  1.765 ms  1.757 ms  1.747 ms
+ 4  et-2-0-0.pe1.msct.nsw.aarnet.net.au (113.197.15.76)  24.489 ms  24.600 ms  24.526 ms
+ 5  et-1-3-0-199.pe2.brwy.nsw.aarnet.net.au (113.197.15.78)  24.980 ms  24.967 ms  24.999 ms
+ 6  et-0-0-0.pe1.a.hnl.aarnet.net.au (113.197.15.99)  117.955 ms  117.960 ms  117.952 ms
+ 7  et-1-0-0.bb1.a.sea.aarnet.net.au (202.158.194.110)  169.450 ms  169.582 ms  169.472 ms
+ 8  207.231.240.21 (207.231.240.21)  162.936 ms  163.077 ms  163.066 ms
+ 9  clgr2rtr1.canarie.ca (205.189.32.175)  173.775 ms  173.782 ms  173.746 ms
+10  wnpg1rtr1.canarie.ca (205.189.32.177)  188.197 ms  188.190 ms  188.172 ms
+11  toro1rtr1.canarie.ca (205.189.32.181)  209.707 ms  209.416 ms  209.365 ms
+12  border3.orion.on.ca (205.189.32.42)  209.963 ms  210.060 ms  210.049 ms
+13  be201.p01-toro.orion.on.ca (66.97.16.21)  210.266 ms  210.205 ms  210.252 ms
+14  be107.pe01-otwa.orion.on.ca (66.97.16.54)  215.355 ms  215.322 ms  215.390 ms
+15  CARLETON-ORION-RNE.DIST1-OTWA.IP.orion.on.ca (66.97.23.142)  214.621 ms  214.709 ms  214.844 ms
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  saturn.planetlab.carleton.ca (134.117.226.180)  214.738 ms  214.845 ms  214.724 ms
+traceroute to saturn.planetlab.carleton.ca (134.117.226.180), 30 hops max, 60 byte packets
+ 1  156.62.231.241 (156.62.231.241)  0.888 ms  0.966 ms  0.956 ms
+ 2  210.7.38.49 (210.7.38.49)  1.474 ms  1.469 ms  1.459 ms
+ 3  et-1-2-0-202.pe1.wnpa.akl.aarnet.net.au (182.255.119.204)  1.777 ms  1.769 ms  1.757 ms
+ 4  et-2-0-0.pe1.msct.nsw.aarnet.net.au (113.197.15.76)  24.567 ms  24.637 ms  24.626 ms
+ 5  et-1-3-0-199.pe2.brwy.nsw.aarnet.net.au (113.197.15.78)  24.959 ms  24.941 ms  24.911 ms
+ 6  et-0-0-0.pe1.a.hnl.aarnet.net.au (113.197.15.99)  117.944 ms  117.917 ms  117.956 ms
+ 7  et-1-0-0.bb1.a.sea.aarnet.net.au (202.158.194.110)  169.492 ms  169.571 ms  169.560 ms
+ 8  207.231.240.21 (207.231.240.21)  162.893 ms  163.023 ms  163.013 ms
+ 9  clgr2rtr1.canarie.ca (205.189.32.175)  173.786 ms  173.788 ms  173.777 ms
+10  wnpg1rtr1.canarie.ca (205.189.32.177)  188.147 ms  188.139 ms  188.127 ms
+11  toro1rtr1.canarie.ca (205.189.32.181)  209.390 ms  209.394 ms  209.371 ms
+12  border3.orion.on.ca (205.189.32.42)  210.102 ms  209.973 ms  209.964 ms
+13  be201.p01-toro.orion.on.ca (66.97.16.21)  210.287 ms  210.001 ms  210.036 ms
+14  be107.pe01-otwa.orion.on.ca (66.97.16.54)  215.174 ms  215.418 ms  215.541 ms
+15  CARLETON-ORION-RNE.DIST1-OTWA.IP.orion.on.ca (66.97.23.142)  214.604 ms  214.740 ms  214.724 ms
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  saturn.planetlab.carleton.ca (134.117.226.180)  214.856 ms  214.766 ms  214.736 ms
+traceroute to saturn.planetlab.carleton.ca (134.117.226.180), 30 hops max, 60 byte packets
+ 1  156.62.231.241 (156.62.231.241)  0.892 ms  0.977 ms  0.960 ms
+ 2  210.7.38.49 (210.7.38.49)  1.090 ms  1.087 ms  1.076 ms
+ 3  et-1-2-0-202.pe1.wnpa.akl.aarnet.net.au (182.255.119.204)  1.768 ms  1.755 ms  1.739 ms
+ 4  et-2-0-0.pe1.msct.nsw.aarnet.net.au (113.197.15.76)  26.304 ms  26.390 ms  26.311 ms
+ 5  et-1-3-0-199.pe2.brwy.nsw.aarnet.net.au (113.197.15.78)  24.947 ms  25.049 ms  25.039 ms
+ 6  et-0-0-0.pe1.a.hnl.aarnet.net.au (113.197.15.99)  118.006 ms  127.161 ms  123.614 ms
+ 7  et-1-0-0.bb1.a.sea.aarnet.net.au (202.158.194.110)  169.491 ms  169.585 ms  169.414 ms
+ 8  207.231.240.21 (207.231.240.21)  163.294 ms  163.385 ms  163.375 ms
+ 9  clgr2rtr1.canarie.ca (205.189.32.175)  173.837 ms  173.834 ms  173.820 ms
+10  wnpg1rtr1.canarie.ca (205.189.32.177)  188.142 ms  188.169 ms  188.108 ms
+11  toro1rtr1.canarie.ca (205.189.32.181)  209.455 ms  209.499 ms  209.422 ms
+12  border3.orion.on.ca (205.189.32.42)  210.102 ms  210.309 ms  210.346 ms
+13  be201.p01-toro.orion.on.ca (66.97.16.21)  210.260 ms  209.994 ms  210.112 ms
+14  be107.pe01-otwa.orion.on.ca (66.97.16.54)  215.275 ms  215.337 ms  215.415 ms
+15  CARLETON-ORION-RNE.DIST1-OTWA.IP.orion.on.ca (66.97.23.142)  214.621 ms  214.716 ms  214.739 ms
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  saturn.planetlab.carleton.ca (134.117.226.180)  214.954 ms  214.832 ms  214.740 ms
+traceroute to saturn.planetlab.carleton.ca (134.117.226.180), 30 hops max, 60 byte packets
+ 1  156.62.231.241 (156.62.231.241)  0.879 ms  0.994 ms  0.983 ms
+ 2  210.7.38.49 (210.7.38.49)  1.265 ms  1.263 ms  1.251 ms
+ 3  et-1-2-0-202.pe1.wnpa.akl.aarnet.net.au (182.255.119.204)  1.753 ms  1.743 ms  1.732 ms
+ 4  et-2-0-0.pe1.msct.nsw.aarnet.net.au (113.197.15.76)  24.562 ms  24.648 ms  24.634 ms
+ 5  et-1-3-0-199.pe2.brwy.nsw.aarnet.net.au (113.197.15.78)  24.937 ms  24.926 ms  24.960 ms
+ 6  et-0-0-0.pe1.a.hnl.aarnet.net.au (113.197.15.99)  117.931 ms  117.966 ms  118.167 ms
+ 7  et-1-0-0.bb1.a.sea.aarnet.net.au (202.158.194.110)  170.980 ms  171.067 ms  171.057 ms
+ 8  207.231.240.21 (207.231.240.21)  162.968 ms  163.054 ms  163.047 ms
+ 9  clgr2rtr1.canarie.ca (205.189.32.175)  173.888 ms  174.276 ms  174.268 ms
+10  wnpg1rtr1.canarie.ca (205.189.32.177)  188.608 ms  188.959 ms  188.948 ms
+11  toro1rtr1.canarie.ca (205.189.32.181)  209.428 ms  209.419 ms  209.431 ms
+12  border3.orion.on.ca (205.189.32.42)  210.138 ms  210.079 ms  209.984 ms
+13  be201.p01-toro.orion.on.ca (66.97.16.21)  210.203 ms  210.231 ms  210.209 ms
+14  be107.pe01-otwa.orion.on.ca (66.97.16.54)  215.371 ms  215.361 ms  215.440 ms
+15  CARLETON-ORION-RNE.DIST1-OTWA.IP.orion.on.ca (66.97.23.142)  214.623 ms  214.712 ms  214.701 ms
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  saturn.planetlab.carleton.ca (134.117.226.180)  214.823 ms  214.910 ms  214.750 ms
+traceroute to saturn.planetlab.carleton.ca (134.117.226.180), 30 hops max, 60 byte packets
+ 1  156.62.231.241 (156.62.231.241)  0.902 ms  0.986 ms  0.977 ms
+ 2  210.7.38.49 (210.7.38.49)  1.106 ms  1.096 ms  1.085 ms
+ 3  et-1-2-0-202.pe1.wnpa.akl.aarnet.net.au (182.255.119.204)  1.761 ms  1.752 ms  1.740 ms
+ 4  et-2-0-0.pe1.msct.nsw.aarnet.net.au (113.197.15.76)  24.548 ms  24.622 ms  24.515 ms
+ 5  et-1-3-0-199.pe2.brwy.nsw.aarnet.net.au (113.197.15.78)  24.937 ms  24.927 ms  24.957 ms
+ 6  et-0-0-0.pe1.a.hnl.aarnet.net.au (113.197.15.99)  117.972 ms  117.929 ms  117.932 ms
+ 7  et-1-0-0.bb1.a.sea.aarnet.net.au (202.158.194.110)  169.490 ms  169.565 ms  169.536 ms
+ 8  207.231.240.21 (207.231.240.21)  162.971 ms  163.054 ms  163.045 ms
+ 9  clgr2rtr1.canarie.ca (205.189.32.175)  173.838 ms  173.855 ms  173.845 ms
+10  wnpg1rtr1.canarie.ca (205.189.32.177)  188.188 ms  188.189 ms  188.176 ms
+11  toro1rtr1.canarie.ca (205.189.32.181)  209.425 ms  209.528 ms  209.445 ms
+12  border3.orion.on.ca (205.189.32.42)  209.989 ms  209.957 ms  209.947 ms
+13  be201.p01-toro.orion.on.ca (66.97.16.21)  209.999 ms  210.027 ms  210.436 ms
+14  be107.pe01-otwa.orion.on.ca (66.97.16.54)  215.372 ms  215.268 ms  215.349 ms
+15  CARLETON-ORION-RNE.DIST1-OTWA.IP.orion.on.ca (66.97.23.142)  273.968 ms  274.053 ms  274.128 ms
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  saturn.planetlab.carleton.ca (134.117.226.180)  214.824 ms  214.840 ms  214.917 ms
+traceroute to saturn.planetlab.carleton.ca (134.117.226.180), 30 hops max, 60 byte packets
+ 1  156.62.231.241 (156.62.231.241)  0.887 ms  0.994 ms  0.983 ms
+ 2  210.7.38.49 (210.7.38.49)  1.261 ms  1.334 ms  1.370 ms
+ 3  et-1-2-0-202.pe1.wnpa.akl.aarnet.net.au (182.255.119.204)  1.772 ms  1.770 ms  1.760 ms
+ 4  et-2-0-0.pe1.msct.nsw.aarnet.net.au (113.197.15.76)  25.044 ms  25.109 ms  25.099 ms
+ 5  et-1-3-0-199.pe2.brwy.nsw.aarnet.net.au (113.197.15.78)  25.086 ms  25.073 ms  25.057 ms
+ 6  et-0-0-0.pe1.a.hnl.aarnet.net.au (113.197.15.99)  118.139 ms  117.913 ms  117.915 ms
+ 7  et-1-0-0.bb1.a.sea.aarnet.net.au (202.158.194.110)  169.494 ms  169.551 ms  169.525 ms
+ 8  207.231.240.21 (207.231.240.21)  162.939 ms  163.133 ms  163.121 ms
+ 9  clgr2rtr1.canarie.ca (205.189.32.175)  174.011 ms  173.828 ms  173.817 ms
+10  wnpg1rtr1.canarie.ca (205.189.32.177)  188.156 ms  188.149 ms  188.139 ms
+11  toro1rtr1.canarie.ca (205.189.32.181)  209.636 ms  209.626 ms  209.452 ms
+12  border3.orion.on.ca (205.189.32.42)  210.068 ms  210.200 ms  210.236 ms
+13  be201.p01-toro.orion.on.ca (66.97.16.21)  210.495 ms  210.149 ms  210.212 ms
+14  be107.pe01-otwa.orion.on.ca (66.97.16.54)  215.396 ms  215.296 ms  215.367 ms
+15  CARLETON-ORION-RNE.DIST1-OTWA.IP.orion.on.ca (66.97.23.142)  214.640 ms  214.698 ms  214.797 ms
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  saturn.planetlab.carleton.ca (134.117.226.180)  214.968 ms  214.944 ms  214.876 ms
+traceroute to saturn.planetlab.carleton.ca (134.117.226.180), 30 hops max, 60 byte packets
+ 1  156.62.231.241 (156.62.231.241)  0.897 ms  0.929 ms  0.917 ms
+ 2  210.7.38.49 (210.7.38.49)  1.109 ms  1.110 ms  1.099 ms
+ 3  et-1-2-0-202.pe1.wnpa.akl.aarnet.net.au (182.255.119.204)  1.771 ms  1.762 ms  1.750 ms
+ 4  et-2-0-0.pe1.msct.nsw.aarnet.net.au (113.197.15.76)  24.551 ms  24.644 ms  24.635 ms
+ 5  et-1-3-0-199.pe2.brwy.nsw.aarnet.net.au (113.197.15.78)  24.939 ms  24.926 ms  24.949 ms
+ 6  et-0-0-0.pe1.a.hnl.aarnet.net.au (113.197.15.99)  117.939 ms  117.916 ms  117.925 ms
+ 7  et-1-0-0.bb1.a.sea.aarnet.net.au (202.158.194.110)  169.503 ms  169.576 ms  169.565 ms
+ 8  207.231.240.21 (207.231.240.21)  162.955 ms  163.030 ms  163.012 ms
+ 9  clgr2rtr1.canarie.ca (205.189.32.175)  173.870 ms  173.973 ms  174.008 ms
+10  wnpg1rtr1.canarie.ca (205.189.32.177)  188.188 ms  188.179 ms  188.168 ms
+11  toro1rtr1.canarie.ca (205.189.32.181)  209.417 ms  209.581 ms  209.560 ms
+12  border3.orion.on.ca (205.189.32.42)  210.321 ms  210.220 ms  210.290 ms
+13  be201.p01-toro.orion.on.ca (66.97.16.21)  210.341 ms  210.189 ms  210.219 ms
+14  be107.pe01-otwa.orion.on.ca (66.97.16.54)  215.498 ms  215.460 ms  215.445 ms
+15  CARLETON-ORION-RNE.DIST1-OTWA.IP.orion.on.ca (66.97.23.142)  214.749 ms  214.838 ms  214.827 ms
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  saturn.planetlab.carleton.ca (134.117.226.180)  214.859 ms  214.729 ms  214.842 ms
+traceroute to saturn.planetlab.carleton.ca (134.117.226.180), 30 hops max, 60 byte packets
+ 1  156.62.231.241 (156.62.231.241)  0.878 ms  0.994 ms  0.985 ms
+ 2  210.7.38.49 (210.7.38.49)  4.399 ms  4.487 ms  4.477 ms
+ 3  et-1-2-0-202.pe1.wnpa.akl.aarnet.net.au (182.255.119.204)  1.774 ms  1.766 ms  1.754 ms
+ 4  et-2-0-0.pe1.msct.nsw.aarnet.net.au (113.197.15.76)  24.572 ms  24.668 ms  24.660 ms
+ 5  et-1-3-0-199.pe2.brwy.nsw.aarnet.net.au (113.197.15.78)  24.982 ms  24.970 ms  25.027 ms
+ 6  et-0-0-0.pe1.a.hnl.aarnet.net.au (113.197.15.99)  117.875 ms  117.975 ms  117.969 ms
+ 7  et-1-0-0.bb1.a.sea.aarnet.net.au (202.158.194.110)  169.485 ms  169.573 ms  169.564 ms
+ 8  207.231.240.21 (207.231.240.21)  162.921 ms  162.847 ms  162.812 ms
+ 9  clgr2rtr1.canarie.ca (205.189.32.175)  173.790 ms  173.816 ms  173.796 ms
+10  wnpg1rtr1.canarie.ca (205.189.32.177)  188.169 ms  188.159 ms  188.149 ms
+11  toro1rtr1.canarie.ca (205.189.32.181)  209.520 ms  209.413 ms  209.394 ms
+12  border3.orion.on.ca (205.189.32.42)  210.188 ms  209.822 ms  209.760 ms
+13  be201.p01-toro.orion.on.ca (66.97.16.21)  210.218 ms  210.154 ms  210.256 ms
+14  be107.pe01-otwa.orion.on.ca (66.97.16.54)  215.541 ms  215.421 ms  215.501 ms
+15  CARLETON-ORION-RNE.DIST1-OTWA.IP.orion.on.ca (66.97.23.142)  214.617 ms  214.715 ms  214.747 ms
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  saturn.planetlab.carleton.ca (134.117.226.180)  214.751 ms  214.830 ms  214.741 ms
+traceroute to saturn.planetlab.carleton.ca (134.117.226.180), 30 hops max, 60 byte packets
+ 1  156.62.231.241 (156.62.231.241)  0.899 ms  0.901 ms  0.890 ms
+ 2  210.7.38.49 (210.7.38.49)  1.162 ms  1.159 ms  1.147 ms
+ 3  et-1-2-0-202.pe1.wnpa.akl.aarnet.net.au (182.255.119.204)  1.777 ms  1.768 ms  1.754 ms
+ 4  et-2-0-0.pe1.msct.nsw.aarnet.net.au (113.197.15.76)  24.687 ms  24.798 ms  24.788 ms
+ 5  et-1-3-0-199.pe2.brwy.nsw.aarnet.net.au (113.197.15.78)  26.852 ms  26.851 ms  26.930 ms
+ 6  et-0-0-0.pe1.a.hnl.aarnet.net.au (113.197.15.99)  117.952 ms  117.950 ms  118.167 ms
+ 7  et-1-0-0.bb1.a.sea.aarnet.net.au (202.158.194.110)  169.493 ms  169.586 ms  169.577 ms
+ 8  207.231.240.21 (207.231.240.21)  162.924 ms  163.015 ms  163.005 ms
+ 9  clgr2rtr1.canarie.ca (205.189.32.175)  173.819 ms  173.831 ms  173.860 ms
+10  wnpg1rtr1.canarie.ca (205.189.32.177)  188.156 ms  188.115 ms  188.103 ms
+11  toro1rtr1.canarie.ca (205.189.32.181)  209.418 ms  209.435 ms  209.368 ms
+12  border3.orion.on.ca (205.189.32.42)  210.926 ms  211.213 ms  211.338 ms
+13  be201.p01-toro.orion.on.ca (66.97.16.21)  211.321 ms  210.553 ms  210.073 ms
+14  be107.pe01-otwa.orion.on.ca (66.97.16.54)  222.304 ms  221.591 ms  216.358 ms
+15  CARLETON-ORION-RNE.DIST1-OTWA.IP.orion.on.ca (66.97.23.142)  221.345 ms  216.017 ms  215.892 ms
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  saturn.planetlab.carleton.ca (134.117.226.180)  216.690 ms  221.695 ms  221.578 ms
+traceroute to saturn.planetlab.carleton.ca (134.117.226.180), 30 hops max, 60 byte packets
+ 1  156.62.231.241 (156.62.231.241)  0.888 ms  0.973 ms  0.959 ms
+ 2  210.7.38.49 (210.7.38.49)  1.097 ms  1.093 ms  1.077 ms
+ 3  et-1-2-0-202.pe1.wnpa.akl.aarnet.net.au (182.255.119.204)  1.786 ms  1.783 ms  1.755 ms
+ 4  et-2-0-0.pe1.msct.nsw.aarnet.net.au (113.197.15.76)  24.552 ms  24.644 ms  24.636 ms
+ 5  et-1-3-0-199.pe2.brwy.nsw.aarnet.net.au (113.197.15.78)  24.945 ms  24.932 ms  25.022 ms
+ 6  et-0-0-0.pe1.a.hnl.aarnet.net.au (113.197.15.99)  118.412 ms  117.931 ms  117.914 ms
+ 7  et-1-0-0.bb1.a.sea.aarnet.net.au (202.158.194.110)  169.494 ms  169.573 ms  169.559 ms
+ 8  207.231.240.21 (207.231.240.21)  162.890 ms  162.950 ms  162.940 ms
+ 9  clgr2rtr1.canarie.ca (205.189.32.175)  173.776 ms  173.819 ms  173.807 ms
+10  wnpg1rtr1.canarie.ca (205.189.32.177)  188.226 ms  188.218 ms  188.208 ms
+11  toro1rtr1.canarie.ca (205.189.32.181)  209.393 ms  209.443 ms  209.508 ms
+12  border3.orion.on.ca (205.189.32.42)  210.015 ms  210.534 ms  210.512 ms
+13  be201.p01-toro.orion.on.ca (66.97.16.21)  210.092 ms  209.981 ms  211.525 ms
+14  be107.pe01-otwa.orion.on.ca (66.97.16.54)  215.431 ms  215.456 ms  215.525 ms
+15  CARLETON-ORION-RNE.DIST1-OTWA.IP.orion.on.ca (66.97.23.142)  214.603 ms  214.670 ms  214.710 ms
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  saturn.planetlab.carleton.ca (134.117.226.180)  214.755 ms  214.831 ms  214.765 ms
+traceroute to saturn.planetlab.carleton.ca (134.117.226.180), 30 hops max, 60 byte packets
+ 1  156.62.231.241 (156.62.231.241)  0.898 ms  0.887 ms  0.870 ms
+ 2  210.7.38.49 (210.7.38.49)  1.112 ms  1.104 ms  1.092 ms
+ 3  et-1-2-0-202.pe1.wnpa.akl.aarnet.net.au (182.255.119.204)  1.763 ms  1.761 ms  1.739 ms
+ 4  et-2-0-0.pe1.msct.nsw.aarnet.net.au (113.197.15.76)  24.563 ms  24.606 ms  24.596 ms
+ 5  et-1-3-0-199.pe2.brwy.nsw.aarnet.net.au (113.197.15.78)  24.886 ms  24.994 ms  24.897 ms
+ 6  et-0-0-0.pe1.a.hnl.aarnet.net.au (113.197.15.99)  117.983 ms  118.365 ms  117.932 ms
+ 7  et-1-0-0.bb1.a.sea.aarnet.net.au (202.158.194.110)  169.495 ms  169.621 ms  169.610 ms
+ 8  207.231.240.21 (207.231.240.21)  175.432 ms  175.425 ms  175.416 ms
+ 9  clgr2rtr1.canarie.ca (205.189.32.175)  173.786 ms  173.817 ms  173.807 ms
+10  wnpg1rtr1.canarie.ca (205.189.32.177)  188.094 ms  188.124 ms  188.108 ms
+11  toro1rtr1.canarie.ca (205.189.32.181)  209.408 ms  209.417 ms  209.412 ms
+12  border3.orion.on.ca (205.189.32.42)  210.029 ms  209.870 ms  209.858 ms
+13  be201.p01-toro.orion.on.ca (66.97.16.21)  210.120 ms  210.019 ms  210.292 ms
+14  be107.pe01-otwa.orion.on.ca (66.97.16.54)  215.473 ms  215.460 ms  215.586 ms
+15  CARLETON-ORION-RNE.DIST1-OTWA.IP.orion.on.ca (66.97.23.142)  214.760 ms  214.855 ms  214.845 ms
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  saturn.planetlab.carleton.ca (134.117.226.180)  214.934 ms  214.987 ms  214.957 ms
+traceroute to saturn.planetlab.carleton.ca (134.117.226.180), 30 hops max, 60 byte packets
+ 1  156.62.231.241 (156.62.231.241)  0.905 ms  0.988 ms  0.977 ms
+ 2  210.7.38.49 (210.7.38.49)  1.110 ms  1.114 ms  1.098 ms
+ 3  et-1-2-0-202.pe1.wnpa.akl.aarnet.net.au (182.255.119.204)  1.763 ms  1.758 ms  1.734 ms
+ 4  et-2-0-0.pe1.msct.nsw.aarnet.net.au (113.197.15.76)  24.533 ms  24.595 ms  24.584 ms
+ 5  et-1-3-0-199.pe2.brwy.nsw.aarnet.net.au (113.197.15.78)  24.955 ms  24.937 ms  25.013 ms
+ 6  et-0-0-0.pe1.a.hnl.aarnet.net.au (113.197.15.99)  117.965 ms  117.960 ms  118.163 ms
+ 7  et-1-0-0.bb1.a.sea.aarnet.net.au (202.158.194.110)  169.442 ms  169.544 ms  169.723 ms
+ 8  207.231.240.21 (207.231.240.21)  162.944 ms  163.003 ms  162.993 ms
+ 9  clgr2rtr1.canarie.ca (205.189.32.175)  173.893 ms  173.822 ms  173.810 ms
+10  wnpg1rtr1.canarie.ca (205.189.32.177)  188.212 ms  188.201 ms  188.190 ms
+11  toro1rtr1.canarie.ca (205.189.32.181)  209.416 ms  209.436 ms  209.416 ms
+12  border3.orion.on.ca (205.189.32.42)  210.405 ms  210.509 ms  210.539 ms
+13  be201.p01-toro.orion.on.ca (66.97.16.21)  210.134 ms  210.040 ms  210.143 ms
+14  be107.pe01-otwa.orion.on.ca (66.97.16.54)  215.318 ms  215.279 ms  215.349 ms
+15  CARLETON-ORION-RNE.DIST1-OTWA.IP.orion.on.ca (66.97.23.142)  214.633 ms  214.730 ms  214.732 ms
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  saturn.planetlab.carleton.ca (134.117.226.180)  215.097 ms  214.949 ms  214.968 ms
+traceroute to saturn.planetlab.carleton.ca (134.117.226.180), 30 hops max, 60 byte packets
+ 1  156.62.231.241 (156.62.231.241)  0.866 ms  0.934 ms  0.919 ms
+ 2  210.7.38.49 (210.7.38.49)  1.096 ms  1.089 ms  1.076 ms
+ 3  et-1-2-0-202.pe1.wnpa.akl.aarnet.net.au (182.255.119.204)  1.769 ms  1.760 ms  1.747 ms
+ 4  et-2-0-0.pe1.msct.nsw.aarnet.net.au (113.197.15.76)  24.771 ms  24.896 ms  24.884 ms
+ 5  et-1-3-0-199.pe2.brwy.nsw.aarnet.net.au (113.197.15.78)  25.157 ms  25.166 ms  25.155 ms
+ 6  et-0-0-0.pe1.a.hnl.aarnet.net.au (113.197.15.99)  117.932 ms  117.950 ms  117.959 ms
+ 7  et-1-0-0.bb1.a.sea.aarnet.net.au (202.158.194.110)  169.444 ms  169.473 ms  169.738 ms
+ 8  207.231.240.21 (207.231.240.21)  162.989 ms  163.039 ms  163.027 ms
+ 9  clgr2rtr1.canarie.ca (205.189.32.175)  173.792 ms  173.793 ms  173.776 ms
+10  wnpg1rtr1.canarie.ca (205.189.32.177)  188.088 ms  188.123 ms  188.104 ms
+11  toro1rtr1.canarie.ca (205.189.32.181)  209.382 ms  209.394 ms  209.389 ms
+12  border3.orion.on.ca (205.189.32.42)  210.122 ms  210.064 ms  210.053 ms
+13  be201.p01-toro.orion.on.ca (66.97.16.21)  210.041 ms  210.230 ms  210.197 ms
+14  be107.pe01-otwa.orion.on.ca (66.97.16.54)  215.184 ms  215.369 ms  215.454 ms
+15  CARLETON-ORION-RNE.DIST1-OTWA.IP.orion.on.ca (66.97.23.142)  214.635 ms  214.699 ms  214.773 ms
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  saturn.planetlab.carleton.ca (134.117.226.180)  214.996 ms  214.964 ms  215.012 ms
+traceroute to saturn.planetlab.carleton.ca (134.117.226.180), 30 hops max, 60 byte packets
+ 1  156.62.231.241 (156.62.231.241)  0.893 ms  0.982 ms  0.971 ms
+ 2  210.7.38.49 (210.7.38.49)  1.090 ms  1.084 ms  1.072 ms
+ 3  et-1-2-0-202.pe1.wnpa.akl.aarnet.net.au (182.255.119.204)  1.703 ms  1.816 ms  1.714 ms
+ 4  et-2-0-0.pe1.msct.nsw.aarnet.net.au (113.197.15.76)  24.529 ms  24.625 ms  24.615 ms
+ 5  et-1-3-0-199.pe2.brwy.nsw.aarnet.net.au (113.197.15.78)  24.942 ms  24.939 ms  24.999 ms
+ 6  et-0-0-0.pe1.a.hnl.aarnet.net.au (113.197.15.99)  118.055 ms  118.482 ms  117.823 ms
+ 7  et-1-0-0.bb1.a.sea.aarnet.net.au (202.158.194.110)  169.506 ms  169.575 ms  169.568 ms
+ 8  207.231.240.21 (207.231.240.21)  162.992 ms  163.071 ms  163.060 ms
+ 9  clgr2rtr1.canarie.ca (205.189.32.175)  173.785 ms  173.811 ms  173.798 ms
+10  wnpg1rtr1.canarie.ca (205.189.32.177)  188.124 ms  188.078 ms  188.211 ms
+11  toro1rtr1.canarie.ca (205.189.32.181)  209.646 ms  209.570 ms  209.430 ms
+12  border3.orion.on.ca (205.189.32.42)  209.981 ms  210.245 ms  210.243 ms
+13  be201.p01-toro.orion.on.ca (66.97.16.21)  210.212 ms  210.216 ms  210.204 ms
+14  be107.pe01-otwa.orion.on.ca (66.97.16.54)  215.207 ms  214.914 ms  215.018 ms
+15  CARLETON-ORION-RNE.DIST1-OTWA.IP.orion.on.ca (66.97.23.142)  214.606 ms  214.650 ms  214.733 ms
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  saturn.planetlab.carleton.ca (134.117.226.180)  214.779 ms  214.837 ms  215.022 ms
+traceroute to saturn.planetlab.carleton.ca (134.117.226.180), 30 hops max, 60 byte packets
+ 1  156.62.231.241 (156.62.231.241)  0.893 ms  0.890 ms  0.880 ms
+ 2  210.7.38.49 (210.7.38.49)  1.082 ms  1.073 ms  1.062 ms
+ 3  et-1-2-0-202.pe1.wnpa.akl.aarnet.net.au (182.255.119.204)  1.779 ms  1.757 ms  1.735 ms
+ 4  et-2-0-0.pe1.msct.nsw.aarnet.net.au (113.197.15.76)  24.498 ms  24.599 ms  24.465 ms
+ 5  et-1-3-0-199.pe2.brwy.nsw.aarnet.net.au (113.197.15.78)  24.953 ms  24.939 ms  24.980 ms
+ 6  et-0-0-0.pe1.a.hnl.aarnet.net.au (113.197.15.99)  117.975 ms  117.921 ms  117.916 ms
+ 7  et-1-0-0.bb1.a.sea.aarnet.net.au (202.158.194.110)  169.440 ms  169.602 ms  169.488 ms
+ 8  207.231.240.21 (207.231.240.21)  162.961 ms  163.096 ms  163.081 ms
+ 9  clgr2rtr1.canarie.ca (205.189.32.175)  173.793 ms  183.277 ms  183.357 ms
+10  wnpg1rtr1.canarie.ca (205.189.32.177)  188.168 ms  188.121 ms  188.109 ms
+11  toro1rtr1.canarie.ca (205.189.32.181)  209.395 ms  209.401 ms  209.744 ms
+12  border3.orion.on.ca (205.189.32.42)  210.054 ms  210.366 ms  210.294 ms
+13  be201.p01-toro.orion.on.ca (66.97.16.21)  210.257 ms  211.408 ms  211.393 ms
+14  be107.pe01-otwa.orion.on.ca (66.97.16.54)  215.368 ms  214.958 ms  214.988 ms
+15  CARLETON-ORION-RNE.DIST1-OTWA.IP.orion.on.ca (66.97.23.142)  214.604 ms  214.683 ms  214.721 ms
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  saturn.planetlab.carleton.ca (134.117.226.180)  214.863 ms  214.937 ms  214.796 ms
+traceroute to saturn.planetlab.carleton.ca (134.117.226.180), 30 hops max, 60 byte packets
+ 1  156.62.231.241 (156.62.231.241)  0.903 ms  0.976 ms  0.959 ms
+ 2  210.7.38.49 (210.7.38.49)  1.094 ms  1.094 ms  1.076 ms
+ 3  et-1-2-0-202.pe1.wnpa.akl.aarnet.net.au (182.255.119.204)  1.761 ms  1.753 ms  1.742 ms
+ 4  et-2-0-0.pe1.msct.nsw.aarnet.net.au (113.197.15.76)  24.593 ms  24.727 ms  24.716 ms
+ 5  et-1-3-0-199.pe2.brwy.nsw.aarnet.net.au (113.197.15.78)  24.895 ms  24.903 ms  24.864 ms
+ 6  et-0-0-0.pe1.a.hnl.aarnet.net.au (113.197.15.99)  117.959 ms  117.962 ms  117.949 ms
+ 7  et-1-0-0.bb1.a.sea.aarnet.net.au (202.158.194.110)  169.422 ms  169.468 ms  169.456 ms
+ 8  207.231.240.21 (207.231.240.21)  162.935 ms  162.926 ms  162.915 ms
+ 9  clgr2rtr1.canarie.ca (205.189.32.175)  173.839 ms  173.888 ms  173.878 ms
+10  wnpg1rtr1.canarie.ca (205.189.32.177)  188.113 ms  188.121 ms  188.106 ms
+11  toro1rtr1.canarie.ca (205.189.32.181)  209.435 ms  211.393 ms  211.379 ms
+12  border3.orion.on.ca (205.189.32.42)  210.230 ms  210.231 ms  210.285 ms
+13  be201.p01-toro.orion.on.ca (66.97.16.21)  210.194 ms  210.487 ms  210.628 ms
+14  be107.pe01-otwa.orion.on.ca (66.97.16.54)  215.426 ms  215.415 ms  215.178 ms
+15  CARLETON-ORION-RNE.DIST1-OTWA.IP.orion.on.ca (66.97.23.142)  214.634 ms  214.687 ms  214.759 ms
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  saturn.planetlab.carleton.ca (134.117.226.180)  214.765 ms  214.836 ms  214.825 ms
+traceroute to saturn.planetlab.carleton.ca (134.117.226.180), 30 hops max, 60 byte packets
+ 1  156.62.231.241 (156.62.231.241)  0.881 ms  0.868 ms  0.855 ms
+ 2  210.7.38.49 (210.7.38.49)  1.119 ms  1.116 ms  1.105 ms
+ 3  et-1-2-0-202.pe1.wnpa.akl.aarnet.net.au (182.255.119.204)  1.766 ms  1.758 ms  1.742 ms
+ 4  et-2-0-0.pe1.msct.nsw.aarnet.net.au (113.197.15.76)  24.551 ms  24.613 ms  24.604 ms
+ 5  et-1-3-0-199.pe2.brwy.nsw.aarnet.net.au (113.197.15.78)  24.946 ms  24.943 ms  25.008 ms
+ 6  et-0-0-0.pe1.a.hnl.aarnet.net.au (113.197.15.99)  118.006 ms  117.931 ms  117.939 ms
+ 7  et-1-0-0.bb1.a.sea.aarnet.net.au (202.158.194.110)  169.440 ms  169.526 ms  169.420 ms
+ 8  207.231.240.21 (207.231.240.21)  162.900 ms  163.027 ms  163.017 ms
+ 9  clgr2rtr1.canarie.ca (205.189.32.175)  173.800 ms  173.787 ms  173.773 ms
+10  wnpg1rtr1.canarie.ca (205.189.32.177)  188.130 ms  188.130 ms  188.120 ms
+11  toro1rtr1.canarie.ca (205.189.32.181)  209.418 ms  209.429 ms  209.450 ms
+12  border3.orion.on.ca (205.189.32.42)  210.103 ms  210.069 ms  210.099 ms
+13  be201.p01-toro.orion.on.ca (66.97.16.21)  210.030 ms  210.091 ms  210.151 ms
+14  be107.pe01-otwa.orion.on.ca (66.97.16.54)  215.234 ms  215.310 ms  215.390 ms
+15  CARLETON-ORION-RNE.DIST1-OTWA.IP.orion.on.ca (66.97.23.142)  214.640 ms  214.735 ms  214.762 ms
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  saturn.planetlab.carleton.ca (134.117.226.180)  214.800 ms  214.881 ms  214.745 ms
+traceroute to saturn.planetlab.carleton.ca (134.117.226.180), 30 hops max, 60 byte packets
+ 1  156.62.231.241 (156.62.231.241)  0.894 ms  0.929 ms  0.918 ms
+ 2  210.7.38.49 (210.7.38.49)  1.098 ms  1.105 ms  1.092 ms
+ 3  et-1-2-0-202.pe1.wnpa.akl.aarnet.net.au (182.255.119.204)  1.785 ms  1.775 ms  1.759 ms
+ 4  et-2-0-0.pe1.msct.nsw.aarnet.net.au (113.197.15.76)  24.570 ms  24.649 ms  24.639 ms
+ 5  et-1-3-0-199.pe2.brwy.nsw.aarnet.net.au (113.197.15.78)  24.953 ms  24.948 ms  24.977 ms
+ 6  et-0-0-0.pe1.a.hnl.aarnet.net.au (113.197.15.99)  117.991 ms  117.921 ms  117.916 ms
+ 7  et-1-0-0.bb1.a.sea.aarnet.net.au (202.158.194.110)  169.479 ms  169.554 ms  169.539 ms
+ 8  207.231.240.21 (207.231.240.21)  162.895 ms  162.972 ms  162.957 ms
+ 9  clgr2rtr1.canarie.ca (205.189.32.175)  173.889 ms  173.809 ms  173.796 ms
+10  wnpg1rtr1.canarie.ca (205.189.32.177)  188.174 ms  188.171 ms  188.161 ms
+11  toro1rtr1.canarie.ca (205.189.32.181)  209.480 ms  209.408 ms  209.364 ms
+12  border3.orion.on.ca (205.189.32.42)  210.183 ms  210.139 ms  210.122 ms
+13  be201.p01-toro.orion.on.ca (66.97.16.21)  210.091 ms  210.243 ms  210.288 ms
+14  be107.pe01-otwa.orion.on.ca (66.97.16.54)  214.993 ms  215.407 ms  215.481 ms
+15  CARLETON-ORION-RNE.DIST1-OTWA.IP.orion.on.ca (66.97.23.142)  214.647 ms  214.723 ms  214.753 ms
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  saturn.planetlab.carleton.ca (134.117.226.180)  214.766 ms  214.834 ms  214.777 ms
+traceroute to saturn.planetlab.carleton.ca (134.117.226.180), 30 hops max, 60 byte packets
+ 1  156.62.231.241 (156.62.231.241)  0.865 ms  1.102 ms  1.092 ms
+ 2  210.7.38.49 (210.7.38.49)  1.075 ms  1.060 ms  1.048 ms
+ 3  et-1-2-0-202.pe1.wnpa.akl.aarnet.net.au (182.255.119.204)  1.764 ms  1.762 ms  1.751 ms
+ 4  et-2-0-0.pe1.msct.nsw.aarnet.net.au (113.197.15.76)  24.617 ms  24.688 ms  24.679 ms
+ 5  et-1-3-0-199.pe2.brwy.nsw.aarnet.net.au (113.197.15.78)  25.822 ms  26.904 ms  26.807 ms
+ 6  et-0-0-0.pe1.a.hnl.aarnet.net.au (113.197.15.99)  117.958 ms  117.920 ms  117.922 ms
+ 7  et-1-0-0.bb1.a.sea.aarnet.net.au (202.158.194.110)  169.491 ms  169.619 ms  169.610 ms
+ 8  207.231.240.21 (207.231.240.21)  162.913 ms  163.055 ms  163.044 ms
+ 9  clgr2rtr1.canarie.ca (205.189.32.175)  173.831 ms  173.803 ms  173.787 ms
+10  wnpg1rtr1.canarie.ca (205.189.32.177)  199.929 ms  198.184 ms  198.149 ms
+11  toro1rtr1.canarie.ca (205.189.32.181)  209.396 ms  209.397 ms  209.380 ms
+12  border3.orion.on.ca (205.189.32.42)  209.980 ms  210.816 ms  210.805 ms
+13  be201.p01-toro.orion.on.ca (66.97.16.21)  211.455 ms  210.252 ms  210.291 ms
+14  be107.pe01-otwa.orion.on.ca (66.97.16.54)  215.382 ms  215.321 ms  215.385 ms
+15  CARLETON-ORION-RNE.DIST1-OTWA.IP.orion.on.ca (66.97.23.142)  214.611 ms  214.705 ms  214.730 ms
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  saturn.planetlab.carleton.ca (134.117.226.180)  215.024 ms  215.033 ms  215.018 ms
+traceroute to saturn.planetlab.carleton.ca (134.117.226.180), 30 hops max, 60 byte packets
+ 1  156.62.231.241 (156.62.231.241)  0.868 ms  0.938 ms  0.927 ms
+ 2  210.7.38.49 (210.7.38.49)  1.070 ms  1.062 ms  1.051 ms
+ 3  et-1-2-0-202.pe1.wnpa.akl.aarnet.net.au (182.255.119.204)  1.761 ms  1.751 ms  1.735 ms
+ 4  et-2-0-0.pe1.msct.nsw.aarnet.net.au (113.197.15.76)  24.555 ms  24.645 ms  24.619 ms
+ 5  et-1-3-0-199.pe2.brwy.nsw.aarnet.net.au (113.197.15.78)  24.957 ms  24.933 ms  24.966 ms
+ 6  et-0-0-0.pe1.a.hnl.aarnet.net.au (113.197.15.99)  117.939 ms  117.958 ms  117.934 ms
+ 7  et-1-0-0.bb1.a.sea.aarnet.net.au (202.158.194.110)  169.507 ms  169.584 ms  169.570 ms
+ 8  207.231.240.21 (207.231.240.21)  162.897 ms  162.977 ms  162.956 ms
+ 9  clgr2rtr1.canarie.ca (205.189.32.175)  173.829 ms  173.937 ms  173.927 ms
+10  wnpg1rtr1.canarie.ca (205.189.32.177)  188.173 ms  188.167 ms  188.156 ms
+11  toro1rtr1.canarie.ca (205.189.32.181)  209.618 ms  209.645 ms  209.565 ms
+12  border3.orion.on.ca (205.189.32.42)  209.993 ms  209.770 ms  209.843 ms
+13  be201.p01-toro.orion.on.ca (66.97.16.21)  210.184 ms  210.514 ms  210.654 ms
+14  be107.pe01-otwa.orion.on.ca (66.97.16.54)  215.579 ms  215.376 ms  215.436 ms
+15  CARLETON-ORION-RNE.DIST1-OTWA.IP.orion.on.ca (66.97.23.142)  214.816 ms  214.877 ms  214.867 ms
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  saturn.planetlab.carleton.ca (134.117.226.180)  214.764 ms  214.824 ms  214.765 ms
+traceroute to saturn.planetlab.carleton.ca (134.117.226.180), 30 hops max, 60 byte packets
+ 1  156.62.231.241 (156.62.231.241)  0.898 ms  0.934 ms  0.922 ms
+ 2  210.7.38.49 (210.7.38.49)  1.108 ms  1.111 ms  1.098 ms
+ 3  et-1-2-0-202.pe1.wnpa.akl.aarnet.net.au (182.255.119.204)  1.756 ms  1.749 ms  1.737 ms
+ 4  et-2-0-0.pe1.msct.nsw.aarnet.net.au (113.197.15.76)  24.766 ms  24.839 ms  24.830 ms
+ 5  et-1-3-0-199.pe2.brwy.nsw.aarnet.net.au (113.197.15.78)  25.131 ms  25.126 ms  25.108 ms
+ 6  et-0-0-0.pe1.a.hnl.aarnet.net.au (113.197.15.99)  117.944 ms  117.940 ms  117.928 ms
+ 7  et-1-0-0.bb1.a.sea.aarnet.net.au (202.158.194.110)  169.487 ms  169.564 ms  169.552 ms
+ 8  207.231.240.21 (207.231.240.21)  162.879 ms  162.970 ms  162.961 ms
+ 9  clgr2rtr1.canarie.ca (205.189.32.175)  173.809 ms  173.791 ms  173.779 ms
+10  wnpg1rtr1.canarie.ca (205.189.32.177)  188.463 ms  188.711 ms  188.742 ms
+11  toro1rtr1.canarie.ca (205.189.32.181)  209.523 ms  209.388 ms  209.385 ms
+12  border3.orion.on.ca (205.189.32.42)  210.201 ms  210.214 ms  210.207 ms
+13  be201.p01-toro.orion.on.ca (66.97.16.21)  210.187 ms  210.337 ms  210.325 ms
+14  be107.pe01-otwa.orion.on.ca (66.97.16.54)  215.433 ms  215.502 ms  215.576 ms
+15  CARLETON-ORION-RNE.DIST1-OTWA.IP.orion.on.ca (66.97.23.142)  214.632 ms  214.728 ms  214.762 ms
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  saturn.planetlab.carleton.ca (134.117.226.180)  214.882 ms  214.975 ms  214.986 ms
+traceroute to saturn.planetlab.carleton.ca (134.117.226.180), 30 hops max, 60 byte packets
+ 1  156.62.231.241 (156.62.231.241)  0.897 ms  0.984 ms  0.975 ms
+ 2  210.7.38.49 (210.7.38.49)  1.086 ms  1.079 ms  1.068 ms
+ 3  et-1-2-0-202.pe1.wnpa.akl.aarnet.net.au (182.255.119.204)  1.777 ms  1.772 ms  1.761 ms
+ 4  et-2-0-0.pe1.msct.nsw.aarnet.net.au (113.197.15.76)  24.684 ms  24.604 ms  24.593 ms
+ 5  et-1-3-0-199.pe2.brwy.nsw.aarnet.net.au (113.197.15.78)  24.927 ms  24.918 ms  24.947 ms
+ 6  et-0-0-0.pe1.a.hnl.aarnet.net.au (113.197.15.99)  117.935 ms  117.969 ms  117.960 ms
+ 7  et-1-0-0.bb1.a.sea.aarnet.net.au (202.158.194.110)  169.447 ms  169.575 ms  169.536 ms
+ 8  207.231.240.21 (207.231.240.21)  162.880 ms  163.052 ms  163.043 ms
+ 9  clgr2rtr1.canarie.ca (205.189.32.175)  173.759 ms  173.889 ms  173.877 ms
+10  wnpg1rtr1.canarie.ca (205.189.32.177)  188.197 ms  188.193 ms  188.182 ms
+11  toro1rtr1.canarie.ca (205.189.32.181)  209.407 ms  209.408 ms  209.404 ms
+12  border3.orion.on.ca (205.189.32.42)  210.074 ms  210.111 ms  210.156 ms
+13  be201.p01-toro.orion.on.ca (66.97.16.21)  210.059 ms  209.912 ms  210.013 ms
+14  be107.pe01-otwa.orion.on.ca (66.97.16.54)  215.246 ms  214.956 ms  215.082 ms
+15  CARLETON-ORION-RNE.DIST1-OTWA.IP.orion.on.ca (66.97.23.142)  214.628 ms  214.716 ms  214.744 ms
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  saturn.planetlab.carleton.ca (134.117.226.180)  214.856 ms  214.926 ms  214.792 ms
+traceroute to saturn.planetlab.carleton.ca (134.117.226.180), 30 hops max, 60 byte packets
+ 1  156.62.231.241 (156.62.231.241)  0.876 ms  1.042 ms  1.037 ms
+ 2  210.7.38.49 (210.7.38.49)  1.110 ms  1.101 ms  1.091 ms
+ 3  et-1-2-0-202.pe1.wnpa.akl.aarnet.net.au (182.255.119.204)  1.736 ms  1.731 ms  1.720 ms
+ 4  et-2-0-0.pe1.msct.nsw.aarnet.net.au (113.197.15.76)  25.169 ms  25.103 ms  25.090 ms
+ 5  et-1-3-0-199.pe2.brwy.nsw.aarnet.net.au (113.197.15.78)  24.956 ms  25.036 ms  25.031 ms
+ 6  et-0-0-0.pe1.a.hnl.aarnet.net.au (113.197.15.99)  117.924 ms  117.931 ms  117.913 ms
+ 7  et-1-0-0.bb1.a.sea.aarnet.net.au (202.158.194.110)  169.564 ms  169.578 ms  169.568 ms
+ 8  207.231.240.21 (207.231.240.21)  162.918 ms  162.984 ms  162.971 ms
+ 9  clgr2rtr1.canarie.ca (205.189.32.175)  173.787 ms  173.888 ms  173.876 ms
+10  wnpg1rtr1.canarie.ca (205.189.32.177)  188.152 ms  188.146 ms  188.122 ms
+11  toro1rtr1.canarie.ca (205.189.32.181)  209.460 ms  209.401 ms  209.376 ms
+12  border3.orion.on.ca (205.189.32.42)  210.019 ms  210.128 ms  210.110 ms
+13  be201.p01-toro.orion.on.ca (66.97.16.21)  210.441 ms  210.250 ms  210.428 ms
+14  be107.pe01-otwa.orion.on.ca (66.97.16.54)  215.611 ms  215.213 ms  215.281 ms
+15  CARLETON-ORION-RNE.DIST1-OTWA.IP.orion.on.ca (66.97.23.142)  214.750 ms  214.828 ms  214.860 ms
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  saturn.planetlab.carleton.ca (134.117.226.180)  214.770 ms  214.851 ms  214.805 ms
+traceroute to saturn.planetlab.carleton.ca (134.117.226.180), 30 hops max, 60 byte packets
+ 1  156.62.231.241 (156.62.231.241)  0.887 ms  0.960 ms  0.946 ms
+ 2  210.7.38.49 (210.7.38.49)  1.093 ms  1.088 ms  1.076 ms
+ 3  et-1-2-0-202.pe1.wnpa.akl.aarnet.net.au (182.255.119.204)  1.779 ms  1.770 ms  1.758 ms
+ 4  et-2-0-0.pe1.msct.nsw.aarnet.net.au (113.197.15.76)  24.537 ms  24.628 ms  24.616 ms
+ 5  et-1-3-0-199.pe2.brwy.nsw.aarnet.net.au (113.197.15.78)  25.139 ms  25.130 ms  25.119 ms
+ 6  et-0-0-0.pe1.a.hnl.aarnet.net.au (113.197.15.99)  117.952 ms  117.977 ms  118.163 ms
+ 7  et-1-0-0.bb1.a.sea.aarnet.net.au (202.158.194.110)  169.453 ms  169.442 ms  169.623 ms
+ 8  207.231.240.21 (207.231.240.21)  162.903 ms  163.047 ms  162.933 ms
+ 9  clgr2rtr1.canarie.ca (205.189.32.175)  173.820 ms  173.858 ms  173.846 ms
+10  wnpg1rtr1.canarie.ca (205.189.32.177)  188.255 ms  188.251 ms  188.240 ms
+11  toro1rtr1.canarie.ca (205.189.32.181)  209.469 ms  209.430 ms  209.459 ms
+12  border3.orion.on.ca (205.189.32.42)  210.042 ms  210.046 ms  210.167 ms
+13  be201.p01-toro.orion.on.ca (66.97.16.21)  210.144 ms  210.185 ms  210.274 ms
+14  be107.pe01-otwa.orion.on.ca (66.97.16.54)  214.989 ms  215.697 ms  215.682 ms
+15  CARLETON-ORION-RNE.DIST1-OTWA.IP.orion.on.ca (66.97.23.142)  214.787 ms  214.877 ms  214.867 ms
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  saturn.planetlab.carleton.ca (134.117.226.180)  214.924 ms  214.799 ms  214.772 ms
+traceroute to saturn.planetlab.carleton.ca (134.117.226.180), 30 hops max, 60 byte packets
+ 1  156.62.231.241 (156.62.231.241)  0.871 ms  0.984 ms  0.972 ms
+ 2  210.7.38.49 (210.7.38.49)  1.247 ms  1.246 ms  1.233 ms
+ 3  et-1-2-0-202.pe1.wnpa.akl.aarnet.net.au (182.255.119.204)  1.779 ms  1.772 ms  1.762 ms
+ 4  et-2-0-0.pe1.msct.nsw.aarnet.net.au (113.197.15.76)  24.545 ms  24.607 ms  24.598 ms
+ 5  et-1-3-0-199.pe2.brwy.nsw.aarnet.net.au (113.197.15.78)  24.953 ms  24.939 ms  25.008 ms
+ 6  et-0-0-0.pe1.a.hnl.aarnet.net.au (113.197.15.99)  117.946 ms  125.051 ms  121.701 ms
+ 7  et-1-0-0.bb1.a.sea.aarnet.net.au (202.158.194.110)  169.527 ms  169.615 ms  169.607 ms
+ 8  207.231.240.21 (207.231.240.21)  162.970 ms  163.029 ms  163.014 ms
+ 9  clgr2rtr1.canarie.ca (205.189.32.175)  173.771 ms  173.839 ms  173.828 ms
+10  wnpg1rtr1.canarie.ca (205.189.32.177)  199.833 ms  199.866 ms  199.856 ms
+11  toro1rtr1.canarie.ca (205.189.32.181)  218.845 ms  209.485 ms  209.408 ms
+12  border3.orion.on.ca (205.189.32.42)  210.424 ms  210.081 ms  210.055 ms
+13  be201.p01-toro.orion.on.ca (66.97.16.21)  210.177 ms  210.162 ms  210.200 ms
+14  be107.pe01-otwa.orion.on.ca (66.97.16.54)  215.291 ms  215.291 ms  215.359 ms
+15  CARLETON-ORION-RNE.DIST1-OTWA.IP.orion.on.ca (66.97.23.142)  214.641 ms  214.725 ms  214.763 ms
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  saturn.planetlab.carleton.ca (134.117.226.180)  214.743 ms  214.826 ms  214.757 ms
+traceroute to saturn.planetlab.carleton.ca (134.117.226.180), 30 hops max, 60 byte packets
+ 1  156.62.231.241 (156.62.231.241)  0.897 ms  0.988 ms  0.976 ms
+ 2  210.7.38.49 (210.7.38.49)  1.103 ms  1.098 ms  1.086 ms
+ 3  et-1-2-0-202.pe1.wnpa.akl.aarnet.net.au (182.255.119.204)  1.794 ms  1.788 ms  1.771 ms
+ 4  et-2-0-0.pe1.msct.nsw.aarnet.net.au (113.197.15.76)  24.569 ms  24.608 ms  24.596 ms
+ 5  et-1-3-0-199.pe2.brwy.nsw.aarnet.net.au (113.197.15.78)  24.955 ms  24.947 ms  25.016 ms
+ 6  et-0-0-0.pe1.a.hnl.aarnet.net.au (113.197.15.99)  117.985 ms  117.951 ms  117.936 ms
+ 7  et-1-0-0.bb1.a.sea.aarnet.net.au (202.158.194.110)  169.500 ms  169.575 ms  169.556 ms
+ 8  207.231.240.21 (207.231.240.21)  163.014 ms  162.908 ms  162.985 ms
+ 9  clgr2rtr1.canarie.ca (205.189.32.175)  173.892 ms  173.820 ms  173.848 ms
+10  wnpg1rtr1.canarie.ca (205.189.32.177)  188.332 ms  188.327 ms  188.317 ms
+11  toro1rtr1.canarie.ca (205.189.32.181)  209.477 ms  209.362 ms  209.366 ms
+12  border3.orion.on.ca (205.189.32.42)  210.235 ms  210.322 ms  210.304 ms
+13  be201.p01-toro.orion.on.ca (66.97.16.21)  210.057 ms  210.217 ms  210.280 ms
+14  be107.pe01-otwa.orion.on.ca (66.97.16.54)  215.379 ms  215.139 ms  215.116 ms
+15  CARLETON-ORION-RNE.DIST1-OTWA.IP.orion.on.ca (66.97.23.142)  214.600 ms  214.652 ms  214.735 ms
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  saturn.planetlab.carleton.ca (134.117.226.180)  214.962 ms  214.838 ms  214.935 ms
+traceroute to saturn.planetlab.carleton.ca (134.117.226.180), 30 hops max, 60 byte packets
+ 1  156.62.231.241 (156.62.231.241)  0.899 ms  1.006 ms  0.996 ms
+ 2  210.7.38.49 (210.7.38.49)  1.075 ms  1.061 ms  1.051 ms
+ 3  et-1-2-0-202.pe1.wnpa.akl.aarnet.net.au (182.255.119.204)  3.639 ms  3.630 ms  3.613 ms
+ 4  et-2-0-0.pe1.msct.nsw.aarnet.net.au (113.197.15.76)  24.554 ms  24.618 ms  24.608 ms
+ 5  et-1-3-0-199.pe2.brwy.nsw.aarnet.net.au (113.197.15.78)  24.942 ms  24.929 ms  24.963 ms
+ 6  et-0-0-0.pe1.a.hnl.aarnet.net.au (113.197.15.99)  118.003 ms  117.926 ms  117.919 ms
+ 7  et-1-0-0.bb1.a.sea.aarnet.net.au (202.158.194.110)  169.502 ms  169.561 ms  169.552 ms
+ 8  207.231.240.21 (207.231.240.21)  162.858 ms  162.899 ms  162.985 ms
+ 9  clgr2rtr1.canarie.ca (205.189.32.175)  173.778 ms  173.818 ms  173.808 ms
+10  wnpg1rtr1.canarie.ca (205.189.32.177)  188.247 ms  188.242 ms  188.225 ms
+11  toro1rtr1.canarie.ca (205.189.32.181)  209.410 ms  209.408 ms  209.370 ms
+12  border3.orion.on.ca (205.189.32.42)  209.993 ms  210.028 ms  209.920 ms
+13  be201.p01-toro.orion.on.ca (66.97.16.21)  210.122 ms  209.933 ms  209.863 ms
+14  be107.pe01-otwa.orion.on.ca (66.97.16.54)  215.321 ms  215.311 ms  215.393 ms
+15  CARLETON-ORION-RNE.DIST1-OTWA.IP.orion.on.ca (66.97.23.142)  214.629 ms  214.715 ms  214.707 ms
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  saturn.planetlab.carleton.ca (134.117.226.180)  214.771 ms  214.826 ms  214.757 ms
+traceroute to saturn.planetlab.carleton.ca (134.117.226.180), 30 hops max, 60 byte packets
+ 1  156.62.231.241 (156.62.231.241)  0.901 ms  0.937 ms  0.924 ms
+ 2  210.7.38.49 (210.7.38.49)  1.150 ms  1.141 ms  1.128 ms
+ 3  et-1-2-0-202.pe1.wnpa.akl.aarnet.net.au (182.255.119.204)  1.770 ms  1.760 ms  1.748 ms
+ 4  et-2-0-0.pe1.msct.nsw.aarnet.net.au (113.197.15.76)  24.669 ms  24.760 ms  24.739 ms
+ 5  et-1-3-0-199.pe2.brwy.nsw.aarnet.net.au (113.197.15.78)  24.951 ms  24.954 ms  24.999 ms
+ 6  et-0-0-0.pe1.a.hnl.aarnet.net.au (113.197.15.99)  117.941 ms  117.919 ms  117.919 ms
+ 7  et-1-0-0.bb1.a.sea.aarnet.net.au (202.158.194.110)  169.494 ms  169.661 ms  169.646 ms
+ 8  207.231.240.21 (207.231.240.21)  162.976 ms  163.073 ms  163.064 ms
+ 9  clgr2rtr1.canarie.ca (205.189.32.175)  173.836 ms  173.805 ms  173.793 ms
+10  wnpg1rtr1.canarie.ca (205.189.32.177)  188.171 ms  188.157 ms  188.146 ms
+11  toro1rtr1.canarie.ca (205.189.32.181)  209.483 ms  209.448 ms  209.419 ms
+12  border3.orion.on.ca (205.189.32.42)  210.365 ms  210.095 ms  210.129 ms
+13  be201.p01-toro.orion.on.ca (66.97.16.21)  210.204 ms  211.363 ms  211.415 ms
+14  be107.pe01-otwa.orion.on.ca (66.97.16.54)  215.434 ms  215.381 ms  215.462 ms
+15  CARLETON-ORION-RNE.DIST1-OTWA.IP.orion.on.ca (66.97.23.142)  214.717 ms  214.635 ms  214.779 ms
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  saturn.planetlab.carleton.ca (134.117.226.180)  214.814 ms  214.910 ms  214.902 ms
+traceroute to saturn.planetlab.carleton.ca (134.117.226.180), 30 hops max, 60 byte packets
+ 1  156.62.231.241 (156.62.231.241)  0.902 ms  0.895 ms  0.883 ms
+ 2  210.7.38.49 (210.7.38.49)  1.860 ms  1.851 ms  1.840 ms
+ 3  et-1-2-0-202.pe1.wnpa.akl.aarnet.net.au (182.255.119.204)  1.765 ms  1.752 ms  1.737 ms
+ 4  et-2-0-0.pe1.msct.nsw.aarnet.net.au (113.197.15.76)  24.585 ms  24.644 ms  24.634 ms
+ 5  et-1-3-0-199.pe2.brwy.nsw.aarnet.net.au (113.197.15.78)  24.934 ms  24.920 ms  24.963 ms
+ 6  et-0-0-0.pe1.a.hnl.aarnet.net.au (113.197.15.99)  118.049 ms  117.969 ms  118.101 ms
+ 7  et-1-0-0.bb1.a.sea.aarnet.net.au (202.158.194.110)  169.705 ms  169.701 ms  169.684 ms
+ 8  207.231.240.21 (207.231.240.21)  162.931 ms  162.985 ms  162.975 ms
+ 9  clgr2rtr1.canarie.ca (205.189.32.175)  173.831 ms  173.846 ms  173.833 ms
+10  wnpg1rtr1.canarie.ca (205.189.32.177)  188.236 ms  188.230 ms  188.218 ms
+11  toro1rtr1.canarie.ca (205.189.32.181)  209.519 ms  209.452 ms  209.371 ms
+12  border3.orion.on.ca (205.189.32.42)  210.235 ms  209.947 ms  209.933 ms
+13  be201.p01-toro.orion.on.ca (66.97.16.21)  210.124 ms  210.182 ms  210.214 ms
+14  be107.pe01-otwa.orion.on.ca (66.97.16.54)  215.191 ms  215.315 ms  215.373 ms
+15  CARLETON-ORION-RNE.DIST1-OTWA.IP.orion.on.ca (66.97.23.142)  214.620 ms  214.692 ms  214.774 ms
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  saturn.planetlab.carleton.ca (134.117.226.180)  214.960 ms  215.020 ms  215.011 ms
+traceroute to saturn.planetlab.carleton.ca (134.117.226.180), 30 hops max, 60 byte packets
+ 1  156.62.231.241 (156.62.231.241)  0.908 ms  1.023 ms  1.013 ms
+ 2  210.7.38.49 (210.7.38.49)  1.106 ms  1.100 ms  1.088 ms
+ 3  et-1-2-0-202.pe1.wnpa.akl.aarnet.net.au (182.255.119.204)  1.775 ms  1.767 ms  1.755 ms
+ 4  et-2-0-0.pe1.msct.nsw.aarnet.net.au (113.197.15.76)  24.657 ms  24.646 ms  24.635 ms
+ 5  et-1-3-0-199.pe2.brwy.nsw.aarnet.net.au (113.197.15.78)  24.953 ms  24.922 ms  24.875 ms
+ 6  et-0-0-0.pe1.a.hnl.aarnet.net.au (113.197.15.99)  117.965 ms  117.920 ms  117.943 ms
+ 7  et-1-0-0.bb1.a.sea.aarnet.net.au (202.158.194.110)  169.525 ms  169.608 ms  169.594 ms
+ 8  207.231.240.21 (207.231.240.21)  163.044 ms  163.109 ms  163.099 ms
+ 9  clgr2rtr1.canarie.ca (205.189.32.175)  173.754 ms  174.062 ms  174.051 ms
+10  wnpg1rtr1.canarie.ca (205.189.32.177)  188.144 ms  188.265 ms  188.255 ms
+11  toro1rtr1.canarie.ca (205.189.32.181)  209.636 ms  209.571 ms  209.556 ms
+12  border3.orion.on.ca (205.189.32.42)  210.402 ms  210.001 ms  209.973 ms
+13  be201.p01-toro.orion.on.ca (66.97.16.21)  210.369 ms  210.102 ms  210.179 ms
+14  be107.pe01-otwa.orion.on.ca (66.97.16.54)  215.757 ms  215.727 ms  215.397 ms
+15  CARLETON-ORION-RNE.DIST1-OTWA.IP.orion.on.ca (66.97.23.142)  214.621 ms  214.687 ms  214.730 ms
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  saturn.planetlab.carleton.ca (134.117.226.180)  214.942 ms  214.966 ms  214.949 ms
+traceroute to saturn.planetlab.carleton.ca (134.117.226.180), 30 hops max, 60 byte packets
+ 1  156.62.231.241 (156.62.231.241)  0.903 ms  1.040 ms  1.026 ms
+ 2  210.7.38.49 (210.7.38.49)  1.145 ms  1.144 ms  1.131 ms
+ 3  et-1-2-0-202.pe1.wnpa.akl.aarnet.net.au (182.255.119.204)  1.781 ms  1.768 ms  1.757 ms
+ 4  et-2-0-0.pe1.msct.nsw.aarnet.net.au (113.197.15.76)  24.538 ms  24.617 ms  24.607 ms
+ 5  et-1-3-0-199.pe2.brwy.nsw.aarnet.net.au (113.197.15.78)  24.876 ms  24.858 ms  24.931 ms
+ 6  et-0-0-0.pe1.a.hnl.aarnet.net.au (113.197.15.99)  117.950 ms  117.969 ms  117.958 ms
+ 7  et-1-0-0.bb1.a.sea.aarnet.net.au (202.158.194.110)  169.594 ms  169.676 ms  169.662 ms
+ 8  207.231.240.21 (207.231.240.21)  162.943 ms  163.141 ms  163.120 ms
+ 9  clgr2rtr1.canarie.ca (205.189.32.175)  173.772 ms  173.824 ms  173.812 ms
+10  wnpg1rtr1.canarie.ca (205.189.32.177)  188.254 ms  188.248 ms  188.238 ms
+11  toro1rtr1.canarie.ca (205.189.32.181)  209.441 ms  209.448 ms  209.436 ms
+12  border3.orion.on.ca (205.189.32.42)  209.941 ms  210.091 ms  210.137 ms
+13  be201.p01-toro.orion.on.ca (66.97.16.21)  210.196 ms  210.739 ms  210.586 ms
+14  be107.pe01-otwa.orion.on.ca (66.97.16.54)  215.509 ms  215.562 ms  215.551 ms
+15  CARLETON-ORION-RNE.DIST1-OTWA.IP.orion.on.ca (66.97.23.142)  214.634 ms  214.786 ms  214.671 ms
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  saturn.planetlab.carleton.ca (134.117.226.180)  214.896 ms  214.769 ms  214.859 ms
+traceroute to saturn.planetlab.carleton.ca (134.117.226.180), 30 hops max, 60 byte packets
+ 1  156.62.231.241 (156.62.231.241)  0.902 ms  0.973 ms  0.962 ms
+ 2  210.7.38.49 (210.7.38.49)  1.095 ms  1.086 ms  1.073 ms
+ 3  et-1-2-0-202.pe1.wnpa.akl.aarnet.net.au (182.255.119.204)  1.794 ms  1.786 ms  1.770 ms
+ 4  et-2-0-0.pe1.msct.nsw.aarnet.net.au (113.197.15.76)  24.586 ms  24.673 ms  24.665 ms
+ 5  et-1-3-0-199.pe2.brwy.nsw.aarnet.net.au (113.197.15.78)  24.918 ms  24.882 ms  24.870 ms
+ 6  et-0-0-0.pe1.a.hnl.aarnet.net.au (113.197.15.99)  117.940 ms  117.928 ms  117.937 ms
+ 7  et-1-0-0.bb1.a.sea.aarnet.net.au (202.158.194.110)  169.488 ms  169.480 ms  169.466 ms
+ 8  207.231.240.21 (207.231.240.21)  162.972 ms  162.966 ms  162.955 ms
+ 9  clgr2rtr1.canarie.ca (205.189.32.175)  173.803 ms  173.821 ms  173.810 ms
+10  wnpg1rtr1.canarie.ca (205.189.32.177)  188.151 ms  188.144 ms  188.134 ms
+11  toro1rtr1.canarie.ca (205.189.32.181)  209.513 ms  209.491 ms  209.516 ms
+12  border3.orion.on.ca (205.189.32.42)  210.082 ms  210.001 ms  210.069 ms
+13  be201.p01-toro.orion.on.ca (66.97.16.21)  210.320 ms  211.730 ms  211.721 ms
+14  be107.pe01-otwa.orion.on.ca (66.97.16.54)  215.844 ms  215.837 ms  215.130 ms
+15  CARLETON-ORION-RNE.DIST1-OTWA.IP.orion.on.ca (66.97.23.142)  214.656 ms  214.708 ms  214.765 ms
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  saturn.planetlab.carleton.ca (134.117.226.180)  214.807 ms  214.896 ms  214.874 ms
+traceroute to saturn.planetlab.carleton.ca (134.117.226.180), 30 hops max, 60 byte packets
+ 1  156.62.231.241 (156.62.231.241)  0.913 ms  1.064 ms  1.055 ms
+ 2  210.7.38.49 (210.7.38.49)  1.095 ms  1.095 ms  1.081 ms
+ 3  et-1-2-0-202.pe1.wnpa.akl.aarnet.net.au (182.255.119.204)  1.776 ms  1.768 ms  1.754 ms
+ 4  et-2-0-0.pe1.msct.nsw.aarnet.net.au (113.197.15.76)  24.552 ms  24.633 ms  24.623 ms
+ 5  et-1-3-0-199.pe2.brwy.nsw.aarnet.net.au (113.197.15.78)  24.960 ms  24.935 ms  25.013 ms
+ 6  et-0-0-0.pe1.a.hnl.aarnet.net.au (113.197.15.99)  117.961 ms  117.943 ms  117.924 ms
+ 7  et-1-0-0.bb1.a.sea.aarnet.net.au (202.158.194.110)  169.497 ms  169.488 ms  169.477 ms
+ 8  207.231.240.21 (207.231.240.21)  162.943 ms  162.945 ms  162.932 ms
+ 9  clgr2rtr1.canarie.ca (205.189.32.175)  173.810 ms  173.846 ms  173.835 ms
+10  wnpg1rtr1.canarie.ca (205.189.32.177)  188.178 ms  188.166 ms  188.152 ms
+11  toro1rtr1.canarie.ca (205.189.32.181)  209.434 ms  209.435 ms  209.442 ms
+12  border3.orion.on.ca (205.189.32.42)  210.086 ms  210.082 ms  210.071 ms
+13  be201.p01-toro.orion.on.ca (66.97.16.21)  210.255 ms  210.589 ms  210.679 ms
+14  be107.pe01-otwa.orion.on.ca (66.97.16.54)  215.416 ms  215.450 ms  214.925 ms
+15  CARLETON-ORION-RNE.DIST1-OTWA.IP.orion.on.ca (66.97.23.142)  214.631 ms  214.682 ms  214.749 ms
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  saturn.planetlab.carleton.ca (134.117.226.180)  214.988 ms  214.843 ms  214.941 ms
+traceroute to saturn.planetlab.carleton.ca (134.117.226.180), 30 hops max, 60 byte packets
+ 1  156.62.231.241 (156.62.231.241)  0.885 ms  0.876 ms  0.862 ms
+ 2  210.7.38.49 (210.7.38.49)  1.157 ms  1.156 ms  1.143 ms
+ 3  et-1-2-0-202.pe1.wnpa.akl.aarnet.net.au (182.255.119.204)  1.773 ms  1.766 ms  1.754 ms
+ 4  et-2-0-0.pe1.msct.nsw.aarnet.net.au (113.197.15.76)  24.541 ms  24.673 ms  24.664 ms
+ 5  et-1-3-0-199.pe2.brwy.nsw.aarnet.net.au (113.197.15.78)  24.955 ms  24.943 ms  25.028 ms
+ 6  et-0-0-0.pe1.a.hnl.aarnet.net.au (113.197.15.99)  117.964 ms  117.971 ms  118.156 ms
+ 7  et-1-0-0.bb1.a.sea.aarnet.net.au (202.158.194.110)  169.489 ms  169.482 ms  169.470 ms
+ 8  207.231.240.21 (207.231.240.21)  163.038 ms  163.050 ms  162.991 ms
+ 9  clgr2rtr1.canarie.ca (205.189.32.175)  173.821 ms  173.867 ms  173.835 ms
+10  wnpg1rtr1.canarie.ca (205.189.32.177)  188.121 ms  188.140 ms  188.116 ms
+11  toro1rtr1.canarie.ca (205.189.32.181)  209.426 ms  220.878 ms  220.204 ms
+12  border3.orion.on.ca (205.189.32.42)  210.013 ms  210.042 ms  210.062 ms
+13  be201.p01-toro.orion.on.ca (66.97.16.21)  211.883 ms  211.427 ms  211.406 ms
+14  be107.pe01-otwa.orion.on.ca (66.97.16.54)  215.436 ms  215.474 ms  215.459 ms
+15  CARLETON-ORION-RNE.DIST1-OTWA.IP.orion.on.ca (66.97.23.142)  214.644 ms  214.697 ms  214.764 ms
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  saturn.planetlab.carleton.ca (134.117.226.180)  214.998 ms  214.795 ms  214.968 ms
+traceroute to saturn.planetlab.carleton.ca (134.117.226.180), 30 hops max, 60 byte packets
+ 1  156.62.231.241 (156.62.231.241)  0.896 ms  0.977 ms  0.967 ms
+ 2  210.7.38.49 (210.7.38.49)  1.094 ms  1.079 ms  1.067 ms
+ 3  et-1-2-0-202.pe1.wnpa.akl.aarnet.net.au (182.255.119.204)  1.744 ms  1.733 ms  1.722 ms
+ 4  et-2-0-0.pe1.msct.nsw.aarnet.net.au (113.197.15.76)  24.571 ms  24.653 ms  24.643 ms
+ 5  et-1-3-0-199.pe2.brwy.nsw.aarnet.net.au (113.197.15.78)  24.930 ms  24.922 ms  24.935 ms
+ 6  et-0-0-0.pe1.a.hnl.aarnet.net.au (113.197.15.99)  117.980 ms  117.920 ms  117.929 ms
+ 7  et-1-0-0.bb1.a.sea.aarnet.net.au (202.158.194.110)  169.504 ms  169.498 ms  169.487 ms
+ 8  207.231.240.21 (207.231.240.21)  162.910 ms  162.906 ms  162.886 ms
+ 9  clgr2rtr1.canarie.ca (205.189.32.175)  173.837 ms  173.801 ms  173.838 ms
+10  wnpg1rtr1.canarie.ca (205.189.32.177)  188.138 ms  188.156 ms  188.143 ms
+11  toro1rtr1.canarie.ca (205.189.32.181)  209.487 ms  209.454 ms  209.435 ms
+12  border3.orion.on.ca (205.189.32.42)  214.630 ms  214.724 ms  214.716 ms
+13  be201.p01-toro.orion.on.ca (66.97.16.21)  210.136 ms  210.502 ms  210.498 ms
+14  be107.pe01-otwa.orion.on.ca (66.97.16.54)  215.512 ms  215.498 ms  215.480 ms
+15  CARLETON-ORION-RNE.DIST1-OTWA.IP.orion.on.ca (66.97.23.142)  214.595 ms  214.624 ms  214.591 ms
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  saturn.planetlab.carleton.ca (134.117.226.180)  214.852 ms  214.942 ms  214.926 ms
+traceroute to saturn.planetlab.carleton.ca (134.117.226.180), 30 hops max, 60 byte packets
+ 1  156.62.231.241 (156.62.231.241)  0.887 ms  0.971 ms  0.957 ms
+ 2  210.7.38.49 (210.7.38.49)  1.098 ms  1.093 ms  1.081 ms
+ 3  et-1-2-0-202.pe1.wnpa.akl.aarnet.net.au (182.255.119.204)  9.957 ms  10.045 ms  10.036 ms
+ 4  et-2-0-0.pe1.msct.nsw.aarnet.net.au (113.197.15.76)  24.583 ms  24.674 ms  24.664 ms
+ 5  et-1-3-0-199.pe2.brwy.nsw.aarnet.net.au (113.197.15.78)  25.013 ms  24.950 ms  24.976 ms
+ 6  et-0-0-0.pe1.a.hnl.aarnet.net.au (113.197.15.99)  117.938 ms  117.923 ms  117.917 ms
+ 7  et-1-0-0.bb1.a.sea.aarnet.net.au (202.158.194.110)  169.507 ms  169.499 ms  169.488 ms
+ 8  207.231.240.21 (207.231.240.21)  163.367 ms  163.014 ms  162.907 ms
+ 9  clgr2rtr1.canarie.ca (205.189.32.175)  173.837 ms  173.943 ms  173.929 ms
+10  wnpg1rtr1.canarie.ca (205.189.32.177)  188.179 ms  188.168 ms  188.156 ms
+11  toro1rtr1.canarie.ca (205.189.32.181)  209.419 ms  218.438 ms  218.422 ms
+12  border3.orion.on.ca (205.189.32.42)  210.042 ms  210.022 ms  210.007 ms
+13  be201.p01-toro.orion.on.ca (66.97.16.21)  210.414 ms  210.985 ms  211.081 ms
+14  be107.pe01-otwa.orion.on.ca (66.97.16.54)  215.533 ms  215.566 ms  215.548 ms
+15  CARLETON-ORION-RNE.DIST1-OTWA.IP.orion.on.ca (66.97.23.142)  322.254 ms  214.681 ms  214.756 ms
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  saturn.planetlab.carleton.ca (134.117.226.180)  214.759 ms  214.844 ms  214.802 ms
+traceroute to saturn.planetlab.carleton.ca (134.117.226.180), 30 hops max, 60 byte packets
+ 1  156.62.231.241 (156.62.231.241)  0.894 ms  0.988 ms  0.975 ms
+ 2  210.7.38.49 (210.7.38.49)  1.215 ms  1.212 ms  1.199 ms
+ 3  et-1-2-0-202.pe1.wnpa.akl.aarnet.net.au (182.255.119.204)  1.719 ms  1.720 ms  1.710 ms
+ 4  et-2-0-0.pe1.msct.nsw.aarnet.net.au (113.197.15.76)  24.585 ms  24.681 ms  24.672 ms
+ 5  et-1-3-0-199.pe2.brwy.nsw.aarnet.net.au (113.197.15.78)  24.943 ms  24.933 ms  25.041 ms
+ 6  et-0-0-0.pe1.a.hnl.aarnet.net.au (113.197.15.99)  118.040 ms  117.947 ms  117.928 ms
+ 7  et-1-0-0.bb1.a.sea.aarnet.net.au (202.158.194.110)  171.711 ms  171.800 ms  171.789 ms
+ 8  207.231.240.21 (207.231.240.21)  162.908 ms  162.998 ms  162.984 ms
+ 9  clgr2rtr1.canarie.ca (205.189.32.175)  173.808 ms  173.839 ms  173.870 ms
+10  wnpg1rtr1.canarie.ca (205.189.32.177)  188.136 ms  188.166 ms  188.156 ms
+11  toro1rtr1.canarie.ca (205.189.32.181)  209.444 ms  209.400 ms  209.415 ms
+12  border3.orion.on.ca (205.189.32.42)  210.132 ms  210.065 ms  210.055 ms
+13  be201.p01-toro.orion.on.ca (66.97.16.21)  210.252 ms  210.302 ms  210.339 ms
+14  be107.pe01-otwa.orion.on.ca (66.97.16.54)  215.360 ms  215.430 ms  215.335 ms
+15  CARLETON-ORION-RNE.DIST1-OTWA.IP.orion.on.ca (66.97.23.142)  214.629 ms  214.716 ms  214.737 ms
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  saturn.planetlab.carleton.ca (134.117.226.180)  214.887 ms  214.762 ms  214.847 ms
+traceroute to saturn.planetlab.carleton.ca (134.117.226.180), 30 hops max, 60 byte packets
+ 1  156.62.231.241 (156.62.231.241)  0.908 ms  1.040 ms  1.026 ms
+ 2  210.7.38.49 (210.7.38.49)  1.087 ms  1.085 ms  1.074 ms
+ 3  et-1-2-0-202.pe1.wnpa.akl.aarnet.net.au (182.255.119.204)  1.767 ms  1.760 ms  1.749 ms
+ 4  et-2-0-0.pe1.msct.nsw.aarnet.net.au (113.197.15.76)  24.540 ms  24.619 ms  24.608 ms
+ 5  et-1-3-0-199.pe2.brwy.nsw.aarnet.net.au (113.197.15.78)  24.952 ms  24.937 ms  25.011 ms
+ 6  et-0-0-0.pe1.a.hnl.aarnet.net.au (113.197.15.99)  117.965 ms  117.927 ms  117.920 ms
+ 7  et-1-0-0.bb1.a.sea.aarnet.net.au (202.158.194.110)  169.498 ms  169.491 ms  169.480 ms
+ 8  207.231.240.21 (207.231.240.21)  162.902 ms  162.937 ms  162.918 ms
+ 9  clgr2rtr1.canarie.ca (205.189.32.175)  177.355 ms  173.861 ms  173.849 ms
+10  wnpg1rtr1.canarie.ca (205.189.32.177)  188.895 ms  188.145 ms  188.132 ms
+11  toro1rtr1.canarie.ca (205.189.32.181)  209.501 ms  209.539 ms  209.526 ms
+12  border3.orion.on.ca (205.189.32.42)  210.092 ms  210.079 ms  210.142 ms
+13  be201.p01-toro.orion.on.ca (66.97.16.21)  210.263 ms  210.637 ms  210.704 ms
+14  be107.pe01-otwa.orion.on.ca (66.97.16.54)  215.433 ms  215.427 ms  215.501 ms
+15  CARLETON-ORION-RNE.DIST1-OTWA.IP.orion.on.ca (66.97.23.142)  214.614 ms  214.670 ms  214.731 ms
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  saturn.planetlab.carleton.ca (134.117.226.180)  214.801 ms  214.841 ms  214.829 ms
+traceroute to saturn.planetlab.carleton.ca (134.117.226.180), 30 hops max, 60 byte packets
+ 1  156.62.231.241 (156.62.231.241)  0.889 ms  1.101 ms  1.090 ms
+ 2  210.7.38.49 (210.7.38.49)  1.077 ms  1.067 ms  1.055 ms
+ 3  et-1-2-0-202.pe1.wnpa.akl.aarnet.net.au (182.255.119.204)  1.761 ms  1.752 ms  1.741 ms
+ 4  et-2-0-0.pe1.msct.nsw.aarnet.net.au (113.197.15.76)  24.567 ms  24.656 ms  24.646 ms
+ 5  et-1-3-0-199.pe2.brwy.nsw.aarnet.net.au (113.197.15.78)  25.939 ms  25.930 ms  25.977 ms
+ 6  et-0-0-0.pe1.a.hnl.aarnet.net.au (113.197.15.99)  117.947 ms  117.932 ms  117.943 ms
+ 7  et-1-0-0.bb1.a.sea.aarnet.net.au (202.158.194.110)  169.554 ms  169.540 ms  169.510 ms
+ 8  207.231.240.21 (207.231.240.21)  163.098 ms  163.086 ms  163.076 ms
+ 9  clgr2rtr1.canarie.ca (205.189.32.175)  173.826 ms  173.812 ms  173.798 ms
+10  wnpg1rtr1.canarie.ca (205.189.32.177)  188.118 ms  188.159 ms  188.146 ms
+11  toro1rtr1.canarie.ca (205.189.32.181)  209.457 ms  209.455 ms  209.435 ms
+12  border3.orion.on.ca (205.189.32.42)  209.997 ms  210.056 ms  209.868 ms
+13  be201.p01-toro.orion.on.ca (66.97.16.21)  210.208 ms  210.555 ms  210.799 ms
+14  be107.pe01-otwa.orion.on.ca (66.97.16.54)  215.804 ms  215.794 ms  215.250 ms
+15  CARLETON-ORION-RNE.DIST1-OTWA.IP.orion.on.ca (66.97.23.142)  214.629 ms  214.685 ms  214.741 ms
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  saturn.planetlab.carleton.ca (134.117.226.180)  214.817 ms  214.905 ms  214.907 ms
+traceroute to saturn.planetlab.carleton.ca (134.117.226.180), 30 hops max, 60 byte packets
+ 1  156.62.231.241 (156.62.231.241)  0.898 ms  0.990 ms  0.980 ms
+ 2  210.7.38.49 (210.7.38.49)  1.098 ms  1.088 ms  1.076 ms
+ 3  et-1-2-0-202.pe1.wnpa.akl.aarnet.net.au (182.255.119.204)  1.755 ms  1.747 ms  1.737 ms
+ 4  et-2-0-0.pe1.msct.nsw.aarnet.net.au (113.197.15.76)  24.572 ms  24.661 ms  24.651 ms
+ 5  et-1-3-0-199.pe2.brwy.nsw.aarnet.net.au (113.197.15.78)  24.957 ms  24.956 ms  25.002 ms
+ 6  et-0-0-0.pe1.a.hnl.aarnet.net.au (113.197.15.99)  117.958 ms  117.933 ms  117.914 ms
+ 7  et-1-0-0.bb1.a.sea.aarnet.net.au (202.158.194.110)  172.069 ms  172.162 ms  172.153 ms
+ 8  207.231.240.21 (207.231.240.21)  163.395 ms  163.478 ms  163.456 ms
+ 9  clgr2rtr1.canarie.ca (205.189.32.175)  173.858 ms  173.807 ms  173.796 ms
+10  wnpg1rtr1.canarie.ca (205.189.32.177)  188.190 ms  188.184 ms  188.173 ms
+11  toro1rtr1.canarie.ca (205.189.32.181)  209.454 ms  209.441 ms  209.534 ms
+12  border3.orion.on.ca (205.189.32.42)  210.089 ms  210.099 ms  210.086 ms
+13  be201.p01-toro.orion.on.ca (66.97.16.21)  210.178 ms  211.480 ms  211.467 ms
+14  be107.pe01-otwa.orion.on.ca (66.97.16.54)  215.471 ms  215.465 ms  215.494 ms
+15  CARLETON-ORION-RNE.DIST1-OTWA.IP.orion.on.ca (66.97.23.142)  214.829 ms  214.925 ms  214.916 ms
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  saturn.planetlab.carleton.ca (134.117.226.180)  214.767 ms  214.847 ms  214.839 ms
+traceroute to saturn.planetlab.carleton.ca (134.117.226.180), 30 hops max, 60 byte packets
+ 1  156.62.231.241 (156.62.231.241)  0.893 ms  0.975 ms  0.965 ms
+ 2  210.7.38.49 (210.7.38.49)  1.092 ms  1.085 ms  1.074 ms
+ 3  et-1-2-0-202.pe1.wnpa.akl.aarnet.net.au (182.255.119.204)  1.756 ms  1.749 ms  1.738 ms
+ 4  et-2-0-0.pe1.msct.nsw.aarnet.net.au (113.197.15.76)  24.573 ms  24.667 ms  24.659 ms
+ 5  et-1-3-0-199.pe2.brwy.nsw.aarnet.net.au (113.197.15.78)  24.922 ms  24.925 ms  24.879 ms
+ 6  et-0-0-0.pe1.a.hnl.aarnet.net.au (113.197.15.99)  117.980 ms  117.921 ms  117.947 ms
+ 7  et-1-0-0.bb1.a.sea.aarnet.net.au (202.158.194.110)  169.517 ms  169.515 ms  169.503 ms
+ 8  207.231.240.21 (207.231.240.21)  162.915 ms  162.913 ms  162.898 ms
+ 9  clgr2rtr1.canarie.ca (205.189.32.175)  173.834 ms  173.889 ms  173.873 ms
+10  wnpg1rtr1.canarie.ca (205.189.32.177)  188.168 ms  188.156 ms  188.145 ms
+11  toro1rtr1.canarie.ca (205.189.32.181)  209.470 ms  209.459 ms  209.448 ms
+12  border3.orion.on.ca (205.189.32.42)  210.008 ms  210.191 ms  210.167 ms
+13  be201.p01-toro.orion.on.ca (66.97.16.21)  210.152 ms  210.610 ms  210.601 ms
+14  be107.pe01-otwa.orion.on.ca (66.97.16.54)  215.487 ms  215.527 ms  215.503 ms
+15  CARLETON-ORION-RNE.DIST1-OTWA.IP.orion.on.ca (66.97.23.142)  214.615 ms  214.676 ms  214.755 ms
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  saturn.planetlab.carleton.ca (134.117.226.180)  214.833 ms  214.964 ms  214.953 ms
+traceroute to saturn.planetlab.carleton.ca (134.117.226.180), 30 hops max, 60 byte packets
+ 1  156.62.231.241 (156.62.231.241)  0.959 ms  1.050 ms  1.029 ms
+ 2  210.7.38.49 (210.7.38.49)  1.133 ms  1.133 ms  1.120 ms
+ 3  et-1-2-0-202.pe1.wnpa.akl.aarnet.net.au (182.255.119.204)  1.740 ms  1.729 ms  1.840 ms
+ 4  et-2-0-0.pe1.msct.nsw.aarnet.net.au (113.197.15.76)  24.962 ms  25.092 ms  25.087 ms
+ 5  et-1-3-0-199.pe2.brwy.nsw.aarnet.net.au (113.197.15.78)  25.061 ms  25.060 ms  25.038 ms
+ 6  et-0-0-0.pe1.a.hnl.aarnet.net.au (113.197.15.99)  117.988 ms  118.387 ms  118.375 ms
+ 7  et-1-0-0.bb1.a.sea.aarnet.net.au (202.158.194.110)  169.450 ms  169.497 ms  169.474 ms
+ 8  207.231.240.21 (207.231.240.21)  165.024 ms  165.016 ms  165.005 ms
+ 9  clgr2rtr1.canarie.ca (205.189.32.175)  173.982 ms  173.876 ms  173.865 ms
+10  wnpg1rtr1.canarie.ca (205.189.32.177)  188.508 ms  188.508 ms  188.493 ms
+11  toro1rtr1.canarie.ca (205.189.32.181)  209.675 ms  209.673 ms  209.660 ms
+12  border3.orion.on.ca (205.189.32.42)  210.204 ms  209.970 ms  209.956 ms
+13  be201.p01-toro.orion.on.ca (66.97.16.21)  210.262 ms  210.669 ms  210.566 ms
+14  be107.pe01-otwa.orion.on.ca (66.97.16.54)  215.301 ms  215.403 ms  215.329 ms
+15  CARLETON-ORION-RNE.DIST1-OTWA.IP.orion.on.ca (66.97.23.142)  214.607 ms  214.665 ms  214.748 ms
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  saturn.planetlab.carleton.ca (134.117.226.180)  214.979 ms  215.113 ms  215.093 ms
+traceroute to saturn.planetlab.carleton.ca (134.117.226.180), 30 hops max, 60 byte packets
+ 1  156.62.231.241 (156.62.231.241)  0.908 ms  0.897 ms  0.884 ms
+ 2  210.7.38.49 (210.7.38.49)  1.153 ms  1.155 ms  1.143 ms
+ 3  et-1-2-0-202.pe1.wnpa.akl.aarnet.net.au (182.255.119.204)  1.770 ms  1.761 ms  1.748 ms
+ 4  et-2-0-0.pe1.msct.nsw.aarnet.net.au (113.197.15.76)  24.574 ms  24.572 ms  24.650 ms
+ 5  et-1-3-0-199.pe2.brwy.nsw.aarnet.net.au (113.197.15.78)  24.951 ms  24.948 ms  25.037 ms
+ 6  et-0-0-0.pe1.a.hnl.aarnet.net.au (113.197.15.99)  118.396 ms  117.993 ms  117.982 ms
+ 7  et-1-0-0.bb1.a.sea.aarnet.net.au (202.158.194.110)  169.536 ms  169.532 ms  169.521 ms
+ 8  207.231.240.21 (207.231.240.21)  162.912 ms  162.907 ms  162.896 ms
+ 9  clgr2rtr1.canarie.ca (205.189.32.175)  173.873 ms  173.994 ms  173.978 ms
+10  wnpg1rtr1.canarie.ca (205.189.32.177)  188.267 ms  188.183 ms  188.244 ms
+11  toro1rtr1.canarie.ca (205.189.32.181)  209.643 ms  209.638 ms  209.627 ms
+12  border3.orion.on.ca (205.189.32.42)  210.245 ms  210.062 ms  210.093 ms
+13  be201.p01-toro.orion.on.ca (66.97.16.21)  210.861 ms  210.852 ms  211.334 ms
+14  be107.pe01-otwa.orion.on.ca (66.97.16.54)  215.499 ms  215.532 ms  215.305 ms
+15  CARLETON-ORION-RNE.DIST1-OTWA.IP.orion.on.ca (66.97.23.142)  214.636 ms  214.700 ms  214.770 ms
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  saturn.planetlab.carleton.ca (134.117.226.180)  214.999 ms  215.087 ms  215.077 ms
+traceroute to saturn.planetlab.carleton.ca (134.117.226.180), 30 hops max, 60 byte packets
+ 1  156.62.231.241 (156.62.231.241)  0.896 ms  0.983 ms  0.973 ms
+ 2  210.7.38.49 (210.7.38.49)  1.097 ms  1.089 ms  1.073 ms
+ 3  et-1-2-0-202.pe1.wnpa.akl.aarnet.net.au (182.255.119.204)  1.764 ms  1.756 ms  1.745 ms
+ 4  et-2-0-0.pe1.msct.nsw.aarnet.net.au (113.197.15.76)  24.537 ms  24.628 ms  24.618 ms
+ 5  et-1-3-0-199.pe2.brwy.nsw.aarnet.net.au (113.197.15.78)  24.900 ms  24.942 ms  24.979 ms
+ 6  et-0-0-0.pe1.a.hnl.aarnet.net.au (113.197.15.99)  117.970 ms  117.933 ms  117.938 ms
+ 7  et-1-0-0.bb1.a.sea.aarnet.net.au (202.158.194.110)  169.470 ms  169.466 ms  169.438 ms
+ 8  207.231.240.21 (207.231.240.21)  162.928 ms  162.926 ms  162.911 ms
+ 9  clgr2rtr1.canarie.ca (205.189.32.175)  173.855 ms  173.931 ms  173.920 ms
+10  wnpg1rtr1.canarie.ca (205.189.32.177)  188.172 ms  188.161 ms  188.150 ms
+11  toro1rtr1.canarie.ca (205.189.32.181)  209.560 ms  209.517 ms  209.504 ms
+12  border3.orion.on.ca (205.189.32.42)  209.917 ms  210.055 ms  210.154 ms
+13  be201.p01-toro.orion.on.ca (66.97.16.21)  210.279 ms  210.625 ms  210.663 ms
+14  be107.pe01-otwa.orion.on.ca (66.97.16.54)  215.221 ms  215.382 ms  215.373 ms
+15  CARLETON-ORION-RNE.DIST1-OTWA.IP.orion.on.ca (66.97.23.142)  214.577 ms  214.614 ms  214.669 ms
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  saturn.planetlab.carleton.ca (134.117.226.180)  214.790 ms  214.884 ms  214.852 ms
+traceroute to saturn.planetlab.carleton.ca (134.117.226.180), 30 hops max, 60 byte packets
+ 1  156.62.231.241 (156.62.231.241)  0.889 ms  0.885 ms  0.875 ms
+ 2  210.7.38.49 (210.7.38.49)  1.255 ms  1.253 ms  1.241 ms
+ 3  et-1-2-0-202.pe1.wnpa.akl.aarnet.net.au (182.255.119.204)  1.740 ms  1.722 ms  1.784 ms
+ 4  et-2-0-0.pe1.msct.nsw.aarnet.net.au (113.197.15.76)  24.548 ms  24.546 ms  24.578 ms
+ 5  et-1-3-0-199.pe2.brwy.nsw.aarnet.net.au (113.197.15.78)  24.955 ms  24.946 ms  25.017 ms
+ 6  et-0-0-0.pe1.a.hnl.aarnet.net.au (113.197.15.99)  117.943 ms  117.960 ms  118.138 ms
+ 7  et-1-0-0.bb1.a.sea.aarnet.net.au (202.158.194.110)  170.150 ms  170.140 ms  170.131 ms
+ 8  207.231.240.21 (207.231.240.21)  163.017 ms  163.083 ms  163.073 ms
+ 9  clgr2rtr1.canarie.ca (205.189.32.175)  173.841 ms  173.841 ms  173.869 ms
+10  wnpg1rtr1.canarie.ca (205.189.32.177)  188.240 ms  188.209 ms  188.261 ms
+11  toro1rtr1.canarie.ca (205.189.32.181)  209.555 ms  209.444 ms  209.427 ms
+12  border3.orion.on.ca (205.189.32.42)  210.263 ms  210.043 ms  210.081 ms
+13  be201.p01-toro.orion.on.ca (66.97.16.21)  210.312 ms  210.072 ms  210.277 ms
+14  be107.pe01-otwa.orion.on.ca (66.97.16.54)  215.358 ms  215.445 ms  215.519 ms
+15  CARLETON-ORION-RNE.DIST1-OTWA.IP.orion.on.ca (66.97.23.142)  214.611 ms  214.675 ms  214.747 ms
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  saturn.planetlab.carleton.ca (134.117.226.180)  214.825 ms  214.885 ms  214.865 ms
+traceroute to saturn.planetlab.carleton.ca (134.117.226.180), 30 hops max, 60 byte packets
+ 1  156.62.231.241 (156.62.231.241)  0.886 ms  0.875 ms  0.864 ms
+ 2  210.7.38.49 (210.7.38.49)  1.166 ms  1.153 ms  1.140 ms
+ 3  et-1-2-0-202.pe1.wnpa.akl.aarnet.net.au (182.255.119.204)  2.011 ms  2.001 ms  1.989 ms
+ 4  et-2-0-0.pe1.msct.nsw.aarnet.net.au (113.197.15.76)  24.584 ms  24.649 ms  24.640 ms
+ 5  et-1-3-0-199.pe2.brwy.nsw.aarnet.net.au (113.197.15.78)  24.983 ms  24.979 ms  25.023 ms
+ 6  et-0-0-0.pe1.a.hnl.aarnet.net.au (113.197.15.99)  117.962 ms  117.919 ms  117.978 ms
+ 7  et-1-0-0.bb1.a.sea.aarnet.net.au (202.158.194.110)  169.718 ms  169.864 ms  169.853 ms
+ 8  207.231.240.21 (207.231.240.21)  163.290 ms  163.261 ms  163.250 ms
+ 9  clgr2rtr1.canarie.ca (205.189.32.175)  173.964 ms  174.064 ms  174.052 ms
+10  wnpg1rtr1.canarie.ca (205.189.32.177)  196.726 ms  196.713 ms  196.699 ms
+11  toro1rtr1.canarie.ca (205.189.32.181)  209.506 ms  209.536 ms  209.503 ms
+12  border3.orion.on.ca (205.189.32.42)  210.184 ms  210.041 ms  209.951 ms
+13  be201.p01-toro.orion.on.ca (66.97.16.21)  210.235 ms  210.191 ms  210.094 ms
+14  be107.pe01-otwa.orion.on.ca (66.97.16.54)  215.478 ms  215.465 ms  215.730 ms
+15  CARLETON-ORION-RNE.DIST1-OTWA.IP.orion.on.ca (66.97.23.142)  221.168 ms  221.255 ms  221.291 ms
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  saturn.planetlab.carleton.ca (134.117.226.180)  214.826 ms  214.771 ms  214.828 ms
+traceroute to saturn.planetlab.carleton.ca (134.117.226.180), 30 hops max, 60 byte packets
+ 1  156.62.231.241 (156.62.231.241)  0.904 ms  1.028 ms  1.015 ms
+ 2  210.7.38.49 (210.7.38.49)  1.107 ms  1.102 ms  1.090 ms
+ 3  et-1-2-0-202.pe1.wnpa.akl.aarnet.net.au (182.255.119.204)  1.796 ms  1.786 ms  1.774 ms
+ 4  et-2-0-0.pe1.msct.nsw.aarnet.net.au (113.197.15.76)  24.569 ms  24.652 ms  24.636 ms
+ 5  et-1-3-0-199.pe2.brwy.nsw.aarnet.net.au (113.197.15.78)  24.961 ms  24.956 ms  24.990 ms
+ 6  et-0-0-0.pe1.a.hnl.aarnet.net.au (113.197.15.99)  117.980 ms  118.290 ms  117.921 ms
+ 7  et-1-0-0.bb1.a.sea.aarnet.net.au (202.158.194.110)  169.490 ms  169.567 ms  169.536 ms
+ 8  207.231.240.21 (207.231.240.21)  162.944 ms  163.023 ms  163.013 ms
+ 9  clgr2rtr1.canarie.ca (205.189.32.175)  174.025 ms  174.009 ms  173.999 ms
+10  wnpg1rtr1.canarie.ca (205.189.32.177)  188.176 ms  188.167 ms  188.156 ms
+11  toro1rtr1.canarie.ca (205.189.32.181)  209.407 ms  209.376 ms  209.400 ms
+12  border3.orion.on.ca (205.189.32.42)  210.050 ms  209.940 ms  209.965 ms
+13  be201.p01-toro.orion.on.ca (66.97.16.21)  210.193 ms  209.873 ms  210.356 ms
+14  be107.pe01-otwa.orion.on.ca (66.97.16.54)  215.288 ms  215.369 ms  215.436 ms
+15  CARLETON-ORION-RNE.DIST1-OTWA.IP.orion.on.ca (66.97.23.142)  214.615 ms  214.699 ms  214.738 ms
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  saturn.planetlab.carleton.ca (134.117.226.180)  214.728 ms  214.801 ms  214.799 ms
+traceroute to saturn.planetlab.carleton.ca (134.117.226.180), 30 hops max, 60 byte packets
+ 1  156.62.231.241 (156.62.231.241)  0.905 ms  1.041 ms  1.030 ms
+ 2  210.7.38.49 (210.7.38.49)  1.104 ms  1.089 ms  1.065 ms
+ 3  et-1-2-0-202.pe1.wnpa.akl.aarnet.net.au (182.255.119.204)  1.792 ms  1.783 ms  1.771 ms
+ 4  et-2-0-0.pe1.msct.nsw.aarnet.net.au (113.197.15.76)  24.548 ms  24.636 ms  24.627 ms
+ 5  et-1-3-0-199.pe2.brwy.nsw.aarnet.net.au (113.197.15.78)  24.969 ms  24.964 ms  25.002 ms
+ 6  et-0-0-0.pe1.a.hnl.aarnet.net.au (113.197.15.99)  117.960 ms  118.206 ms  118.225 ms
+ 7  et-1-0-0.bb1.a.sea.aarnet.net.au (202.158.194.110)  169.490 ms  169.619 ms  169.610 ms
+ 8  207.231.240.21 (207.231.240.21)  162.908 ms  162.993 ms  162.984 ms
+ 9  clgr2rtr1.canarie.ca (205.189.32.175)  173.777 ms  173.816 ms  173.804 ms
+10  wnpg1rtr1.canarie.ca (205.189.32.177)  188.175 ms  188.169 ms  188.160 ms
+11  toro1rtr1.canarie.ca (205.189.32.181)  209.479 ms  209.398 ms  209.396 ms
+12  border3.orion.on.ca (205.189.32.42)  210.034 ms  210.185 ms  210.174 ms
+13  be201.p01-toro.orion.on.ca (66.97.16.21)  210.197 ms  210.211 ms  210.244 ms
+14  be107.pe01-otwa.orion.on.ca (66.97.16.54)  215.058 ms  215.121 ms  215.402 ms
+15  CARLETON-ORION-RNE.DIST1-OTWA.IP.orion.on.ca (66.97.23.142)  214.672 ms  214.748 ms  214.786 ms
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  saturn.planetlab.carleton.ca (134.117.226.180)  214.813 ms  214.897 ms  214.775 ms
+traceroute to saturn.planetlab.carleton.ca (134.117.226.180), 30 hops max, 60 byte packets
+ 1  156.62.231.241 (156.62.231.241)  0.888 ms  0.957 ms  0.941 ms
+ 2  210.7.38.49 (210.7.38.49)  1.155 ms  1.123 ms  1.129 ms
+ 3  et-1-2-0-202.pe1.wnpa.akl.aarnet.net.au (182.255.119.204)  1.758 ms  1.746 ms  1.734 ms
+ 4  et-2-0-0.pe1.msct.nsw.aarnet.net.au (113.197.15.76)  24.556 ms  24.658 ms  24.657 ms
+ 5  et-1-3-0-199.pe2.brwy.nsw.aarnet.net.au (113.197.15.78)  24.975 ms  24.946 ms  24.984 ms
+ 6  et-0-0-0.pe1.a.hnl.aarnet.net.au (113.197.15.99)  117.998 ms  118.414 ms  117.956 ms
+ 7  et-1-0-0.bb1.a.sea.aarnet.net.au (202.158.194.110)  169.514 ms  169.604 ms  169.594 ms
+ 8  207.231.240.21 (207.231.240.21)  162.904 ms  162.993 ms  162.924 ms
+ 9  clgr2rtr1.canarie.ca (205.189.32.175)  173.799 ms  174.074 ms  174.064 ms
+10  wnpg1rtr1.canarie.ca (205.189.32.177)  188.195 ms  188.189 ms  188.178 ms
+11  toro1rtr1.canarie.ca (205.189.32.181)  209.522 ms  209.460 ms  209.431 ms
+12  border3.orion.on.ca (205.189.32.42)  210.182 ms  210.114 ms  210.102 ms
+13  be201.p01-toro.orion.on.ca (66.97.16.21)  210.154 ms  210.147 ms  210.033 ms
+14  be107.pe01-otwa.orion.on.ca (66.97.16.54)  215.317 ms  215.351 ms  215.401 ms
+15  CARLETON-ORION-RNE.DIST1-OTWA.IP.orion.on.ca (66.97.23.142)  214.704 ms  214.794 ms  214.818 ms
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  saturn.planetlab.carleton.ca (134.117.226.180)  214.922 ms  215.004 ms  214.744 ms
+traceroute to saturn.planetlab.carleton.ca (134.117.226.180), 30 hops max, 60 byte packets
+ 1  156.62.231.241 (156.62.231.241)  0.898 ms  0.964 ms  0.952 ms
+ 2  210.7.38.49 (210.7.38.49)  1.058 ms  1.108 ms  1.100 ms
+ 3  et-1-2-0-202.pe1.wnpa.akl.aarnet.net.au (182.255.119.204)  1.762 ms  1.754 ms  1.742 ms
+ 4  et-2-0-0.pe1.msct.nsw.aarnet.net.au (113.197.15.76)  24.569 ms  24.621 ms  24.610 ms
+ 5  et-1-3-0-199.pe2.brwy.nsw.aarnet.net.au (113.197.15.78)  24.949 ms  24.845 ms  24.832 ms
+ 6  et-0-0-0.pe1.a.hnl.aarnet.net.au (113.197.15.99)  117.934 ms  117.945 ms  117.929 ms
+ 7  et-1-0-0.bb1.a.sea.aarnet.net.au (202.158.194.110)  169.505 ms  169.587 ms  169.578 ms
+ 8  207.231.240.21 (207.231.240.21)  162.999 ms  163.063 ms  163.052 ms
+ 9  clgr2rtr1.canarie.ca (205.189.32.175)  173.841 ms  173.829 ms  173.817 ms
+10  wnpg1rtr1.canarie.ca (205.189.32.177)  188.091 ms  188.133 ms  188.122 ms
+11  toro1rtr1.canarie.ca (205.189.32.181)  209.378 ms  209.407 ms  209.374 ms
+12  border3.orion.on.ca (205.189.32.42)  210.048 ms  210.175 ms  210.222 ms
+13  be201.p01-toro.orion.on.ca (66.97.16.21)  210.203 ms  210.210 ms  210.199 ms
+14  be107.pe01-otwa.orion.on.ca (66.97.16.54)  215.498 ms  215.330 ms  215.409 ms
+15  CARLETON-ORION-RNE.DIST1-OTWA.IP.orion.on.ca (66.97.23.142)  214.688 ms  214.728 ms  214.833 ms
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  saturn.planetlab.carleton.ca (134.117.226.180)  214.783 ms  214.848 ms  214.737 ms
+traceroute to saturn.planetlab.carleton.ca (134.117.226.180), 30 hops max, 60 byte packets
+ 1  156.62.231.241 (156.62.231.241)  0.905 ms  0.964 ms  0.953 ms
+ 2  210.7.38.49 (210.7.38.49)  1.078 ms  1.081 ms  1.070 ms
+ 3  et-1-2-0-202.pe1.wnpa.akl.aarnet.net.au (182.255.119.204)  1.778 ms  1.769 ms  1.756 ms
+ 4  et-2-0-0.pe1.msct.nsw.aarnet.net.au (113.197.15.76)  24.559 ms  24.636 ms  24.625 ms
+ 5  et-1-3-0-199.pe2.brwy.nsw.aarnet.net.au (113.197.15.78)  24.959 ms  24.969 ms  25.029 ms
+ 6  et-0-0-0.pe1.a.hnl.aarnet.net.au (113.197.15.99)  117.955 ms  117.930 ms  117.916 ms
+ 7  et-1-0-0.bb1.a.sea.aarnet.net.au (202.158.194.110)  169.497 ms  169.589 ms  169.579 ms
+ 8  207.231.240.21 (207.231.240.21)  163.100 ms  163.240 ms  163.232 ms
+ 9  clgr2rtr1.canarie.ca (205.189.32.175)  173.774 ms  173.830 ms  173.819 ms
+10  wnpg1rtr1.canarie.ca (205.189.32.177)  188.181 ms  188.151 ms  188.137 ms
+11  toro1rtr1.canarie.ca (205.189.32.181)  209.416 ms  209.459 ms  209.363 ms
+12  border3.orion.on.ca (205.189.32.42)  210.243 ms  209.962 ms  209.930 ms
+13  be201.p01-toro.orion.on.ca (66.97.16.21)  210.156 ms  210.169 ms  210.290 ms
+14  be107.pe01-otwa.orion.on.ca (66.97.16.54)  215.333 ms  215.511 ms  215.490 ms
+15  CARLETON-ORION-RNE.DIST1-OTWA.IP.orion.on.ca (66.97.23.142)  214.870 ms  214.881 ms  214.865 ms
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  saturn.planetlab.carleton.ca (134.117.226.180)  214.836 ms  215.219 ms  214.771 ms
+traceroute to saturn.planetlab.carleton.ca (134.117.226.180), 30 hops max, 60 byte packets
+ 1  156.62.231.241 (156.62.231.241)  0.905 ms  0.959 ms  0.950 ms
+ 2  210.7.38.49 (210.7.38.49)  1.079 ms  1.083 ms  1.070 ms
+ 3  et-1-2-0-202.pe1.wnpa.akl.aarnet.net.au (182.255.119.204)  1.761 ms  1.759 ms  1.742 ms
+ 4  et-2-0-0.pe1.msct.nsw.aarnet.net.au (113.197.15.76)  24.545 ms  24.610 ms  24.602 ms
+ 5  et-1-3-0-199.pe2.brwy.nsw.aarnet.net.au (113.197.15.78)  24.966 ms  24.950 ms  25.010 ms
+ 6  et-0-0-0.pe1.a.hnl.aarnet.net.au (113.197.15.99)  117.938 ms  117.923 ms  117.920 ms
+ 7  et-1-0-0.bb1.a.sea.aarnet.net.au (202.158.194.110)  170.236 ms  170.323 ms  170.314 ms
+ 8  207.231.240.21 (207.231.240.21)  162.932 ms  163.065 ms  163.049 ms
+ 9  clgr2rtr1.canarie.ca (205.189.32.175)  173.803 ms  173.863 ms  173.850 ms
+10  wnpg1rtr1.canarie.ca (205.189.32.177)  188.264 ms  188.258 ms  188.247 ms
+11  toro1rtr1.canarie.ca (205.189.32.181)  209.429 ms  212.149 ms  211.097 ms
+12  border3.orion.on.ca (205.189.32.42)  209.920 ms  210.019 ms  210.009 ms
+13  be201.p01-toro.orion.on.ca (66.97.16.21)  210.136 ms  210.162 ms  210.235 ms
+14  be107.pe01-otwa.orion.on.ca (66.97.16.54)  215.407 ms  215.415 ms  215.393 ms
+15  CARLETON-ORION-RNE.DIST1-OTWA.IP.orion.on.ca (66.97.23.142)  214.613 ms  214.706 ms  214.730 ms
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  saturn.planetlab.carleton.ca (134.117.226.180)  214.752 ms  214.827 ms  216.384 ms
+traceroute to saturn.planetlab.carleton.ca (134.117.226.180), 30 hops max, 60 byte packets
+ 1  156.62.231.241 (156.62.231.241)  0.901 ms  0.982 ms  0.967 ms
+ 2  210.7.38.49 (210.7.38.49)  1.109 ms  1.109 ms  1.098 ms
+ 3  et-1-2-0-202.pe1.wnpa.akl.aarnet.net.au (182.255.119.204)  1.766 ms  1.762 ms  1.751 ms
+ 4  et-2-0-0.pe1.msct.nsw.aarnet.net.au (113.197.15.76)  24.574 ms  24.656 ms  24.647 ms
+ 5  et-1-3-0-199.pe2.brwy.nsw.aarnet.net.au (113.197.15.78)  24.951 ms  24.923 ms  25.002 ms
+ 6  et-0-0-0.pe1.a.hnl.aarnet.net.au (113.197.15.99)  117.969 ms  117.971 ms  118.171 ms
+ 7  et-1-0-0.bb1.a.sea.aarnet.net.au (202.158.194.110)  169.463 ms  169.474 ms  169.559 ms
+ 8  207.231.240.21 (207.231.240.21)  163.033 ms  163.126 ms  163.112 ms
+ 9  clgr2rtr1.canarie.ca (205.189.32.175)  173.777 ms  175.516 ms  175.504 ms
+10  wnpg1rtr1.canarie.ca (205.189.32.177)  188.199 ms  188.197 ms  188.186 ms
+11  toro1rtr1.canarie.ca (205.189.32.181)  209.448 ms  209.424 ms  209.377 ms
+12  border3.orion.on.ca (205.189.32.42)  209.860 ms  209.872 ms  209.954 ms
+13  be201.p01-toro.orion.on.ca (66.97.16.21)  209.945 ms  211.323 ms  210.075 ms
+14  be107.pe01-otwa.orion.on.ca (66.97.16.54)  215.255 ms  215.690 ms  215.529 ms
+15  CARLETON-ORION-RNE.DIST1-OTWA.IP.orion.on.ca (66.97.23.142)  214.687 ms  214.783 ms  214.818 ms
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  saturn.planetlab.carleton.ca (134.117.226.180)  214.815 ms  214.894 ms  214.859 ms
+traceroute to saturn.planetlab.carleton.ca (134.117.226.180), 30 hops max, 60 byte packets
+ 1  156.62.231.241 (156.62.231.241)  0.893 ms  0.981 ms  0.970 ms
+ 2  210.7.38.49 (210.7.38.49)  1.108 ms  1.103 ms  1.091 ms
+ 3  et-1-2-0-202.pe1.wnpa.akl.aarnet.net.au (182.255.119.204)  1.777 ms  1.771 ms  1.761 ms
+ 4  et-2-0-0.pe1.msct.nsw.aarnet.net.au (113.197.15.76)  24.540 ms  24.633 ms  24.621 ms
+ 5  et-1-3-0-199.pe2.brwy.nsw.aarnet.net.au (113.197.15.78)  24.949 ms  24.937 ms  25.018 ms
+ 6  et-0-0-0.pe1.a.hnl.aarnet.net.au (113.197.15.99)  118.006 ms  117.919 ms  117.988 ms
+ 7  et-1-0-0.bb1.a.sea.aarnet.net.au (202.158.194.110)  169.512 ms  169.598 ms  169.586 ms
+ 8  207.231.240.21 (207.231.240.21)  162.947 ms  163.006 ms  162.989 ms
+ 9  clgr2rtr1.canarie.ca (205.189.32.175)  173.955 ms  173.913 ms  173.901 ms
+10  wnpg1rtr1.canarie.ca (205.189.32.177)  188.193 ms  188.141 ms  188.132 ms
+11  toro1rtr1.canarie.ca (205.189.32.181)  209.459 ms  209.656 ms  209.631 ms
+12  border3.orion.on.ca (205.189.32.42)  210.232 ms  210.456 ms  210.433 ms
+13  be201.p01-toro.orion.on.ca (66.97.16.21)  210.245 ms  210.255 ms  210.354 ms
+14  be107.pe01-otwa.orion.on.ca (66.97.16.54)  215.537 ms  215.549 ms  215.612 ms
+15  CARLETON-ORION-RNE.DIST1-OTWA.IP.orion.on.ca (66.97.23.142)  214.590 ms  214.683 ms  214.712 ms
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  saturn.planetlab.carleton.ca (134.117.226.180)  214.931 ms  214.805 ms  214.876 ms
+traceroute to saturn.planetlab.carleton.ca (134.117.226.180), 30 hops max, 60 byte packets
+ 1  156.62.231.241 (156.62.231.241)  0.895 ms  0.887 ms  0.877 ms
+ 2  210.7.38.49 (210.7.38.49)  1.119 ms  1.108 ms  1.093 ms
+ 3  et-1-2-0-202.pe1.wnpa.akl.aarnet.net.au (182.255.119.204)  1.763 ms  1.752 ms  1.736 ms
+ 4  et-2-0-0.pe1.msct.nsw.aarnet.net.au (113.197.15.76)  24.562 ms  24.660 ms  24.642 ms
+ 5  et-1-3-0-199.pe2.brwy.nsw.aarnet.net.au (113.197.15.78)  25.024 ms  24.954 ms  24.983 ms
+ 6  et-0-0-0.pe1.a.hnl.aarnet.net.au (113.197.15.99)  117.970 ms  117.963 ms  118.051 ms
+ 7  et-1-0-0.bb1.a.sea.aarnet.net.au (202.158.194.110)  169.491 ms  169.577 ms  169.568 ms
+ 8  207.231.240.21 (207.231.240.21)  162.842 ms  162.980 ms  162.905 ms
+ 9  clgr2rtr1.canarie.ca (205.189.32.175)  173.945 ms  173.801 ms  173.794 ms
+10  wnpg1rtr1.canarie.ca (205.189.32.177)  188.153 ms  188.147 ms  188.137 ms
+11  toro1rtr1.canarie.ca (205.189.32.181)  209.442 ms  209.428 ms  209.376 ms
+12  border3.orion.on.ca (205.189.32.42)  209.970 ms  209.949 ms  210.037 ms
+13  be201.p01-toro.orion.on.ca (66.97.16.21)  210.252 ms  210.000 ms  210.153 ms
+14  be107.pe01-otwa.orion.on.ca (66.97.16.54)  215.340 ms  215.404 ms  215.554 ms
+15  CARLETON-ORION-RNE.DIST1-OTWA.IP.orion.on.ca (66.97.23.142)  214.663 ms  214.760 ms  214.786 ms
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  saturn.planetlab.carleton.ca (134.117.226.180)  214.774 ms  214.862 ms  214.933 ms
+traceroute to saturn.planetlab.carleton.ca (134.117.226.180), 30 hops max, 60 byte packets
+ 1  156.62.231.241 (156.62.231.241)  0.900 ms  0.959 ms  0.950 ms
+ 2  210.7.38.49 (210.7.38.49)  3.786 ms  3.993 ms  3.982 ms
+ 3  et-1-2-0-202.pe1.wnpa.akl.aarnet.net.au (182.255.119.204)  1.765 ms  1.749 ms  1.737 ms
+ 4  et-2-0-0.pe1.msct.nsw.aarnet.net.au (113.197.15.76)  24.557 ms  24.622 ms  24.610 ms
+ 5  et-1-3-0-199.pe2.brwy.nsw.aarnet.net.au (113.197.15.78)  24.956 ms  24.949 ms  25.002 ms
+ 6  et-0-0-0.pe1.a.hnl.aarnet.net.au (113.197.15.99)  117.946 ms  117.921 ms  117.877 ms
+ 7  et-1-0-0.bb1.a.sea.aarnet.net.au (202.158.194.110)  169.489 ms  169.579 ms  169.570 ms
+ 8  207.231.240.21 (207.231.240.21)  162.852 ms  162.885 ms  162.971 ms
+ 9  clgr2rtr1.canarie.ca (205.189.32.175)  173.834 ms  173.839 ms  173.830 ms
+10  wnpg1rtr1.canarie.ca (205.189.32.177)  188.228 ms  188.222 ms  188.211 ms
+11  toro1rtr1.canarie.ca (205.189.32.181)  209.593 ms  209.459 ms  209.506 ms
+12  border3.orion.on.ca (205.189.32.42)  210.147 ms  210.059 ms  210.060 ms
+13  be201.p01-toro.orion.on.ca (66.97.16.21)  210.324 ms  210.065 ms  210.152 ms
+14  be107.pe01-otwa.orion.on.ca (66.97.16.54)  214.913 ms  215.502 ms  215.551 ms
+15  CARLETON-ORION-RNE.DIST1-OTWA.IP.orion.on.ca (66.97.23.142)  214.683 ms  214.739 ms  214.811 ms
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  saturn.planetlab.carleton.ca (134.117.226.180)  214.826 ms  214.719 ms  214.862 ms
+traceroute to saturn.planetlab.carleton.ca (134.117.226.180), 30 hops max, 60 byte packets
+ 1  156.62.231.241 (156.62.231.241)  0.893 ms  0.883 ms  0.872 ms
+ 2  210.7.38.49 (210.7.38.49)  1.114 ms  1.113 ms  1.099 ms
+ 3  et-1-2-0-202.pe1.wnpa.akl.aarnet.net.au (182.255.119.204)  1.761 ms  1.751 ms  1.732 ms
+ 4  et-2-0-0.pe1.msct.nsw.aarnet.net.au (113.197.15.76)  24.538 ms  24.605 ms  24.597 ms
+ 5  et-1-3-0-199.pe2.brwy.nsw.aarnet.net.au (113.197.15.78)  24.989 ms  24.987 ms  24.976 ms
+ 6  et-0-0-0.pe1.a.hnl.aarnet.net.au (113.197.15.99)  117.940 ms  117.916 ms  117.925 ms
+ 7  et-1-0-0.bb1.a.sea.aarnet.net.au (202.158.194.110)  169.483 ms  169.564 ms  169.553 ms
+ 8  207.231.240.21 (207.231.240.21)  162.896 ms  162.984 ms  162.975 ms
+ 9  clgr2rtr1.canarie.ca (205.189.32.175)  177.629 ms  173.917 ms  173.905 ms
+10  wnpg1rtr1.canarie.ca (205.189.32.177)  188.359 ms  188.352 ms  188.341 ms
+11  toro1rtr1.canarie.ca (205.189.32.181)  209.425 ms  209.447 ms  209.395 ms
+12  border3.orion.on.ca (205.189.32.42)  209.989 ms  209.828 ms  209.889 ms
+13  be201.p01-toro.orion.on.ca (66.97.16.21)  210.076 ms  209.972 ms  210.150 ms
+14  be107.pe01-otwa.orion.on.ca (66.97.16.54)  215.315 ms  215.221 ms  215.349 ms
+15  CARLETON-ORION-RNE.DIST1-OTWA.IP.orion.on.ca (66.97.23.142)  214.609 ms  214.692 ms  214.728 ms
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  saturn.planetlab.carleton.ca (134.117.226.180)  214.763 ms  214.923 ms  214.735 ms
+traceroute to saturn.planetlab.carleton.ca (134.117.226.180), 30 hops max, 60 byte packets
+ 1  156.62.231.241 (156.62.231.241)  0.895 ms  1.116 ms  1.103 ms
+ 2  210.7.38.49 (210.7.38.49)  1.092 ms  1.083 ms  1.106 ms
+ 3  et-1-2-0-202.pe1.wnpa.akl.aarnet.net.au (182.255.119.204)  2.759 ms  2.749 ms  2.737 ms
+ 4  et-2-0-0.pe1.msct.nsw.aarnet.net.au (113.197.15.76)  24.576 ms  24.627 ms  24.616 ms
+ 5  et-1-3-0-199.pe2.brwy.nsw.aarnet.net.au (113.197.15.78)  26.643 ms  26.634 ms  26.662 ms
+ 6  et-0-0-0.pe1.a.hnl.aarnet.net.au (113.197.15.99)  118.121 ms  117.994 ms  118.113 ms
+ 7  et-1-0-0.bb1.a.sea.aarnet.net.au (202.158.194.110)  169.508 ms  169.585 ms  169.569 ms
+ 8  207.231.240.21 (207.231.240.21)  162.911 ms  163.005 ms  162.997 ms
+ 9  clgr2rtr1.canarie.ca (205.189.32.175)  174.528 ms  173.914 ms  173.903 ms
+10  wnpg1rtr1.canarie.ca (205.189.32.177)  188.191 ms  188.181 ms  188.170 ms
+11  toro1rtr1.canarie.ca (205.189.32.181)  209.522 ms  209.446 ms  209.573 ms
+12  border3.orion.on.ca (205.189.32.42)  210.059 ms  209.942 ms  209.923 ms
+13  be201.p01-toro.orion.on.ca (66.97.16.21)  209.980 ms  210.187 ms  210.253 ms
+14  be107.pe01-otwa.orion.on.ca (66.97.16.54)  215.389 ms  215.389 ms  215.466 ms
+15  CARLETON-ORION-RNE.DIST1-OTWA.IP.orion.on.ca (66.97.23.142)  214.634 ms  214.725 ms  214.760 ms
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  saturn.planetlab.carleton.ca (134.117.226.180)  215.015 ms  215.090 ms  215.033 ms
+traceroute to saturn.planetlab.carleton.ca (134.117.226.180), 30 hops max, 60 byte packets
+ 1  156.62.231.241 (156.62.231.241)  0.893 ms  0.923 ms  0.912 ms
+ 2  210.7.38.49 (210.7.38.49)  1.098 ms  1.087 ms  1.075 ms
+ 3  et-1-2-0-202.pe1.wnpa.akl.aarnet.net.au (182.255.119.204)  1.757 ms  1.742 ms  1.729 ms
+ 4  et-2-0-0.pe1.msct.nsw.aarnet.net.au (113.197.15.76)  24.540 ms  24.615 ms  24.607 ms
+ 5  et-1-3-0-199.pe2.brwy.nsw.aarnet.net.au (113.197.15.78)  26.053 ms  26.042 ms  26.126 ms
+ 6  et-0-0-0.pe1.a.hnl.aarnet.net.au (113.197.15.99)  117.939 ms  117.948 ms  117.919 ms
+ 7  et-1-0-0.bb1.a.sea.aarnet.net.au (202.158.194.110)  169.475 ms  169.469 ms  169.453 ms
+ 8  207.231.240.21 (207.231.240.21)  163.069 ms  163.143 ms  163.133 ms
+ 9  clgr2rtr1.canarie.ca (205.189.32.175)  173.804 ms  173.798 ms  173.785 ms
+10  wnpg1rtr1.canarie.ca (205.189.32.177)  188.955 ms  188.946 ms  188.935 ms
+11  toro1rtr1.canarie.ca (205.189.32.181)  209.434 ms  209.413 ms  209.402 ms
+12  border3.orion.on.ca (205.189.32.42)  210.171 ms  209.919 ms  209.909 ms
+13  be201.p01-toro.orion.on.ca (66.97.16.21)  210.062 ms  209.997 ms  210.145 ms
+14  be107.pe01-otwa.orion.on.ca (66.97.16.54)  215.119 ms  215.379 ms  215.366 ms
+15  CARLETON-ORION-RNE.DIST1-OTWA.IP.orion.on.ca (66.97.23.142)  214.643 ms  214.719 ms  214.802 ms
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  saturn.planetlab.carleton.ca (134.117.226.180)  214.876 ms  214.829 ms  214.784 ms
+traceroute to saturn.planetlab.carleton.ca (134.117.226.180), 30 hops max, 60 byte packets
+ 1  156.62.231.241 (156.62.231.241)  0.896 ms  0.880 ms  0.867 ms
+ 2  210.7.38.49 (210.7.38.49)  1.081 ms  1.072 ms  1.059 ms
+ 3  et-1-2-0-202.pe1.wnpa.akl.aarnet.net.au (182.255.119.204)  1.767 ms  1.757 ms  1.744 ms
+ 4  et-2-0-0.pe1.msct.nsw.aarnet.net.au (113.197.15.76)  24.555 ms  24.629 ms  24.620 ms
+ 5  et-1-3-0-199.pe2.brwy.nsw.aarnet.net.au (113.197.15.78)  24.956 ms  24.944 ms  24.993 ms
+ 6  et-0-0-0.pe1.a.hnl.aarnet.net.au (113.197.15.99)  117.967 ms  117.968 ms  117.958 ms
+ 7  et-1-0-0.bb1.a.sea.aarnet.net.au (202.158.194.110)  169.444 ms  169.425 ms  169.545 ms
+ 8  207.231.240.21 (207.231.240.21)  162.923 ms  162.917 ms  162.906 ms
+ 9  clgr2rtr1.canarie.ca (205.189.32.175)  173.777 ms  173.798 ms  173.786 ms
+10  wnpg1rtr1.canarie.ca (205.189.32.177)  188.187 ms  188.178 ms  188.168 ms
+11  toro1rtr1.canarie.ca (205.189.32.181)  209.956 ms  209.380 ms  209.430 ms
+12  border3.orion.on.ca (205.189.32.42)  210.032 ms  210.210 ms  210.247 ms
+13  be201.p01-toro.orion.on.ca (66.97.16.21)  210.231 ms  210.140 ms  210.017 ms
+14  be107.pe01-otwa.orion.on.ca (66.97.16.54)  215.423 ms  215.343 ms  215.434 ms
+15  CARLETON-ORION-RNE.DIST1-OTWA.IP.orion.on.ca (66.97.23.142)  214.626 ms  214.704 ms  214.733 ms
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  saturn.planetlab.carleton.ca (134.117.226.180)  214.747 ms  214.799 ms  214.755 ms
+traceroute to saturn.planetlab.carleton.ca (134.117.226.180), 30 hops max, 60 byte packets
+ 1  156.62.231.241 (156.62.231.241)  0.866 ms  0.904 ms  0.892 ms
+ 2  210.7.38.49 (210.7.38.49)  1.094 ms  1.080 ms  1.067 ms
+ 3  et-1-2-0-202.pe1.wnpa.akl.aarnet.net.au (182.255.119.204)  1.811 ms  1.794 ms  1.778 ms
+ 4  et-2-0-0.pe1.msct.nsw.aarnet.net.au (113.197.15.76)  24.579 ms  24.663 ms  24.656 ms
+ 5  et-1-3-0-199.pe2.brwy.nsw.aarnet.net.au (113.197.15.78)  24.926 ms  24.918 ms  24.949 ms
+ 6  et-0-0-0.pe1.a.hnl.aarnet.net.au (113.197.15.99)  117.945 ms  117.923 ms  117.928 ms
+ 7  et-1-0-0.bb1.a.sea.aarnet.net.au (202.158.194.110)  169.594 ms  169.572 ms  169.561 ms
+ 8  207.231.240.21 (207.231.240.21)  162.919 ms  163.008 ms  162.998 ms
+ 9  clgr2rtr1.canarie.ca (205.189.32.175)  174.310 ms  173.820 ms  173.811 ms
+10  wnpg1rtr1.canarie.ca (205.189.32.177)  188.141 ms  188.135 ms  188.124 ms
+11  toro1rtr1.canarie.ca (205.189.32.181)  209.499 ms  209.431 ms  209.491 ms
+12  border3.orion.on.ca (205.189.32.42)  209.917 ms  210.075 ms  210.104 ms
+13  be201.p01-toro.orion.on.ca (66.97.16.21)  210.030 ms  210.006 ms  210.163 ms
+14  be107.pe01-otwa.orion.on.ca (66.97.16.54)  215.061 ms  215.434 ms  215.500 ms
+15  CARLETON-ORION-RNE.DIST1-OTWA.IP.orion.on.ca (66.97.23.142)  214.743 ms  214.823 ms  214.852 ms
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  saturn.planetlab.carleton.ca (134.117.226.180)  214.748 ms  214.820 ms  214.748 ms
+traceroute to saturn.planetlab.carleton.ca (134.117.226.180), 30 hops max, 60 byte packets
+ 1  156.62.231.241 (156.62.231.241)  0.893 ms  0.964 ms  0.952 ms
+ 2  210.7.38.49 (210.7.38.49)  1.139 ms  1.136 ms  1.124 ms
+ 3  et-1-2-0-202.pe1.wnpa.akl.aarnet.net.au (182.255.119.204)  1.752 ms  1.742 ms  1.725 ms
+ 4  et-2-0-0.pe1.msct.nsw.aarnet.net.au (113.197.15.76)  24.548 ms  24.630 ms  24.620 ms
+ 5  et-1-3-0-199.pe2.brwy.nsw.aarnet.net.au (113.197.15.78)  24.928 ms  24.922 ms  24.951 ms
+ 6  et-0-0-0.pe1.a.hnl.aarnet.net.au (113.197.15.99)  117.940 ms  117.899 ms  117.927 ms
+ 7  et-1-0-0.bb1.a.sea.aarnet.net.au (202.158.194.110)  169.502 ms  169.578 ms  169.568 ms
+ 8  207.231.240.21 (207.231.240.21)  162.923 ms  163.008 ms  163.001 ms
+ 9  clgr2rtr1.canarie.ca (205.189.32.175)  173.813 ms  173.793 ms  173.781 ms
+10  wnpg1rtr1.canarie.ca (205.189.32.177)  188.136 ms  188.115 ms  188.148 ms
+11  toro1rtr1.canarie.ca (205.189.32.181)  209.482 ms  209.900 ms  209.434 ms
+12  border3.orion.on.ca (205.189.32.42)  210.066 ms  209.976 ms  210.012 ms
+13  be201.p01-toro.orion.on.ca (66.97.16.21)  210.058 ms  210.004 ms  210.006 ms
+14  be107.pe01-otwa.orion.on.ca (66.97.16.54)  215.381 ms  215.209 ms  215.436 ms
+15  CARLETON-ORION-RNE.DIST1-OTWA.IP.orion.on.ca (66.97.23.142)  214.621 ms  214.675 ms  214.754 ms
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  saturn.planetlab.carleton.ca (134.117.226.180)  214.789 ms  214.835 ms  214.779 ms
+traceroute to saturn.planetlab.carleton.ca (134.117.226.180), 30 hops max, 60 byte packets
+ 1  156.62.231.241 (156.62.231.241)  0.898 ms  1.019 ms  1.012 ms
+ 2  210.7.38.49 (210.7.38.49)  1.091 ms  1.084 ms  1.073 ms
+ 3  et-1-2-0-202.pe1.wnpa.akl.aarnet.net.au (182.255.119.204)  1.782 ms  1.767 ms  1.854 ms
+ 4  et-2-0-0.pe1.msct.nsw.aarnet.net.au (113.197.15.76)  24.559 ms  24.645 ms  24.633 ms
+ 5  et-1-3-0-199.pe2.brwy.nsw.aarnet.net.au (113.197.15.78)  24.952 ms  24.943 ms  24.931 ms
+ 6  et-0-0-0.pe1.a.hnl.aarnet.net.au (113.197.15.99)  118.745 ms  120.608 ms  119.053 ms
+ 7  et-1-0-0.bb1.a.sea.aarnet.net.au (202.158.194.110)  169.498 ms  169.581 ms  169.571 ms
+ 8  207.231.240.21 (207.231.240.21)  162.905 ms  162.993 ms  162.979 ms
+ 9  clgr2rtr1.canarie.ca (205.189.32.175)  173.828 ms  173.810 ms  173.854 ms
+10  wnpg1rtr1.canarie.ca (205.189.32.177)  188.406 ms  188.345 ms  188.330 ms
+11  toro1rtr1.canarie.ca (205.189.32.181)  209.454 ms  210.257 ms  210.882 ms
+12  border3.orion.on.ca (205.189.32.42)  210.056 ms  209.806 ms  209.796 ms
+13  be201.p01-toro.orion.on.ca (66.97.16.21)  210.240 ms  209.973 ms  210.202 ms
+14  be107.pe01-otwa.orion.on.ca (66.97.16.54)  215.281 ms  215.259 ms  215.340 ms
+15  CARLETON-ORION-RNE.DIST1-OTWA.IP.orion.on.ca (66.97.23.142)  214.710 ms  214.784 ms  214.807 ms
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  saturn.planetlab.carleton.ca (134.117.226.180)  214.772 ms  214.855 ms  214.744 ms
+traceroute to saturn.planetlab.carleton.ca (134.117.226.180), 30 hops max, 60 byte packets
+ 1  156.62.231.241 (156.62.231.241)  0.894 ms  0.881 ms  0.870 ms
+ 2  210.7.38.49 (210.7.38.49)  1.092 ms  1.085 ms  1.074 ms
+ 3  et-1-2-0-202.pe1.wnpa.akl.aarnet.net.au (182.255.119.204)  1.756 ms  1.747 ms  1.735 ms
+ 4  et-2-0-0.pe1.msct.nsw.aarnet.net.au (113.197.15.76)  24.548 ms  24.634 ms  24.625 ms
+ 5  et-1-3-0-199.pe2.brwy.nsw.aarnet.net.au (113.197.15.78)  24.949 ms  24.940 ms  24.989 ms
+ 6  et-0-0-0.pe1.a.hnl.aarnet.net.au (113.197.15.99)  117.980 ms  117.917 ms  117.948 ms
+ 7  et-1-0-0.bb1.a.sea.aarnet.net.au (202.158.194.110)  169.480 ms  169.561 ms  169.551 ms
+ 8  207.231.240.21 (207.231.240.21)  162.958 ms  163.039 ms  163.028 ms
+ 9  clgr2rtr1.canarie.ca (205.189.32.175)  173.787 ms  173.905 ms  173.937 ms
+10  wnpg1rtr1.canarie.ca (205.189.32.177)  188.099 ms  188.372 ms  188.361 ms
+11  toro1rtr1.canarie.ca (205.189.32.181)  209.392 ms  209.400 ms  209.415 ms
+12  border3.orion.on.ca (205.189.32.42)  209.989 ms  209.857 ms  209.910 ms
+13  be201.p01-toro.orion.on.ca (66.97.16.21)  210.248 ms  210.396 ms  210.442 ms
+14  be107.pe01-otwa.orion.on.ca (66.97.16.54)  215.401 ms  215.379 ms  215.411 ms
+15  CARLETON-ORION-RNE.DIST1-OTWA.IP.orion.on.ca (66.97.23.142)  214.602 ms  214.684 ms  214.711 ms
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  saturn.planetlab.carleton.ca (134.117.226.180)  214.820 ms  214.858 ms  214.759 ms
+traceroute to saturn.planetlab.carleton.ca (134.117.226.180), 30 hops max, 60 byte packets
+ 1  156.62.231.241 (156.62.231.241)  0.896 ms  1.084 ms  1.072 ms
+ 2  210.7.38.49 (210.7.38.49)  1.193 ms  1.367 ms  1.359 ms
+ 3  et-1-2-0-202.pe1.wnpa.akl.aarnet.net.au (182.255.119.204)  1.721 ms  1.713 ms  1.745 ms
+ 4  et-2-0-0.pe1.msct.nsw.aarnet.net.au (113.197.15.76)  27.167 ms  27.250 ms  27.241 ms
+ 5  et-1-3-0-199.pe2.brwy.nsw.aarnet.net.au (113.197.15.78)  24.949 ms  25.003 ms  24.994 ms
+ 6  et-0-0-0.pe1.a.hnl.aarnet.net.au (113.197.15.99)  118.265 ms  117.951 ms  117.943 ms
+ 7  et-1-0-0.bb1.a.sea.aarnet.net.au (202.158.194.110)  169.498 ms  169.570 ms  169.559 ms
+ 8  207.231.240.21 (207.231.240.21)  162.916 ms  163.010 ms  163.000 ms
+ 9  clgr2rtr1.canarie.ca (205.189.32.175)  173.844 ms  173.832 ms  173.802 ms
+10  wnpg1rtr1.canarie.ca (205.189.32.177)  188.106 ms  188.130 ms  188.120 ms
+11  toro1rtr1.canarie.ca (205.189.32.181)  209.496 ms  209.409 ms  209.386 ms
+12  border3.orion.on.ca (205.189.32.42)  209.917 ms  210.030 ms  210.013 ms
+13  be201.p01-toro.orion.on.ca (66.97.16.21)  211.483 ms  210.062 ms  210.144 ms
+14  be107.pe01-otwa.orion.on.ca (66.97.16.54)  215.037 ms  215.387 ms  215.456 ms
+15  CARLETON-ORION-RNE.DIST1-OTWA.IP.orion.on.ca (66.97.23.142)  214.616 ms  214.676 ms  214.703 ms
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  saturn.planetlab.carleton.ca (134.117.226.180)  214.911 ms  214.777 ms  214.747 ms
+traceroute to saturn.planetlab.carleton.ca (134.117.226.180), 30 hops max, 60 byte packets
+ 1  156.62.231.241 (156.62.231.241)  0.894 ms  0.975 ms  0.962 ms
+ 2  210.7.38.49 (210.7.38.49)  1.048 ms  1.037 ms  1.056 ms
+ 3  et-1-2-0-202.pe1.wnpa.akl.aarnet.net.au (182.255.119.204)  1.766 ms  1.755 ms  1.744 ms
+ 4  et-2-0-0.pe1.msct.nsw.aarnet.net.au (113.197.15.76)  24.542 ms  24.543 ms  24.532 ms
+ 5  et-1-3-0-199.pe2.brwy.nsw.aarnet.net.au (113.197.15.78)  26.415 ms  26.402 ms  26.435 ms
+ 6  et-0-0-0.pe1.a.hnl.aarnet.net.au (113.197.15.99)  117.936 ms  117.931 ms  117.931 ms
+ 7  et-1-0-0.bb1.a.sea.aarnet.net.au (202.158.194.110)  169.506 ms  169.650 ms  169.640 ms
+ 8  207.231.240.21 (207.231.240.21)  162.888 ms  162.972 ms  162.956 ms
+ 9  clgr2rtr1.canarie.ca (205.189.32.175)  174.187 ms  173.908 ms  173.896 ms
+10  wnpg1rtr1.canarie.ca (205.189.32.177)  188.212 ms  188.366 ms  188.355 ms
+11  toro1rtr1.canarie.ca (205.189.32.181)  209.483 ms  209.597 ms  209.390 ms
+12  border3.orion.on.ca (205.189.32.42)  209.988 ms  209.953 ms  209.937 ms
+13  be201.p01-toro.orion.on.ca (66.97.16.21)  210.174 ms  210.010 ms  211.414 ms
+14  be107.pe01-otwa.orion.on.ca (66.97.16.54)  215.038 ms  215.333 ms  215.367 ms
+15  CARLETON-ORION-RNE.DIST1-OTWA.IP.orion.on.ca (66.97.23.142)  214.658 ms  214.801 ms  214.790 ms
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  saturn.planetlab.carleton.ca (134.117.226.180)  214.774 ms  214.857 ms  214.820 ms
+traceroute to saturn.planetlab.carleton.ca (134.117.226.180), 30 hops max, 60 byte packets
+ 1  156.62.231.241 (156.62.231.241)  0.908 ms  1.026 ms  1.021 ms
+ 2  210.7.38.49 (210.7.38.49)  1.095 ms  1.085 ms  1.074 ms
+ 3  et-1-2-0-202.pe1.wnpa.akl.aarnet.net.au (182.255.119.204)  1.773 ms  1.762 ms  1.745 ms
+ 4  et-2-0-0.pe1.msct.nsw.aarnet.net.au (113.197.15.76)  24.559 ms  24.652 ms  24.642 ms
+ 5  et-1-3-0-199.pe2.brwy.nsw.aarnet.net.au (113.197.15.78)  25.027 ms  24.932 ms  25.023 ms
+ 6  et-0-0-0.pe1.a.hnl.aarnet.net.au (113.197.15.99)  117.955 ms  117.975 ms  118.182 ms
+ 7  et-1-0-0.bb1.a.sea.aarnet.net.au (202.158.194.110)  169.460 ms  169.544 ms  169.534 ms
+ 8  207.231.240.21 (207.231.240.21)  162.920 ms  163.019 ms  162.917 ms
+ 9  clgr2rtr1.canarie.ca (205.189.32.175)  173.954 ms  173.823 ms  173.811 ms
+10  wnpg1rtr1.canarie.ca (205.189.32.177)  188.468 ms  188.453 ms  188.506 ms
+11  toro1rtr1.canarie.ca (205.189.32.181)  209.429 ms  209.408 ms  209.572 ms
+12  border3.orion.on.ca (205.189.32.42)  209.993 ms  209.929 ms  209.967 ms
+13  be201.p01-toro.orion.on.ca (66.97.16.21)  210.682 ms  210.360 ms  210.434 ms
+14  be107.pe01-otwa.orion.on.ca (66.97.16.54)  215.439 ms  215.243 ms  215.279 ms
+15  CARLETON-ORION-RNE.DIST1-OTWA.IP.orion.on.ca (66.97.23.142)  214.711 ms  214.615 ms  214.736 ms
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  saturn.planetlab.carleton.ca (134.117.226.180)  214.805 ms  214.851 ms  214.780 ms
+traceroute to saturn.planetlab.carleton.ca (134.117.226.180), 30 hops max, 60 byte packets
+ 1  156.62.231.241 (156.62.231.241)  0.898 ms  0.976 ms  0.884 ms
+ 2  210.7.38.49 (210.7.38.49)  1.136 ms  1.127 ms  1.114 ms
+ 3  et-1-2-0-202.pe1.wnpa.akl.aarnet.net.au (182.255.119.204)  2.459 ms  2.471 ms  2.459 ms
+ 4  et-2-0-0.pe1.msct.nsw.aarnet.net.au (113.197.15.76)  24.558 ms  24.548 ms  24.536 ms
+ 5  et-1-3-0-199.pe2.brwy.nsw.aarnet.net.au (113.197.15.78)  24.970 ms  24.963 ms  25.042 ms
+ 6  et-0-0-0.pe1.a.hnl.aarnet.net.au (113.197.15.99)  117.950 ms  117.927 ms  117.962 ms
+ 7  et-1-0-0.bb1.a.sea.aarnet.net.au (202.158.194.110)  169.498 ms  169.570 ms  169.560 ms
+ 8  207.231.240.21 (207.231.240.21)  162.888 ms  162.965 ms  162.957 ms
+ 9  clgr2rtr1.canarie.ca (205.189.32.175)  173.772 ms  173.786 ms  173.776 ms
+10  wnpg1rtr1.canarie.ca (205.189.32.177)  188.278 ms  188.145 ms  188.134 ms
+11  toro1rtr1.canarie.ca (205.189.32.181)  209.397 ms  209.436 ms  209.380 ms
+12  border3.orion.on.ca (205.189.32.42)  210.220 ms  209.880 ms  209.935 ms
+13  be201.p01-toro.orion.on.ca (66.97.16.21)  210.212 ms  210.030 ms  209.891 ms
+14  be107.pe01-otwa.orion.on.ca (66.97.16.54)  215.348 ms  215.383 ms  215.478 ms
+15  CARLETON-ORION-RNE.DIST1-OTWA.IP.orion.on.ca (66.97.23.142)  214.620 ms  214.720 ms  214.741 ms
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  saturn.planetlab.carleton.ca (134.117.226.180)  214.811 ms  214.888 ms  214.761 ms
+traceroute to saturn.planetlab.carleton.ca (134.117.226.180), 30 hops max, 60 byte packets
+ 1  156.62.231.241 (156.62.231.241)  0.891 ms  1.021 ms  1.011 ms
+ 2  210.7.38.49 (210.7.38.49)  1.058 ms  1.053 ms  1.124 ms
+ 3  et-1-2-0-202.pe1.wnpa.akl.aarnet.net.au (182.255.119.204)  1.731 ms  1.719 ms  1.705 ms
+ 4  et-2-0-0.pe1.msct.nsw.aarnet.net.au (113.197.15.76)  24.549 ms  24.573 ms  24.562 ms
+ 5  et-1-3-0-199.pe2.brwy.nsw.aarnet.net.au (113.197.15.78)  24.957 ms  24.946 ms  24.930 ms
+ 6  et-0-0-0.pe1.a.hnl.aarnet.net.au (113.197.15.99)  119.480 ms  119.032 ms  117.939 ms
+ 7  et-1-0-0.bb1.a.sea.aarnet.net.au (202.158.194.110)  169.494 ms  169.553 ms  169.544 ms
+ 8  207.231.240.21 (207.231.240.21)  162.899 ms  162.976 ms  162.961 ms
+ 9  clgr2rtr1.canarie.ca (205.189.32.175)  174.152 ms  173.897 ms  173.884 ms
+10  wnpg1rtr1.canarie.ca (205.189.32.177)  188.096 ms  188.152 ms  188.133 ms
+11  toro1rtr1.canarie.ca (205.189.32.181)  209.425 ms  209.394 ms  209.507 ms
+12  border3.orion.on.ca (205.189.32.42)  210.134 ms  209.929 ms  209.913 ms
+13  be201.p01-toro.orion.on.ca (66.97.16.21)  210.332 ms  210.302 ms  210.283 ms
+14  be107.pe01-otwa.orion.on.ca (66.97.16.54)  215.280 ms  215.488 ms  215.537 ms
+15  CARLETON-ORION-RNE.DIST1-OTWA.IP.orion.on.ca (66.97.23.142)  214.673 ms  214.744 ms  214.721 ms
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  saturn.planetlab.carleton.ca (134.117.226.180)  214.756 ms  214.822 ms  214.886 ms
+traceroute to saturn.planetlab.carleton.ca (134.117.226.180), 30 hops max, 60 byte packets
+ 1  156.62.231.241 (156.62.231.241)  0.901 ms  0.931 ms  0.990 ms
+ 2  210.7.38.49 (210.7.38.49)  1.047 ms  1.035 ms  1.062 ms
+ 3  et-1-2-0-202.pe1.wnpa.akl.aarnet.net.au (182.255.119.204)  1.769 ms  1.758 ms  1.742 ms
+ 4  et-2-0-0.pe1.msct.nsw.aarnet.net.au (113.197.15.76)  24.579 ms  24.660 ms  24.651 ms
+ 5  et-1-3-0-199.pe2.brwy.nsw.aarnet.net.au (113.197.15.78)  24.922 ms  24.915 ms  24.989 ms
+ 6  et-0-0-0.pe1.a.hnl.aarnet.net.au (113.197.15.99)  118.030 ms  117.930 ms  117.922 ms
+ 7  et-1-0-0.bb1.a.sea.aarnet.net.au (202.158.194.110)  169.429 ms  169.463 ms  169.534 ms
+ 8  207.231.240.21 (207.231.240.21)  162.954 ms  163.029 ms  163.015 ms
+ 9  clgr2rtr1.canarie.ca (205.189.32.175)  174.290 ms  173.820 ms  173.807 ms
+10  wnpg1rtr1.canarie.ca (205.189.32.177)  188.154 ms  188.145 ms  188.134 ms
+11  toro1rtr1.canarie.ca (205.189.32.181)  209.437 ms  209.992 ms  210.509 ms
+12  border3.orion.on.ca (205.189.32.42)  209.957 ms  210.075 ms  210.061 ms
+13  be201.p01-toro.orion.on.ca (66.97.16.21)  210.028 ms  210.003 ms  209.996 ms
+14  be107.pe01-otwa.orion.on.ca (66.97.16.54)  215.308 ms  215.371 ms  215.443 ms
+15  CARLETON-ORION-RNE.DIST1-OTWA.IP.orion.on.ca (66.97.23.142)  215.590 ms  215.694 ms  215.781 ms
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  saturn.planetlab.carleton.ca (134.117.226.180)  214.771 ms  214.746 ms  214.804 ms
+traceroute to saturn.planetlab.carleton.ca (134.117.226.180), 30 hops max, 60 byte packets
+ 1  156.62.231.241 (156.62.231.241)  0.905 ms  0.953 ms  0.943 ms
+ 2  210.7.38.49 (210.7.38.49)  1.070 ms  1.073 ms  1.060 ms
+ 3  et-1-2-0-202.pe1.wnpa.akl.aarnet.net.au (182.255.119.204)  1.792 ms  1.781 ms  1.770 ms
+ 4  et-2-0-0.pe1.msct.nsw.aarnet.net.au (113.197.15.76)  24.597 ms  24.666 ms  24.655 ms
+ 5  et-1-3-0-199.pe2.brwy.nsw.aarnet.net.au (113.197.15.78)  24.964 ms  24.961 ms  24.950 ms
+ 6  et-0-0-0.pe1.a.hnl.aarnet.net.au (113.197.15.99)  117.920 ms  117.978 ms  118.020 ms
+ 7  et-1-0-0.bb1.a.sea.aarnet.net.au (202.158.194.110)  169.480 ms  169.571 ms  169.563 ms
+ 8  207.231.240.21 (207.231.240.21)  162.917 ms  162.962 ms  162.952 ms
+ 9  clgr2rtr1.canarie.ca (205.189.32.175)  174.155 ms  173.822 ms  173.807 ms
+10  wnpg1rtr1.canarie.ca (205.189.32.177)  188.139 ms  188.077 ms  188.184 ms
+11  toro1rtr1.canarie.ca (205.189.32.181)  209.462 ms  209.447 ms  209.414 ms
+12  border3.orion.on.ca (205.189.32.42)  212.387 ms  210.643 ms  210.532 ms
+13  be201.p01-toro.orion.on.ca (66.97.16.21)  210.173 ms  210.087 ms  210.103 ms
+14  be107.pe01-otwa.orion.on.ca (66.97.16.54)  215.328 ms  215.409 ms  215.397 ms
+15  CARLETON-ORION-RNE.DIST1-OTWA.IP.orion.on.ca (66.97.23.142)  214.592 ms  214.668 ms  214.689 ms
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  saturn.planetlab.carleton.ca (134.117.226.180)  214.747 ms  214.825 ms  214.770 ms
+traceroute to saturn.planetlab.carleton.ca (134.117.226.180), 30 hops max, 60 byte packets
+ 1  156.62.231.241 (156.62.231.241)  0.879 ms  0.867 ms  0.902 ms
+ 2  210.7.38.49 (210.7.38.49)  1.107 ms  1.095 ms  1.083 ms
+ 3  et-1-2-0-202.pe1.wnpa.akl.aarnet.net.au (182.255.119.204)  1.686 ms  1.888 ms  1.723 ms
+ 4  et-2-0-0.pe1.msct.nsw.aarnet.net.au (113.197.15.76)  24.463 ms  24.498 ms  24.487 ms
+ 5  et-1-3-0-199.pe2.brwy.nsw.aarnet.net.au (113.197.15.78)  24.935 ms  24.924 ms  24.994 ms
+ 6  et-0-0-0.pe1.a.hnl.aarnet.net.au (113.197.15.99)  117.935 ms  117.912 ms  117.926 ms
+ 7  et-1-0-0.bb1.a.sea.aarnet.net.au (202.158.194.110)  169.449 ms  169.524 ms  169.515 ms
+ 8  207.231.240.21 (207.231.240.21)  162.941 ms  163.027 ms  163.017 ms
+ 9  clgr2rtr1.canarie.ca (205.189.32.175)  173.807 ms  173.807 ms  173.798 ms
+10  wnpg1rtr1.canarie.ca (205.189.32.177)  188.071 ms  188.133 ms  188.192 ms
+11  toro1rtr1.canarie.ca (205.189.32.181)  210.268 ms  209.394 ms  209.461 ms
+12  border3.orion.on.ca (205.189.32.42)  210.189 ms  210.231 ms  210.216 ms
+13  be201.p01-toro.orion.on.ca (66.97.16.21)  210.197 ms  209.939 ms  211.483 ms
+14  be107.pe01-otwa.orion.on.ca (66.97.16.54)  215.349 ms  215.078 ms  215.298 ms
+15  CARLETON-ORION-RNE.DIST1-OTWA.IP.orion.on.ca (66.97.23.142)  214.593 ms  214.666 ms  214.698 ms
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  saturn.planetlab.carleton.ca (134.117.226.180)  214.791 ms  214.825 ms  214.771 ms
+traceroute to saturn.planetlab.carleton.ca (134.117.226.180), 30 hops max, 60 byte packets
+ 1  156.62.231.241 (156.62.231.241)  0.878 ms  1.001 ms  0.990 ms
+ 2  210.7.38.49 (210.7.38.49)  1.116 ms  1.104 ms  1.092 ms
+ 3  et-1-2-0-202.pe1.wnpa.akl.aarnet.net.au (182.255.119.204)  1.755 ms  1.744 ms  1.731 ms
+ 4  et-2-0-0.pe1.msct.nsw.aarnet.net.au (113.197.15.76)  24.471 ms  24.635 ms  24.624 ms
+ 5  et-1-3-0-199.pe2.brwy.nsw.aarnet.net.au (113.197.15.78)  24.950 ms  24.939 ms  24.969 ms
+ 6  et-0-0-0.pe1.a.hnl.aarnet.net.au (113.197.15.99)  117.937 ms  117.974 ms  118.052 ms
+ 7  et-1-0-0.bb1.a.sea.aarnet.net.au (202.158.194.110)  169.483 ms  169.515 ms  169.506 ms
+ 8  207.231.240.21 (207.231.240.21)  162.901 ms  162.983 ms  162.973 ms
+ 9  clgr2rtr1.canarie.ca (205.189.32.175)  173.756 ms  174.025 ms  174.015 ms
+10  wnpg1rtr1.canarie.ca (205.189.32.177)  188.280 ms  188.160 ms  188.148 ms
+11  toro1rtr1.canarie.ca (205.189.32.181)  209.422 ms  209.413 ms  209.378 ms
+12  border3.orion.on.ca (205.189.32.42)  210.181 ms  210.360 ms  210.337 ms
+13  be201.p01-toro.orion.on.ca (66.97.16.21)  211.763 ms  210.002 ms  210.669 ms
+14  be107.pe01-otwa.orion.on.ca (66.97.16.54)  215.870 ms  215.778 ms  215.766 ms
+15  CARLETON-ORION-RNE.DIST1-OTWA.IP.orion.on.ca (66.97.23.142)  217.981 ms  218.049 ms  218.041 ms
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  saturn.planetlab.carleton.ca (134.117.226.180)  214.801 ms  214.856 ms  218.544 ms
+traceroute to saturn.planetlab.carleton.ca (134.117.226.180), 30 hops max, 60 byte packets
+ 1  156.62.231.241 (156.62.231.241)  0.904 ms  0.989 ms  0.977 ms
+ 2  210.7.38.49 (210.7.38.49)  1.084 ms  1.078 ms  1.036 ms
+ 3  et-1-2-0-202.pe1.wnpa.akl.aarnet.net.au (182.255.119.204)  2.288 ms  2.279 ms  2.261 ms
+ 4  et-2-0-0.pe1.msct.nsw.aarnet.net.au (113.197.15.76)  24.552 ms  24.607 ms  24.592 ms
+ 5  et-1-3-0-199.pe2.brwy.nsw.aarnet.net.au (113.197.15.78)  24.938 ms  24.928 ms  25.013 ms
+ 6  et-0-0-0.pe1.a.hnl.aarnet.net.au (113.197.15.99)  117.962 ms  117.928 ms  117.929 ms
+ 7  et-1-0-0.bb1.a.sea.aarnet.net.au (202.158.194.110)  169.715 ms  169.575 ms  169.564 ms
+ 8  207.231.240.21 (207.231.240.21)  162.971 ms  163.042 ms  163.030 ms
+ 9  clgr2rtr1.canarie.ca (205.189.32.175)  174.756 ms  173.832 ms  173.822 ms
+10  wnpg1rtr1.canarie.ca (205.189.32.177)  188.175 ms  188.221 ms  188.211 ms
+11  toro1rtr1.canarie.ca (205.189.32.181)  209.495 ms  209.459 ms  209.412 ms
+12  border3.orion.on.ca (205.189.32.42)  210.127 ms  210.022 ms  210.175 ms
+13  be201.p01-toro.orion.on.ca (66.97.16.21)  210.165 ms  209.980 ms  210.178 ms
+14  be107.pe01-otwa.orion.on.ca (66.97.16.54)  215.107 ms  215.355 ms  215.431 ms
+15  CARLETON-ORION-RNE.DIST1-OTWA.IP.orion.on.ca (66.97.23.142)  214.634 ms  214.727 ms  214.720 ms
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  saturn.planetlab.carleton.ca (134.117.226.180)  214.823 ms  214.905 ms  214.850 ms
+traceroute to saturn.planetlab.carleton.ca (134.117.226.180), 30 hops max, 60 byte packets
+ 1  156.62.231.241 (156.62.231.241)  0.903 ms  0.987 ms  0.952 ms
+ 2  210.7.38.49 (210.7.38.49)  1.846 ms  1.835 ms  1.826 ms
+ 3  et-1-2-0-202.pe1.wnpa.akl.aarnet.net.au (182.255.119.204)  1.783 ms  1.783 ms  1.772 ms
+ 4  et-2-0-0.pe1.msct.nsw.aarnet.net.au (113.197.15.76)  24.595 ms  24.686 ms  24.616 ms
+ 5  et-1-3-0-199.pe2.brwy.nsw.aarnet.net.au (113.197.15.78)  24.968 ms  24.956 ms  24.984 ms
+ 6  et-0-0-0.pe1.a.hnl.aarnet.net.au (113.197.15.99)  117.957 ms  117.965 ms  117.957 ms
+ 7  et-1-0-0.bb1.a.sea.aarnet.net.au (202.158.194.110)  169.408 ms  169.417 ms  169.503 ms
+ 8  207.231.240.21 (207.231.240.21)  162.984 ms  163.069 ms  163.059 ms
+ 9  clgr2rtr1.canarie.ca (205.189.32.175)  173.778 ms  173.866 ms  173.857 ms
+10  wnpg1rtr1.canarie.ca (205.189.32.177)  188.148 ms  188.179 ms  188.171 ms
+11  toro1rtr1.canarie.ca (205.189.32.181)  209.437 ms  209.445 ms  209.383 ms
+12  border3.orion.on.ca (205.189.32.42)  210.075 ms  210.060 ms  210.177 ms
+13  be201.p01-toro.orion.on.ca (66.97.16.21)  211.239 ms  210.480 ms  210.113 ms
+14  be107.pe01-otwa.orion.on.ca (66.97.16.54)  215.449 ms  215.090 ms  215.160 ms
+15  CARLETON-ORION-RNE.DIST1-OTWA.IP.orion.on.ca (66.97.23.142)  214.611 ms  214.692 ms  214.924 ms
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  saturn.planetlab.carleton.ca (134.117.226.180)  214.830 ms  214.733 ms  214.860 ms
+traceroute to saturn.planetlab.carleton.ca (134.117.226.180), 30 hops max, 60 byte packets
+ 1  156.62.231.241 (156.62.231.241)  0.888 ms  0.872 ms  0.859 ms
+ 2  210.7.38.49 (210.7.38.49)  1.100 ms  1.082 ms  1.067 ms
+ 3  et-1-2-0-202.pe1.wnpa.akl.aarnet.net.au (182.255.119.204)  2.078 ms  2.068 ms  2.053 ms
+ 4  et-2-0-0.pe1.msct.nsw.aarnet.net.au (113.197.15.76)  24.576 ms  24.663 ms  24.650 ms
+ 5  et-1-3-0-199.pe2.brwy.nsw.aarnet.net.au (113.197.15.78)  24.950 ms  24.943 ms  24.986 ms
+ 6  et-0-0-0.pe1.a.hnl.aarnet.net.au (113.197.15.99)  117.917 ms  118.301 ms  118.435 ms
+ 7  et-1-0-0.bb1.a.sea.aarnet.net.au (202.158.194.110)  169.447 ms  169.598 ms  169.717 ms
+ 8  207.231.240.21 (207.231.240.21)  162.988 ms  163.063 ms  163.053 ms
+ 9  clgr2rtr1.canarie.ca (205.189.32.175)  173.836 ms  173.831 ms  173.964 ms
+10  wnpg1rtr1.canarie.ca (205.189.32.177)  188.206 ms  188.293 ms  188.282 ms
+11  toro1rtr1.canarie.ca (205.189.32.181)  209.466 ms  209.484 ms  209.491 ms
+12  border3.orion.on.ca (205.189.32.42)  210.249 ms  210.430 ms  210.419 ms
+13  be201.p01-toro.orion.on.ca (66.97.16.21)  210.248 ms  210.006 ms  210.049 ms
+14  be107.pe01-otwa.orion.on.ca (66.97.16.54)  215.472 ms  215.432 ms  215.511 ms
+15  CARLETON-ORION-RNE.DIST1-OTWA.IP.orion.on.ca (66.97.23.142)  214.580 ms  214.657 ms  214.745 ms
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  saturn.planetlab.carleton.ca (134.117.226.180)  214.989 ms  214.941 ms  214.977 ms
+traceroute to saturn.planetlab.carleton.ca (134.117.226.180), 30 hops max, 60 byte packets
+ 1  156.62.231.241 (156.62.231.241)  0.908 ms  0.987 ms  0.977 ms
+ 2  210.7.38.49 (210.7.38.49)  1.093 ms  1.084 ms  1.072 ms
+ 3  et-1-2-0-202.pe1.wnpa.akl.aarnet.net.au (182.255.119.204)  1.809 ms  1.802 ms  1.790 ms
+ 4  et-2-0-0.pe1.msct.nsw.aarnet.net.au (113.197.15.76)  24.576 ms  24.720 ms  24.709 ms
+ 5  et-1-3-0-199.pe2.brwy.nsw.aarnet.net.au (113.197.15.78)  24.960 ms  24.947 ms  25.010 ms
+ 6  et-0-0-0.pe1.a.hnl.aarnet.net.au (113.197.15.99)  117.936 ms  117.932 ms  117.928 ms
+ 7  et-1-0-0.bb1.a.sea.aarnet.net.au (202.158.194.110)  169.504 ms  169.498 ms  169.488 ms
+ 8  207.231.240.21 (207.231.240.21)  163.127 ms  163.125 ms  163.202 ms
+ 9  clgr2rtr1.canarie.ca (205.189.32.175)  173.781 ms  173.843 ms  173.834 ms
+10  wnpg1rtr1.canarie.ca (205.189.32.177)  188.179 ms  188.165 ms  188.200 ms
+11  toro1rtr1.canarie.ca (205.189.32.181)  209.408 ms  209.487 ms  209.388 ms
+12  border3.orion.on.ca (205.189.32.42)  210.149 ms  210.068 ms  210.106 ms
+13  be201.p01-toro.orion.on.ca (66.97.16.21)  210.033 ms  211.376 ms  210.103 ms
+14  be107.pe01-otwa.orion.on.ca (66.97.16.54)  215.371 ms  215.299 ms  215.325 ms
+15  CARLETON-ORION-RNE.DIST1-OTWA.IP.orion.on.ca (66.97.23.142)  214.636 ms  214.690 ms  214.776 ms
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  saturn.planetlab.carleton.ca (134.117.226.180)  214.783 ms  214.837 ms  214.746 ms
+traceroute to saturn.planetlab.carleton.ca (134.117.226.180), 30 hops max, 60 byte packets
+ 1  156.62.231.241 (156.62.231.241)  0.885 ms  0.963 ms  0.951 ms
+ 2  210.7.38.49 (210.7.38.49)  1.108 ms  1.099 ms  1.027 ms
+ 3  et-1-2-0-202.pe1.wnpa.akl.aarnet.net.au (182.255.119.204)  1.766 ms  1.755 ms  1.742 ms
+ 4  et-2-0-0.pe1.msct.nsw.aarnet.net.au (113.197.15.76)  24.556 ms  24.593 ms  24.627 ms
+ 5  et-1-3-0-199.pe2.brwy.nsw.aarnet.net.au (113.197.15.78)  24.946 ms  24.937 ms  25.022 ms
+ 6  et-0-0-0.pe1.a.hnl.aarnet.net.au (113.197.15.99)  123.161 ms  120.913 ms  117.946 ms
+ 7  et-1-0-0.bb1.a.sea.aarnet.net.au (202.158.194.110)  169.498 ms  169.572 ms  169.559 ms
+ 8  207.231.240.21 (207.231.240.21)  166.846 ms  166.931 ms  166.919 ms
+ 9  clgr2rtr1.canarie.ca (205.189.32.175)  173.936 ms  173.954 ms  173.941 ms
+10  wnpg1rtr1.canarie.ca (205.189.32.177)  188.250 ms  188.243 ms  188.233 ms
+11  toro1rtr1.canarie.ca (205.189.32.181)  209.413 ms  209.400 ms  209.442 ms
+12  border3.orion.on.ca (205.189.32.42)  210.472 ms  210.708 ms  210.699 ms
+13  be201.p01-toro.orion.on.ca (66.97.16.21)  210.114 ms  211.647 ms  210.420 ms
+14  be107.pe01-otwa.orion.on.ca (66.97.16.54)  215.283 ms  215.362 ms  215.398 ms
+15  CARLETON-ORION-RNE.DIST1-OTWA.IP.orion.on.ca (66.97.23.142)  214.617 ms  214.744 ms  214.673 ms
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  saturn.planetlab.carleton.ca (134.117.226.180)  214.921 ms  214.807 ms  214.757 ms
+traceroute to saturn.planetlab.carleton.ca (134.117.226.180), 30 hops max, 60 byte packets
+ 1  156.62.231.241 (156.62.231.241)  0.897 ms  0.885 ms  0.875 ms
+ 2  210.7.38.49 (210.7.38.49)  1.175 ms  1.160 ms  1.149 ms
+ 3  et-1-2-0-202.pe1.wnpa.akl.aarnet.net.au (182.255.119.204)  1.754 ms  1.744 ms  1.732 ms
+ 4  et-2-0-0.pe1.msct.nsw.aarnet.net.au (113.197.15.76)  24.518 ms  24.606 ms  24.534 ms
+ 5  et-1-3-0-199.pe2.brwy.nsw.aarnet.net.au (113.197.15.78)  24.944 ms  24.935 ms  24.994 ms
+ 6  et-0-0-0.pe1.a.hnl.aarnet.net.au (113.197.15.99)  117.985 ms  117.969 ms  118.053 ms
+ 7  et-1-0-0.bb1.a.sea.aarnet.net.au (202.158.194.110)  169.472 ms  169.555 ms  169.546 ms
+ 8  207.231.240.21 (207.231.240.21)  162.976 ms  162.940 ms  162.928 ms
+ 9  clgr2rtr1.canarie.ca (205.189.32.175)  173.822 ms  173.792 ms  173.781 ms
+10  wnpg1rtr1.canarie.ca (205.189.32.177)  199.118 ms  197.190 ms  197.177 ms
+11  toro1rtr1.canarie.ca (205.189.32.181)  209.493 ms  209.482 ms  209.369 ms
+12  border3.orion.on.ca (205.189.32.42)  210.206 ms  210.325 ms  210.296 ms
+13  be201.p01-toro.orion.on.ca (66.97.16.21)  211.347 ms  210.207 ms  210.237 ms
+14  be107.pe01-otwa.orion.on.ca (66.97.16.54)  215.429 ms  215.253 ms  215.366 ms
+15  CARLETON-ORION-RNE.DIST1-OTWA.IP.orion.on.ca (66.97.23.142)  214.647 ms  214.735 ms  214.754 ms
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  saturn.planetlab.carleton.ca (134.117.226.180)  214.857 ms  214.920 ms  214.852 ms
+traceroute to saturn.planetlab.carleton.ca (134.117.226.180), 30 hops max, 60 byte packets
+ 1  156.62.231.241 (156.62.231.241)  0.874 ms  0.994 ms  0.982 ms
+ 2  210.7.38.49 (210.7.38.49)  1.091 ms  1.086 ms  1.073 ms
+ 3  et-1-2-0-202.pe1.wnpa.akl.aarnet.net.au (182.255.119.204)  1.737 ms  1.726 ms  1.714 ms
+ 4  et-2-0-0.pe1.msct.nsw.aarnet.net.au (113.197.15.76)  24.551 ms  24.622 ms  24.611 ms
+ 5  et-1-3-0-199.pe2.brwy.nsw.aarnet.net.au (113.197.15.78)  24.947 ms  24.938 ms  24.970 ms
+ 6  et-0-0-0.pe1.a.hnl.aarnet.net.au (113.197.15.99)  117.987 ms  117.919 ms  117.920 ms
+ 7  et-1-0-0.bb1.a.sea.aarnet.net.au (202.158.194.110)  169.497 ms  169.563 ms  169.547 ms
+ 8  207.231.240.21 (207.231.240.21)  162.861 ms  162.941 ms  162.932 ms
+ 9  clgr2rtr1.canarie.ca (205.189.32.175)  173.754 ms  174.057 ms  174.109 ms
+10  wnpg1rtr1.canarie.ca (205.189.32.177)  188.243 ms  188.236 ms  188.225 ms
+11  toro1rtr1.canarie.ca (205.189.32.181)  209.728 ms  209.436 ms  209.381 ms
+12  border3.orion.on.ca (205.189.32.42)  210.199 ms  210.158 ms  210.211 ms
+13  be201.p01-toro.orion.on.ca (66.97.16.21)  210.268 ms  209.960 ms  210.462 ms
+14  be107.pe01-otwa.orion.on.ca (66.97.16.54)  215.303 ms  215.578 ms  215.647 ms
+15  CARLETON-ORION-RNE.DIST1-OTWA.IP.orion.on.ca (66.97.23.142)  214.640 ms  214.723 ms  214.750 ms
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  saturn.planetlab.carleton.ca (134.117.226.180)  214.927 ms  214.811 ms  214.848 ms
+traceroute to saturn.planetlab.carleton.ca (134.117.226.180), 30 hops max, 60 byte packets
+ 1  156.62.231.241 (156.62.231.241)  0.893 ms  0.966 ms  0.954 ms
+ 2  210.7.38.49 (210.7.38.49)  1.088 ms  1.084 ms  1.073 ms
+ 3  et-1-2-0-202.pe1.wnpa.akl.aarnet.net.au (182.255.119.204)  1.756 ms  1.740 ms  1.725 ms
+ 4  et-2-0-0.pe1.msct.nsw.aarnet.net.au (113.197.15.76)  24.521 ms  24.607 ms  24.525 ms
+ 5  et-1-3-0-199.pe2.brwy.nsw.aarnet.net.au (113.197.15.78)  24.947 ms  24.935 ms  25.021 ms
+ 6  et-0-0-0.pe1.a.hnl.aarnet.net.au (113.197.15.99)  117.942 ms  117.919 ms  117.925 ms
+ 7  et-1-0-0.bb1.a.sea.aarnet.net.au (202.158.194.110)  169.490 ms  169.561 ms  169.547 ms
+ 8  207.231.240.21 (207.231.240.21)  162.954 ms  163.047 ms  163.035 ms
+ 9  clgr2rtr1.canarie.ca (205.189.32.175)  173.828 ms  173.816 ms  173.805 ms
+10  wnpg1rtr1.canarie.ca (205.189.32.177)  188.179 ms  188.173 ms  188.164 ms
+11  toro1rtr1.canarie.ca (205.189.32.181)  209.416 ms  209.407 ms  209.435 ms
+12  border3.orion.on.ca (205.189.32.42)  209.972 ms  211.512 ms  211.501 ms
+13  be201.p01-toro.orion.on.ca (66.97.16.21)  210.072 ms  211.242 ms  211.475 ms
+14  be107.pe01-otwa.orion.on.ca (66.97.16.54)  215.302 ms  215.318 ms  215.420 ms
+15  CARLETON-ORION-RNE.DIST1-OTWA.IP.orion.on.ca (66.97.23.142)  214.644 ms  214.730 ms  214.757 ms
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  saturn.planetlab.carleton.ca (134.117.226.180)  214.894 ms  214.966 ms  214.803 ms
+traceroute to saturn.planetlab.carleton.ca (134.117.226.180), 30 hops max, 60 byte packets
+ 1  156.62.231.241 (156.62.231.241)  0.894 ms  0.975 ms  0.964 ms
+ 2  210.7.38.49 (210.7.38.49)  1.097 ms  1.082 ms  1.071 ms
+ 3  et-1-2-0-202.pe1.wnpa.akl.aarnet.net.au (182.255.119.204)  1.754 ms  1.748 ms  1.736 ms
+ 4  et-2-0-0.pe1.msct.nsw.aarnet.net.au (113.197.15.76)  24.585 ms  24.654 ms  24.627 ms
+ 5  et-1-3-0-199.pe2.brwy.nsw.aarnet.net.au (113.197.15.78)  24.952 ms  24.942 ms  24.993 ms
+ 6  et-0-0-0.pe1.a.hnl.aarnet.net.au (113.197.15.99)  118.019 ms  117.953 ms  117.944 ms
+ 7  et-1-0-0.bb1.a.sea.aarnet.net.au (202.158.194.110)  169.433 ms  169.433 ms  169.512 ms
+ 8  207.231.240.21 (207.231.240.21)  162.889 ms  162.970 ms  162.960 ms
+ 9  clgr2rtr1.canarie.ca (205.189.32.175)  173.790 ms  173.844 ms  173.832 ms
+10  wnpg1rtr1.canarie.ca (205.189.32.177)  188.152 ms  188.142 ms  188.131 ms
+11  toro1rtr1.canarie.ca (205.189.32.181)  217.059 ms  209.484 ms  209.498 ms
+12  border3.orion.on.ca (205.189.32.42)  210.201 ms  210.362 ms  210.352 ms
+13  be201.p01-toro.orion.on.ca (66.97.16.21)  210.096 ms  210.027 ms  210.111 ms
+14  be107.pe01-otwa.orion.on.ca (66.97.16.54)  215.390 ms  215.288 ms  215.334 ms
+15  CARLETON-ORION-RNE.DIST1-OTWA.IP.orion.on.ca (66.97.23.142)  214.756 ms  214.844 ms  214.873 ms
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  saturn.planetlab.carleton.ca (134.117.226.180)  214.807 ms  214.893 ms  214.792 ms
+traceroute to saturn.planetlab.carleton.ca (134.117.226.180), 30 hops max, 60 byte packets
+ 1  156.62.231.241 (156.62.231.241)  0.895 ms  0.885 ms  0.873 ms
+ 2  210.7.38.49 (210.7.38.49)  1.083 ms  1.077 ms  1.066 ms
+ 3  et-1-2-0-202.pe1.wnpa.akl.aarnet.net.au (182.255.119.204)  1.788 ms  1.773 ms  1.762 ms
+ 4  et-2-0-0.pe1.msct.nsw.aarnet.net.au (113.197.15.76)  24.582 ms  24.661 ms  24.647 ms
+ 5  et-1-3-0-199.pe2.brwy.nsw.aarnet.net.au (113.197.15.78)  24.872 ms  24.912 ms  24.903 ms
+ 6  et-0-0-0.pe1.a.hnl.aarnet.net.au (113.197.15.99)  117.941 ms  117.921 ms  117.949 ms
+ 7  et-1-0-0.bb1.a.sea.aarnet.net.au (202.158.194.110)  169.500 ms  169.583 ms  169.574 ms
+ 8  207.231.240.21 (207.231.240.21)  162.948 ms  163.004 ms  162.994 ms
+ 9  clgr2rtr1.canarie.ca (205.189.32.175)  180.146 ms  173.833 ms  173.823 ms
+10  wnpg1rtr1.canarie.ca (205.189.32.177)  188.131 ms  188.188 ms  188.178 ms
+11  toro1rtr1.canarie.ca (205.189.32.181)  209.419 ms  209.387 ms  209.415 ms
+12  border3.orion.on.ca (205.189.32.42)  210.200 ms  209.989 ms  210.012 ms
+13  be201.p01-toro.orion.on.ca (66.97.16.21)  210.810 ms  210.117 ms  210.098 ms
+14  be107.pe01-otwa.orion.on.ca (66.97.16.54)  215.411 ms  215.314 ms  215.427 ms
+15  CARLETON-ORION-RNE.DIST1-OTWA.IP.orion.on.ca (66.97.23.142)  214.605 ms  214.686 ms  214.714 ms
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  saturn.planetlab.carleton.ca (134.117.226.180)  215.004 ms  215.085 ms  214.820 ms
+traceroute to saturn.planetlab.carleton.ca (134.117.226.180), 30 hops max, 60 byte packets
+ 1  156.62.231.241 (156.62.231.241)  0.899 ms  0.984 ms  0.972 ms
+ 2  210.7.38.49 (210.7.38.49)  1.066 ms  1.058 ms  1.044 ms
+ 3  et-1-2-0-202.pe1.wnpa.akl.aarnet.net.au (182.255.119.204)  1.817 ms  1.807 ms  1.791 ms
+ 4  et-2-0-0.pe1.msct.nsw.aarnet.net.au (113.197.15.76)  24.581 ms  24.664 ms  24.648 ms
+ 5  et-1-3-0-199.pe2.brwy.nsw.aarnet.net.au (113.197.15.78)  24.949 ms  24.941 ms  25.009 ms
+ 6  et-0-0-0.pe1.a.hnl.aarnet.net.au (113.197.15.99)  117.969 ms  117.925 ms  118.016 ms
+ 7  et-1-0-0.bb1.a.sea.aarnet.net.au (202.158.194.110)  169.522 ms  169.527 ms  169.515 ms
+ 8  207.231.240.21 (207.231.240.21)  162.930 ms  163.091 ms  163.082 ms
+ 9  clgr2rtr1.canarie.ca (205.189.32.175)  174.172 ms  173.864 ms  173.857 ms
+10  wnpg1rtr1.canarie.ca (205.189.32.177)  188.126 ms  188.148 ms  188.136 ms
+11  toro1rtr1.canarie.ca (205.189.32.181)  209.738 ms  209.534 ms  209.432 ms
+12  border3.orion.on.ca (205.189.32.42)  210.018 ms  211.590 ms  211.578 ms
+13  be201.p01-toro.orion.on.ca (66.97.16.21)  210.220 ms  210.252 ms  210.236 ms
+14  be107.pe01-otwa.orion.on.ca (66.97.16.54)  215.299 ms  215.355 ms  215.397 ms
+15  CARLETON-ORION-RNE.DIST1-OTWA.IP.orion.on.ca (66.97.23.142)  214.592 ms  214.683 ms  214.708 ms
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  saturn.planetlab.carleton.ca (134.117.226.180)  214.780 ms  214.860 ms  214.801 ms
+traceroute to saturn.planetlab.carleton.ca (134.117.226.180), 30 hops max, 60 byte packets
+ 1  156.62.231.241 (156.62.231.241)  0.891 ms  0.969 ms  0.957 ms
+ 2  210.7.38.49 (210.7.38.49)  1.094 ms  1.078 ms  1.067 ms
+ 3  et-1-2-0-202.pe1.wnpa.akl.aarnet.net.au (182.255.119.204)  1.774 ms  1.752 ms  1.741 ms
+ 4  et-2-0-0.pe1.msct.nsw.aarnet.net.au (113.197.15.76)  24.573 ms  24.660 ms  24.651 ms
+ 5  et-1-3-0-199.pe2.brwy.nsw.aarnet.net.au (113.197.15.78)  24.889 ms  24.875 ms  24.897 ms
+ 6  et-0-0-0.pe1.a.hnl.aarnet.net.au (113.197.15.99)  117.982 ms  117.975 ms  118.056 ms
+ 7  et-1-0-0.bb1.a.sea.aarnet.net.au (202.158.194.110)  169.463 ms  169.470 ms  169.567 ms
+ 8  207.231.240.21 (207.231.240.21)  163.103 ms  163.196 ms  163.124 ms
+ 9  clgr2rtr1.canarie.ca (205.189.32.175)  173.784 ms  174.340 ms  174.330 ms
+10  wnpg1rtr1.canarie.ca (205.189.32.177)  188.198 ms  188.173 ms  188.162 ms
+11  toro1rtr1.canarie.ca (205.189.32.181)  209.382 ms  209.439 ms  209.590 ms
+12  border3.orion.on.ca (205.189.32.42)  210.410 ms  210.077 ms  210.137 ms
+13  be201.p01-toro.orion.on.ca (66.97.16.21)  210.222 ms  210.056 ms  209.950 ms
+14  be107.pe01-otwa.orion.on.ca (66.97.16.54)  215.125 ms  215.276 ms  215.337 ms
+15  CARLETON-ORION-RNE.DIST1-OTWA.IP.orion.on.ca (66.97.23.142)  214.758 ms  214.639 ms  214.734 ms
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  saturn.planetlab.carleton.ca (134.117.226.180)  214.780 ms  214.869 ms  214.739 ms
+traceroute to saturn.planetlab.carleton.ca (134.117.226.180), 30 hops max, 60 byte packets
+ 1  156.62.231.241 (156.62.231.241)  0.897 ms  1.079 ms  1.070 ms
+ 2  210.7.38.49 (210.7.38.49)  1.059 ms  1.089 ms  1.081 ms
+ 3  et-1-2-0-202.pe1.wnpa.akl.aarnet.net.au (182.255.119.204)  1.790 ms  1.782 ms  1.765 ms
+ 4  et-2-0-0.pe1.msct.nsw.aarnet.net.au (113.197.15.76)  24.552 ms  24.672 ms  24.660 ms
+ 5  et-1-3-0-199.pe2.brwy.nsw.aarnet.net.au (113.197.15.78)  24.970 ms  24.974 ms  24.962 ms
+ 6  et-0-0-0.pe1.a.hnl.aarnet.net.au (113.197.15.99)  117.922 ms  117.934 ms  117.929 ms
+ 7  et-1-0-0.bb1.a.sea.aarnet.net.au (202.158.194.110)  169.509 ms  169.567 ms  169.555 ms
+ 8  207.231.240.21 (207.231.240.21)  162.962 ms  163.180 ms  163.171 ms
+ 9  clgr2rtr1.canarie.ca (205.189.32.175)  173.821 ms  173.877 ms  173.871 ms
+10  wnpg1rtr1.canarie.ca (205.189.32.177)  188.240 ms  188.194 ms  188.180 ms
+11  toro1rtr1.canarie.ca (205.189.32.181)  209.451 ms  209.420 ms  209.403 ms
+12  border3.orion.on.ca (205.189.32.42)  210.554 ms  210.358 ms  210.329 ms
+13  be201.p01-toro.orion.on.ca (66.97.16.21)  210.133 ms  210.205 ms  210.180 ms
+14  be107.pe01-otwa.orion.on.ca (66.97.16.54)  215.218 ms  215.383 ms  215.480 ms
+15  CARLETON-ORION-RNE.DIST1-OTWA.IP.orion.on.ca (66.97.23.142)  214.626 ms  214.682 ms  214.771 ms
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  saturn.planetlab.carleton.ca (134.117.226.180)  214.798 ms  214.794 ms  214.790 ms
+traceroute to saturn.planetlab.carleton.ca (134.117.226.180), 30 hops max, 60 byte packets
+ 1  156.62.231.241 (156.62.231.241)  0.901 ms  1.038 ms  1.027 ms
+ 2  210.7.38.49 (210.7.38.49)  1.078 ms  1.071 ms  1.056 ms
+ 3  et-1-2-0-202.pe1.wnpa.akl.aarnet.net.au (182.255.119.204)  1.747 ms  1.738 ms  1.727 ms
+ 4  et-2-0-0.pe1.msct.nsw.aarnet.net.au (113.197.15.76)  24.571 ms  24.646 ms  24.631 ms
+ 5  et-1-3-0-199.pe2.brwy.nsw.aarnet.net.au (113.197.15.78)  24.945 ms  24.935 ms  25.002 ms
+ 6  et-0-0-0.pe1.a.hnl.aarnet.net.au (113.197.15.99)  117.921 ms  117.931 ms  117.932 ms
+ 7  et-1-0-0.bb1.a.sea.aarnet.net.au (202.158.194.110)  169.455 ms  169.541 ms  169.527 ms
+ 8  207.231.240.21 (207.231.240.21)  162.899 ms  162.982 ms  162.964 ms
+ 9  clgr2rtr1.canarie.ca (205.189.32.175)  173.802 ms  173.888 ms  173.875 ms
+10  wnpg1rtr1.canarie.ca (205.189.32.177)  188.175 ms  188.164 ms  188.153 ms
+11  toro1rtr1.canarie.ca (205.189.32.181)  209.414 ms  209.394 ms  209.408 ms
+12  border3.orion.on.ca (205.189.32.42)  209.926 ms  210.196 ms  210.179 ms
+13  be201.p01-toro.orion.on.ca (66.97.16.21)  210.798 ms  210.122 ms  210.099 ms
+14  be107.pe01-otwa.orion.on.ca (66.97.16.54)  215.242 ms  215.352 ms  215.431 ms
+15  CARLETON-ORION-RNE.DIST1-OTWA.IP.orion.on.ca (66.97.23.142)  214.614 ms  214.696 ms  214.717 ms
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  saturn.planetlab.carleton.ca (134.117.226.180)  214.761 ms  214.809 ms  214.810 ms
+traceroute to saturn.planetlab.carleton.ca (134.117.226.180), 30 hops max, 60 byte packets
+ 1  156.62.231.241 (156.62.231.241)  0.895 ms  0.932 ms  0.920 ms
+ 2  210.7.38.49 (210.7.38.49)  1.083 ms  1.074 ms  1.062 ms
+ 3  et-1-2-0-202.pe1.wnpa.akl.aarnet.net.au (182.255.119.204)  1.762 ms  1.752 ms  1.801 ms
+ 4  et-2-0-0.pe1.msct.nsw.aarnet.net.au (113.197.15.76)  24.586 ms  24.663 ms  24.652 ms
+ 5  et-1-3-0-199.pe2.brwy.nsw.aarnet.net.au (113.197.15.78)  27.682 ms  27.840 ms  27.831 ms
+ 6  et-0-0-0.pe1.a.hnl.aarnet.net.au (113.197.15.99)  117.948 ms  117.964 ms  117.958 ms
+ 7  et-1-0-0.bb1.a.sea.aarnet.net.au (202.158.194.110)  169.447 ms  169.601 ms  169.602 ms
+ 8  207.231.240.21 (207.231.240.21)  162.923 ms  162.980 ms  162.970 ms
+ 9  clgr2rtr1.canarie.ca (205.189.32.175)  173.765 ms  173.816 ms  173.806 ms
+10  wnpg1rtr1.canarie.ca (205.189.32.177)  188.117 ms  188.135 ms  188.117 ms
+11  toro1rtr1.canarie.ca (205.189.32.181)  209.408 ms  209.410 ms  209.407 ms
+12  border3.orion.on.ca (205.189.32.42)  210.164 ms  209.789 ms  209.763 ms
+13  be201.p01-toro.orion.on.ca (66.97.16.21)  210.089 ms  210.019 ms  210.067 ms
+14  be107.pe01-otwa.orion.on.ca (66.97.16.54)  215.197 ms  215.406 ms  215.394 ms
+15  CARLETON-ORION-RNE.DIST1-OTWA.IP.orion.on.ca (66.97.23.142)  214.673 ms  214.759 ms  214.789 ms
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  saturn.planetlab.carleton.ca (134.117.226.180)  214.933 ms  215.001 ms  214.763 ms
+traceroute to saturn.planetlab.carleton.ca (134.117.226.180), 30 hops max, 60 byte packets
+ 1  156.62.231.241 (156.62.231.241)  0.905 ms  0.894 ms  0.882 ms
+ 2  210.7.38.49 (210.7.38.49)  1.076 ms  1.068 ms  1.057 ms
+ 3  et-1-2-0-202.pe1.wnpa.akl.aarnet.net.au (182.255.119.204)  1.728 ms  1.717 ms  1.701 ms
+ 4  et-2-0-0.pe1.msct.nsw.aarnet.net.au (113.197.15.76)  24.601 ms  24.656 ms  24.646 ms
+ 5  et-1-3-0-199.pe2.brwy.nsw.aarnet.net.au (113.197.15.78)  24.961 ms  24.948 ms  24.950 ms
+ 6  et-0-0-0.pe1.a.hnl.aarnet.net.au (113.197.15.99)  117.951 ms  117.924 ms  117.920 ms
+ 7  et-1-0-0.bb1.a.sea.aarnet.net.au (202.158.194.110)  169.519 ms  169.592 ms  169.577 ms
+ 8  207.231.240.21 (207.231.240.21)  162.851 ms  162.888 ms  162.835 ms
+ 9  clgr2rtr1.canarie.ca (205.189.32.175)  173.804 ms  173.819 ms  173.807 ms
+10  wnpg1rtr1.canarie.ca (205.189.32.177)  188.146 ms  188.130 ms  188.119 ms
+11  toro1rtr1.canarie.ca (205.189.32.181)  209.439 ms  209.518 ms  209.403 ms
+12  border3.orion.on.ca (205.189.32.42)  210.116 ms  210.092 ms  209.966 ms
+13  be201.p01-toro.orion.on.ca (66.97.16.21)  209.941 ms  210.027 ms  210.296 ms
+14  be107.pe01-otwa.orion.on.ca (66.97.16.54)  215.536 ms  215.257 ms  215.313 ms
+15  CARLETON-ORION-RNE.DIST1-OTWA.IP.orion.on.ca (66.97.23.142)  214.617 ms  214.702 ms  214.736 ms
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  saturn.planetlab.carleton.ca (134.117.226.180)  214.913 ms  214.782 ms  214.868 ms
+traceroute to saturn.planetlab.carleton.ca (134.117.226.180), 30 hops max, 60 byte packets
+ 1  156.62.231.241 (156.62.231.241)  0.884 ms  0.965 ms  0.954 ms
+ 2  210.7.38.49 (210.7.38.49)  1.612 ms  1.601 ms  1.590 ms
+ 3  et-1-2-0-202.pe1.wnpa.akl.aarnet.net.au (182.255.119.204)  1.723 ms  1.769 ms  1.705 ms
+ 4  et-2-0-0.pe1.msct.nsw.aarnet.net.au (113.197.15.76)  24.557 ms  24.644 ms  24.635 ms
+ 5  et-1-3-0-199.pe2.brwy.nsw.aarnet.net.au (113.197.15.78)  24.904 ms  24.945 ms  24.983 ms
+ 6  et-0-0-0.pe1.a.hnl.aarnet.net.au (113.197.15.99)  117.942 ms  117.905 ms  118.020 ms
+ 7  et-1-0-0.bb1.a.sea.aarnet.net.au (202.158.194.110)  169.508 ms  169.634 ms  169.629 ms
+ 8  207.231.240.21 (207.231.240.21)  162.916 ms  162.976 ms  162.967 ms
+ 9  clgr2rtr1.canarie.ca (205.189.32.175)  173.766 ms  173.806 ms  173.797 ms
+10  wnpg1rtr1.canarie.ca (205.189.32.177)  188.187 ms  188.182 ms  188.171 ms
+11  toro1rtr1.canarie.ca (205.189.32.181)  209.508 ms  209.410 ms  209.439 ms
+12  border3.orion.on.ca (205.189.32.42)  210.117 ms  210.167 ms  210.200 ms
+13  be201.p01-toro.orion.on.ca (66.97.16.21)  210.139 ms  210.442 ms  210.502 ms
+14  be107.pe01-otwa.orion.on.ca (66.97.16.54)  215.069 ms  215.127 ms  215.193 ms
+15  CARLETON-ORION-RNE.DIST1-OTWA.IP.orion.on.ca (66.97.23.142)  214.640 ms  214.702 ms  214.738 ms
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  saturn.planetlab.carleton.ca (134.117.226.180)  214.749 ms  214.823 ms  214.794 ms

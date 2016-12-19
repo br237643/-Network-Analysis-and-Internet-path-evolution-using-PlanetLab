@@ -1,0 +1,1469 @@
+traceroute to plonk.cs.uwaterloo.ca (129.97.74.14), 30 hops max, 60 byte packets
+ 1  153.90.1.33 (153.90.1.33)  0.670 ms  0.724 ms  0.776 ms
+ 2  ae0--565.icar-chcg1-1.infra.pnw-gigapop.net (209.124.190.246)  28.335 ms  28.343 ms  28.323 ms
+ 3  ae0--706.icar-sttl1-2.infra.pnw-gigapop.net (207.231.240.1)  42.331 ms  42.322 ms  42.315 ms
+ 4  207.231.240.21 (207.231.240.21)  45.667 ms  45.669 ms  45.656 ms
+ 5  clgr2rtr1.canarie.ca (205.189.32.175)  56.667 ms  56.659 ms  56.652 ms
+ 6  wnpg1rtr1.canarie.ca (205.189.32.177)  70.916 ms  70.854 ms  70.801 ms
+ 7  toro1rtr1.canarie.ca (205.189.32.181)  92.152 ms  92.123 ms  92.130 ms
+ 8  border3.orion.on.ca (205.189.32.42)  92.667 ms  92.697 ms  92.721 ms
+ 9  be202.p01-york.orion.on.ca (66.97.16.25)  93.813 ms  93.799 ms  93.685 ms
+10  be119.pe01-wtlo.orion.on.ca (66.97.16.110)  96.664 ms  96.573 ms  96.489 ms
+11  66.97.28.66 (66.97.28.66)  95.918 ms  96.059 ms  95.938 ms
+12  plonk.cs.uwaterloo.ca (129.97.74.14)  95.466 ms  95.633 ms  95.525 ms
+traceroute to plonk.cs.uwaterloo.ca (129.97.74.14), 30 hops max, 60 byte packets
+ 1  153.90.1.33 (153.90.1.33)  0.482 ms  0.535 ms  0.618 ms
+ 2  ae0--565.icar-chcg1-1.infra.pnw-gigapop.net (209.124.190.246)  28.358 ms  28.354 ms  28.347 ms
+ 3  ae0--706.icar-sttl1-2.infra.pnw-gigapop.net (207.231.240.1)  43.349 ms  43.338 ms  43.335 ms
+ 4  207.231.240.21 (207.231.240.21)  45.852 ms  45.854 ms  45.820 ms
+ 5  clgr2rtr1.canarie.ca (205.189.32.175)  56.755 ms  56.747 ms  56.747 ms
+ 6  wnpg1rtr1.canarie.ca (205.189.32.177)  71.059 ms  70.870 ms  70.817 ms
+ 7  toro1rtr1.canarie.ca (205.189.32.181)  92.081 ms  92.219 ms  92.224 ms
+ 8  border3.orion.on.ca (205.189.32.42)  92.864 ms  92.889 ms  92.916 ms
+ 9  be202.p01-york.orion.on.ca (66.97.16.25)  93.461 ms  93.564 ms  93.487 ms
+10  be119.pe01-wtlo.orion.on.ca (66.97.16.110)  96.959 ms  96.205 ms  96.249 ms
+11  66.97.28.66 (66.97.28.66)  95.917 ms  96.024 ms  96.037 ms
+12  plonk.cs.uwaterloo.ca (129.97.74.14)  95.571 ms  95.435 ms  95.442 ms
+traceroute to plonk.cs.uwaterloo.ca (129.97.74.14), 30 hops max, 60 byte packets
+ 1  153.90.1.33 (153.90.1.33)  1.259 ms  1.307 ms  1.359 ms
+ 2  ae0--565.icar-chcg1-1.infra.pnw-gigapop.net (209.124.190.246)  28.662 ms  28.653 ms  28.644 ms
+ 3  ae0--706.icar-sttl1-2.infra.pnw-gigapop.net (207.231.240.1)  42.602 ms  42.545 ms  42.551 ms
+ 4  207.231.240.21 (207.231.240.21)  45.874 ms  45.828 ms  45.843 ms
+ 5  clgr2rtr1.canarie.ca (205.189.32.175)  56.764 ms  56.854 ms  56.840 ms
+ 6  wnpg1rtr1.canarie.ca (205.189.32.177)  71.179 ms  70.768 ms  70.827 ms
+ 7  toro1rtr1.canarie.ca (205.189.32.181)  92.235 ms  92.226 ms  92.215 ms
+ 8  border3.orion.on.ca (205.189.32.42)  92.729 ms  92.765 ms  92.796 ms
+ 9  be202.p01-york.orion.on.ca (66.97.16.25)  93.364 ms  94.263 ms  94.217 ms
+10  be119.pe01-wtlo.orion.on.ca (66.97.16.110)  96.572 ms  96.621 ms  96.677 ms
+11  66.97.28.66 (66.97.28.66)  96.058 ms  96.130 ms  95.914 ms
+12  plonk.cs.uwaterloo.ca (129.97.74.14)  95.259 ms  95.468 ms  95.402 ms
+traceroute to plonk.cs.uwaterloo.ca (129.97.74.14), 30 hops max, 60 byte packets
+ 1  153.90.1.33 (153.90.1.33)  0.792 ms  0.832 ms  0.882 ms
+ 2  ae0--565.icar-chcg1-1.infra.pnw-gigapop.net (209.124.190.246)  28.355 ms  28.348 ms  28.347 ms
+ 3  ae0--706.icar-sttl1-2.infra.pnw-gigapop.net (207.231.240.1)  43.490 ms  43.459 ms  43.461 ms
+ 4  207.231.240.21 (207.231.240.21)  45.670 ms  45.625 ms  45.639 ms
+ 5  clgr2rtr1.canarie.ca (205.189.32.175)  56.534 ms  56.543 ms  56.533 ms
+ 6  wnpg1rtr1.canarie.ca (205.189.32.177)  70.827 ms  70.828 ms  70.819 ms
+ 7  toro1rtr1.canarie.ca (205.189.32.181)  92.105 ms  92.381 ms  92.366 ms
+ 8  border3.orion.on.ca (205.189.32.42)  92.843 ms  92.935 ms  92.869 ms
+ 9  be202.p01-york.orion.on.ca (66.97.16.25)  93.513 ms  93.548 ms  93.585 ms
+10  be119.pe01-wtlo.orion.on.ca (66.97.16.110)  96.433 ms  96.621 ms  96.567 ms
+11  66.97.28.66 (66.97.28.66)  95.916 ms  95.989 ms  96.068 ms
+12  plonk.cs.uwaterloo.ca (129.97.74.14)  95.352 ms  95.579 ms  95.409 ms
+traceroute to plonk.cs.uwaterloo.ca (129.97.74.14), 30 hops max, 60 byte packets
+ 1  153.90.1.33 (153.90.1.33)  0.901 ms  0.947 ms  1.002 ms
+ 2  ae0--565.icar-chcg1-1.infra.pnw-gigapop.net (209.124.190.246)  28.422 ms  28.449 ms  28.456 ms
+ 3  ae0--706.icar-sttl1-2.infra.pnw-gigapop.net (207.231.240.1)  42.535 ms  42.525 ms  42.517 ms
+ 4  207.231.240.21 (207.231.240.21)  45.812 ms  45.818 ms  45.805 ms
+ 5  clgr2rtr1.canarie.ca (205.189.32.175)  56.725 ms  56.693 ms  56.704 ms
+ 6  wnpg1rtr1.canarie.ca (205.189.32.177)  70.951 ms  70.939 ms  70.767 ms
+ 7  toro1rtr1.canarie.ca (205.189.32.181)  92.131 ms  92.123 ms  92.118 ms
+ 8  border3.orion.on.ca (205.189.32.42)  92.731 ms  92.835 ms  92.856 ms
+ 9  be202.p01-york.orion.on.ca (66.97.16.25)  93.198 ms  93.544 ms  93.581 ms
+10  be119.pe01-wtlo.orion.on.ca (66.97.16.110)  96.530 ms  96.594 ms  96.634 ms
+11  66.97.28.66 (66.97.28.66)  95.933 ms  95.973 ms  96.079 ms
+12  plonk.cs.uwaterloo.ca (129.97.74.14)  95.371 ms  95.341 ms  95.416 ms
+traceroute to plonk.cs.uwaterloo.ca (129.97.74.14), 30 hops max, 60 byte packets
+ 1  153.90.1.33 (153.90.1.33)  0.718 ms  0.767 ms  1.199 ms
+ 2  ae0--565.icar-chcg1-1.infra.pnw-gigapop.net (209.124.190.246)  28.355 ms  28.347 ms  28.335 ms
+ 3  ae0--706.icar-sttl1-2.infra.pnw-gigapop.net (207.231.240.1)  42.440 ms  42.428 ms  42.420 ms
+ 4  207.231.240.21 (207.231.240.21)  45.689 ms  45.701 ms  45.674 ms
+ 5  clgr2rtr1.canarie.ca (205.189.32.175)  56.570 ms  56.576 ms  56.563 ms
+ 6  wnpg1rtr1.canarie.ca (205.189.32.177)  71.644 ms  70.934 ms  70.795 ms
+ 7  toro1rtr1.canarie.ca (205.189.32.181)  92.115 ms  92.122 ms  92.086 ms
+ 8  border3.orion.on.ca (205.189.32.42)  92.938 ms  92.929 ms  92.919 ms
+ 9  be202.p01-york.orion.on.ca (66.97.16.25)  93.564 ms  93.671 ms  93.597 ms
+10  be119.pe01-wtlo.orion.on.ca (66.97.16.110)  96.470 ms  96.160 ms  96.203 ms
+11  66.97.28.66 (66.97.28.66)  95.983 ms  96.056 ms  96.078 ms
+12  plonk.cs.uwaterloo.ca (129.97.74.14)  95.478 ms  95.616 ms  95.360 ms
+traceroute to plonk.cs.uwaterloo.ca (129.97.74.14), 30 hops max, 60 byte packets
+ 1  153.90.1.33 (153.90.1.33)  0.462 ms  0.583 ms  0.720 ms
+ 2  ae0--565.icar-chcg1-1.infra.pnw-gigapop.net (209.124.190.246)  28.354 ms  28.341 ms  28.344 ms
+ 3  ae0--706.icar-sttl1-2.infra.pnw-gigapop.net (207.231.240.1)  42.254 ms  42.261 ms  42.482 ms
+ 4  207.231.240.21 (207.231.240.21)  45.853 ms  45.858 ms  45.846 ms
+ 5  clgr2rtr1.canarie.ca (205.189.32.175)  56.811 ms  56.784 ms  56.779 ms
+ 6  wnpg1rtr1.canarie.ca (205.189.32.177)  71.029 ms  70.856 ms  70.791 ms
+ 7  toro1rtr1.canarie.ca (205.189.32.181)  92.080 ms  92.091 ms  92.158 ms
+ 8  border3.orion.on.ca (205.189.32.42)  92.824 ms  92.894 ms  92.841 ms
+ 9  be202.p01-york.orion.on.ca (66.97.16.25)  93.404 ms  93.452 ms  93.484 ms
+10  be119.pe01-wtlo.orion.on.ca (66.97.16.110)  95.961 ms  96.539 ms  96.589 ms
+11  66.97.28.66 (66.97.28.66)  95.895 ms  95.972 ms  96.020 ms
+12  plonk.cs.uwaterloo.ca (129.97.74.14)  95.251 ms  95.433 ms  95.356 ms
+traceroute to plonk.cs.uwaterloo.ca (129.97.74.14), 30 hops max, 60 byte packets
+ 1  153.90.1.33 (153.90.1.33)  0.380 ms  0.768 ms  0.823 ms
+ 2  ae0--565.icar-chcg1-1.infra.pnw-gigapop.net (209.124.190.246)  28.365 ms  28.351 ms  28.338 ms
+ 3  ae0--706.icar-sttl1-2.infra.pnw-gigapop.net (207.231.240.1)  42.279 ms  42.268 ms  42.265 ms
+ 4  207.231.240.21 (207.231.240.21)  45.609 ms  45.617 ms  45.603 ms
+ 5  clgr2rtr1.canarie.ca (205.189.32.175)  56.498 ms  56.519 ms  56.492 ms
+ 6  wnpg1rtr1.canarie.ca (205.189.32.177)  70.823 ms  70.881 ms  70.879 ms
+ 7  toro1rtr1.canarie.ca (205.189.32.181)  92.214 ms  92.204 ms  92.201 ms
+ 8  border3.orion.on.ca (205.189.32.42)  92.808 ms  92.829 ms  92.851 ms
+ 9  be202.p01-york.orion.on.ca (66.97.16.25)  93.348 ms  93.379 ms  93.424 ms
+10  be119.pe01-wtlo.orion.on.ca (66.97.16.110)  96.275 ms  96.556 ms  96.604 ms
+11  66.97.28.66 (66.97.28.66)  96.128 ms  96.262 ms  96.138 ms
+12  plonk.cs.uwaterloo.ca (129.97.74.14)  95.440 ms  95.661 ms  95.365 ms
+traceroute to plonk.cs.uwaterloo.ca (129.97.74.14), 30 hops max, 60 byte packets
+ 1  153.90.1.33 (153.90.1.33)  0.532 ms  0.660 ms  0.794 ms
+ 2  ae0--565.icar-chcg1-1.infra.pnw-gigapop.net (209.124.190.246)  28.360 ms  28.350 ms  28.347 ms
+ 3  ae0--706.icar-sttl1-2.infra.pnw-gigapop.net (207.231.240.1)  42.346 ms  42.356 ms  42.316 ms
+ 4  207.231.240.21 (207.231.240.21)  45.504 ms  45.641 ms  45.626 ms
+ 5  clgr2rtr1.canarie.ca (205.189.32.175)  56.600 ms  56.588 ms  56.593 ms
+ 6  wnpg1rtr1.canarie.ca (205.189.32.177)  70.916 ms  70.822 ms  70.825 ms
+ 7  toro1rtr1.canarie.ca (205.189.32.181)  92.081 ms  92.169 ms  92.173 ms
+ 8  border3.orion.on.ca (205.189.32.42)  92.893 ms  92.983 ms  92.979 ms
+ 9  be202.p01-york.orion.on.ca (66.97.16.25)  93.738 ms  93.776 ms  93.818 ms
+10  be119.pe01-wtlo.orion.on.ca (66.97.16.110)  96.690 ms  96.394 ms  96.436 ms
+11  66.97.28.66 (66.97.28.66)  95.907 ms  95.918 ms  95.999 ms
+12  plonk.cs.uwaterloo.ca (129.97.74.14)  95.412 ms  95.313 ms  95.624 ms
+traceroute to plonk.cs.uwaterloo.ca (129.97.74.14), 30 hops max, 60 byte packets
+ 1  153.90.1.33 (153.90.1.33)  0.579 ms  0.650 ms  0.727 ms
+ 2  ae0--565.icar-chcg1-1.infra.pnw-gigapop.net (209.124.190.246)  28.351 ms  28.352 ms  28.343 ms
+ 3  ae0--706.icar-sttl1-2.infra.pnw-gigapop.net (207.231.240.1)  42.287 ms  42.497 ms  42.504 ms
+ 4  207.231.240.21 (207.231.240.21)  45.722 ms  45.674 ms  45.688 ms
+ 5  clgr2rtr1.canarie.ca (205.189.32.175)  56.647 ms  56.636 ms  56.578 ms
+ 6  wnpg1rtr1.canarie.ca (205.189.32.177)  70.840 ms  70.829 ms  70.833 ms
+ 7  toro1rtr1.canarie.ca (205.189.32.181)  92.158 ms  92.153 ms  92.144 ms
+ 8  border3.orion.on.ca (205.189.32.42)  92.692 ms  92.744 ms  92.667 ms
+ 9  be202.p01-york.orion.on.ca (66.97.16.25)  93.356 ms  93.383 ms  93.434 ms
+10  be119.pe01-wtlo.orion.on.ca (66.97.16.110)  96.512 ms  96.575 ms  96.591 ms
+11  66.97.28.66 (66.97.28.66)  95.885 ms  95.962 ms  95.983 ms
+12  plonk.cs.uwaterloo.ca (129.97.74.14)  95.378 ms  95.592 ms  95.383 ms
+traceroute to plonk.cs.uwaterloo.ca (129.97.74.14), 30 hops max, 60 byte packets
+ 1  153.90.1.33 (153.90.1.33)  0.463 ms  0.861 ms  0.923 ms
+ 2  ae0--565.icar-chcg1-1.infra.pnw-gigapop.net (209.124.190.246)  28.350 ms  28.343 ms  28.337 ms
+ 3  ae0--706.icar-sttl1-2.infra.pnw-gigapop.net (207.231.240.1)  42.361 ms  42.365 ms  42.350 ms
+ 4  207.231.240.21 (207.231.240.21)  45.655 ms  45.660 ms  45.648 ms
+ 5  clgr2rtr1.canarie.ca (205.189.32.175)  56.472 ms  56.477 ms  56.615 ms
+ 6  wnpg1rtr1.canarie.ca (205.189.32.177)  70.958 ms  70.898 ms  70.857 ms
+ 7  toro1rtr1.canarie.ca (205.189.32.181)  92.179 ms  92.187 ms  92.149 ms
+ 8  border3.orion.on.ca (205.189.32.42)  93.106 ms  93.072 ms  93.075 ms
+ 9  be202.p01-york.orion.on.ca (66.97.16.25)  93.693 ms  94.011 ms  93.971 ms
+10  be119.pe01-wtlo.orion.on.ca (66.97.16.110)  96.605 ms  96.732 ms  96.640 ms
+11  66.97.28.66 (66.97.28.66)  96.150 ms  96.005 ms  96.176 ms
+12  plonk.cs.uwaterloo.ca (129.97.74.14)  95.808 ms  95.354 ms  95.468 ms
+traceroute to plonk.cs.uwaterloo.ca (129.97.74.14), 30 hops max, 60 byte packets
+ 1  153.90.1.33 (153.90.1.33)  0.677 ms  0.727 ms  1.147 ms
+ 2  ae0--565.icar-chcg1-1.infra.pnw-gigapop.net (209.124.190.246)  28.342 ms  28.348 ms  28.337 ms
+ 3  ae0--706.icar-sttl1-2.infra.pnw-gigapop.net (207.231.240.1)  42.362 ms  42.367 ms  42.356 ms
+ 4  207.231.240.21 (207.231.240.21)  45.658 ms  45.672 ms  45.665 ms
+ 5  clgr2rtr1.canarie.ca (205.189.32.175)  56.586 ms  56.591 ms  56.572 ms
+ 6  wnpg1rtr1.canarie.ca (205.189.32.177)  70.828 ms  70.832 ms  71.232 ms
+ 7  toro1rtr1.canarie.ca (205.189.32.181)  92.165 ms  92.128 ms  92.139 ms
+ 8  border3.orion.on.ca (205.189.32.42)  92.803 ms  92.848 ms  92.869 ms
+ 9  be202.p01-york.orion.on.ca (66.97.16.25)  93.725 ms  93.759 ms  93.813 ms
+10  be119.pe01-wtlo.orion.on.ca (66.97.16.110)  96.391 ms  96.171 ms  96.155 ms
+11  66.97.28.66 (66.97.28.66)  95.880 ms  95.902 ms  95.987 ms
+12  plonk.cs.uwaterloo.ca (129.97.74.14)  95.430 ms  95.538 ms  95.526 ms
+traceroute to plonk.cs.uwaterloo.ca (129.97.74.14), 30 hops max, 60 byte packets
+ 1  153.90.1.33 (153.90.1.33)  0.474 ms  0.857 ms  0.909 ms
+ 2  ae0--565.icar-chcg1-1.infra.pnw-gigapop.net (209.124.190.246)  28.329 ms  28.335 ms  28.322 ms
+ 3  ae0--706.icar-sttl1-2.infra.pnw-gigapop.net (207.231.240.1)  44.473 ms  44.484 ms  44.491 ms
+ 4  207.231.240.21 (207.231.240.21)  45.565 ms  45.576 ms  45.531 ms
+ 5  clgr2rtr1.canarie.ca (205.189.32.175)  56.517 ms  56.508 ms  56.498 ms
+ 6  wnpg1rtr1.canarie.ca (205.189.32.177)  70.794 ms  70.839 ms  70.793 ms
+ 7  toro1rtr1.canarie.ca (205.189.32.181)  92.134 ms  92.139 ms  92.110 ms
+ 8  border3.orion.on.ca (205.189.32.42)  92.756 ms  92.781 ms  92.824 ms
+ 9  be202.p01-york.orion.on.ca (66.97.16.25)  93.574 ms  93.610 ms  93.654 ms
+10  be119.pe01-wtlo.orion.on.ca (66.97.16.110)  96.523 ms  96.265 ms  96.146 ms
+11  66.97.28.66 (66.97.28.66)  96.248 ms  96.325 ms  96.394 ms
+12  plonk.cs.uwaterloo.ca (129.97.74.14)  95.850 ms  95.914 ms  96.063 ms
+traceroute to plonk.cs.uwaterloo.ca (129.97.74.14), 30 hops max, 60 byte packets
+ 1  153.90.1.33 (153.90.1.33)  0.758 ms  0.809 ms  0.861 ms
+ 2  ae0--565.icar-chcg1-1.infra.pnw-gigapop.net (209.124.190.246)  28.350 ms  28.350 ms  28.339 ms
+ 3  ae0--706.icar-sttl1-2.infra.pnw-gigapop.net (207.231.240.1)  42.281 ms  42.275 ms  42.263 ms
+ 4  207.231.240.21 (207.231.240.21)  45.573 ms  45.567 ms  45.560 ms
+ 5  clgr2rtr1.canarie.ca (205.189.32.175)  56.623 ms  56.631 ms  56.618 ms
+ 6  wnpg1rtr1.canarie.ca (205.189.32.177)  70.887 ms  70.920 ms  70.787 ms
+ 7  toro1rtr1.canarie.ca (205.189.32.181)  92.160 ms  92.117 ms  92.129 ms
+ 8  border3.orion.on.ca (205.189.32.42)  92.727 ms  92.760 ms  92.803 ms
+ 9  be202.p01-york.orion.on.ca (66.97.16.25)  93.681 ms  93.716 ms  93.762 ms
+10  be119.pe01-wtlo.orion.on.ca (66.97.16.110)  96.751 ms  96.789 ms  96.826 ms
+11  66.97.28.66 (66.97.28.66)  96.439 ms  96.511 ms  96.529 ms
+12  plonk.cs.uwaterloo.ca (129.97.74.14)  95.635 ms  95.855 ms  95.805 ms
+traceroute to plonk.cs.uwaterloo.ca (129.97.74.14), 30 hops max, 60 byte packets
+ 1  153.90.1.33 (153.90.1.33)  0.596 ms  0.644 ms  0.734 ms
+ 2  ae0--565.icar-chcg1-1.infra.pnw-gigapop.net (209.124.190.246)  28.369 ms  28.356 ms  28.343 ms
+ 3  ae0--706.icar-sttl1-2.infra.pnw-gigapop.net (207.231.240.1)  42.288 ms  42.281 ms  42.275 ms
+ 4  207.231.240.21 (207.231.240.21)  45.583 ms  45.578 ms  45.576 ms
+ 5  clgr2rtr1.canarie.ca (205.189.32.175)  56.551 ms  56.546 ms  56.539 ms
+ 6  wnpg1rtr1.canarie.ca (205.189.32.177)  70.846 ms  70.917 ms  72.051 ms
+ 7  toro1rtr1.canarie.ca (205.189.32.181)  92.522 ms  92.463 ms  92.456 ms
+ 8  border3.orion.on.ca (205.189.32.42)  93.037 ms  93.083 ms  92.931 ms
+ 9  be202.p01-york.orion.on.ca (66.97.16.25)  93.976 ms  94.021 ms  94.055 ms
+10  be119.pe01-wtlo.orion.on.ca (66.97.16.110)  96.503 ms  96.201 ms  96.248 ms
+11  66.97.28.66 (66.97.28.66)  96.261 ms  96.304 ms  96.376 ms
+12  plonk.cs.uwaterloo.ca (129.97.74.14)  95.753 ms  95.794 ms  95.820 ms
+traceroute to plonk.cs.uwaterloo.ca (129.97.74.14), 30 hops max, 60 byte packets
+ 1  153.90.1.33 (153.90.1.33)  0.465 ms  0.602 ms  0.729 ms
+ 2  ae0--565.icar-chcg1-1.infra.pnw-gigapop.net (209.124.190.246)  28.355 ms  28.349 ms  28.346 ms
+ 3  ae0--706.icar-sttl1-2.infra.pnw-gigapop.net (207.231.240.1)  42.394 ms  42.347 ms  42.362 ms
+ 4  207.231.240.21 (207.231.240.21)  45.689 ms  45.657 ms  45.673 ms
+ 5  clgr2rtr1.canarie.ca (205.189.32.175)  56.571 ms  56.537 ms  56.545 ms
+ 6  wnpg1rtr1.canarie.ca (205.189.32.177)  70.776 ms  70.782 ms  70.772 ms
+ 7  toro1rtr1.canarie.ca (205.189.32.181)  92.142 ms  92.146 ms  92.135 ms
+ 8  border3.orion.on.ca (205.189.32.42)  93.152 ms  93.144 ms  93.131 ms
+ 9  be202.p01-york.orion.on.ca (66.97.16.25)  93.950 ms  93.861 ms  93.966 ms
+10  be119.pe01-wtlo.orion.on.ca (66.97.16.110)  96.681 ms  96.402 ms  96.443 ms
+11  66.97.28.66 (66.97.28.66)  96.280 ms  96.359 ms  96.444 ms
+12  plonk.cs.uwaterloo.ca (129.97.74.14)  95.844 ms  96.170 ms  95.864 ms
+traceroute to plonk.cs.uwaterloo.ca (129.97.74.14), 30 hops max, 60 byte packets
+ 1  153.90.1.33 (153.90.1.33)  0.407 ms  0.764 ms  0.825 ms
+ 2  ae0--565.icar-chcg1-1.infra.pnw-gigapop.net (209.124.190.246)  28.360 ms  28.353 ms  28.344 ms
+ 3  ae0--706.icar-sttl1-2.infra.pnw-gigapop.net (207.231.240.1)  42.420 ms  42.427 ms  42.417 ms
+ 4  207.231.240.21 (207.231.240.21)  45.646 ms  45.638 ms  45.627 ms
+ 5  clgr2rtr1.canarie.ca (205.189.32.175)  56.608 ms  56.598 ms  56.588 ms
+ 6  wnpg1rtr1.canarie.ca (205.189.32.177)  70.831 ms  70.808 ms  70.859 ms
+ 7  toro1rtr1.canarie.ca (205.189.32.181)  92.188 ms  92.186 ms  92.175 ms
+ 8  border3.orion.on.ca (205.189.32.42)  92.689 ms  92.724 ms  92.754 ms
+ 9  be202.p01-york.orion.on.ca (66.97.16.25)  93.799 ms  93.903 ms  93.808 ms
+10  be119.pe01-wtlo.orion.on.ca (66.97.16.110)  96.553 ms  96.587 ms  96.630 ms
+11  66.97.28.66 (66.97.28.66)  96.245 ms  96.357 ms  96.375 ms
+12  plonk.cs.uwaterloo.ca (129.97.74.14)  95.811 ms  95.834 ms  95.867 ms
+traceroute to plonk.cs.uwaterloo.ca (129.97.74.14), 30 hops max, 60 byte packets
+ 1  153.90.1.33 (153.90.1.33)  0.664 ms  0.708 ms  1.134 ms
+ 2  ae0--565.icar-chcg1-1.infra.pnw-gigapop.net (209.124.190.246)  28.359 ms  28.353 ms  28.345 ms
+ 3  ae0--706.icar-sttl1-2.infra.pnw-gigapop.net (207.231.240.1)  42.299 ms  42.312 ms  42.279 ms
+ 4  207.231.240.21 (207.231.240.21)  46.407 ms  46.399 ms  46.399 ms
+ 5  clgr2rtr1.canarie.ca (205.189.32.175)  56.498 ms  56.504 ms  56.493 ms
+ 6  wnpg1rtr1.canarie.ca (205.189.32.177)  70.776 ms  70.907 ms  71.855 ms
+ 7  toro1rtr1.canarie.ca (205.189.32.181)  92.140 ms  92.133 ms  92.131 ms
+ 8  border3.orion.on.ca (205.189.32.42)  92.720 ms  92.754 ms  92.789 ms
+ 9  be202.p01-york.orion.on.ca (66.97.16.25)  93.741 ms  93.531 ms  94.049 ms
+10  be119.pe01-wtlo.orion.on.ca (66.97.16.110)  96.503 ms  96.815 ms  96.855 ms
+11  66.97.28.66 (66.97.28.66)  96.167 ms  96.253 ms  96.330 ms
+12  plonk.cs.uwaterloo.ca (129.97.74.14)  95.773 ms  95.865 ms  95.597 ms
+traceroute to plonk.cs.uwaterloo.ca (129.97.74.14), 30 hops max, 60 byte packets
+ 1  153.90.1.33 (153.90.1.33)  0.416 ms  0.667 ms  0.807 ms
+ 2  ae0--565.icar-chcg1-1.infra.pnw-gigapop.net (209.124.190.246)  28.351 ms  28.344 ms  28.341 ms
+ 3  ae0--706.icar-sttl1-2.infra.pnw-gigapop.net (207.231.240.1)  42.274 ms  42.279 ms  42.262 ms
+ 4  207.231.240.21 (207.231.240.21)  45.573 ms  45.574 ms  45.561 ms
+ 5  clgr2rtr1.canarie.ca (205.189.32.175)  56.655 ms  56.610 ms  56.627 ms
+ 6  wnpg1rtr1.canarie.ca (205.189.32.177)  70.876 ms  70.798 ms  70.776 ms
+ 7  toro1rtr1.canarie.ca (205.189.32.181)  92.137 ms  92.140 ms  92.124 ms
+ 8  border3.orion.on.ca (205.189.32.42)  92.633 ms  92.595 ms  92.636 ms
+ 9  be202.p01-york.orion.on.ca (66.97.16.25)  93.752 ms  93.791 ms  93.829 ms
+10  be119.pe01-wtlo.orion.on.ca (66.97.16.110)  96.485 ms  96.260 ms  96.160 ms
+11  66.97.28.66 (66.97.28.66)  96.250 ms  96.361 ms  96.280 ms
+12  plonk.cs.uwaterloo.ca (129.97.74.14)  96.035 ms  95.892 ms  95.689 ms
+traceroute to plonk.cs.uwaterloo.ca (129.97.74.14), 30 hops max, 60 byte packets
+ 1  153.90.1.33 (153.90.1.33)  0.875 ms  0.915 ms  0.964 ms
+ 2  ae0--565.icar-chcg1-1.infra.pnw-gigapop.net (209.124.190.246)  28.357 ms  28.352 ms  28.342 ms
+ 3  ae0--706.icar-sttl1-2.infra.pnw-gigapop.net (207.231.240.1)  42.227 ms  42.291 ms  42.284 ms
+ 4  207.231.240.21 (207.231.240.21)  45.728 ms  45.722 ms  45.715 ms
+ 5  clgr2rtr1.canarie.ca (205.189.32.175)  56.578 ms  56.595 ms  56.584 ms
+ 6  wnpg1rtr1.canarie.ca (205.189.32.177)  70.816 ms  70.785 ms  70.916 ms
+ 7  toro1rtr1.canarie.ca (205.189.32.181)  92.259 ms  92.203 ms  92.203 ms
+ 8  border3.orion.on.ca (205.189.32.42)  92.511 ms  92.548 ms  92.563 ms
+ 9  be202.p01-york.orion.on.ca (66.97.16.25)  93.867 ms  93.890 ms  93.936 ms
+10  be119.pe01-wtlo.orion.on.ca (66.97.16.110)  96.610 ms  96.205 ms  96.298 ms
+11  66.97.28.66 (66.97.28.66)  96.289 ms  96.374 ms  96.438 ms
+12  plonk.cs.uwaterloo.ca (129.97.74.14)  95.828 ms  95.851 ms  95.937 ms
+traceroute to plonk.cs.uwaterloo.ca (129.97.74.14), 30 hops max, 60 byte packets
+ 1  153.90.1.33 (153.90.1.33)  0.887 ms  0.934 ms  0.985 ms
+ 2  ae0--565.icar-chcg1-1.infra.pnw-gigapop.net (209.124.190.246)  28.347 ms  28.342 ms  28.337 ms
+ 3  ae0--706.icar-sttl1-2.infra.pnw-gigapop.net (207.231.240.1)  42.718 ms  42.710 ms  42.703 ms
+ 4  207.231.240.21 (207.231.240.21)  45.558 ms  45.549 ms  45.547 ms
+ 5  clgr2rtr1.canarie.ca (205.189.32.175)  56.514 ms  56.506 ms  56.499 ms
+ 6  wnpg1rtr1.canarie.ca (205.189.32.177)  70.786 ms  70.878 ms  70.863 ms
+ 7  toro1rtr1.canarie.ca (205.189.32.181)  92.129 ms  92.121 ms  92.121 ms
+ 8  border3.orion.on.ca (205.189.32.42)  92.595 ms  92.610 ms  92.650 ms
+ 9  be202.p01-york.orion.on.ca (66.97.16.25)  93.691 ms  93.166 ms  93.207 ms
+10  be119.pe01-wtlo.orion.on.ca (66.97.16.110)  96.537 ms  96.580 ms  96.619 ms
+11  66.97.28.66 (66.97.28.66)  95.929 ms  96.011 ms  96.081 ms
+12  plonk.cs.uwaterloo.ca (129.97.74.14)  95.568 ms  95.459 ms  95.550 ms
+traceroute to plonk.cs.uwaterloo.ca (129.97.74.14), 30 hops max, 60 byte packets
+ 1  153.90.1.33 (153.90.1.33)  0.750 ms  0.805 ms  0.855 ms
+ 2  ae0--565.icar-chcg1-1.infra.pnw-gigapop.net (209.124.190.246)  28.351 ms  28.339 ms  28.325 ms
+ 3  ae0--706.icar-sttl1-2.infra.pnw-gigapop.net (207.231.240.1)  42.284 ms  42.275 ms  42.327 ms
+ 4  207.231.240.21 (207.231.240.21)  45.669 ms  45.641 ms  45.587 ms
+ 5  clgr2rtr1.canarie.ca (205.189.32.175)  56.524 ms  56.532 ms  56.519 ms
+ 6  wnpg1rtr1.canarie.ca (205.189.32.177)  70.764 ms  70.998 ms  70.791 ms
+ 7  toro1rtr1.canarie.ca (205.189.32.181)  92.127 ms  92.127 ms  92.115 ms
+ 8  border3.orion.on.ca (205.189.32.42)  92.689 ms  92.730 ms  92.783 ms
+ 9  be202.p01-york.orion.on.ca (66.97.16.25)  93.787 ms  93.812 ms  93.867 ms
+10  be119.pe01-wtlo.orion.on.ca (66.97.16.110)  96.453 ms  96.315 ms  96.366 ms
+11  66.97.28.66 (66.97.28.66)  96.195 ms  96.071 ms  95.992 ms
+12  plonk.cs.uwaterloo.ca (129.97.74.14)  95.407 ms  95.415 ms  95.331 ms
+traceroute to plonk.cs.uwaterloo.ca (129.97.74.14), 30 hops max, 60 byte packets
+ 1  153.90.1.33 (153.90.1.33)  0.575 ms  0.648 ms  0.786 ms
+ 2  ae0--565.icar-chcg1-1.infra.pnw-gigapop.net (209.124.190.246)  28.361 ms  28.357 ms  28.348 ms
+ 3  ae0--706.icar-sttl1-2.infra.pnw-gigapop.net (207.231.240.1)  42.266 ms  42.256 ms  42.254 ms
+ 4  207.231.240.21 (207.231.240.21)  45.579 ms  45.594 ms  45.563 ms
+ 5  clgr2rtr1.canarie.ca (205.189.32.175)  56.538 ms  56.527 ms  56.517 ms
+ 6  wnpg1rtr1.canarie.ca (205.189.32.177)  71.731 ms  70.799 ms  71.034 ms
+ 7  toro1rtr1.canarie.ca (205.189.32.181)  92.141 ms  92.148 ms  92.137 ms
+ 8  border3.orion.on.ca (205.189.32.42)  92.607 ms  92.599 ms  92.640 ms
+ 9  be202.p01-york.orion.on.ca (66.97.16.25)  93.396 ms  93.486 ms  93.413 ms
+10  be119.pe01-wtlo.orion.on.ca (66.97.16.110)  96.697 ms  96.534 ms  96.594 ms
+11  66.97.28.66 (66.97.28.66)  95.850 ms  95.923 ms  95.955 ms
+12  plonk.cs.uwaterloo.ca (129.97.74.14)  95.382 ms  95.306 ms  95.414 ms
+traceroute to plonk.cs.uwaterloo.ca (129.97.74.14), 30 hops max, 60 byte packets
+ 1  153.90.1.33 (153.90.1.33)  0.967 ms  1.015 ms  1.064 ms
+ 2  ae0--565.icar-chcg1-1.infra.pnw-gigapop.net (209.124.190.246)  28.335 ms  28.342 ms  28.330 ms
+ 3  ae0--706.icar-sttl1-2.infra.pnw-gigapop.net (207.231.240.1)  42.640 ms  42.627 ms  42.629 ms
+ 4  207.231.240.21 (207.231.240.21)  45.901 ms  45.891 ms  45.888 ms
+ 5  clgr2rtr1.canarie.ca (205.189.32.175)  57.212 ms  57.218 ms  57.206 ms
+ 6  wnpg1rtr1.canarie.ca (205.189.32.177)  71.131 ms  71.041 ms  71.029 ms
+ 7  toro1rtr1.canarie.ca (205.189.32.181)  94.668 ms  92.854 ms  92.852 ms
+ 8  border3.orion.on.ca (205.189.32.42)  92.929 ms  92.964 ms  92.990 ms
+ 9  be202.p01-york.orion.on.ca (66.97.16.25)  93.882 ms  93.873 ms  93.913 ms
+10  be119.pe01-wtlo.orion.on.ca (66.97.16.110)  96.571 ms  96.631 ms  96.669 ms
+11  66.97.28.66 (66.97.28.66)  96.004 ms  96.079 ms  96.119 ms
+12  plonk.cs.uwaterloo.ca (129.97.74.14)  95.478 ms  95.490 ms  95.527 ms
+traceroute to plonk.cs.uwaterloo.ca (129.97.74.14), 30 hops max, 60 byte packets
+ 1  153.90.1.33 (153.90.1.33)  0.605 ms  0.654 ms  0.702 ms
+ 2  ae0--565.icar-chcg1-1.infra.pnw-gigapop.net (209.124.190.246)  28.345 ms  28.332 ms  28.331 ms
+ 3  ae0--706.icar-sttl1-2.infra.pnw-gigapop.net (207.231.240.1)  42.399 ms  42.408 ms  42.396 ms
+ 4  207.231.240.21 (207.231.240.21)  45.617 ms  45.611 ms  45.598 ms
+ 5  clgr2rtr1.canarie.ca (205.189.32.175)  56.483 ms  56.490 ms  56.495 ms
+ 6  wnpg1rtr1.canarie.ca (205.189.32.177)  70.766 ms  70.817 ms  70.822 ms
+ 7  toro1rtr1.canarie.ca (205.189.32.181)  92.137 ms  92.131 ms  92.126 ms
+ 8  border3.orion.on.ca (205.189.32.42)  92.806 ms  92.839 ms  92.866 ms
+ 9  be202.p01-york.orion.on.ca (66.97.16.25)  93.773 ms  93.706 ms  93.805 ms
+10  be119.pe01-wtlo.orion.on.ca (66.97.16.110)  96.137 ms  96.142 ms  96.368 ms
+11  66.97.28.66 (66.97.28.66)  95.862 ms  95.938 ms  95.986 ms
+12  plonk.cs.uwaterloo.ca (129.97.74.14)  95.494 ms  95.429 ms  95.594 ms
+traceroute to plonk.cs.uwaterloo.ca (129.97.74.14), 30 hops max, 60 byte packets
+ 1  153.90.1.33 (153.90.1.33)  0.709 ms  0.755 ms  1.202 ms
+ 2  ae0--565.icar-chcg1-1.infra.pnw-gigapop.net (209.124.190.246)  28.362 ms  28.353 ms  28.351 ms
+ 3  ae0--706.icar-sttl1-2.infra.pnw-gigapop.net (207.231.240.1)  42.274 ms  42.265 ms  42.256 ms
+ 4  207.231.240.21 (207.231.240.21)  45.557 ms  45.564 ms  45.550 ms
+ 5  clgr2rtr1.canarie.ca (205.189.32.175)  56.484 ms  56.484 ms  56.469 ms
+ 6  wnpg1rtr1.canarie.ca (205.189.32.177)  70.821 ms  70.828 ms  70.797 ms
+ 7  toro1rtr1.canarie.ca (205.189.32.181)  92.061 ms  92.122 ms  92.110 ms
+ 8  border3.orion.on.ca (205.189.32.42)  92.679 ms  92.702 ms  92.751 ms
+ 9  be202.p01-york.orion.on.ca (66.97.16.25)  93.853 ms  93.939 ms  93.850 ms
+10  be119.pe01-wtlo.orion.on.ca (66.97.16.110)  96.578 ms  96.466 ms  96.519 ms
+11  66.97.28.66 (66.97.28.66)  95.856 ms  95.964 ms  96.007 ms
+12  plonk.cs.uwaterloo.ca (129.97.74.14)  95.355 ms  95.525 ms  95.537 ms
+traceroute to plonk.cs.uwaterloo.ca (129.97.74.14), 30 hops max, 60 byte packets
+ 1  153.90.1.33 (153.90.1.33)  0.426 ms  0.769 ms  0.836 ms
+ 2  ae0--565.icar-chcg1-1.infra.pnw-gigapop.net (209.124.190.246)  28.351 ms  28.339 ms  28.340 ms
+ 3  ae0--706.icar-sttl1-2.infra.pnw-gigapop.net (207.231.240.1)  42.515 ms  42.506 ms  42.500 ms
+ 4  207.231.240.21 (207.231.240.21)  45.742 ms  45.730 ms  45.725 ms
+ 5  clgr2rtr1.canarie.ca (205.189.32.175)  56.659 ms  56.628 ms  56.636 ms
+ 6  wnpg1rtr1.canarie.ca (205.189.32.177)  70.837 ms  70.832 ms  70.938 ms
+ 7  toro1rtr1.canarie.ca (205.189.32.181)  92.267 ms  92.258 ms  92.256 ms
+ 8  border3.orion.on.ca (205.189.32.42)  92.493 ms  92.510 ms  92.547 ms
+ 9  be202.p01-york.orion.on.ca (66.97.16.25)  93.918 ms  93.962 ms  93.996 ms
+10  be119.pe01-wtlo.orion.on.ca (66.97.16.110)  96.602 ms  96.192 ms  96.241 ms
+11  66.97.28.66 (66.97.28.66)  95.928 ms  95.995 ms  96.077 ms
+12  plonk.cs.uwaterloo.ca (129.97.74.14)  95.400 ms  95.370 ms  95.457 ms
+traceroute to plonk.cs.uwaterloo.ca (129.97.74.14), 30 hops max, 60 byte packets
+ 1  153.90.1.33 (153.90.1.33)  0.856 ms  0.900 ms  0.952 ms
+ 2  ae0--565.icar-chcg1-1.infra.pnw-gigapop.net (209.124.190.246)  28.331 ms  28.337 ms  28.325 ms
+ 3  ae0--706.icar-sttl1-2.infra.pnw-gigapop.net (207.231.240.1)  42.267 ms  42.252 ms  42.253 ms
+ 4  207.231.240.21 (207.231.240.21)  45.603 ms  45.558 ms  45.572 ms
+ 5  clgr2rtr1.canarie.ca (205.189.32.175)  56.990 ms  56.978 ms  56.975 ms
+ 6  wnpg1rtr1.canarie.ca (205.189.32.177)  70.777 ms  70.786 ms  70.916 ms
+ 7  toro1rtr1.canarie.ca (205.189.32.181)  92.256 ms  92.256 ms  92.244 ms
+ 8  border3.orion.on.ca (205.189.32.42)  92.983 ms  93.023 ms  93.037 ms
+ 9  be202.p01-york.orion.on.ca (66.97.16.25)  93.570 ms  93.542 ms  93.560 ms
+10  be119.pe01-wtlo.orion.on.ca (66.97.16.110)  96.395 ms  96.448 ms  97.019 ms
+11  66.97.28.66 (66.97.28.66)  95.867 ms  95.965 ms  95.982 ms
+12  plonk.cs.uwaterloo.ca (129.97.74.14)  95.173 ms  95.440 ms  95.395 ms
+traceroute to plonk.cs.uwaterloo.ca (129.97.74.14), 30 hops max, 60 byte packets
+ 1  153.90.1.33 (153.90.1.33)  0.472 ms  1.051 ms  1.103 ms
+ 2  ae0--565.icar-chcg1-1.infra.pnw-gigapop.net (209.124.190.246)  28.368 ms  28.357 ms  28.345 ms
+ 3  ae0--706.icar-sttl1-2.infra.pnw-gigapop.net (207.231.240.1)  42.264 ms  42.255 ms  42.249 ms
+ 4  207.231.240.21 (207.231.240.21)  45.570 ms  45.578 ms  45.541 ms
+ 5  clgr2rtr1.canarie.ca (205.189.32.175)  56.561 ms  56.562 ms  56.533 ms
+ 6  wnpg1rtr1.canarie.ca (205.189.32.177)  70.830 ms  70.824 ms  70.792 ms
+ 7  toro1rtr1.canarie.ca (205.189.32.181)  92.110 ms  92.118 ms  92.185 ms
+ 8  border3.orion.on.ca (205.189.32.42)  92.656 ms  92.679 ms  92.573 ms
+ 9  be202.p01-york.orion.on.ca (66.97.16.25)  93.796 ms  93.845 ms  93.698 ms
+10  be119.pe01-wtlo.orion.on.ca (66.97.16.110)  96.472 ms  96.228 ms  96.330 ms
+11  66.97.28.66 (66.97.28.66)  95.804 ms  95.882 ms  95.959 ms
+12  plonk.cs.uwaterloo.ca (129.97.74.14)  95.271 ms  95.380 ms  95.492 ms
+traceroute to plonk.cs.uwaterloo.ca (129.97.74.14), 30 hops max, 60 byte packets
+ 1  153.90.1.33 (153.90.1.33)  0.784 ms  0.827 ms  0.879 ms
+ 2  ae0--565.icar-chcg1-1.infra.pnw-gigapop.net (209.124.190.246)  28.356 ms  28.347 ms  28.335 ms
+ 3  ae0--706.icar-sttl1-2.infra.pnw-gigapop.net (207.231.240.1)  42.301 ms  42.311 ms  42.273 ms
+ 4  207.231.240.21 (207.231.240.21)  45.558 ms  45.560 ms  45.546 ms
+ 5  clgr2rtr1.canarie.ca (205.189.32.175)  56.504 ms  56.497 ms  56.493 ms
+ 6  wnpg1rtr1.canarie.ca (205.189.32.177)  70.768 ms  70.862 ms  70.801 ms
+ 7  toro1rtr1.canarie.ca (205.189.32.181)  92.069 ms  92.091 ms  92.154 ms
+ 8  border3.orion.on.ca (205.189.32.42)  92.696 ms  92.749 ms  92.765 ms
+ 9  be202.p01-york.orion.on.ca (66.97.16.25)  93.566 ms  93.668 ms  93.593 ms
+10  be119.pe01-wtlo.orion.on.ca (66.97.16.110)  96.500 ms  96.262 ms  96.310 ms
+11  66.97.28.66 (66.97.28.66)  95.936 ms  96.019 ms  96.058 ms
+12  plonk.cs.uwaterloo.ca (129.97.74.14)  95.331 ms  95.449 ms  95.544 ms
+traceroute to plonk.cs.uwaterloo.ca (129.97.74.14), 30 hops max, 60 byte packets
+ 1  153.90.1.33 (153.90.1.33)  0.473 ms  0.884 ms  0.936 ms
+ 2  ae0--565.icar-chcg1-1.infra.pnw-gigapop.net (209.124.190.246)  28.330 ms  28.336 ms  28.327 ms
+ 3  ae0--706.icar-sttl1-2.infra.pnw-gigapop.net (207.231.240.1)  42.291 ms  42.280 ms  42.278 ms
+ 4  207.231.240.21 (207.231.240.21)  45.555 ms  45.558 ms  45.547 ms
+ 5  clgr2rtr1.canarie.ca (205.189.32.175)  56.497 ms  56.611 ms  56.618 ms
+ 6  wnpg1rtr1.canarie.ca (205.189.32.177)  70.914 ms  70.781 ms  71.028 ms
+ 7  toro1rtr1.canarie.ca (205.189.32.181)  92.296 ms  92.288 ms  92.426 ms
+ 8  border3.orion.on.ca (205.189.32.42)  93.165 ms  93.099 ms  93.036 ms
+ 9  be202.p01-york.orion.on.ca (66.97.16.25)  94.005 ms  93.505 ms  93.537 ms
+10  be119.pe01-wtlo.orion.on.ca (66.97.16.110)  96.107 ms  96.182 ms  96.224 ms
+11  66.97.28.66 (66.97.28.66)  96.148 ms  96.209 ms  96.025 ms
+12  plonk.cs.uwaterloo.ca (129.97.74.14)  95.435 ms  95.392 ms  95.318 ms
+traceroute to plonk.cs.uwaterloo.ca (129.97.74.14), 30 hops max, 60 byte packets
+ 1  153.90.1.33 (153.90.1.33)  0.632 ms  0.690 ms  0.740 ms
+ 2  ae0--565.icar-chcg1-1.infra.pnw-gigapop.net (209.124.190.246)  28.330 ms  28.335 ms  28.324 ms
+ 3  ae0--706.icar-sttl1-2.infra.pnw-gigapop.net (207.231.240.1)  42.339 ms  42.342 ms  42.319 ms
+ 4  207.231.240.21 (207.231.240.21)  45.626 ms  45.630 ms  45.619 ms
+ 5  clgr2rtr1.canarie.ca (205.189.32.175)  56.575 ms  56.589 ms  56.579 ms
+ 6  wnpg1rtr1.canarie.ca (205.189.32.177)  70.791 ms  70.905 ms  70.878 ms
+ 7  toro1rtr1.canarie.ca (205.189.32.181)  92.264 ms  92.246 ms  92.182 ms
+ 8  border3.orion.on.ca (205.189.32.42)  92.779 ms  92.808 ms  92.876 ms
+ 9  be202.p01-york.orion.on.ca (66.97.16.25)  93.726 ms  93.950 ms  93.986 ms
+10  be119.pe01-wtlo.orion.on.ca (66.97.16.110)  96.907 ms  96.951 ms  96.794 ms
+11  66.97.28.66 (66.97.28.66)  96.520 ms  96.136 ms  96.470 ms
+12  plonk.cs.uwaterloo.ca (129.97.74.14)  95.408 ms  95.297 ms  95.441 ms
+traceroute to plonk.cs.uwaterloo.ca (129.97.74.14), 30 hops max, 60 byte packets
+ 1  153.90.1.33 (153.90.1.33)  0.692 ms  0.675 ms  0.741 ms
+ 2  ae0--565.icar-chcg1-1.infra.pnw-gigapop.net (209.124.190.246)  28.454 ms  28.449 ms  28.434 ms
+ 3  ae0--706.icar-sttl1-2.infra.pnw-gigapop.net (207.231.240.1)  42.461 ms  42.398 ms  42.410 ms
+ 4  207.231.240.21 (207.231.240.21)  45.678 ms  45.680 ms  45.671 ms
+ 5  clgr2rtr1.canarie.ca (205.189.32.175)  56.541 ms  56.538 ms  56.527 ms
+ 6  wnpg1rtr1.canarie.ca (205.189.32.177)  70.797 ms  70.969 ms  70.965 ms
+ 7  toro1rtr1.canarie.ca (205.189.32.181)  92.194 ms  92.152 ms  92.161 ms
+ 8  border3.orion.on.ca (205.189.32.42)  92.747 ms  92.820 ms  92.834 ms
+ 9  be202.p01-york.orion.on.ca (66.97.16.25)  93.802 ms  93.859 ms  93.904 ms
+10  be119.pe01-wtlo.orion.on.ca (66.97.16.110)  96.482 ms  96.414 ms  96.454 ms
+11  66.97.28.66 (66.97.28.66)  96.287 ms  96.359 ms  96.410 ms
+12  plonk.cs.uwaterloo.ca (129.97.74.14)  95.438 ms  95.458 ms  95.384 ms
+traceroute to plonk.cs.uwaterloo.ca (129.97.74.14), 30 hops max, 60 byte packets
+ 1  153.90.1.33 (153.90.1.33)  0.856 ms  0.903 ms  0.957 ms
+ 2  ae0--565.icar-chcg1-1.infra.pnw-gigapop.net (209.124.190.246)  28.379 ms  28.379 ms  28.368 ms
+ 3  ae0--706.icar-sttl1-2.infra.pnw-gigapop.net (207.231.240.1)  42.286 ms  42.277 ms  42.275 ms
+ 4  207.231.240.21 (207.231.240.21)  45.737 ms  45.743 ms  45.731 ms
+ 5  clgr2rtr1.canarie.ca (205.189.32.175)  56.615 ms  56.622 ms  56.608 ms
+ 6  wnpg1rtr1.canarie.ca (205.189.32.177)  70.911 ms  70.796 ms  70.996 ms
+ 7  toro1rtr1.canarie.ca (205.189.32.181)  92.307 ms  92.260 ms  92.276 ms
+ 8  border3.orion.on.ca (205.189.32.42)  92.847 ms  92.914 ms  92.856 ms
+ 9  be202.p01-york.orion.on.ca (66.97.16.25)  93.960 ms  93.880 ms  93.792 ms
+10  be119.pe01-wtlo.orion.on.ca (66.97.16.110)  96.294 ms  96.269 ms  96.312 ms
+11  66.97.28.66 (66.97.28.66)  96.043 ms  95.865 ms  95.907 ms
+12  plonk.cs.uwaterloo.ca (129.97.74.14)  95.209 ms  95.345 ms  95.372 ms
+traceroute to plonk.cs.uwaterloo.ca (129.97.74.14), 30 hops max, 60 byte packets
+ 1  153.90.1.33 (153.90.1.33)  0.576 ms  0.629 ms  0.679 ms
+ 2  ae0--565.icar-chcg1-1.infra.pnw-gigapop.net (209.124.190.246)  28.360 ms  28.351 ms  28.344 ms
+ 3  ae0--706.icar-sttl1-2.infra.pnw-gigapop.net (207.231.240.1)  42.314 ms  42.300 ms  42.300 ms
+ 4  207.231.240.21 (207.231.240.21)  45.575 ms  45.582 ms  45.586 ms
+ 5  clgr2rtr1.canarie.ca (205.189.32.175)  56.512 ms  56.517 ms  56.507 ms
+ 6  wnpg1rtr1.canarie.ca (205.189.32.177)  70.783 ms  71.295 ms  70.891 ms
+ 7  toro1rtr1.canarie.ca (205.189.32.181)  92.103 ms  92.171 ms  92.178 ms
+ 8  border3.orion.on.ca (205.189.32.42)  92.878 ms  92.803 ms  92.912 ms
+ 9  be202.p01-york.orion.on.ca (66.97.16.25)  93.859 ms  93.902 ms  93.942 ms
+10  be119.pe01-wtlo.orion.on.ca (66.97.16.110)  96.512 ms  96.399 ms  96.425 ms
+11  66.97.28.66 (66.97.28.66)  95.876 ms  95.950 ms  95.995 ms
+12  plonk.cs.uwaterloo.ca (129.97.74.14)  95.455 ms  95.367 ms  95.323 ms
+traceroute to plonk.cs.uwaterloo.ca (129.97.74.14), 30 hops max, 60 byte packets
+ 1  153.90.1.33 (153.90.1.33)  0.822 ms  0.880 ms  0.923 ms
+ 2  ae0--565.icar-chcg1-1.infra.pnw-gigapop.net (209.124.190.246)  28.345 ms  28.348 ms  28.336 ms
+ 3  ae0--706.icar-sttl1-2.infra.pnw-gigapop.net (207.231.240.1)  43.132 ms  43.145 ms  43.118 ms
+ 4  207.231.240.21 (207.231.240.21)  45.603 ms  45.608 ms  45.596 ms
+ 5  clgr2rtr1.canarie.ca (205.189.32.175)  56.591 ms  56.584 ms  56.577 ms
+ 6  wnpg1rtr1.canarie.ca (205.189.32.177)  70.762 ms  71.023 ms  70.928 ms
+ 7  toro1rtr1.canarie.ca (205.189.32.181)  92.219 ms  92.282 ms  92.270 ms
+ 8  border3.orion.on.ca (205.189.32.42)  93.234 ms  93.245 ms  93.284 ms
+ 9  be202.p01-york.orion.on.ca (66.97.16.25)  93.970 ms  93.688 ms  93.727 ms
+10  be119.pe01-wtlo.orion.on.ca (66.97.16.110)  96.535 ms  96.550 ms  96.617 ms
+11  66.97.28.66 (66.97.28.66)  95.908 ms  96.078 ms  95.965 ms
+12  plonk.cs.uwaterloo.ca (129.97.74.14)  95.557 ms  95.510 ms  95.466 ms
+traceroute to plonk.cs.uwaterloo.ca (129.97.74.14), 30 hops max, 60 byte packets
+ 1  153.90.1.33 (153.90.1.33)  0.974 ms  1.023 ms  1.076 ms
+ 2  ae0--565.icar-chcg1-1.infra.pnw-gigapop.net (209.124.190.246)  28.345 ms  28.352 ms  28.338 ms
+ 3  ae0--706.icar-sttl1-2.infra.pnw-gigapop.net (207.231.240.1)  42.331 ms  42.321 ms  42.320 ms
+ 4  207.231.240.21 (207.231.240.21)  45.735 ms  45.680 ms  45.687 ms
+ 5  clgr2rtr1.canarie.ca (205.189.32.175)  56.641 ms  56.634 ms  56.624 ms
+ 6  wnpg1rtr1.canarie.ca (205.189.32.177)  70.980 ms  70.781 ms  70.957 ms
+ 7  toro1rtr1.canarie.ca (205.189.32.181)  92.286 ms  92.278 ms  92.279 ms
+ 8  border3.orion.on.ca (205.189.32.42)  92.780 ms  92.835 ms  92.748 ms
+ 9  be202.p01-york.orion.on.ca (66.97.16.25)  93.549 ms  93.657 ms  93.577 ms
+10  be119.pe01-wtlo.orion.on.ca (66.97.16.110)  96.499 ms  96.553 ms  96.594 ms
+11  66.97.28.66 (66.97.28.66)  95.837 ms  95.901 ms  95.922 ms
+12  plonk.cs.uwaterloo.ca (129.97.74.14)  95.730 ms  95.487 ms  95.358 ms
+traceroute to plonk.cs.uwaterloo.ca (129.97.74.14), 30 hops max, 60 byte packets
+ 1  153.90.1.33 (153.90.1.33)  0.445 ms  0.865 ms  0.911 ms
+ 2  ae0--565.icar-chcg1-1.infra.pnw-gigapop.net (209.124.190.246)  28.359 ms  28.349 ms  28.347 ms
+ 3  ae0--706.icar-sttl1-2.infra.pnw-gigapop.net (207.231.240.1)  42.522 ms  42.523 ms  42.510 ms
+ 4  207.231.240.21 (207.231.240.21)  45.598 ms  45.586 ms  45.688 ms
+ 5  clgr2rtr1.canarie.ca (205.189.32.175)  56.714 ms  56.683 ms  56.684 ms
+ 6  wnpg1rtr1.canarie.ca (205.189.32.177)  70.939 ms  70.796 ms  70.787 ms
+ 7  toro1rtr1.canarie.ca (205.189.32.181)  92.130 ms  92.133 ms  92.120 ms
+ 8  border3.orion.on.ca (205.189.32.42)  92.637 ms  92.626 ms  92.634 ms
+ 9  be202.p01-york.orion.on.ca (66.97.16.25)  93.894 ms  94.000 ms  93.915 ms
+10  be119.pe01-wtlo.orion.on.ca (66.97.16.110)  96.485 ms  96.200 ms  96.250 ms
+11  66.97.28.66 (66.97.28.66)  95.852 ms  95.923 ms  95.975 ms
+12  plonk.cs.uwaterloo.ca (129.97.74.14)  95.590 ms  95.608 ms  95.480 ms
+traceroute to plonk.cs.uwaterloo.ca (129.97.74.14), 30 hops max, 60 byte packets
+ 1  153.90.1.33 (153.90.1.33)  0.424 ms  0.818 ms  0.876 ms
+ 2  ae0--565.icar-chcg1-1.infra.pnw-gigapop.net (209.124.190.246)  28.359 ms  28.350 ms  28.339 ms
+ 3  ae0--706.icar-sttl1-2.infra.pnw-gigapop.net (207.231.240.1)  42.342 ms  42.348 ms  42.308 ms
+ 4  207.231.240.21 (207.231.240.21)  45.675 ms  45.631 ms  45.619 ms
+ 5  clgr2rtr1.canarie.ca (205.189.32.175)  56.525 ms  56.518 ms  56.511 ms
+ 6  wnpg1rtr1.canarie.ca (205.189.32.177)  70.769 ms  75.637 ms  70.772 ms
+ 7  toro1rtr1.canarie.ca (205.189.32.181)  92.118 ms  92.110 ms  92.106 ms
+ 8  border3.orion.on.ca (205.189.32.42)  92.651 ms  92.652 ms  92.691 ms
+ 9  be202.p01-york.orion.on.ca (66.97.16.25)  93.600 ms  93.521 ms  93.622 ms
+10  be119.pe01-wtlo.orion.on.ca (66.97.16.110)  96.615 ms  96.476 ms  96.519 ms
+11  66.97.28.66 (66.97.28.66)  113.412 ms  113.486 ms  113.530 ms
+12  plonk.cs.uwaterloo.ca (129.97.74.14)  95.529 ms  95.390 ms  95.326 ms
+traceroute to plonk.cs.uwaterloo.ca (129.97.74.14), 30 hops max, 60 byte packets
+ 1  153.90.1.33 (153.90.1.33)  0.744 ms  0.789 ms  1.225 ms
+ 2  ae0--565.icar-chcg1-1.infra.pnw-gigapop.net (209.124.190.246)  28.363 ms  28.352 ms  28.341 ms
+ 3  ae0--706.icar-sttl1-2.infra.pnw-gigapop.net (207.231.240.1)  42.367 ms  42.358 ms  42.346 ms
+ 4  207.231.240.21 (207.231.240.21)  45.610 ms  45.595 ms  45.594 ms
+ 5  clgr2rtr1.canarie.ca (205.189.32.175)  56.519 ms  56.492 ms  56.499 ms
+ 6  wnpg1rtr1.canarie.ca (205.189.32.177)  71.531 ms  70.785 ms  71.020 ms
+ 7  toro1rtr1.canarie.ca (205.189.32.181)  92.351 ms  92.336 ms  92.336 ms
+ 8  border3.orion.on.ca (205.189.32.42)  92.970 ms  93.032 ms  92.992 ms
+ 9  be202.p01-york.orion.on.ca (66.97.16.25)  93.945 ms  93.881 ms  93.977 ms
+10  be119.pe01-wtlo.orion.on.ca (66.97.16.110)  96.619 ms  96.700 ms  96.748 ms
+11  66.97.28.66 (66.97.28.66)  96.117 ms  96.184 ms  95.978 ms
+12  plonk.cs.uwaterloo.ca (129.97.74.14)  95.452 ms  95.653 ms  95.340 ms
+traceroute to plonk.cs.uwaterloo.ca (129.97.74.14), 30 hops max, 60 byte packets
+ 1  153.90.1.33 (153.90.1.33)  0.877 ms  0.914 ms  0.965 ms
+ 2  ae0--565.icar-chcg1-1.infra.pnw-gigapop.net (209.124.190.246)  28.355 ms  28.347 ms  28.332 ms
+ 3  ae0--706.icar-sttl1-2.infra.pnw-gigapop.net (207.231.240.1)  42.419 ms  42.429 ms  42.389 ms
+ 4  207.231.240.21 (207.231.240.21)  45.778 ms  45.762 ms  45.708 ms
+ 5  clgr2rtr1.canarie.ca (205.189.32.175)  56.651 ms  56.596 ms  56.603 ms
+ 6  wnpg1rtr1.canarie.ca (205.189.32.177)  70.878 ms  71.238 ms  70.868 ms
+ 7  toro1rtr1.canarie.ca (205.189.32.181)  92.221 ms  92.230 ms  92.218 ms
+ 8  border3.orion.on.ca (205.189.32.42)  92.735 ms  92.780 ms  92.634 ms
+ 9  be202.p01-york.orion.on.ca (66.97.16.25)  93.526 ms  93.653 ms  93.577 ms
+10  be119.pe01-wtlo.orion.on.ca (66.97.16.110)  96.491 ms  96.539 ms  96.609 ms
+11  66.97.28.66 (66.97.28.66)  95.934 ms  96.013 ms  96.057 ms
+12  plonk.cs.uwaterloo.ca (129.97.74.14)  95.417 ms  95.465 ms  95.530 ms
+traceroute to plonk.cs.uwaterloo.ca (129.97.74.14), 30 hops max, 60 byte packets
+ 1  153.90.1.33 (153.90.1.33)  0.568 ms  1.011 ms  1.064 ms
+ 2  ae0--565.icar-chcg1-1.infra.pnw-gigapop.net (209.124.190.246)  28.350 ms  28.338 ms  28.337 ms
+ 3  ae0--706.icar-sttl1-2.infra.pnw-gigapop.net (207.231.240.1)  42.304 ms  42.304 ms  42.270 ms
+ 4  207.231.240.21 (207.231.240.21)  45.594 ms  45.592 ms  45.579 ms
+ 5  clgr2rtr1.canarie.ca (205.189.32.175)  56.588 ms  56.593 ms  56.580 ms
+ 6  wnpg1rtr1.canarie.ca (205.189.32.177)  70.796 ms  70.804 ms  70.848 ms
+ 7  toro1rtr1.canarie.ca (205.189.32.181)  92.136 ms  92.119 ms  92.128 ms
+ 8  border3.orion.on.ca (205.189.32.42)  92.811 ms  92.700 ms  92.724 ms
+ 9  be202.p01-york.orion.on.ca (66.97.16.25)  93.912 ms  94.008 ms  93.935 ms
+10  be119.pe01-wtlo.orion.on.ca (66.97.16.110)  96.634 ms  96.480 ms  96.532 ms
+11  66.97.28.66 (66.97.28.66)  95.979 ms  95.863 ms  95.786 ms
+12  plonk.cs.uwaterloo.ca (129.97.74.14)  95.399 ms  95.376 ms  95.521 ms
+traceroute to plonk.cs.uwaterloo.ca (129.97.74.14), 30 hops max, 60 byte packets
+ 1  153.90.1.33 (153.90.1.33)  0.763 ms  0.817 ms  0.870 ms
+ 2  ae0--565.icar-chcg1-1.infra.pnw-gigapop.net (209.124.190.246)  28.382 ms  28.396 ms  28.375 ms
+ 3  ae0--706.icar-sttl1-2.infra.pnw-gigapop.net (207.231.240.1)  42.331 ms  42.409 ms  42.397 ms
+ 4  207.231.240.21 (207.231.240.21)  45.676 ms  45.663 ms  45.662 ms
+ 5  clgr2rtr1.canarie.ca (205.189.32.175)  56.619 ms  56.567 ms  56.587 ms
+ 6  wnpg1rtr1.canarie.ca (205.189.32.177)  71.135 ms  70.769 ms  70.824 ms
+ 7  toro1rtr1.canarie.ca (205.189.32.181)  92.149 ms  92.152 ms  92.139 ms
+ 8  border3.orion.on.ca (205.189.32.42)  92.891 ms  92.948 ms  92.939 ms
+ 9  be202.p01-york.orion.on.ca (66.97.16.25)  93.522 ms  93.579 ms  93.609 ms
+10  be119.pe01-wtlo.orion.on.ca (66.97.16.110)  96.770 ms  96.606 ms  96.623 ms
+11  66.97.28.66 (66.97.28.66)  95.949 ms  95.991 ms  96.072 ms
+12  plonk.cs.uwaterloo.ca (129.97.74.14)  95.525 ms  95.387 ms  95.442 ms
+traceroute to plonk.cs.uwaterloo.ca (129.97.74.14), 30 hops max, 60 byte packets
+ 1  153.90.1.33 (153.90.1.33)  0.824 ms  0.882 ms  0.931 ms
+ 2  ae0--565.icar-chcg1-1.infra.pnw-gigapop.net (209.124.190.246)  28.336 ms  28.341 ms  28.324 ms
+ 3  ae0--706.icar-sttl1-2.infra.pnw-gigapop.net (207.231.240.1)  42.503 ms  42.520 ms  42.491 ms
+ 4  207.231.240.21 (207.231.240.21)  45.746 ms  45.729 ms  45.674 ms
+ 5  clgr2rtr1.canarie.ca (205.189.32.175)  56.610 ms  56.576 ms  56.582 ms
+ 6  wnpg1rtr1.canarie.ca (205.189.32.177)  70.811 ms  70.903 ms  70.876 ms
+ 7  toro1rtr1.canarie.ca (205.189.32.181)  92.266 ms  92.216 ms  92.205 ms
+ 8  border3.orion.on.ca (205.189.32.42)  92.551 ms  92.579 ms  92.612 ms
+ 9  be202.p01-york.orion.on.ca (66.97.16.25)  93.394 ms  93.421 ms  93.472 ms
+10  be119.pe01-wtlo.orion.on.ca (66.97.16.110)  96.433 ms  96.277 ms  96.294 ms
+11  66.97.28.66 (66.97.28.66)  95.843 ms  95.926 ms  96.002 ms
+12  plonk.cs.uwaterloo.ca (129.97.74.14)  95.464 ms  95.678 ms  95.368 ms
+traceroute to plonk.cs.uwaterloo.ca (129.97.74.14), 30 hops max, 60 byte packets
+ 1  153.90.1.33 (153.90.1.33)  0.419 ms  0.543 ms  0.778 ms
+ 2  ae0--565.icar-chcg1-1.infra.pnw-gigapop.net (209.124.190.246)  28.351 ms  28.343 ms  28.336 ms
+ 3  ae0--706.icar-sttl1-2.infra.pnw-gigapop.net (207.231.240.1)  45.038 ms  45.027 ms  45.028 ms
+ 4  207.231.240.21 (207.231.240.21)  45.628 ms  45.635 ms  45.622 ms
+ 5  clgr2rtr1.canarie.ca (205.189.32.175)  56.521 ms  56.524 ms  56.512 ms
+ 6  wnpg1rtr1.canarie.ca (205.189.32.177)  70.852 ms  70.781 ms  70.838 ms
+ 7  toro1rtr1.canarie.ca (205.189.32.181)  92.167 ms  92.118 ms  92.153 ms
+ 8  border3.orion.on.ca (205.189.32.42)  93.223 ms  92.675 ms  92.734 ms
+ 9  be202.p01-york.orion.on.ca (66.97.16.25)  93.289 ms  93.340 ms  93.374 ms
+10  be119.pe01-wtlo.orion.on.ca (66.97.16.110)  96.399 ms  96.446 ms  96.480 ms
+11  66.97.28.66 (66.97.28.66)  95.796 ms  95.833 ms  95.904 ms
+12  plonk.cs.uwaterloo.ca (129.97.74.14)  95.456 ms  95.625 ms  95.288 ms
+traceroute to plonk.cs.uwaterloo.ca (129.97.74.14), 30 hops max, 60 byte packets
+ 1  153.90.1.33 (153.90.1.33)  0.723 ms  0.772 ms  1.200 ms
+ 2  ae0--565.icar-chcg1-1.infra.pnw-gigapop.net (209.124.190.246)  28.723 ms  28.714 ms  28.717 ms
+ 3  ae0--706.icar-sttl1-2.infra.pnw-gigapop.net (207.231.240.1)  42.341 ms  42.290 ms  42.280 ms
+ 4  207.231.240.21 (207.231.240.21)  45.577 ms  45.581 ms  45.565 ms
+ 5  clgr2rtr1.canarie.ca (205.189.32.175)  56.644 ms  56.644 ms  56.630 ms
+ 6  wnpg1rtr1.canarie.ca (205.189.32.177)  70.871 ms  70.802 ms  70.953 ms
+ 7  toro1rtr1.canarie.ca (205.189.32.181)  92.800 ms  92.798 ms  92.746 ms
+ 8  border3.orion.on.ca (205.189.32.42)  93.140 ms  93.138 ms  93.109 ms
+ 9  be202.p01-york.orion.on.ca (66.97.16.25)  93.804 ms  93.715 ms  93.808 ms
+10  be119.pe01-wtlo.orion.on.ca (66.97.16.110)  96.350 ms  96.378 ms  96.417 ms
+11  66.97.28.66 (66.97.28.66)  96.036 ms  95.918 ms  96.059 ms
+12  plonk.cs.uwaterloo.ca (129.97.74.14)  95.367 ms  95.636 ms  95.379 ms
+traceroute to plonk.cs.uwaterloo.ca (129.97.74.14), 30 hops max, 60 byte packets
+ 1  153.90.1.33 (153.90.1.33)  0.691 ms  0.729 ms  1.150 ms
+ 2  ae0--565.icar-chcg1-1.infra.pnw-gigapop.net (209.124.190.246)  28.361 ms  28.366 ms  28.353 ms
+ 3  ae0--706.icar-sttl1-2.infra.pnw-gigapop.net (207.231.240.1)  42.275 ms  42.283 ms  42.269 ms
+ 4  207.231.240.21 (207.231.240.21)  45.563 ms  45.572 ms  45.561 ms
+ 5  clgr2rtr1.canarie.ca (205.189.32.175)  56.485 ms  56.480 ms  56.467 ms
+ 6  wnpg1rtr1.canarie.ca (205.189.32.177)  70.793 ms  70.823 ms  70.802 ms
+ 7  toro1rtr1.canarie.ca (205.189.32.181)  92.150 ms  92.137 ms  92.123 ms
+ 8  border3.orion.on.ca (205.189.32.42)  92.904 ms  92.894 ms  92.781 ms
+ 9  be202.p01-york.orion.on.ca (66.97.16.25)  93.814 ms  93.843 ms  93.889 ms
+10  be119.pe01-wtlo.orion.on.ca (66.97.16.110)  96.169 ms  96.598 ms  96.631 ms
+11  66.97.28.66 (66.97.28.66)  95.987 ms  96.033 ms  96.108 ms
+12  plonk.cs.uwaterloo.ca (129.97.74.14)  95.220 ms  95.419 ms  95.402 ms
+traceroute to plonk.cs.uwaterloo.ca (129.97.74.14), 30 hops max, 60 byte packets
+ 1  153.90.1.33 (153.90.1.33)  0.866 ms  0.911 ms  0.963 ms
+ 2  ae0--565.icar-chcg1-1.infra.pnw-gigapop.net (209.124.190.246)  28.359 ms  28.354 ms  28.344 ms
+ 3  ae0--706.icar-sttl1-2.infra.pnw-gigapop.net (207.231.240.1)  42.509 ms  42.524 ms  42.514 ms
+ 4  207.231.240.21 (207.231.240.21)  45.737 ms  45.717 ms  45.655 ms
+ 5  clgr2rtr1.canarie.ca (205.189.32.175)  56.545 ms  56.551 ms  56.615 ms
+ 6  wnpg1rtr1.canarie.ca (205.189.32.177)  70.946 ms  70.821 ms  70.865 ms
+ 7  toro1rtr1.canarie.ca (205.189.32.181)  92.260 ms  92.227 ms  92.237 ms
+ 8  border3.orion.on.ca (205.189.32.42)  92.636 ms  92.599 ms  92.632 ms
+ 9  be202.p01-york.orion.on.ca (66.97.16.25)  93.691 ms  93.725 ms  93.769 ms
+10  be119.pe01-wtlo.orion.on.ca (66.97.16.110)  96.555 ms  96.323 ms  96.354 ms
+11  66.97.28.66 (66.97.28.66)  95.943 ms  96.021 ms  96.094 ms
+12  plonk.cs.uwaterloo.ca (129.97.74.14)  95.474 ms  95.417 ms  95.347 ms
+traceroute to plonk.cs.uwaterloo.ca (129.97.74.14), 30 hops max, 60 byte packets
+ 1  153.90.1.33 (153.90.1.33)  0.771 ms  0.873 ms  0.958 ms
+ 2  ae0--565.icar-chcg1-1.infra.pnw-gigapop.net (209.124.190.246)  28.350 ms  28.343 ms  28.341 ms
+ 3  ae0--706.icar-sttl1-2.infra.pnw-gigapop.net (207.231.240.1)  42.320 ms  42.309 ms  42.310 ms
+ 4  207.231.240.21 (207.231.240.21)  45.610 ms  45.601 ms  45.598 ms
+ 5  clgr2rtr1.canarie.ca (205.189.32.175)  56.539 ms  56.532 ms  56.528 ms
+ 6  wnpg1rtr1.canarie.ca (205.189.32.177)  70.852 ms  70.800 ms  70.913 ms
+ 7  toro1rtr1.canarie.ca (205.189.32.181)  92.226 ms  92.220 ms  92.215 ms
+ 8  border3.orion.on.ca (205.189.32.42)  93.116 ms  93.117 ms  93.080 ms
+ 9  be202.p01-york.orion.on.ca (66.97.16.25)  93.625 ms  93.556 ms  93.659 ms
+10  be119.pe01-wtlo.orion.on.ca (66.97.16.110)  96.488 ms  96.385 ms  96.433 ms
+11  66.97.28.66 (66.97.28.66)  95.837 ms  95.926 ms  96.000 ms
+12  plonk.cs.uwaterloo.ca (129.97.74.14)  95.361 ms  95.392 ms  95.675 ms
+traceroute to plonk.cs.uwaterloo.ca (129.97.74.14), 30 hops max, 60 byte packets
+ 1  153.90.1.33 (153.90.1.33)  0.414 ms  0.614 ms  0.692 ms
+ 2  ae0--565.icar-chcg1-1.infra.pnw-gigapop.net (209.124.190.246)  28.350 ms  28.342 ms  28.338 ms
+ 3  ae0--706.icar-sttl1-2.infra.pnw-gigapop.net (207.231.240.1)  42.303 ms  42.456 ms  42.463 ms
+ 4  207.231.240.21 (207.231.240.21)  45.809 ms  45.827 ms  45.789 ms
+ 5  clgr2rtr1.canarie.ca (205.189.32.175)  56.652 ms  56.670 ms  56.658 ms
+ 6  wnpg1rtr1.canarie.ca (205.189.32.177)  70.952 ms  70.779 ms  70.855 ms
+ 7  toro1rtr1.canarie.ca (205.189.32.181)  92.194 ms  92.161 ms  92.169 ms
+ 8  border3.orion.on.ca (205.189.32.42)  93.594 ms  93.484 ms  93.571 ms
+ 9  be202.p01-york.orion.on.ca (66.97.16.25)  94.052 ms  94.527 ms  94.073 ms
+10  be119.pe01-wtlo.orion.on.ca (66.97.16.110)  97.230 ms  96.331 ms  96.365 ms
+11  66.97.28.66 (66.97.28.66)  95.922 ms  96.020 ms  95.903 ms
+12  plonk.cs.uwaterloo.ca (129.97.74.14)  95.552 ms  95.684 ms  95.568 ms
+traceroute to plonk.cs.uwaterloo.ca (129.97.74.14), 30 hops max, 60 byte packets
+ 1  153.90.1.33 (153.90.1.33)  1.107 ms  1.180 ms  1.859 ms
+ 2  ae0--565.icar-chcg1-1.infra.pnw-gigapop.net (209.124.190.246)  28.365 ms  28.355 ms  28.343 ms
+ 3  ae0--706.icar-sttl1-2.infra.pnw-gigapop.net (207.231.240.1)  42.303 ms  42.308 ms  42.296 ms
+ 4  207.231.240.21 (207.231.240.21)  45.608 ms  45.606 ms  45.587 ms
+ 5  clgr2rtr1.canarie.ca (205.189.32.175)  56.617 ms  56.626 ms  56.623 ms
+ 6  wnpg1rtr1.canarie.ca (205.189.32.177)  70.830 ms  70.939 ms  71.028 ms
+ 7  toro1rtr1.canarie.ca (205.189.32.181)  92.341 ms  92.333 ms  92.325 ms
+ 8  border3.orion.on.ca (205.189.32.42)  92.975 ms  92.941 ms  92.818 ms
+ 9  be202.p01-york.orion.on.ca (66.97.16.25)  93.743 ms  93.670 ms  93.808 ms
+10  be119.pe01-wtlo.orion.on.ca (66.97.16.110)  96.539 ms  96.457 ms  96.498 ms
+11  66.97.28.66 (66.97.28.66)  95.837 ms  95.921 ms  95.964 ms
+12  plonk.cs.uwaterloo.ca (129.97.74.14)  95.306 ms  95.339 ms  95.351 ms
+traceroute to plonk.cs.uwaterloo.ca (129.97.74.14), 30 hops max, 60 byte packets
+ 1  153.90.1.33 (153.90.1.33)  0.724 ms  0.780 ms  0.829 ms
+ 2  ae0--565.icar-chcg1-1.infra.pnw-gigapop.net (209.124.190.246)  28.349 ms  28.340 ms  28.334 ms
+ 3  ae0--706.icar-sttl1-2.infra.pnw-gigapop.net (207.231.240.1)  42.311 ms  42.304 ms  42.299 ms
+ 4  207.231.240.21 (207.231.240.21)  45.566 ms  45.569 ms  45.552 ms
+ 5  clgr2rtr1.canarie.ca (205.189.32.175)  56.491 ms  56.498 ms  56.484 ms
+ 6  wnpg1rtr1.canarie.ca (205.189.32.177)  70.761 ms  70.854 ms  70.943 ms
+ 7  toro1rtr1.canarie.ca (205.189.32.181)  92.266 ms  92.238 ms  92.248 ms
+ 8  border3.orion.on.ca (205.189.32.42)  93.235 ms  93.095 ms  93.139 ms
+ 9  be202.p01-york.orion.on.ca (66.97.16.25)  93.932 ms  93.967 ms  94.033 ms
+10  be119.pe01-wtlo.orion.on.ca (66.97.16.110)  96.751 ms  96.562 ms  96.462 ms
+11  66.97.28.66 (66.97.28.66)  95.927 ms  95.974 ms  96.044 ms
+12  plonk.cs.uwaterloo.ca (129.97.74.14)  95.368 ms  95.321 ms  95.527 ms
+traceroute to plonk.cs.uwaterloo.ca (129.97.74.14), 30 hops max, 60 byte packets
+ 1  153.90.1.33 (153.90.1.33)  0.609 ms  0.657 ms  0.708 ms
+ 2  ae0--565.icar-chcg1-1.infra.pnw-gigapop.net (209.124.190.246)  28.345 ms  28.335 ms  28.337 ms
+ 3  ae0--706.icar-sttl1-2.infra.pnw-gigapop.net (207.231.240.1)  42.364 ms  42.371 ms  42.357 ms
+ 4  207.231.240.21 (207.231.240.21)  45.655 ms  45.662 ms  45.649 ms
+ 5  clgr2rtr1.canarie.ca (205.189.32.175)  56.588 ms  56.592 ms  56.581 ms
+ 6  wnpg1rtr1.canarie.ca (205.189.32.177)  70.797 ms  70.829 ms  70.831 ms
+ 7  toro1rtr1.canarie.ca (205.189.32.181)  92.065 ms  92.200 ms  92.192 ms
+ 8  border3.orion.on.ca (205.189.32.42)  92.727 ms  92.760 ms  92.784 ms
+ 9  be202.p01-york.orion.on.ca (66.97.16.25)  93.875 ms  93.973 ms  93.883 ms
+10  be119.pe01-wtlo.orion.on.ca (66.97.16.110)  96.482 ms  96.201 ms  96.254 ms
+11  66.97.28.66 (66.97.28.66)  95.844 ms  95.891 ms  96.064 ms
+12  plonk.cs.uwaterloo.ca (129.97.74.14)  95.412 ms  95.351 ms  95.412 ms
+traceroute to plonk.cs.uwaterloo.ca (129.97.74.14), 30 hops max, 60 byte packets
+ 1  153.90.1.33 (153.90.1.33)  0.521 ms  0.565 ms  0.653 ms
+ 2  ae0--565.icar-chcg1-1.infra.pnw-gigapop.net (209.124.190.246)  28.353 ms  28.341 ms  28.326 ms
+ 3  ae0--706.icar-sttl1-2.infra.pnw-gigapop.net (207.231.240.1)  42.264 ms  42.255 ms  42.237 ms
+ 4  207.231.240.21 (207.231.240.21)  45.631 ms  45.601 ms  45.607 ms
+ 5  clgr2rtr1.canarie.ca (205.189.32.175)  56.568 ms  56.574 ms  56.561 ms
+ 6  wnpg1rtr1.canarie.ca (205.189.32.177)  70.881 ms  70.909 ms  70.890 ms
+ 7  toro1rtr1.canarie.ca (205.189.32.181)  92.135 ms  92.135 ms  92.123 ms
+ 8  border3.orion.on.ca (205.189.32.42)  92.635 ms  92.651 ms  92.715 ms
+ 9  be202.p01-york.orion.on.ca (66.97.16.25)  93.373 ms  93.414 ms  93.440 ms
+10  be119.pe01-wtlo.orion.on.ca (66.97.16.110)  96.227 ms  96.329 ms  96.370 ms
+11  66.97.28.66 (66.97.28.66)  96.127 ms  96.119 ms  96.193 ms
+12  plonk.cs.uwaterloo.ca (129.97.74.14)  95.523 ms  95.650 ms  95.497 ms
+traceroute to plonk.cs.uwaterloo.ca (129.97.74.14), 30 hops max, 60 byte packets
+ 1  153.90.1.33 (153.90.1.33)  1.118 ms  1.161 ms  1.214 ms
+ 2  ae0--565.icar-chcg1-1.infra.pnw-gigapop.net (209.124.190.246)  28.603 ms  28.589 ms  28.596 ms
+ 3  ae0--706.icar-sttl1-2.infra.pnw-gigapop.net (207.231.240.1)  42.649 ms  42.635 ms  42.640 ms
+ 4  207.231.240.21 (207.231.240.21)  45.945 ms  45.913 ms  45.862 ms
+ 5  clgr2rtr1.canarie.ca (205.189.32.175)  56.799 ms  56.752 ms  56.768 ms
+ 6  wnpg1rtr1.canarie.ca (205.189.32.177)  71.000 ms  70.835 ms  70.821 ms
+ 7  toro1rtr1.canarie.ca (205.189.32.181)  92.188 ms  92.189 ms  92.153 ms
+ 8  border3.orion.on.ca (205.189.32.42)  92.700 ms  92.733 ms  92.738 ms
+ 9  be202.p01-york.orion.on.ca (66.97.16.25)  93.693 ms  93.598 ms  93.507 ms
+10  be119.pe01-wtlo.orion.on.ca (66.97.16.110)  96.512 ms  96.561 ms  96.610 ms
+11  66.97.28.66 (66.97.28.66)  95.895 ms  95.965 ms  95.990 ms
+12  plonk.cs.uwaterloo.ca (129.97.74.14)  95.513 ms  95.574 ms  95.724 ms
+traceroute to plonk.cs.uwaterloo.ca (129.97.74.14), 30 hops max, 60 byte packets
+ 1  153.90.1.33 (153.90.1.33)  0.639 ms  0.687 ms  0.739 ms
+ 2  ae0--565.icar-chcg1-1.infra.pnw-gigapop.net (209.124.190.246)  28.354 ms  28.347 ms  28.341 ms
+ 3  ae0--706.icar-sttl1-2.infra.pnw-gigapop.net (207.231.240.1)  42.371 ms  42.376 ms  42.364 ms
+ 4  207.231.240.21 (207.231.240.21)  45.722 ms  45.727 ms  45.696 ms
+ 5  clgr2rtr1.canarie.ca (205.189.32.175)  56.560 ms  56.527 ms  56.525 ms
+ 6  wnpg1rtr1.canarie.ca (205.189.32.177)  70.826 ms  70.974 ms  70.900 ms
+ 7  toro1rtr1.canarie.ca (205.189.32.181)  92.324 ms  92.288 ms  92.306 ms
+ 8  border3.orion.on.ca (205.189.32.42)  93.037 ms  93.094 ms  93.054 ms
+ 9  be202.p01-york.orion.on.ca (66.97.16.25)  94.001 ms  94.106 ms  94.013 ms
+10  be119.pe01-wtlo.orion.on.ca (66.97.16.110)  96.663 ms  96.655 ms  96.712 ms
+11  66.97.28.66 (66.97.28.66)  95.984 ms  96.078 ms  96.113 ms
+12  plonk.cs.uwaterloo.ca (129.97.74.14)  95.450 ms  95.648 ms  95.385 ms
+traceroute to plonk.cs.uwaterloo.ca (129.97.74.14), 30 hops max, 60 byte packets
+ 1  153.90.1.33 (153.90.1.33)  0.651 ms  0.710 ms  0.760 ms
+ 2  ae0--565.icar-chcg1-1.infra.pnw-gigapop.net (209.124.190.246)  28.338 ms  28.344 ms  28.328 ms
+ 3  ae0--706.icar-sttl1-2.infra.pnw-gigapop.net (207.231.240.1)  42.268 ms  42.383 ms  42.390 ms
+ 4  207.231.240.21 (207.231.240.21)  45.671 ms  45.682 ms  45.652 ms
+ 5  clgr2rtr1.canarie.ca (205.189.32.175)  56.578 ms  56.549 ms  56.502 ms
+ 6  wnpg1rtr1.canarie.ca (205.189.32.177)  71.004 ms  71.049 ms  70.784 ms
+ 7  toro1rtr1.canarie.ca (205.189.32.181)  92.153 ms  92.163 ms  92.137 ms
+ 8  border3.orion.on.ca (205.189.32.42)  92.849 ms  92.911 ms  92.943 ms
+ 9  be202.p01-york.orion.on.ca (66.97.16.25)  93.804 ms  93.857 ms  93.894 ms
+10  be119.pe01-wtlo.orion.on.ca (66.97.16.110)  96.470 ms  96.339 ms  96.238 ms
+11  66.97.28.66 (66.97.28.66)  95.869 ms  96.012 ms  96.050 ms
+12  plonk.cs.uwaterloo.ca (129.97.74.14)  95.529 ms  95.408 ms  95.601 ms
+traceroute to plonk.cs.uwaterloo.ca (129.97.74.14), 30 hops max, 60 byte packets
+ 1  153.90.1.33 (153.90.1.33)  0.563 ms  0.601 ms  0.714 ms
+ 2  ae0--565.icar-chcg1-1.infra.pnw-gigapop.net (209.124.190.246)  28.329 ms  28.335 ms  28.324 ms
+ 3  ae0--706.icar-sttl1-2.infra.pnw-gigapop.net (207.231.240.1)  42.354 ms  42.348 ms  42.343 ms
+ 4  207.231.240.21 (207.231.240.21)  47.115 ms  47.105 ms  47.104 ms
+ 5  clgr2rtr1.canarie.ca (205.189.32.175)  56.610 ms  56.605 ms  56.598 ms
+ 6  wnpg1rtr1.canarie.ca (205.189.32.177)  70.869 ms  70.939 ms  70.856 ms
+ 7  toro1rtr1.canarie.ca (205.189.32.181)  92.203 ms  92.196 ms  92.191 ms
+ 8  border3.orion.on.ca (205.189.32.42)  92.741 ms  92.808 ms  92.714 ms
+ 9  be202.p01-york.orion.on.ca (66.97.16.25)  93.582 ms  93.621 ms  94.283 ms
+10  be119.pe01-wtlo.orion.on.ca (66.97.16.110)  96.329 ms  96.564 ms  96.464 ms
+11  66.97.28.66 (66.97.28.66)  95.886 ms  96.098 ms  95.945 ms
+12  plonk.cs.uwaterloo.ca (129.97.74.14)  95.389 ms  95.700 ms  95.572 ms
+traceroute to plonk.cs.uwaterloo.ca (129.97.74.14), 30 hops max, 60 byte packets
+ 1  153.90.1.33 (153.90.1.33)  0.509 ms  0.555 ms  0.673 ms
+ 2  ae0--565.icar-chcg1-1.infra.pnw-gigapop.net (209.124.190.246)  28.353 ms  28.345 ms  28.332 ms
+ 3  ae0--706.icar-sttl1-2.infra.pnw-gigapop.net (207.231.240.1)  42.513 ms  42.516 ms  42.587 ms
+ 4  207.231.240.21 (207.231.240.21)  46.737 ms  46.701 ms  46.708 ms
+ 5  clgr2rtr1.canarie.ca (205.189.32.175)  56.724 ms  56.721 ms  56.708 ms
+ 6  wnpg1rtr1.canarie.ca (205.189.32.177)  71.007 ms  71.105 ms  70.912 ms
+ 7  toro1rtr1.canarie.ca (205.189.32.181)  92.237 ms  92.233 ms  92.221 ms
+ 8  border3.orion.on.ca (205.189.32.42)  92.830 ms  92.818 ms  92.808 ms
+ 9  be202.p01-york.orion.on.ca (66.97.16.25)  93.834 ms  93.947 ms  93.862 ms
+10  be119.pe01-wtlo.orion.on.ca (66.97.16.110)  96.561 ms  96.527 ms  96.328 ms
+11  66.97.28.66 (66.97.28.66)  96.007 ms  95.891 ms  96.036 ms
+12  plonk.cs.uwaterloo.ca (129.97.74.14)  95.653 ms  95.519 ms  95.430 ms
+traceroute to plonk.cs.uwaterloo.ca (129.97.74.14), 30 hops max, 60 byte packets
+ 1  153.90.1.33 (153.90.1.33)  0.833 ms  0.883 ms  0.937 ms
+ 2  ae0--565.icar-chcg1-1.infra.pnw-gigapop.net (209.124.190.246)  28.351 ms  28.348 ms  28.336 ms
+ 3  ae0--706.icar-sttl1-2.infra.pnw-gigapop.net (207.231.240.1)  42.571 ms  42.514 ms  42.520 ms
+ 4  207.231.240.21 (207.231.240.21)  45.770 ms  45.784 ms  45.742 ms
+ 5  clgr2rtr1.canarie.ca (205.189.32.175)  56.673 ms  56.618 ms  56.642 ms
+ 6  wnpg1rtr1.canarie.ca (205.189.32.177)  70.888 ms  70.839 ms  70.822 ms
+ 7  toro1rtr1.canarie.ca (205.189.32.181)  92.138 ms  92.249 ms  92.185 ms
+ 8  border3.orion.on.ca (205.189.32.42)  93.409 ms  93.400 ms  93.449 ms
+ 9  be202.p01-york.orion.on.ca (66.97.16.25)  94.007 ms  93.972 ms  93.985 ms
+10  be119.pe01-wtlo.orion.on.ca (66.97.16.110)  96.439 ms  96.127 ms  96.185 ms
+11  66.97.28.66 (66.97.28.66)  96.043 ms  96.103 ms  95.904 ms
+12  plonk.cs.uwaterloo.ca (129.97.74.14)  95.418 ms  95.370 ms  95.899 ms
+traceroute to plonk.cs.uwaterloo.ca (129.97.74.14), 30 hops max, 60 byte packets
+ 1  153.90.1.33 (153.90.1.33)  0.628 ms  0.668 ms  0.755 ms
+ 2  ae0--565.icar-chcg1-1.infra.pnw-gigapop.net (209.124.190.246)  28.368 ms  28.364 ms  28.355 ms
+ 3  ae0--706.icar-sttl1-2.infra.pnw-gigapop.net (207.231.240.1)  42.274 ms  42.266 ms  42.264 ms
+ 4  207.231.240.21 (207.231.240.21)  45.650 ms  45.623 ms  45.577 ms
+ 5  clgr2rtr1.canarie.ca (205.189.32.175)  56.512 ms  56.503 ms  56.490 ms
+ 6  wnpg1rtr1.canarie.ca (205.189.32.177)  70.795 ms  70.797 ms  70.939 ms
+ 7  toro1rtr1.canarie.ca (205.189.32.181)  92.287 ms  92.295 ms  92.261 ms
+ 8  border3.orion.on.ca (205.189.32.42)  92.962 ms  92.948 ms  92.842 ms
+ 9  be202.p01-york.orion.on.ca (66.97.16.25)  93.793 ms  93.827 ms  93.879 ms
+10  be119.pe01-wtlo.orion.on.ca (66.97.16.110)  96.606 ms  96.538 ms  96.628 ms
+11  66.97.28.66 (66.97.28.66)  95.951 ms  96.030 ms  96.160 ms
+12  plonk.cs.uwaterloo.ca (129.97.74.14)  95.442 ms  95.620 ms  95.621 ms
+traceroute to plonk.cs.uwaterloo.ca (129.97.74.14), 30 hops max, 60 byte packets
+ 1  153.90.1.33 (153.90.1.33)  0.583 ms  0.625 ms  0.675 ms
+ 2  ae0--565.icar-chcg1-1.infra.pnw-gigapop.net (209.124.190.246)  28.349 ms  28.338 ms  28.337 ms
+ 3  ae0--706.icar-sttl1-2.infra.pnw-gigapop.net (207.231.240.1)  42.487 ms  42.483 ms  42.475 ms
+ 4  207.231.240.21 (207.231.240.21)  45.791 ms  45.797 ms  45.778 ms
+ 5  clgr2rtr1.canarie.ca (205.189.32.175)  56.801 ms  56.792 ms  56.751 ms
+ 6  wnpg1rtr1.canarie.ca (205.189.32.177)  71.030 ms  71.089 ms  71.035 ms
+ 7  toro1rtr1.canarie.ca (205.189.32.181)  92.253 ms  92.154 ms  92.158 ms
+ 8  border3.orion.on.ca (205.189.32.42)  93.083 ms  93.053 ms  93.051 ms
+ 9  be202.p01-york.orion.on.ca (66.97.16.25)  93.969 ms  94.007 ms  94.066 ms
+10  be119.pe01-wtlo.orion.on.ca (66.97.16.110)  96.544 ms  96.113 ms  96.160 ms
+11  66.97.28.66 (66.97.28.66)  95.966 ms  96.135 ms  96.051 ms
+12  plonk.cs.uwaterloo.ca (129.97.74.14)  95.676 ms  95.637 ms  95.580 ms
+traceroute to plonk.cs.uwaterloo.ca (129.97.74.14), 30 hops max, 60 byte packets
+ 1  153.90.1.33 (153.90.1.33)  0.714 ms  0.761 ms  1.191 ms
+ 2  ae0--565.icar-chcg1-1.infra.pnw-gigapop.net (209.124.190.246)  28.386 ms  28.392 ms  28.376 ms
+ 3  ae0--706.icar-sttl1-2.infra.pnw-gigapop.net (207.231.240.1)  42.560 ms  42.569 ms  42.555 ms
+ 4  207.231.240.21 (207.231.240.21)  68.747 ms  68.737 ms  68.726 ms
+ 5  clgr2rtr1.canarie.ca (205.189.32.175)  56.695 ms  56.708 ms  56.679 ms
+ 6  wnpg1rtr1.canarie.ca (205.189.32.177)  70.921 ms  70.914 ms  70.840 ms
+ 7  toro1rtr1.canarie.ca (205.189.32.181)  92.102 ms  92.231 ms  92.327 ms
+ 8  border3.orion.on.ca (205.189.32.42)  93.015 ms  93.061 ms  92.981 ms
+ 9  be202.p01-york.orion.on.ca (66.97.16.25)  93.517 ms  93.521 ms  93.565 ms
+10  be119.pe01-wtlo.orion.on.ca (66.97.16.110)  96.272 ms  96.178 ms  96.293 ms
+11  66.97.28.66 (66.97.28.66)  95.888 ms  95.971 ms  96.042 ms
+12  plonk.cs.uwaterloo.ca (129.97.74.14)  95.899 ms  95.494 ms  95.589 ms
+traceroute to plonk.cs.uwaterloo.ca (129.97.74.14), 30 hops max, 60 byte packets
+ 1  153.90.1.33 (153.90.1.33)  0.697 ms  0.756 ms  0.808 ms
+ 2  ae0--565.icar-chcg1-1.infra.pnw-gigapop.net (209.124.190.246)  28.336 ms  28.347 ms  28.335 ms
+ 3  ae0--706.icar-sttl1-2.infra.pnw-gigapop.net (207.231.240.1)  42.234 ms  42.299 ms  42.305 ms
+ 4  207.231.240.21 (207.231.240.21)  45.688 ms  45.681 ms  45.680 ms
+ 5  clgr2rtr1.canarie.ca (205.189.32.175)  56.543 ms  56.640 ms  56.594 ms
+ 6  wnpg1rtr1.canarie.ca (205.189.32.177)  70.867 ms  71.014 ms  71.180 ms
+ 7  toro1rtr1.canarie.ca (205.189.32.181)  92.505 ms  92.494 ms  92.434 ms
+ 8  border3.orion.on.ca (205.189.32.42)  93.506 ms  93.494 ms  93.484 ms
+ 9  be202.p01-york.orion.on.ca (66.97.16.25)  93.971 ms  93.999 ms  94.044 ms
+10  be119.pe01-wtlo.orion.on.ca (66.97.16.110)  96.508 ms  96.408 ms  96.680 ms
+11  66.97.28.66 (66.97.28.66)  96.010 ms  96.078 ms  96.160 ms
+12  plonk.cs.uwaterloo.ca (129.97.74.14)  95.688 ms  95.556 ms  95.579 ms
+traceroute to plonk.cs.uwaterloo.ca (129.97.74.14), 30 hops max, 60 byte packets
+ 1  153.90.1.33 (153.90.1.33)  0.447 ms  0.878 ms  0.926 ms
+ 2  ae0--565.icar-chcg1-1.infra.pnw-gigapop.net (209.124.190.246)  28.364 ms  28.355 ms  28.350 ms
+ 3  ae0--706.icar-sttl1-2.infra.pnw-gigapop.net (207.231.240.1)  42.415 ms  42.378 ms  42.389 ms
+ 4  207.231.240.21 (207.231.240.21)  45.639 ms  45.630 ms  45.628 ms
+ 5  clgr2rtr1.canarie.ca (205.189.32.175)  56.573 ms  56.579 ms  56.566 ms
+ 6  wnpg1rtr1.canarie.ca (205.189.32.177)  70.790 ms  70.878 ms  70.856 ms
+ 7  toro1rtr1.canarie.ca (205.189.32.181)  92.196 ms  92.144 ms  92.162 ms
+ 8  border3.orion.on.ca (205.189.32.42)  92.623 ms  92.652 ms  92.703 ms
+ 9  be202.p01-york.orion.on.ca (66.97.16.25)  93.675 ms  93.727 ms  93.766 ms
+10  be119.pe01-wtlo.orion.on.ca (66.97.16.110)  96.171 ms  96.273 ms  96.177 ms
+11  66.97.28.66 (66.97.28.66)  95.847 ms  96.011 ms  95.886 ms
+12  plonk.cs.uwaterloo.ca (129.97.74.14)  96.015 ms  95.415 ms  95.452 ms
+traceroute to plonk.cs.uwaterloo.ca (129.97.74.14), 30 hops max, 60 byte packets
+ 1  153.90.1.33 (153.90.1.33)  0.599 ms  0.645 ms  0.695 ms
+ 2  ae0--565.icar-chcg1-1.infra.pnw-gigapop.net (209.124.190.246)  28.337 ms  28.345 ms  28.334 ms
+ 3  ae0--706.icar-sttl1-2.infra.pnw-gigapop.net (207.231.240.1)  42.456 ms  42.424 ms  42.425 ms
+ 4  207.231.240.21 (207.231.240.21)  45.656 ms  45.724 ms  45.713 ms
+ 5  clgr2rtr1.canarie.ca (205.189.32.175)  56.619 ms  56.590 ms  56.660 ms
+ 6  wnpg1rtr1.canarie.ca (205.189.32.177)  71.004 ms  71.092 ms  78.785 ms
+ 7  toro1rtr1.canarie.ca (205.189.32.181)  92.501 ms  92.496 ms  92.484 ms
+ 8  border3.orion.on.ca (205.189.32.42)  92.845 ms  92.891 ms  92.934 ms
+ 9  be202.p01-york.orion.on.ca (66.97.16.25)  93.916 ms  94.029 ms  93.934 ms
+10  be119.pe01-wtlo.orion.on.ca (66.97.16.110)  96.095 ms  96.174 ms  96.045 ms
+11  66.97.28.66 (66.97.28.66)  95.870 ms  95.950 ms  96.008 ms
+12  plonk.cs.uwaterloo.ca (129.97.74.14)  95.476 ms  95.511 ms  95.756 ms
+traceroute to plonk.cs.uwaterloo.ca (129.97.74.14), 30 hops max, 60 byte packets
+ 1  153.90.1.33 (153.90.1.33)  0.593 ms  0.643 ms  0.727 ms
+ 2  ae0--565.icar-chcg1-1.infra.pnw-gigapop.net (209.124.190.246)  28.695 ms  28.688 ms  28.684 ms
+ 3  ae0--706.icar-sttl1-2.infra.pnw-gigapop.net (207.231.240.1)  42.602 ms  42.593 ms  42.532 ms
+ 4  207.231.240.21 (207.231.240.21)  45.978 ms  45.925 ms  45.930 ms
+ 5  clgr2rtr1.canarie.ca (205.189.32.175)  56.715 ms  56.705 ms  56.650 ms
+ 6  wnpg1rtr1.canarie.ca (205.189.32.177)  70.935 ms  70.941 ms  70.804 ms
+ 7  toro1rtr1.canarie.ca (205.189.32.181)  92.138 ms  92.154 ms  92.123 ms
+ 8  border3.orion.on.ca (205.189.32.42)  92.899 ms  92.889 ms  92.879 ms
+ 9  be202.p01-york.orion.on.ca (66.97.16.25)  93.514 ms  93.573 ms  93.613 ms
+10  be119.pe01-wtlo.orion.on.ca (66.97.16.110)  97.281 ms  97.283 ms  97.270 ms
+11  66.97.28.66 (66.97.28.66)  96.103 ms  95.985 ms  96.136 ms
+12  plonk.cs.uwaterloo.ca (129.97.74.14)  95.474 ms  95.339 ms  95.456 ms
+traceroute to plonk.cs.uwaterloo.ca (129.97.74.14), 30 hops max, 60 byte packets
+ 1  153.90.1.33 (153.90.1.33)  0.629 ms  0.675 ms  0.803 ms
+ 2  ae0--565.icar-chcg1-1.infra.pnw-gigapop.net (209.124.190.246)  28.353 ms  28.352 ms  28.337 ms
+ 3  ae0--706.icar-sttl1-2.infra.pnw-gigapop.net (207.231.240.1)  42.337 ms  42.302 ms  42.312 ms
+ 4  207.231.240.21 (207.231.240.21)  45.576 ms  45.638 ms  45.627 ms
+ 5  clgr2rtr1.canarie.ca (205.189.32.175)  56.588 ms  56.569 ms  56.567 ms
+ 6  wnpg1rtr1.canarie.ca (205.189.32.177)  70.826 ms  71.043 ms  70.888 ms
+ 7  toro1rtr1.canarie.ca (205.189.32.181)  92.198 ms  92.203 ms  92.191 ms
+ 8  border3.orion.on.ca (205.189.32.42)  92.872 ms  92.785 ms  92.841 ms
+ 9  be202.p01-york.orion.on.ca (66.97.16.25)  93.824 ms  93.992 ms  94.060 ms
+10  be119.pe01-wtlo.orion.on.ca (66.97.16.110)  96.816 ms  96.787 ms  96.777 ms
+11  66.97.28.66 (66.97.28.66)  95.874 ms  95.954 ms  96.006 ms
+12  plonk.cs.uwaterloo.ca (129.97.74.14)  95.400 ms  95.596 ms  95.360 ms
+traceroute to plonk.cs.uwaterloo.ca (129.97.74.14), 30 hops max, 60 byte packets
+ 1  153.90.1.33 (153.90.1.33)  0.902 ms  0.949 ms  1.002 ms
+ 2  ae0--565.icar-chcg1-1.infra.pnw-gigapop.net (209.124.190.246)  28.355 ms  28.345 ms  28.342 ms
+ 3  ae0--706.icar-sttl1-2.infra.pnw-gigapop.net (207.231.240.1)  42.291 ms  42.297 ms  42.371 ms
+ 4  207.231.240.21 (207.231.240.21)  45.633 ms  45.621 ms  45.620 ms
+ 5  clgr2rtr1.canarie.ca (205.189.32.175)  56.554 ms  56.582 ms  56.547 ms
+ 6  wnpg1rtr1.canarie.ca (205.189.32.177)  70.787 ms  70.797 ms  70.893 ms
+ 7  toro1rtr1.canarie.ca (205.189.32.181)  92.220 ms  92.226 ms  92.210 ms
+ 8  border3.orion.on.ca (205.189.32.42)  92.770 ms  92.794 ms  92.820 ms
+ 9  be202.p01-york.orion.on.ca (66.97.16.25)  93.492 ms  93.592 ms  93.507 ms
+10  be119.pe01-wtlo.orion.on.ca (66.97.16.110)  96.614 ms  96.658 ms  96.720 ms
+11  66.97.28.66 (66.97.28.66)  95.949 ms  96.058 ms  96.120 ms
+12  plonk.cs.uwaterloo.ca (129.97.74.14)  95.488 ms  95.447 ms  95.378 ms
+traceroute to plonk.cs.uwaterloo.ca (129.97.74.14), 30 hops max, 60 byte packets
+ 1  153.90.1.33 (153.90.1.33)  0.581 ms  0.628 ms  0.717 ms
+ 2  ae0--565.icar-chcg1-1.infra.pnw-gigapop.net (209.124.190.246)  28.350 ms  28.344 ms  28.337 ms
+ 3  ae0--706.icar-sttl1-2.infra.pnw-gigapop.net (207.231.240.1)  42.305 ms  42.310 ms  42.299 ms
+ 4  207.231.240.21 (207.231.240.21)  45.556 ms  45.548 ms  45.566 ms
+ 5  clgr2rtr1.canarie.ca (205.189.32.175)  56.505 ms  56.510 ms  56.497 ms
+ 6  wnpg1rtr1.canarie.ca (205.189.32.177)  70.945 ms  70.994 ms  70.942 ms
+ 7  toro1rtr1.canarie.ca (205.189.32.181)  92.193 ms  92.310 ms  92.301 ms
+ 8  border3.orion.on.ca (205.189.32.42)  92.763 ms  92.816 ms  92.832 ms
+ 9  be202.p01-york.orion.on.ca (66.97.16.25)  93.787 ms  93.837 ms  93.693 ms
+10  be119.pe01-wtlo.orion.on.ca (66.97.16.110)  96.652 ms  96.711 ms  96.554 ms
+11  66.97.28.66 (66.97.28.66)  95.966 ms  96.027 ms  96.089 ms
+12  plonk.cs.uwaterloo.ca (129.97.74.14)  95.435 ms  95.505 ms  95.547 ms
+traceroute to plonk.cs.uwaterloo.ca (129.97.74.14), 30 hops max, 60 byte packets
+ 1  153.90.1.33 (153.90.1.33)  0.634 ms  0.676 ms  0.818 ms
+ 2  ae0--565.icar-chcg1-1.infra.pnw-gigapop.net (209.124.190.246)  28.344 ms  28.352 ms  28.340 ms
+ 3  ae0--706.icar-sttl1-2.infra.pnw-gigapop.net (207.231.240.1)  42.367 ms  42.361 ms  42.354 ms
+ 4  207.231.240.21 (207.231.240.21)  45.658 ms  45.605 ms  45.624 ms
+ 5  clgr2rtr1.canarie.ca (205.189.32.175)  56.580 ms  56.532 ms  56.546 ms
+ 6  wnpg1rtr1.canarie.ca (205.189.32.177)  70.838 ms  70.950 ms  70.874 ms
+ 7  toro1rtr1.canarie.ca (205.189.32.181)  92.217 ms  92.168 ms  92.186 ms
+ 8  border3.orion.on.ca (205.189.32.42)  92.751 ms  92.843 ms  92.761 ms
+ 9  be202.p01-york.orion.on.ca (66.97.16.25)  93.701 ms  93.730 ms  93.772 ms
+10  be119.pe01-wtlo.orion.on.ca (66.97.16.110)  95.994 ms  96.236 ms  96.250 ms
+11  66.97.28.66 (66.97.28.66)  95.844 ms  95.913 ms  95.995 ms
+12  plonk.cs.uwaterloo.ca (129.97.74.14)  95.646 ms  95.509 ms  95.422 ms
+traceroute to plonk.cs.uwaterloo.ca (129.97.74.14), 30 hops max, 60 byte packets
+ 1  153.90.1.33 (153.90.1.33)  0.882 ms  0.922 ms  1.016 ms
+ 2  ae0--565.icar-chcg1-1.infra.pnw-gigapop.net (209.124.190.246)  28.359 ms  28.367 ms  28.356 ms
+ 3  ae0--706.icar-sttl1-2.infra.pnw-gigapop.net (207.231.240.1)  42.392 ms  42.395 ms  42.383 ms
+ 4  207.231.240.21 (207.231.240.21)  45.699 ms  45.722 ms  45.693 ms
+ 5  clgr2rtr1.canarie.ca (205.189.32.175)  56.583 ms  56.573 ms  56.573 ms
+ 6  wnpg1rtr1.canarie.ca (205.189.32.177)  70.816 ms  70.802 ms  70.828 ms
+ 7  toro1rtr1.canarie.ca (205.189.32.181)  92.215 ms  92.168 ms  92.181 ms
+ 8  border3.orion.on.ca (205.189.32.42)  92.800 ms  92.916 ms  92.962 ms
+ 9  be202.p01-york.orion.on.ca (66.97.16.25)  93.535 ms  93.591 ms  93.619 ms
+10  be119.pe01-wtlo.orion.on.ca (66.97.16.110)  96.443 ms  96.527 ms  96.581 ms
+11  66.97.28.66 (66.97.28.66)  96.022 ms  96.098 ms  96.106 ms
+12  plonk.cs.uwaterloo.ca (129.97.74.14)  95.459 ms  95.354 ms  95.585 ms
+traceroute to plonk.cs.uwaterloo.ca (129.97.74.14), 30 hops max, 60 byte packets
+ 1  153.90.1.33 (153.90.1.33)  0.747 ms  0.805 ms  0.853 ms
+ 2  ae0--565.icar-chcg1-1.infra.pnw-gigapop.net (209.124.190.246)  28.350 ms  28.353 ms  28.336 ms
+ 3  ae0--706.icar-sttl1-2.infra.pnw-gigapop.net (207.231.240.1)  42.375 ms  42.374 ms  42.365 ms
+ 4  207.231.240.21 (207.231.240.21)  45.634 ms  45.579 ms  45.715 ms
+ 5  clgr2rtr1.canarie.ca (205.189.32.175)  56.809 ms  56.775 ms  56.741 ms
+ 6  wnpg1rtr1.canarie.ca (205.189.32.177)  72.308 ms  70.852 ms  70.835 ms
+ 7  toro1rtr1.canarie.ca (205.189.32.181)  92.079 ms  92.313 ms  92.272 ms
+ 8  border3.orion.on.ca (205.189.32.42)  92.965 ms  93.011 ms  93.037 ms
+ 9  be202.p01-york.orion.on.ca (66.97.16.25)  93.747 ms  93.780 ms  93.813 ms
+10  be119.pe01-wtlo.orion.on.ca (66.97.16.110)  96.527 ms  96.483 ms  96.528 ms
+11  66.97.28.66 (66.97.28.66)  96.152 ms  95.939 ms  96.018 ms
+12  plonk.cs.uwaterloo.ca (129.97.74.14)  95.503 ms  95.613 ms  95.543 ms
+traceroute to plonk.cs.uwaterloo.ca (129.97.74.14), 30 hops max, 60 byte packets
+ 1  153.90.1.33 (153.90.1.33)  0.598 ms  0.644 ms  0.695 ms
+ 2  ae0--565.icar-chcg1-1.infra.pnw-gigapop.net (209.124.190.246)  28.359 ms  28.352 ms  28.345 ms
+ 3  ae0--706.icar-sttl1-2.infra.pnw-gigapop.net (207.231.240.1)  42.287 ms  42.304 ms  42.289 ms
+ 4  207.231.240.21 (207.231.240.21)  45.573 ms  45.573 ms  45.561 ms
+ 5  clgr2rtr1.canarie.ca (205.189.32.175)  56.531 ms  56.542 ms  56.617 ms
+ 6  wnpg1rtr1.canarie.ca (205.189.32.177)  70.938 ms  70.903 ms  70.798 ms
+ 7  toro1rtr1.canarie.ca (205.189.32.181)  92.172 ms  92.123 ms  92.154 ms
+ 8  border3.orion.on.ca (205.189.32.42)  92.826 ms  92.869 ms  92.887 ms
+ 9  be202.p01-york.orion.on.ca (66.97.16.25)  93.748 ms  93.790 ms  93.850 ms
+10  be119.pe01-wtlo.orion.on.ca (66.97.16.110)  96.394 ms  96.407 ms  96.307 ms
+11  66.97.28.66 (66.97.28.66)  95.943 ms  96.008 ms  96.075 ms
+12  plonk.cs.uwaterloo.ca (129.97.74.14)  95.595 ms  95.812 ms  95.701 ms
+traceroute to plonk.cs.uwaterloo.ca (129.97.74.14), 30 hops max, 60 byte packets
+ 1  153.90.1.33 (153.90.1.33)  0.861 ms  0.901 ms  0.952 ms
+ 2  ae0--565.icar-chcg1-1.infra.pnw-gigapop.net (209.124.190.246)  28.351 ms  28.348 ms  28.340 ms
+ 3  ae0--706.icar-sttl1-2.infra.pnw-gigapop.net (207.231.240.1)  42.887 ms  42.899 ms  42.863 ms
+ 4  207.231.240.21 (207.231.240.21)  45.685 ms  45.698 ms  45.666 ms
+ 5  clgr2rtr1.canarie.ca (205.189.32.175)  56.609 ms  56.579 ms  56.532 ms
+ 6  wnpg1rtr1.canarie.ca (205.189.32.177)  70.775 ms  71.073 ms  70.894 ms
+ 7  toro1rtr1.canarie.ca (205.189.32.181)  92.227 ms  92.189 ms  92.197 ms
+ 8  border3.orion.on.ca (205.189.32.42)  96.013 ms  96.029 ms  96.051 ms
+ 9  be202.p01-york.orion.on.ca (66.97.16.25)  96.963 ms  97.049 ms  96.974 ms
+10  be119.pe01-wtlo.orion.on.ca (66.97.16.110)  99.632 ms  99.662 ms  99.574 ms
+11  66.97.28.66 (66.97.28.66)  96.019 ms  96.184 ms  96.087 ms
+12  plonk.cs.uwaterloo.ca (129.97.74.14)  95.228 ms  95.282 ms  95.706 ms
+traceroute to plonk.cs.uwaterloo.ca (129.97.74.14), 30 hops max, 60 byte packets
+ 1  153.90.1.33 (153.90.1.33)  0.752 ms  0.809 ms  0.861 ms
+ 2  ae0--565.icar-chcg1-1.infra.pnw-gigapop.net (209.124.190.246)  28.339 ms  28.344 ms  28.335 ms
+ 3  ae0--706.icar-sttl1-2.infra.pnw-gigapop.net (207.231.240.1)  42.564 ms  42.556 ms  42.550 ms
+ 4  207.231.240.21 (207.231.240.21)  59.240 ms  59.230 ms  59.228 ms
+ 5  clgr2rtr1.canarie.ca (205.189.32.175)  56.684 ms  56.677 ms  56.670 ms
+ 6  wnpg1rtr1.canarie.ca (205.189.32.177)  70.993 ms  71.722 ms  71.729 ms
+ 7  toro1rtr1.canarie.ca (205.189.32.181)  95.831 ms  92.258 ms  92.263 ms
+ 8  border3.orion.on.ca (205.189.32.42)  92.991 ms  92.918 ms  92.992 ms
+ 9  be202.p01-york.orion.on.ca (66.97.16.25)  93.912 ms  93.773 ms  93.819 ms
+10  be119.pe01-wtlo.orion.on.ca (66.97.16.110)  96.686 ms  96.769 ms  96.668 ms
+11  66.97.28.66 (66.97.28.66)  96.005 ms  96.076 ms  96.126 ms
+12  plonk.cs.uwaterloo.ca (129.97.74.14)  95.270 ms  95.391 ms  95.396 ms
+traceroute to plonk.cs.uwaterloo.ca (129.97.74.14), 30 hops max, 60 byte packets
+ 1  153.90.1.33 (153.90.1.33)  0.652 ms  0.969 ms  1.023 ms
+ 2  ae0--565.icar-chcg1-1.infra.pnw-gigapop.net (209.124.190.246)  28.382 ms  28.376 ms  28.361 ms
+ 3  ae0--706.icar-sttl1-2.infra.pnw-gigapop.net (207.231.240.1)  42.338 ms  42.346 ms  42.313 ms
+ 4  207.231.240.21 (207.231.240.21)  45.615 ms  45.607 ms  45.596 ms
+ 5  clgr2rtr1.canarie.ca (205.189.32.175)  56.636 ms  56.636 ms  56.608 ms
+ 6  wnpg1rtr1.canarie.ca (205.189.32.177)  70.766 ms  70.848 ms  70.784 ms
+ 7  toro1rtr1.canarie.ca (205.189.32.181)  92.486 ms  92.480 ms  92.469 ms
+ 8  border3.orion.on.ca (205.189.32.42)  92.753 ms  92.787 ms  92.789 ms
+ 9  be202.p01-york.orion.on.ca (66.97.16.25)  93.743 ms  93.794 ms  93.842 ms
+10  be119.pe01-wtlo.orion.on.ca (66.97.16.110)  96.166 ms  96.113 ms  96.018 ms
+11  66.97.28.66 (66.97.28.66)  95.864 ms  95.920 ms  96.006 ms
+12  plonk.cs.uwaterloo.ca (129.97.74.14)  95.278 ms  95.359 ms  95.413 ms
+traceroute to plonk.cs.uwaterloo.ca (129.97.74.14), 30 hops max, 60 byte packets
+ 1  153.90.1.33 (153.90.1.33)  0.437 ms  0.982 ms  1.036 ms
+ 2  ae0--565.icar-chcg1-1.infra.pnw-gigapop.net (209.124.190.246)  28.366 ms  28.360 ms  28.357 ms
+ 3  ae0--706.icar-sttl1-2.infra.pnw-gigapop.net (207.231.240.1)  42.400 ms  42.410 ms  42.401 ms
+ 4  207.231.240.21 (207.231.240.21)  45.656 ms  45.649 ms  45.643 ms
+ 5  clgr2rtr1.canarie.ca (205.189.32.175)  56.624 ms  56.607 ms  56.551 ms
+ 6  wnpg1rtr1.canarie.ca (205.189.32.177)  71.565 ms  71.051 ms  71.001 ms
+ 7  toro1rtr1.canarie.ca (205.189.32.181)  92.210 ms  92.219 ms  92.206 ms
+ 8  border3.orion.on.ca (205.189.32.42)  92.627 ms  92.653 ms  92.655 ms
+ 9  be202.p01-york.orion.on.ca (66.97.16.25)  93.803 ms  93.836 ms  93.899 ms
+10  be119.pe01-wtlo.orion.on.ca (66.97.16.110)  96.290 ms  96.586 ms  96.503 ms
+11  66.97.28.66 (66.97.28.66)  96.125 ms  96.015 ms  95.865 ms
+12  plonk.cs.uwaterloo.ca (129.97.74.14)  95.457 ms  95.582 ms  95.396 ms
+traceroute to plonk.cs.uwaterloo.ca (129.97.74.14), 30 hops max, 60 byte packets
+ 1  153.90.1.33 (153.90.1.33)  0.935 ms  0.982 ms  1.351 ms
+ 2  ae0--565.icar-chcg1-1.infra.pnw-gigapop.net (209.124.190.246)  28.334 ms  28.339 ms  28.326 ms
+ 3  ae0--706.icar-sttl1-2.infra.pnw-gigapop.net (207.231.240.1)  42.322 ms  42.321 ms  42.306 ms
+ 4  207.231.240.21 (207.231.240.21)  45.654 ms  45.594 ms  45.621 ms
+ 5  clgr2rtr1.canarie.ca (205.189.32.175)  56.522 ms  56.534 ms  56.501 ms
+ 6  wnpg1rtr1.canarie.ca (205.189.32.177)  70.786 ms  70.891 ms  70.886 ms
+ 7  toro1rtr1.canarie.ca (205.189.32.181)  92.278 ms  92.245 ms  92.286 ms
+ 8  border3.orion.on.ca (205.189.32.42)  92.918 ms  92.826 ms  92.864 ms
+ 9  be202.p01-york.orion.on.ca (66.97.16.25)  93.795 ms  93.825 ms  93.867 ms
+10  be119.pe01-wtlo.orion.on.ca (66.97.16.110)  96.454 ms  96.735 ms  96.718 ms
+11  66.97.28.66 (66.97.28.66)  95.892 ms  95.814 ms  95.954 ms
+12  plonk.cs.uwaterloo.ca (129.97.74.14)  95.513 ms  95.226 ms  95.524 ms
+traceroute to plonk.cs.uwaterloo.ca (129.97.74.14), 30 hops max, 60 byte packets
+ 1  153.90.1.33 (153.90.1.33)  0.590 ms  0.636 ms  0.740 ms
+ 2  ae0--565.icar-chcg1-1.infra.pnw-gigapop.net (209.124.190.246)  28.355 ms  28.351 ms  28.336 ms
+ 3  ae0--706.icar-sttl1-2.infra.pnw-gigapop.net (207.231.240.1)  42.493 ms  42.456 ms  42.463 ms
+ 4  207.231.240.21 (207.231.240.21)  45.735 ms  45.721 ms  45.661 ms
+ 5  clgr2rtr1.canarie.ca (205.189.32.175)  56.541 ms  56.651 ms  56.639 ms
+ 6  wnpg1rtr1.canarie.ca (205.189.32.177)  70.953 ms  70.998 ms  70.866 ms
+ 7  toro1rtr1.canarie.ca (205.189.32.181)  94.039 ms  93.984 ms  93.989 ms
+ 8  border3.orion.on.ca (205.189.32.42)  92.659 ms  92.694 ms  92.721 ms
+ 9  be202.p01-york.orion.on.ca (66.97.16.25)  93.835 ms  93.685 ms  93.716 ms
+10  be119.pe01-wtlo.orion.on.ca (66.97.16.110)  96.060 ms  96.337 ms  96.383 ms
+11  66.97.28.66 (66.97.28.66)  95.848 ms  95.883 ms  95.994 ms
+12  plonk.cs.uwaterloo.ca (129.97.74.14)  95.247 ms  95.385 ms  95.378 ms
+traceroute to plonk.cs.uwaterloo.ca (129.97.74.14), 30 hops max, 60 byte packets
+ 1  153.90.1.33 (153.90.1.33)  0.550 ms  0.594 ms  0.682 ms
+ 2  ae0--565.icar-chcg1-1.infra.pnw-gigapop.net (209.124.190.246)  28.325 ms  28.333 ms  28.321 ms
+ 3  ae0--706.icar-sttl1-2.infra.pnw-gigapop.net (207.231.240.1)  42.292 ms  42.276 ms  42.274 ms
+ 4  207.231.240.21 (207.231.240.21)  45.600 ms  45.567 ms  45.575 ms
+ 5  clgr2rtr1.canarie.ca (205.189.32.175)  56.527 ms  56.528 ms  56.519 ms
+ 6  wnpg1rtr1.canarie.ca (205.189.32.177)  70.827 ms  70.948 ms  70.819 ms
+ 7  toro1rtr1.canarie.ca (205.189.32.181)  92.125 ms  92.117 ms  92.113 ms
+ 8  border3.orion.on.ca (205.189.32.42)  93.338 ms  93.331 ms  93.320 ms
+ 9  be202.p01-york.orion.on.ca (66.97.16.25)  93.801 ms  93.840 ms  93.880 ms
+10  be119.pe01-wtlo.orion.on.ca (66.97.16.110)  96.388 ms  96.085 ms  96.163 ms
+11  66.97.28.66 (66.97.28.66)  95.853 ms  95.929 ms  96.006 ms
+12  plonk.cs.uwaterloo.ca (129.97.74.14)  95.516 ms  95.621 ms  95.327 ms
+traceroute to plonk.cs.uwaterloo.ca (129.97.74.14), 30 hops max, 60 byte packets
+ 1  153.90.1.33 (153.90.1.33)  0.692 ms  1.218 ms  1.451 ms
+ 2  ae0--565.icar-chcg1-1.infra.pnw-gigapop.net (209.124.190.246)  28.388 ms  28.383 ms  28.378 ms
+ 3  ae0--706.icar-sttl1-2.infra.pnw-gigapop.net (207.231.240.1)  42.417 ms  42.415 ms  42.367 ms
+ 4  207.231.240.21 (207.231.240.21)  45.846 ms  45.850 ms  45.813 ms
+ 5  clgr2rtr1.canarie.ca (205.189.32.175)  56.768 ms  56.764 ms  56.754 ms
+ 6  wnpg1rtr1.canarie.ca (205.189.32.177)  70.963 ms  71.003 ms  70.794 ms
+ 7  toro1rtr1.canarie.ca (205.189.32.181)  92.548 ms  92.538 ms  92.526 ms
+ 8  border3.orion.on.ca (205.189.32.42)  93.269 ms  93.259 ms  93.245 ms
+ 9  be202.p01-york.orion.on.ca (66.97.16.25)  93.299 ms  93.250 ms  93.285 ms
+10  be119.pe01-wtlo.orion.on.ca (66.97.16.110)  96.344 ms  96.480 ms  96.470 ms
+11  66.97.28.66 (66.97.28.66)  95.827 ms  95.912 ms  95.983 ms
+12  plonk.cs.uwaterloo.ca (129.97.74.14)  95.174 ms  95.527 ms  95.844 ms
+traceroute to plonk.cs.uwaterloo.ca (129.97.74.14), 30 hops max, 60 byte packets
+ 1  153.90.1.33 (153.90.1.33)  0.514 ms  0.610 ms  0.739 ms
+ 2  ae0--565.icar-chcg1-1.infra.pnw-gigapop.net (209.124.190.246)  28.361 ms  28.355 ms  28.335 ms
+ 3  ae0--706.icar-sttl1-2.infra.pnw-gigapop.net (207.231.240.1)  42.427 ms  42.431 ms  42.421 ms
+ 4  207.231.240.21 (207.231.240.21)  45.562 ms  45.555 ms  45.550 ms
+ 5  clgr2rtr1.canarie.ca (205.189.32.175)  56.539 ms  56.498 ms  56.499 ms
+ 6  wnpg1rtr1.canarie.ca (205.189.32.177)  70.788 ms  70.766 ms  71.023 ms
+ 7  toro1rtr1.canarie.ca (205.189.32.181)  92.506 ms  92.504 ms  92.493 ms
+ 8  border3.orion.on.ca (205.189.32.42)  92.857 ms  92.889 ms  92.911 ms
+ 9  be202.p01-york.orion.on.ca (66.97.16.25)  94.391 ms  94.384 ms  94.375 ms
+10  be119.pe01-wtlo.orion.on.ca (66.97.16.110)  96.278 ms  96.236 ms  96.286 ms
+11  66.97.28.66 (66.97.28.66)  95.902 ms  95.975 ms  96.053 ms
+12  plonk.cs.uwaterloo.ca (129.97.74.14)  95.501 ms  95.534 ms  95.408 ms
+traceroute to plonk.cs.uwaterloo.ca (129.97.74.14), 30 hops max, 60 byte packets
+ 1  153.90.1.33 (153.90.1.33)  0.567 ms  0.633 ms  0.715 ms
+ 2  ae0--565.icar-chcg1-1.infra.pnw-gigapop.net (209.124.190.246)  28.324 ms  28.331 ms  28.321 ms
+ 3  ae0--706.icar-sttl1-2.infra.pnw-gigapop.net (207.231.240.1)  42.283 ms  42.272 ms  42.270 ms
+ 4  207.231.240.21 (207.231.240.21)  45.590 ms  45.583 ms  45.575 ms
+ 5  clgr2rtr1.canarie.ca (205.189.32.175)  56.507 ms  56.659 ms  56.647 ms
+ 6  wnpg1rtr1.canarie.ca (205.189.32.177)  70.944 ms  70.894 ms  70.773 ms
+ 7  toro1rtr1.canarie.ca (205.189.32.181)  92.101 ms  92.104 ms  92.091 ms
+ 8  border3.orion.on.ca (205.189.32.42)  92.734 ms  92.775 ms  92.823 ms
+ 9  be202.p01-york.orion.on.ca (66.97.16.25)  93.825 ms  93.861 ms  93.901 ms
+10  be119.pe01-wtlo.orion.on.ca (66.97.16.110)  96.495 ms  96.417 ms  96.400 ms
+11  66.97.28.66 (66.97.28.66)  95.808 ms  95.881 ms  95.957 ms
+12  plonk.cs.uwaterloo.ca (129.97.74.14)  95.262 ms  95.462 ms  95.808 ms
+traceroute to plonk.cs.uwaterloo.ca (129.97.74.14), 30 hops max, 60 byte packets
+ 1  153.90.1.33 (153.90.1.33)  0.535 ms  0.582 ms  0.673 ms
+ 2  ae0--565.icar-chcg1-1.infra.pnw-gigapop.net (209.124.190.246)  28.350 ms  28.347 ms  28.336 ms
+ 3  ae0--706.icar-sttl1-2.infra.pnw-gigapop.net (207.231.240.1)  42.346 ms  42.336 ms  42.327 ms
+ 4  207.231.240.21 (207.231.240.21)  45.601 ms  45.594 ms  45.587 ms
+ 5  clgr2rtr1.canarie.ca (205.189.32.175)  56.569 ms  56.562 ms  56.558 ms
+ 6  wnpg1rtr1.canarie.ca (205.189.32.177)  70.772 ms  79.562 ms  70.842 ms
+ 7  toro1rtr1.canarie.ca (205.189.32.181)  92.102 ms  92.121 ms  92.088 ms
+ 8  border3.orion.on.ca (205.189.32.42)  92.733 ms  92.766 ms  92.769 ms
+ 9  be202.p01-york.orion.on.ca (66.97.16.25)  93.744 ms  93.772 ms  93.848 ms
+10  be119.pe01-wtlo.orion.on.ca (66.97.16.110)  96.333 ms  95.970 ms  96.017 ms
+11  66.97.28.66 (66.97.28.66)  95.931 ms  95.976 ms  96.076 ms
+12  plonk.cs.uwaterloo.ca (129.97.74.14)  95.437 ms  95.574 ms  95.358 ms
+traceroute to plonk.cs.uwaterloo.ca (129.97.74.14), 30 hops max, 60 byte packets
+ 1  153.90.1.33 (153.90.1.33)  0.618 ms  0.661 ms  0.932 ms
+ 2  ae0--565.icar-chcg1-1.infra.pnw-gigapop.net (209.124.190.246)  28.343 ms  28.340 ms  28.327 ms
+ 3  ae0--706.icar-sttl1-2.infra.pnw-gigapop.net (207.231.240.1)  42.263 ms  42.253 ms  42.253 ms
+ 4  207.231.240.21 (207.231.240.21)  45.570 ms  45.576 ms  45.565 ms
+ 5  clgr2rtr1.canarie.ca (205.189.32.175)  56.562 ms  56.513 ms  56.529 ms
+ 6  wnpg1rtr1.canarie.ca (205.189.32.177)  70.994 ms  70.800 ms  70.793 ms
+ 7  toro1rtr1.canarie.ca (205.189.32.181)  92.994 ms  92.989 ms  92.935 ms
+ 8  border3.orion.on.ca (205.189.32.42)  92.518 ms  92.544 ms  92.588 ms
+ 9  be202.p01-york.orion.on.ca (66.97.16.25)  93.387 ms  93.438 ms  93.472 ms
+10  be119.pe01-wtlo.orion.on.ca (66.97.16.110)  96.167 ms  96.176 ms  96.231 ms
+11  66.97.28.66 (66.97.28.66)  96.018 ms  96.075 ms  96.011 ms
+12  plonk.cs.uwaterloo.ca (129.97.74.14)  95.469 ms  95.631 ms  95.417 ms
+traceroute to plonk.cs.uwaterloo.ca (129.97.74.14), 30 hops max, 60 byte packets
+ 1  153.90.1.33 (153.90.1.33)  0.520 ms  0.597 ms  0.706 ms
+ 2  ae0--565.icar-chcg1-1.infra.pnw-gigapop.net (209.124.190.246)  28.345 ms  28.335 ms  28.321 ms
+ 3  ae0--706.icar-sttl1-2.infra.pnw-gigapop.net (207.231.240.1)  42.446 ms  42.452 ms  42.438 ms
+ 4  207.231.240.21 (207.231.240.21)  45.687 ms  45.699 ms  45.664 ms
+ 5  clgr2rtr1.canarie.ca (205.189.32.175)  56.599 ms  56.612 ms  56.595 ms
+ 6  wnpg1rtr1.canarie.ca (205.189.32.177)  71.791 ms  70.870 ms  70.852 ms
+ 7  toro1rtr1.canarie.ca (205.189.32.181)  92.096 ms  92.122 ms  92.118 ms
+ 8  border3.orion.on.ca (205.189.32.42)  92.806 ms  92.870 ms  92.903 ms
+ 9  be202.p01-york.orion.on.ca (66.97.16.25)  94.340 ms  94.371 ms  94.417 ms
+10  be119.pe01-wtlo.orion.on.ca (66.97.16.110)  96.225 ms  96.293 ms  96.332 ms
+11  66.97.28.66 (66.97.28.66)  95.862 ms  95.945 ms  95.983 ms
+12  plonk.cs.uwaterloo.ca (129.97.74.14)  95.458 ms  95.694 ms  95.355 ms
+traceroute to plonk.cs.uwaterloo.ca (129.97.74.14), 30 hops max, 60 byte packets
+ 1  153.90.1.33 (153.90.1.33)  0.717 ms  0.760 ms  1.188 ms
+ 2  ae0--565.icar-chcg1-1.infra.pnw-gigapop.net (209.124.190.246)  28.347 ms  28.339 ms  28.337 ms
+ 3  ae0--706.icar-sttl1-2.infra.pnw-gigapop.net (207.231.240.1)  42.628 ms  42.622 ms  42.620 ms
+ 4  207.231.240.21 (207.231.240.21)  45.593 ms  45.582 ms  45.633 ms
+ 5  clgr2rtr1.canarie.ca (205.189.32.175)  56.548 ms  56.548 ms  56.535 ms
+ 6  wnpg1rtr1.canarie.ca (205.189.32.177)  70.878 ms  70.862 ms  70.843 ms
+ 7  toro1rtr1.canarie.ca (205.189.32.181)  92.144 ms  92.146 ms  92.133 ms
+ 8  border3.orion.on.ca (205.189.32.42)  92.654 ms  92.693 ms  92.721 ms
+ 9  be202.p01-york.orion.on.ca (66.97.16.25)  93.792 ms  93.858 ms  93.882 ms
+10  be119.pe01-wtlo.orion.on.ca (66.97.16.110)  96.392 ms  95.989 ms  96.035 ms
+11  66.97.28.66 (66.97.28.66)  95.879 ms  95.945 ms  96.025 ms
+12  plonk.cs.uwaterloo.ca (129.97.74.14)  95.534 ms  95.309 ms  95.376 ms
+traceroute to plonk.cs.uwaterloo.ca (129.97.74.14), 30 hops max, 60 byte packets
+ 1  153.90.1.33 (153.90.1.33)  0.525 ms  0.568 ms  0.657 ms
+ 2  ae0--565.icar-chcg1-1.infra.pnw-gigapop.net (209.124.190.246)  28.346 ms  28.348 ms  28.336 ms
+ 3  ae0--706.icar-sttl1-2.infra.pnw-gigapop.net (207.231.240.1)  42.274 ms  42.267 ms  42.254 ms
+ 4  207.231.240.21 (207.231.240.21)  45.569 ms  45.571 ms  45.560 ms
+ 5  clgr2rtr1.canarie.ca (205.189.32.175)  56.495 ms  56.488 ms  56.475 ms
+ 6  wnpg1rtr1.canarie.ca (205.189.32.177)  70.901 ms  70.766 ms  70.903 ms
+ 7  toro1rtr1.canarie.ca (205.189.32.181)  92.239 ms  92.203 ms  92.169 ms
+ 8  border3.orion.on.ca (205.189.32.42)  92.828 ms  92.863 ms  92.889 ms
+ 9  be202.p01-york.orion.on.ca (66.97.16.25)  93.794 ms  93.834 ms  93.897 ms
+10  be119.pe01-wtlo.orion.on.ca (66.97.16.110)  96.621 ms  96.670 ms  96.728 ms
+11  66.97.28.66 (66.97.28.66)  95.991 ms  96.104 ms  95.998 ms
+12  plonk.cs.uwaterloo.ca (129.97.74.14)  95.533 ms  95.431 ms  95.379 ms
+traceroute to plonk.cs.uwaterloo.ca (129.97.74.14), 30 hops max, 60 byte packets
+ 1  153.90.1.33 (153.90.1.33)  0.885 ms  0.931 ms  0.984 ms
+ 2  ae0--565.icar-chcg1-1.infra.pnw-gigapop.net (209.124.190.246)  28.334 ms  28.340 ms  28.325 ms
+ 3  ae0--706.icar-sttl1-2.infra.pnw-gigapop.net (207.231.240.1)  42.373 ms  42.501 ms  42.468 ms
+ 4  207.231.240.21 (207.231.240.21)  45.800 ms  45.753 ms  45.759 ms
+ 5  clgr2rtr1.canarie.ca (205.189.32.175)  56.818 ms  56.807 ms  56.804 ms
+ 6  wnpg1rtr1.canarie.ca (205.189.32.177)  71.007 ms  72.149 ms  70.816 ms
+ 7  toro1rtr1.canarie.ca (205.189.32.181)  92.090 ms  92.161 ms  92.146 ms
+ 8  border3.orion.on.ca (205.189.32.42)  92.663 ms  92.717 ms  92.729 ms
+ 9  be202.p01-york.orion.on.ca (66.97.16.25)  93.538 ms  93.764 ms  93.675 ms
+10  be119.pe01-wtlo.orion.on.ca (66.97.16.110)  96.501 ms  96.502 ms  96.489 ms
+11  66.97.28.66 (66.97.28.66)  96.169 ms  95.888 ms  96.153 ms
+12  plonk.cs.uwaterloo.ca (129.97.74.14)  95.334 ms  95.678 ms  95.391 ms
+traceroute to plonk.cs.uwaterloo.ca (129.97.74.14), 30 hops max, 60 byte packets
+ 1  153.90.1.33 (153.90.1.33)  0.417 ms  0.783 ms  0.874 ms
+ 2  ae0--565.icar-chcg1-1.infra.pnw-gigapop.net (209.124.190.246)  28.359 ms  28.348 ms  28.333 ms
+ 3  ae0--706.icar-sttl1-2.infra.pnw-gigapop.net (207.231.240.1)  42.388 ms  42.383 ms  42.328 ms
+ 4  207.231.240.21 (207.231.240.21)  45.609 ms  45.602 ms  45.596 ms
+ 5  clgr2rtr1.canarie.ca (205.189.32.175)  56.547 ms  56.552 ms  56.539 ms
+ 6  wnpg1rtr1.canarie.ca (205.189.32.177)  70.779 ms  70.776 ms  71.024 ms
+ 7  toro1rtr1.canarie.ca (205.189.32.181)  92.313 ms  92.305 ms  92.250 ms
+ 8  border3.orion.on.ca (205.189.32.42)  92.691 ms  92.689 ms  92.731 ms
+ 9  be202.p01-york.orion.on.ca (66.97.16.25)  93.870 ms  93.871 ms  93.843 ms
+10  be119.pe01-wtlo.orion.on.ca (66.97.16.110)  96.186 ms  96.450 ms  96.525 ms
+11  66.97.28.66 (66.97.28.66)  96.038 ms  96.108 ms  96.061 ms
+12  plonk.cs.uwaterloo.ca (129.97.74.14)  95.400 ms  95.323 ms  95.393 ms
+traceroute to plonk.cs.uwaterloo.ca (129.97.74.14), 30 hops max, 60 byte packets
+ 1  153.90.1.33 (153.90.1.33)  0.842 ms  0.902 ms  1.048 ms
+ 2  ae0--565.icar-chcg1-1.infra.pnw-gigapop.net (209.124.190.246)  28.351 ms  28.344 ms  28.328 ms
+ 3  ae0--706.icar-sttl1-2.infra.pnw-gigapop.net (207.231.240.1)  42.258 ms  42.251 ms  42.247 ms
+ 4  207.231.240.21 (207.231.240.21)  45.606 ms  45.595 ms  45.594 ms
+ 5  clgr2rtr1.canarie.ca (205.189.32.175)  56.564 ms  56.554 ms  56.553 ms
+ 6  wnpg1rtr1.canarie.ca (205.189.32.177)  79.421 ms  70.804 ms  70.773 ms
+ 7  toro1rtr1.canarie.ca (205.189.32.181)  92.150 ms  92.114 ms  92.123 ms
+ 8  border3.orion.on.ca (205.189.32.42)  92.741 ms  92.773 ms  92.799 ms
+ 9  be202.p01-york.orion.on.ca (66.97.16.25)  93.652 ms  93.691 ms  93.741 ms
+10  be119.pe01-wtlo.orion.on.ca (66.97.16.110)  96.498 ms  96.530 ms  96.589 ms
+11  66.97.28.66 (66.97.28.66)  95.868 ms  95.947 ms  96.039 ms
+12  plonk.cs.uwaterloo.ca (129.97.74.14)  95.322 ms  95.425 ms  95.339 ms
+traceroute to plonk.cs.uwaterloo.ca (129.97.74.14), 30 hops max, 60 byte packets
+ 1  153.90.1.33 (153.90.1.33)  0.747 ms  0.790 ms  1.190 ms
+ 2  ae0--565.icar-chcg1-1.infra.pnw-gigapop.net (209.124.190.246)  28.324 ms  28.329 ms  28.317 ms
+ 3  ae0--706.icar-sttl1-2.infra.pnw-gigapop.net (207.231.240.1)  42.373 ms  42.340 ms  42.289 ms
+ 4  207.231.240.21 (207.231.240.21)  45.629 ms  45.583 ms  45.596 ms
+ 5  clgr2rtr1.canarie.ca (205.189.32.175)  56.467 ms  56.481 ms  56.519 ms
+ 6  wnpg1rtr1.canarie.ca (205.189.32.177)  70.803 ms  70.818 ms  70.948 ms
+ 7  toro1rtr1.canarie.ca (205.189.32.181)  92.290 ms  92.236 ms  92.224 ms
+ 8  border3.orion.on.ca (205.189.32.42)  92.855 ms  92.780 ms  92.855 ms
+ 9  be202.p01-york.orion.on.ca (66.97.16.25)  93.646 ms  93.570 ms  93.683 ms
+10  be119.pe01-wtlo.orion.on.ca (66.97.16.110)  96.226 ms  96.279 ms  96.135 ms
+11  66.97.28.66 (66.97.28.66)  95.898 ms  95.947 ms  96.003 ms
+12  plonk.cs.uwaterloo.ca (129.97.74.14)  95.460 ms  95.695 ms  95.588 ms
+traceroute to plonk.cs.uwaterloo.ca (129.97.74.14), 30 hops max, 60 byte packets
+ 1  153.90.1.33 (153.90.1.33)  0.764 ms  0.806 ms  0.853 ms
+ 2  ae0--565.icar-chcg1-1.infra.pnw-gigapop.net (209.124.190.246)  28.328 ms  28.334 ms  28.319 ms
+ 3  ae0--706.icar-sttl1-2.infra.pnw-gigapop.net (207.231.240.1)  42.275 ms  42.269 ms  42.266 ms
+ 4  207.231.240.21 (207.231.240.21)  45.533 ms  45.597 ms  45.584 ms
+ 5  clgr2rtr1.canarie.ca (205.189.32.175)  56.572 ms  56.575 ms  56.565 ms
+ 6  wnpg1rtr1.canarie.ca (205.189.32.177)  70.813 ms  70.820 ms  70.817 ms
+ 7  toro1rtr1.canarie.ca (205.189.32.181)  92.151 ms  92.145 ms  92.135 ms
+ 8  border3.orion.on.ca (205.189.32.42)  93.499 ms  93.471 ms  93.472 ms
+ 9  be202.p01-york.orion.on.ca (66.97.16.25)  93.830 ms  94.038 ms  93.932 ms
+10  be119.pe01-wtlo.orion.on.ca (66.97.16.110)  96.478 ms  96.518 ms  96.575 ms
+11  66.97.28.66 (66.97.28.66)  95.876 ms  95.981 ms  96.014 ms
+12  plonk.cs.uwaterloo.ca (129.97.74.14)  95.339 ms  95.410 ms  95.619 ms
+traceroute to plonk.cs.uwaterloo.ca (129.97.74.14), 30 hops max, 60 byte packets
+ 1  153.90.1.33 (153.90.1.33)  0.536 ms  0.782 ms  0.840 ms
+ 2  ae0--565.icar-chcg1-1.infra.pnw-gigapop.net (209.124.190.246)  28.364 ms  28.355 ms  28.348 ms
+ 3  ae0--706.icar-sttl1-2.infra.pnw-gigapop.net (207.231.240.1)  42.403 ms  42.357 ms  42.371 ms
+ 4  207.231.240.21 (207.231.240.21)  45.662 ms  45.652 ms  45.638 ms
+ 5  clgr2rtr1.canarie.ca (205.189.32.175)  56.530 ms  56.537 ms  56.521 ms
+ 6  wnpg1rtr1.canarie.ca (205.189.32.177)  70.794 ms  70.794 ms  70.784 ms
+ 7  toro1rtr1.canarie.ca (205.189.32.181)  92.106 ms  92.107 ms  92.094 ms
+ 8  border3.orion.on.ca (205.189.32.42)  92.921 ms  92.918 ms  92.941 ms
+ 9  be202.p01-york.orion.on.ca (66.97.16.25)  93.662 ms  93.568 ms  93.680 ms
+10  be119.pe01-wtlo.orion.on.ca (66.97.16.110)  96.222 ms  96.276 ms  96.316 ms
+11  66.97.28.66 (66.97.28.66)  95.959 ms  95.838 ms  95.992 ms
+12  plonk.cs.uwaterloo.ca (129.97.74.14)  95.413 ms  95.451 ms  95.595 ms
+traceroute to plonk.cs.uwaterloo.ca (129.97.74.14), 30 hops max, 60 byte packets
+ 1  153.90.1.33 (153.90.1.33)  0.418 ms  0.768 ms  0.830 ms
+ 2  ae0--565.icar-chcg1-1.infra.pnw-gigapop.net (209.124.190.246)  28.343 ms  28.347 ms  28.333 ms
+ 3  ae0--706.icar-sttl1-2.infra.pnw-gigapop.net (207.231.240.1)  42.448 ms  42.449 ms  42.412 ms
+ 4  207.231.240.21 (207.231.240.21)  45.684 ms  45.670 ms  45.668 ms
+ 5  clgr2rtr1.canarie.ca (205.189.32.175)  56.576 ms  56.562 ms  56.506 ms
+ 6  wnpg1rtr1.canarie.ca (205.189.32.177)  70.804 ms  70.795 ms  70.946 ms
+ 7  toro1rtr1.canarie.ca (205.189.32.181)  92.273 ms  92.277 ms  92.264 ms
+ 8  border3.orion.on.ca (205.189.32.42)  93.030 ms  92.965 ms  93.043 ms
+ 9  be202.p01-york.orion.on.ca (66.97.16.25)  94.180 ms  94.027 ms  94.076 ms
+10  be119.pe01-wtlo.orion.on.ca (66.97.16.110)  96.268 ms  96.354 ms  96.384 ms
+11  66.97.28.66 (66.97.28.66)  95.934 ms  95.845 ms  95.974 ms
+12  plonk.cs.uwaterloo.ca (129.97.74.14)  95.346 ms  95.350 ms  95.400 ms
+traceroute to plonk.cs.uwaterloo.ca (129.97.74.14), 30 hops max, 60 byte packets
+ 1  153.90.1.33 (153.90.1.33)  0.714 ms  0.772 ms  0.822 ms
+ 2  ae0--565.icar-chcg1-1.infra.pnw-gigapop.net (209.124.190.246)  28.356 ms  28.353 ms  28.338 ms
+ 3  ae0--706.icar-sttl1-2.infra.pnw-gigapop.net (207.231.240.1)  42.344 ms  42.348 ms  42.337 ms
+ 4  207.231.240.21 (207.231.240.21)  45.639 ms  45.647 ms  45.617 ms
+ 5  clgr2rtr1.canarie.ca (205.189.32.175)  56.519 ms  56.510 ms  57.922 ms
+ 6  wnpg1rtr1.canarie.ca (205.189.32.177)  72.263 ms  70.878 ms  70.797 ms
+ 7  toro1rtr1.canarie.ca (205.189.32.181)  92.162 ms  92.171 ms  92.132 ms
+ 8  border3.orion.on.ca (205.189.32.42)  92.756 ms  92.846 ms  92.889 ms
+ 9  be202.p01-york.orion.on.ca (66.97.16.25)  93.535 ms  93.585 ms  94.124 ms
+10  be119.pe01-wtlo.orion.on.ca (66.97.16.110)  97.423 ms  97.337 ms  97.483 ms
+11  66.97.28.66 (66.97.28.66)  95.990 ms  96.128 ms  95.986 ms
+12  plonk.cs.uwaterloo.ca (129.97.74.14)  95.329 ms  95.464 ms  95.357 ms
+traceroute to plonk.cs.uwaterloo.ca (129.97.74.14), 30 hops max, 60 byte packets
+ 1  153.90.1.33 (153.90.1.33)  0.689 ms  0.735 ms  1.176 ms
+ 2  ae0--565.icar-chcg1-1.infra.pnw-gigapop.net (209.124.190.246)  28.357 ms  28.347 ms  28.333 ms
+ 3  ae0--706.icar-sttl1-2.infra.pnw-gigapop.net (207.231.240.1)  42.288 ms  42.292 ms  42.279 ms
+ 4  207.231.240.21 (207.231.240.21)  45.604 ms  45.676 ms  45.647 ms
+ 5  clgr2rtr1.canarie.ca (205.189.32.175)  56.583 ms  56.593 ms  56.580 ms
+ 6  wnpg1rtr1.canarie.ca (205.189.32.177)  70.801 ms  70.887 ms  70.879 ms
+ 7  toro1rtr1.canarie.ca (205.189.32.181)  92.202 ms  92.203 ms  92.173 ms
+ 8  border3.orion.on.ca (205.189.32.42)  94.603 ms  94.585 ms  94.571 ms
+ 9  be202.p01-york.orion.on.ca (66.97.16.25)  93.789 ms  93.624 ms  93.667 ms
+10  be119.pe01-wtlo.orion.on.ca (66.97.16.110)  96.651 ms  96.689 ms  96.542 ms
+11  66.97.28.66 (66.97.28.66)  95.968 ms  95.883 ms  95.989 ms
+12  plonk.cs.uwaterloo.ca (129.97.74.14)  95.415 ms  95.646 ms  95.908 ms
+traceroute to plonk.cs.uwaterloo.ca (129.97.74.14), 30 hops max, 60 byte packets
+ 1  153.90.1.33 (153.90.1.33)  0.458 ms  0.526 ms  0.606 ms
+ 2  ae0--565.icar-chcg1-1.infra.pnw-gigapop.net (209.124.190.246)  28.334 ms  28.340 ms  28.326 ms
+ 3  ae0--706.icar-sttl1-2.infra.pnw-gigapop.net (207.231.240.1)  42.458 ms  42.401 ms  42.396 ms
+ 4  207.231.240.21 (207.231.240.21)  45.728 ms  45.696 ms  45.703 ms
+ 5  clgr2rtr1.canarie.ca (205.189.32.175)  56.624 ms  56.616 ms  56.617 ms
+ 6  wnpg1rtr1.canarie.ca (205.189.32.177)  70.896 ms  70.837 ms  71.354 ms
+ 7  toro1rtr1.canarie.ca (205.189.32.181)  92.652 ms  92.607 ms  92.622 ms
+ 8  border3.orion.on.ca (205.189.32.42)  93.444 ms  93.403 ms  93.287 ms
+ 9  be202.p01-york.orion.on.ca (66.97.16.25)  93.872 ms  93.912 ms  93.760 ms
+10  be119.pe01-wtlo.orion.on.ca (66.97.16.110)  96.771 ms  96.816 ms  96.876 ms
+11  66.97.28.66 (66.97.28.66)  114.339 ms  114.446 ms  114.468 ms
+12  plonk.cs.uwaterloo.ca (129.97.74.14)  95.624 ms  95.645 ms  95.487 ms
+traceroute to plonk.cs.uwaterloo.ca (129.97.74.14), 30 hops max, 60 byte packets
+ 1  153.90.1.33 (153.90.1.33)  0.713 ms  0.760 ms  1.187 ms
+ 2  ae0--565.icar-chcg1-1.infra.pnw-gigapop.net (209.124.190.246)  28.325 ms  28.329 ms  28.314 ms
+ 3  ae0--706.icar-sttl1-2.infra.pnw-gigapop.net (207.231.240.1)  42.524 ms  42.532 ms  42.497 ms
+ 4  207.231.240.21 (207.231.240.21)  45.615 ms  45.614 ms  45.596 ms
+ 5  clgr2rtr1.canarie.ca (205.189.32.175)  56.564 ms  56.555 ms  56.546 ms
+ 6  wnpg1rtr1.canarie.ca (205.189.32.177)  70.839 ms  70.816 ms  70.811 ms
+ 7  toro1rtr1.canarie.ca (205.189.32.181)  92.148 ms  92.144 ms  92.132 ms
+ 8  border3.orion.on.ca (205.189.32.42)  92.955 ms  92.987 ms  93.061 ms
+ 9  be202.p01-york.orion.on.ca (66.97.16.25)  93.573 ms  93.629 ms  93.659 ms
+10  be119.pe01-wtlo.orion.on.ca (66.97.16.110)  96.538 ms  96.651 ms  96.560 ms
+11  66.97.28.66 (66.97.28.66)  96.068 ms  96.120 ms  95.914 ms
+12  plonk.cs.uwaterloo.ca (129.97.74.14)  95.503 ms  95.645 ms  95.637 ms
+traceroute to plonk.cs.uwaterloo.ca (129.97.74.14), 30 hops max, 60 byte packets
+ 1  153.90.1.33 (153.90.1.33)  0.545 ms  0.590 ms  0.651 ms
+ 2  ae0--565.icar-chcg1-1.infra.pnw-gigapop.net (209.124.190.246)  28.361 ms  28.351 ms  28.353 ms
+ 3  ae0--706.icar-sttl1-2.infra.pnw-gigapop.net (207.231.240.1)  42.509 ms  42.502 ms  42.501 ms
+ 4  207.231.240.21 (207.231.240.21)  45.812 ms  45.857 ms  45.778 ms
+ 5  clgr2rtr1.canarie.ca (205.189.32.175)  56.672 ms  56.666 ms  56.661 ms
+ 6  wnpg1rtr1.canarie.ca (205.189.32.177)  70.994 ms  70.994 ms  80.848 ms
+ 7  toro1rtr1.canarie.ca (205.189.32.181)  92.181 ms  92.130 ms  92.149 ms
+ 8  border3.orion.on.ca (205.189.32.42)  92.942 ms  93.066 ms  93.028 ms
+ 9  be202.p01-york.orion.on.ca (66.97.16.25)  93.782 ms  93.774 ms  93.762 ms
+10  be119.pe01-wtlo.orion.on.ca (66.97.16.110)  96.529 ms  96.568 ms  96.622 ms
+11  66.97.28.66 (66.97.28.66)  95.958 ms  96.006 ms  96.057 ms
+12  plonk.cs.uwaterloo.ca (129.97.74.14)  95.516 ms  95.655 ms  95.631 ms
+traceroute to plonk.cs.uwaterloo.ca (129.97.74.14), 30 hops max, 60 byte packets
+ 1  153.90.1.33 (153.90.1.33)  0.847 ms  0.891 ms  0.943 ms
+ 2  ae0--565.icar-chcg1-1.infra.pnw-gigapop.net (209.124.190.246)  28.356 ms  28.361 ms  28.350 ms
+ 3  ae0--706.icar-sttl1-2.infra.pnw-gigapop.net (207.231.240.1)  42.572 ms  42.561 ms  42.548 ms
+ 4  207.231.240.21 (207.231.240.21)  45.817 ms  45.805 ms  45.746 ms
+ 5  clgr2rtr1.canarie.ca (205.189.32.175)  56.672 ms  56.686 ms  56.642 ms
+ 6  wnpg1rtr1.canarie.ca (205.189.32.177)  70.914 ms  70.850 ms  70.892 ms
+ 7  toro1rtr1.canarie.ca (205.189.32.181)  92.197 ms  92.209 ms  92.177 ms
+ 8  border3.orion.on.ca (205.189.32.42)  92.632 ms  92.621 ms  92.655 ms
+ 9  be202.p01-york.orion.on.ca (66.97.16.25)  93.377 ms  93.494 ms  93.429 ms
+10  be119.pe01-wtlo.orion.on.ca (66.97.16.110)  96.397 ms  96.488 ms  97.151 ms
+11  66.97.28.66 (66.97.28.66)  95.923 ms  95.995 ms  96.009 ms
+12  plonk.cs.uwaterloo.ca (129.97.74.14)  95.554 ms  95.324 ms  95.400 ms
+traceroute to plonk.cs.uwaterloo.ca (129.97.74.14), 30 hops max, 60 byte packets
+ 1  153.90.1.33 (153.90.1.33)  0.562 ms  0.705 ms  0.834 ms
+ 2  ae0--565.icar-chcg1-1.infra.pnw-gigapop.net (209.124.190.246)  28.356 ms  28.349 ms  28.336 ms
+ 3  ae0--706.icar-sttl1-2.infra.pnw-gigapop.net (207.231.240.1)  43.385 ms  43.374 ms  43.365 ms
+ 4  207.231.240.21 (207.231.240.21)  45.932 ms  45.884 ms  45.900 ms
+ 5  clgr2rtr1.canarie.ca (205.189.32.175)  56.755 ms  56.801 ms  56.796 ms
+ 6  wnpg1rtr1.canarie.ca (205.189.32.177)  71.105 ms  70.889 ms  71.034 ms
+ 7  toro1rtr1.canarie.ca (205.189.32.181)  92.448 ms  92.411 ms  92.415 ms
+ 8  border3.orion.on.ca (205.189.32.42)  93.621 ms  93.588 ms  93.590 ms
+ 9  be202.p01-york.orion.on.ca (66.97.16.25)  94.084 ms  94.132 ms  94.164 ms
+10  be119.pe01-wtlo.orion.on.ca (66.97.16.110)  96.743 ms  96.866 ms  96.763 ms
+11  66.97.28.66 (66.97.28.66)  96.072 ms  96.145 ms  96.214 ms
+12  plonk.cs.uwaterloo.ca (129.97.74.14)  95.456 ms  95.414 ms  95.520 ms
+traceroute to plonk.cs.uwaterloo.ca (129.97.74.14), 30 hops max, 60 byte packets
+ 1  153.90.1.33 (153.90.1.33)  0.498 ms  0.934 ms  0.990 ms
+ 2  ae0--565.icar-chcg1-1.infra.pnw-gigapop.net (209.124.190.246)  28.336 ms  28.350 ms  28.336 ms
+ 3  ae0--706.icar-sttl1-2.infra.pnw-gigapop.net (207.231.240.1)  42.508 ms  42.500 ms  42.491 ms
+ 4  207.231.240.21 (207.231.240.21)  45.884 ms  45.886 ms  45.832 ms
+ 5  clgr2rtr1.canarie.ca (205.189.32.175)  56.591 ms  56.580 ms  56.523 ms
+ 6  wnpg1rtr1.canarie.ca (205.189.32.177)  71.152 ms  70.950 ms  71.040 ms
+ 7  toro1rtr1.canarie.ca (205.189.32.181)  92.374 ms  92.371 ms  92.357 ms
+ 8  border3.orion.on.ca (205.189.32.42)  93.129 ms  93.037 ms  93.117 ms
+ 9  be202.p01-york.orion.on.ca (66.97.16.25)  93.747 ms  93.468 ms  93.528 ms
+10  be119.pe01-wtlo.orion.on.ca (66.97.16.110)  96.361 ms  96.414 ms  96.466 ms
+11  66.97.28.66 (66.97.28.66)  95.915 ms  95.998 ms  96.068 ms
+12  plonk.cs.uwaterloo.ca (129.97.74.14)  95.614 ms  95.587 ms  95.318 ms
+traceroute to plonk.cs.uwaterloo.ca (129.97.74.14), 30 hops max, 60 byte packets
+ 1  153.90.1.33 (153.90.1.33)  0.547 ms  0.595 ms  0.646 ms
+ 2  ae0--565.icar-chcg1-1.infra.pnw-gigapop.net (209.124.190.246)  28.334 ms  28.341 ms  28.329 ms
+ 3  ae0--706.icar-sttl1-2.infra.pnw-gigapop.net (207.231.240.1)  42.309 ms  42.300 ms  42.292 ms
+ 4  207.231.240.21 (207.231.240.21)  45.683 ms  45.629 ms  45.622 ms
+ 5  clgr2rtr1.canarie.ca (205.189.32.175)  56.578 ms  56.588 ms  56.550 ms
+ 6  wnpg1rtr1.canarie.ca (205.189.32.177)  70.846 ms  70.976 ms  70.958 ms
+ 7  toro1rtr1.canarie.ca (205.189.32.181)  92.194 ms  92.325 ms  92.273 ms
+ 8  border3.orion.on.ca (205.189.32.42)  93.730 ms  93.697 ms  93.911 ms
+ 9  be202.p01-york.orion.on.ca (66.97.16.25)  94.100 ms  93.964 ms  93.996 ms
+10  be119.pe01-wtlo.orion.on.ca (66.97.16.110)  97.146 ms  97.138 ms  97.123 ms
+11  66.97.28.66 (66.97.28.66)  96.207 ms  96.139 ms  95.975 ms
+12  plonk.cs.uwaterloo.ca (129.97.74.14)  95.503 ms  95.643 ms  95.388 ms
+traceroute to plonk.cs.uwaterloo.ca (129.97.74.14), 30 hops max, 60 byte packets
+ 1  153.90.1.33 (153.90.1.33)  0.713 ms  0.759 ms  1.190 ms
+ 2  ae0--565.icar-chcg1-1.infra.pnw-gigapop.net (209.124.190.246)  28.350 ms  28.344 ms  28.337 ms
+ 3  ae0--706.icar-sttl1-2.infra.pnw-gigapop.net (207.231.240.1)  42.303 ms  42.298 ms  42.293 ms
+ 4  207.231.240.21 (207.231.240.21)  45.546 ms  45.630 ms  45.621 ms
+ 5  clgr2rtr1.canarie.ca (205.189.32.175)  56.562 ms  56.572 ms  56.560 ms
+ 6  wnpg1rtr1.canarie.ca (205.189.32.177)  70.800 ms  70.807 ms  70.874 ms
+ 7  toro1rtr1.canarie.ca (205.189.32.181)  92.326 ms  92.341 ms  92.331 ms
+ 8  border3.orion.on.ca (205.189.32.42)  93.071 ms  93.064 ms  93.246 ms
+ 9  be202.p01-york.orion.on.ca (66.97.16.25)  93.436 ms  93.348 ms  93.442 ms
+10  be119.pe01-wtlo.orion.on.ca (66.97.16.110)  96.462 ms  96.511 ms  96.548 ms
+11  66.97.28.66 (66.97.28.66)  95.919 ms  95.958 ms  96.024 ms
+12  plonk.cs.uwaterloo.ca (129.97.74.14)  95.476 ms  95.643 ms  95.864 ms
+traceroute to plonk.cs.uwaterloo.ca (129.97.74.14), 30 hops max, 60 byte packets
+ 1  153.90.1.33 (153.90.1.33)  0.770 ms  0.815 ms  0.864 ms
+ 2  ae0--565.icar-chcg1-1.infra.pnw-gigapop.net (209.124.190.246)  28.326 ms  28.333 ms  28.318 ms
+ 3  ae0--706.icar-sttl1-2.infra.pnw-gigapop.net (207.231.240.1)  42.323 ms  42.465 ms  42.453 ms
+ 4  207.231.240.21 (207.231.240.21)  46.308 ms  46.276 ms  46.286 ms
+ 5  clgr2rtr1.canarie.ca (205.189.32.175)  56.616 ms  56.703 ms  56.690 ms
+ 6  wnpg1rtr1.canarie.ca (205.189.32.177)  71.006 ms  70.982 ms  70.966 ms
+ 7  toro1rtr1.canarie.ca (205.189.32.181)  92.115 ms  92.104 ms  92.141 ms
+ 8  border3.orion.on.ca (205.189.32.42)  92.863 ms  92.818 ms  92.811 ms
+ 9  be202.p01-york.orion.on.ca (66.97.16.25)  93.871 ms  93.545 ms  93.586 ms
+10  be119.pe01-wtlo.orion.on.ca (66.97.16.110)  96.527 ms  96.675 ms  96.529 ms
+11  66.97.28.66 (66.97.28.66)  96.299 ms  96.082 ms  96.158 ms
+12  plonk.cs.uwaterloo.ca (129.97.74.14)  95.381 ms  95.519 ms  95.645 ms
+traceroute to plonk.cs.uwaterloo.ca (129.97.74.14), 30 hops max, 60 byte packets
+ 1  153.90.1.33 (153.90.1.33)  0.735 ms  0.794 ms  0.843 ms
+ 2  ae0--565.icar-chcg1-1.infra.pnw-gigapop.net (209.124.190.246)  28.328 ms  28.334 ms  28.323 ms
+ 3  ae0--706.icar-sttl1-2.infra.pnw-gigapop.net (207.231.240.1)  42.287 ms  42.294 ms  42.266 ms
+ 4  207.231.240.21 (207.231.240.21)  45.682 ms  45.696 ms  45.668 ms
+ 5  clgr2rtr1.canarie.ca (205.189.32.175)  56.664 ms  56.636 ms  56.637 ms
+ 6  wnpg1rtr1.canarie.ca (205.189.32.177)  70.880 ms  70.813 ms  70.885 ms
+ 7  toro1rtr1.canarie.ca (205.189.32.181)  92.231 ms  92.240 ms  92.230 ms
+ 8  border3.orion.on.ca (205.189.32.42)  92.917 ms  92.960 ms  92.721 ms
+ 9  be202.p01-york.orion.on.ca (66.97.16.25)  94.223 ms  94.176 ms  94.167 ms
+10  be119.pe01-wtlo.orion.on.ca (66.97.16.110)  96.538 ms  96.390 ms  96.432 ms
+11  66.97.28.66 (66.97.28.66)  96.156 ms  96.000 ms  96.032 ms
+12  plonk.cs.uwaterloo.ca (129.97.74.14)  95.283 ms  95.596 ms  95.615 ms
+traceroute to plonk.cs.uwaterloo.ca (129.97.74.14), 30 hops max, 60 byte packets
+ 1  153.90.1.33 (153.90.1.33)  0.710 ms  0.755 ms  0.798 ms
+ 2  ae0--565.icar-chcg1-1.infra.pnw-gigapop.net (209.124.190.246)  28.361 ms  28.366 ms  28.350 ms
+ 3  ae0--706.icar-sttl1-2.infra.pnw-gigapop.net (207.231.240.1)  42.342 ms  42.307 ms  42.315 ms
+ 4  207.231.240.21 (207.231.240.21)  45.608 ms  45.597 ms  45.581 ms
+ 5  clgr2rtr1.canarie.ca (205.189.32.175)  56.585 ms  56.604 ms  56.575 ms
+ 6  wnpg1rtr1.canarie.ca (205.189.32.177)  70.802 ms  70.900 ms  70.840 ms
+ 7  toro1rtr1.canarie.ca (205.189.32.181)  92.110 ms  93.124 ms  93.064 ms
+ 8  border3.orion.on.ca (205.189.32.42)  93.276 ms  93.265 ms  93.252 ms
+ 9  be202.p01-york.orion.on.ca (66.97.16.25)  94.026 ms  93.942 ms  93.851 ms
+10  be119.pe01-wtlo.orion.on.ca (66.97.16.110)  96.706 ms  96.814 ms  96.712 ms
+11  66.97.28.66 (66.97.28.66)  96.044 ms  96.086 ms  95.937 ms
+12  plonk.cs.uwaterloo.ca (129.97.74.14)  95.433 ms  95.270 ms  95.675 ms
+traceroute to plonk.cs.uwaterloo.ca (129.97.74.14), 30 hops max, 60 byte packets
+ 1  153.90.1.33 (153.90.1.33)  0.494 ms  0.634 ms  0.762 ms
+ 2  ae0--565.icar-chcg1-1.infra.pnw-gigapop.net (209.124.190.246)  28.358 ms  28.350 ms  28.342 ms
+ 3  ae0--706.icar-sttl1-2.infra.pnw-gigapop.net (207.231.240.1)  42.581 ms  42.602 ms  42.572 ms
+ 4  207.231.240.21 (207.231.240.21)  45.702 ms  45.693 ms  45.644 ms
+ 5  clgr2rtr1.canarie.ca (205.189.32.175)  56.576 ms  56.543 ms  56.554 ms
+ 6  wnpg1rtr1.canarie.ca (205.189.32.177)  71.440 ms  70.955 ms  70.839 ms
+ 7  toro1rtr1.canarie.ca (205.189.32.181)  92.149 ms  92.114 ms  92.125 ms
+ 8  border3.orion.on.ca (205.189.32.42)  93.191 ms  93.184 ms  93.155 ms
+ 9  be202.p01-york.orion.on.ca (66.97.16.25)  93.982 ms  94.058 ms  93.952 ms
+10  be119.pe01-wtlo.orion.on.ca (66.97.16.110)  96.350 ms  96.287 ms  96.388 ms
+11  66.97.28.66 (66.97.28.66)  96.029 ms  95.917 ms  96.034 ms
+12  plonk.cs.uwaterloo.ca (129.97.74.14)  95.408 ms  95.639 ms  95.758 ms
+traceroute to plonk.cs.uwaterloo.ca (129.97.74.14), 30 hops max, 60 byte packets
+ 1  153.90.1.33 (153.90.1.33)  0.747 ms  0.793 ms  0.844 ms
+ 2  ae0--565.icar-chcg1-1.infra.pnw-gigapop.net (209.124.190.246)  28.359 ms  28.352 ms  28.339 ms
+ 3  ae0--706.icar-sttl1-2.infra.pnw-gigapop.net (207.231.240.1)  42.543 ms  42.532 ms  42.531 ms
+ 4  207.231.240.21 (207.231.240.21)  45.797 ms  45.750 ms  45.761 ms
+ 5  clgr2rtr1.canarie.ca (205.189.32.175)  56.620 ms  56.719 ms  56.688 ms
+ 6  wnpg1rtr1.canarie.ca (205.189.32.177)  71.109 ms  70.840 ms  70.922 ms
+ 7  toro1rtr1.canarie.ca (205.189.32.181)  92.214 ms  92.302 ms  92.293 ms
+ 8  border3.orion.on.ca (205.189.32.42)  93.716 ms  93.725 ms  93.695 ms
+ 9  be202.p01-york.orion.on.ca (66.97.16.25)  93.939 ms  94.021 ms  93.946 ms
+10  be119.pe01-wtlo.orion.on.ca (66.97.16.110)  96.532 ms  96.415 ms  96.538 ms
+11  66.97.28.66 (66.97.28.66)  96.053 ms  96.094 ms  96.186 ms
+12  plonk.cs.uwaterloo.ca (129.97.74.14)  95.461 ms  96.878 ms  95.708 ms
+traceroute to plonk.cs.uwaterloo.ca (129.97.74.14), 30 hops max, 60 byte packets
+ 1  153.90.1.33 (153.90.1.33)  0.639 ms  0.696 ms  0.746 ms
+ 2  ae0--565.icar-chcg1-1.infra.pnw-gigapop.net (209.124.190.246)  28.344 ms  28.335 ms  28.328 ms
+ 3  ae0--706.icar-sttl1-2.infra.pnw-gigapop.net (207.231.240.1)  42.434 ms  42.520 ms  42.508 ms
+ 4  207.231.240.21 (207.231.240.21)  45.808 ms  45.802 ms  45.788 ms
+ 5  clgr2rtr1.canarie.ca (205.189.32.175)  56.713 ms  56.678 ms  56.691 ms
+ 6  wnpg1rtr1.canarie.ca (205.189.32.177)  71.271 ms  70.862 ms  70.875 ms
+ 7  toro1rtr1.canarie.ca (205.189.32.181)  92.958 ms  92.300 ms  92.282 ms
+ 8  border3.orion.on.ca (205.189.32.42)  92.954 ms  92.834 ms  92.896 ms
+ 9  be202.p01-york.orion.on.ca (66.97.16.25)  93.526 ms  93.863 ms  93.847 ms
+10  be119.pe01-wtlo.orion.on.ca (66.97.16.110)  96.781 ms  96.836 ms  96.885 ms
+11  66.97.28.66 (66.97.28.66)  96.112 ms  96.232 ms  96.274 ms
+12  plonk.cs.uwaterloo.ca (129.97.74.14)  95.489 ms  95.668 ms  95.619 ms
+traceroute to plonk.cs.uwaterloo.ca (129.97.74.14), 30 hops max, 60 byte packets
+ 1  153.90.1.33 (153.90.1.33)  0.731 ms  0.787 ms  0.836 ms
+ 2  ae0--565.icar-chcg1-1.infra.pnw-gigapop.net (209.124.190.246)  28.365 ms  28.362 ms  28.351 ms
+ 3  ae0--706.icar-sttl1-2.infra.pnw-gigapop.net (207.231.240.1)  42.599 ms  42.590 ms  42.534 ms
+ 4  207.231.240.21 (207.231.240.21)  45.871 ms  45.813 ms  45.781 ms
+ 5  clgr2rtr1.canarie.ca (205.189.32.175)  56.712 ms  56.667 ms  56.680 ms
+ 6  wnpg1rtr1.canarie.ca (205.189.32.177)  71.993 ms  71.013 ms  71.008 ms
+ 7  toro1rtr1.canarie.ca (205.189.32.181)  92.294 ms  92.224 ms  92.219 ms
+ 8  border3.orion.on.ca (205.189.32.42)  92.750 ms  92.744 ms  92.733 ms
+ 9  be202.p01-york.orion.on.ca (66.97.16.25)  93.538 ms  94.181 ms  94.222 ms
+10  be119.pe01-wtlo.orion.on.ca (66.97.16.110)  97.385 ms  97.483 ms  97.384 ms
+11  66.97.28.66 (66.97.28.66)  96.918 ms  96.834 ms  96.717 ms
+12  plonk.cs.uwaterloo.ca (129.97.74.14)  95.513 ms  95.698 ms  95.552 ms

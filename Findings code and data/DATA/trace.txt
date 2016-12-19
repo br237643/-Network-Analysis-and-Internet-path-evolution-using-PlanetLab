@@ -1,0 +1,1820 @@
+traceroute to planetlab4.mini.pw.edu.pl (194.29.178.14), 30 hops max, 60 byte packets
+ 1  host129.190-227-163.telecom.net.ar (190.227.163.129)  1.679 ms  1.737 ms  1.818 ms
+ 2  host89.181-15-0.telecom.net.ar (181.15.0.89)  58.028 ms  58.956 ms  59.017 ms
+ 3  host17.200-117-124.telecom.net.ar (200.117.124.17)  22.170 ms  22.285 ms  22.362 ms
+ 4  host166.190-225-252.telecom.net.ar (190.225.252.166)  19.213 ms  19.295 ms  19.927 ms
+ 5  xe-8-1-2.baires3.bai.seabone.net (195.22.220.106)  102.598 ms  112.105 ms  112.181 ms
+ 6  et-10-1-0.miami15.mia.seabone.net (89.221.41.175)  193.058 ms et-9-3-0.miami15.mia.seabone.net (195.22.199.179)  190.480 ms et-4-3-0.miami15.mia.seabone.net (195.22.199.177)  188.104 ms
+ 7  et-4-3-0.miami15.mia.seabone.net (195.22.199.177)  187.971 ms  189.342 ms  189.792 ms
+ 8  * * *
+ 9  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  269.529 ms  258.392 ms  257.786 ms
+10  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  257.977 ms  258.156 ms  258.948 ms
+11  212.162.10.82 (212.162.10.82)  325.351 ms  325.548 ms  325.656 ms
+12  z-poznan-gw3.nask.10Gb.rtr.pionier.gov.pl (212.191.224.74)  324.153 ms  324.234 ms  324.350 ms
+13  welcome-at.pw.edu.pl (148.81.253.70)  325.687 ms  320.449 ms  323.242 ms
+14  194.29.132.162 (194.29.132.162)  330.753 ms  331.028 ms  281.904 ms
+15  coi-mini.rtr.pw.edu.pl (194.29.132.2)  331.913 ms  322.043 ms  328.539 ms
+16  planetlab4.mini.pw.edu.pl (194.29.178.14)  265.159 ms  265.635 ms  265.570 ms
+traceroute to planetlab4.mini.pw.edu.pl (194.29.178.14), 30 hops max, 60 byte packets
+ 1  host129.190-227-163.telecom.net.ar (190.227.163.129)  1.473 ms  1.541 ms  1.625 ms
+ 2  host89.181-15-0.telecom.net.ar (181.15.0.89)  6.409 ms  9.095 ms  9.541 ms
+ 3  host17.200-117-124.telecom.net.ar (200.117.124.17)  6.806 ms  6.891 ms  7.372 ms
+ 4  host166.190-225-252.telecom.net.ar (190.225.252.166)  7.798 ms  8.287 ms  8.842 ms
+ 5  xe-8-1-2.baires3.bai.seabone.net (195.22.220.106)  64.617 ms  64.702 ms  74.774 ms
+ 6  et-4-3-0.miami15.mia.seabone.net (195.22.199.177)  178.594 ms et-10-1-0.miami15.mia.seabone.net (89.221.41.175)  182.146 ms et-4-3-0.miami15.mia.seabone.net (195.22.199.177)  177.118 ms
+ 7  et-9-3-0.miami15.mia.seabone.net (195.22.199.179)  175.874 ms et-10-3-0.miami15.mia.seabone.net (89.221.41.177)  176.471 ms  176.550 ms
+ 8  * * *
+ 9  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  266.679 ms  267.171 ms  267.258 ms
+10  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  267.380 ms  441.896 ms  442.301 ms
+11  212.162.10.82 (212.162.10.82)  320.704 ms  365.932 ms  353.165 ms
+12  z-poznan-gw3.nask.10Gb.rtr.pionier.gov.pl (212.191.224.74)  319.030 ms  318.946 ms  319.379 ms
+13  welcome-at.pw.edu.pl (148.81.253.70)  316.646 ms  316.581 ms  316.656 ms
+14  194.29.132.162 (194.29.132.162)  266.393 ms  266.674 ms  260.711 ms
+15  coi-mini.rtr.pw.edu.pl (194.29.132.2)  320.403 ms  326.138 ms  319.907 ms
+16  planetlab4.mini.pw.edu.pl (194.29.178.14)  260.320 ms  260.524 ms  265.226 ms
+traceroute to planetlab4.mini.pw.edu.pl (194.29.178.14), 30 hops max, 60 byte packets
+ 1  host129.190-227-163.telecom.net.ar (190.227.163.129)  1.812 ms  1.874 ms  1.937 ms
+ 2  host89.181-15-0.telecom.net.ar (181.15.0.89)  7.075 ms  7.520 ms  9.255 ms
+ 3  host17.200-117-124.telecom.net.ar (200.117.124.17)  7.586 ms  8.059 ms  8.585 ms
+ 4  host166.190-225-252.telecom.net.ar (190.225.252.166)  9.659 ms  9.959 ms  10.651 ms
+ 5  xe-8-1-2.baires3.bai.seabone.net (195.22.220.106)  95.376 ms  95.464 ms  95.927 ms
+ 6  et-4-3-0.miami15.mia.seabone.net (195.22.199.177)  179.196 ms et-9-3-0.miami15.mia.seabone.net (195.22.199.179)  176.219 ms et-4-3-0.miami15.mia.seabone.net (195.22.199.177)  175.826 ms
+ 7  et-10-3-0.miami15.mia.seabone.net (89.221.41.177)  175.894 ms et-10-1-0.miami15.mia.seabone.net (89.221.41.175)  182.648 ms et-9-3-0.miami15.mia.seabone.net (195.22.199.179)  176.550 ms
+ 8  * * *
+ 9  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  294.047 ms  287.203 ms  287.261 ms
+10  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  287.423 ms  257.727 ms  253.033 ms
+11  212.162.10.82 (212.162.10.82)  312.346 ms  318.095 ms  318.868 ms
+12  z-poznan-gw3.nask.10Gb.rtr.pionier.gov.pl (212.191.224.74)  315.738 ms  315.650 ms  310.674 ms
+13  welcome-at.pw.edu.pl (148.81.253.70)  313.070 ms  313.030 ms  317.085 ms
+14  194.29.132.162 (194.29.132.162)  265.075 ms  267.887 ms  264.585 ms
+15  coi-mini.rtr.pw.edu.pl (194.29.132.2)  321.329 ms  327.184 ms  316.052 ms
+16  planetlab4.mini.pw.edu.pl (194.29.178.14)  257.902 ms  263.917 ms  258.338 ms
+traceroute to planetlab4.mini.pw.edu.pl (194.29.178.14), 30 hops max, 60 byte packets
+ 1  host129.190-227-163.telecom.net.ar (190.227.163.129)  2.577 ms  2.611 ms  2.688 ms
+ 2  host89.181-15-0.telecom.net.ar (181.15.0.89)  14.006 ms  22.589 ms  23.091 ms
+ 3  host17.200-117-124.telecom.net.ar (200.117.124.17)  12.265 ms  12.675 ms  13.176 ms
+ 4  host166.190-225-252.telecom.net.ar (190.225.252.166)  11.162 ms  11.801 ms  11.880 ms
+ 5  xe-8-1-2.baires3.bai.seabone.net (195.22.220.106)  80.102 ms  105.318 ms  105.396 ms
+ 6  et-10-3-0.miami15.mia.seabone.net (89.221.41.177)  183.639 ms et-9-3-0.miami15.mia.seabone.net (195.22.199.179)  181.391 ms et-10-1-0.miami15.mia.seabone.net (89.221.41.175)  188.572 ms
+ 7  et-4-3-0.miami15.mia.seabone.net (195.22.199.177)  180.161 ms et-10-1-0.miami15.mia.seabone.net (89.221.41.175)  188.978 ms  189.067 ms
+ 8  * * *
+ 9  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  353.110 ms  353.194 ms  329.436 ms
+10  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  329.487 ms  288.645 ms  274.030 ms
+11  212.162.10.82 (212.162.10.82)  315.542 ms  319.804 ms  314.588 ms
+12  z-poznan-gw3.nask.10Gb.rtr.pionier.gov.pl (212.191.224.74)  312.994 ms  312.281 ms  318.277 ms
+13  welcome-at.pw.edu.pl (148.81.253.70)  319.565 ms  373.988 ms  374.365 ms
+14  194.29.132.162 (194.29.132.162)  367.932 ms  367.912 ms  368.567 ms
+15  coi-mini.rtr.pw.edu.pl (194.29.132.2)  373.503 ms  348.507 ms  317.438 ms
+16  planetlab4.mini.pw.edu.pl (194.29.178.14)  263.602 ms  258.121 ms  257.781 ms
+traceroute to planetlab4.mini.pw.edu.pl (194.29.178.14), 30 hops max, 60 byte packets
+ 1  host129.190-227-163.telecom.net.ar (190.227.163.129)  1.708 ms  1.766 ms  1.846 ms
+ 2  host89.181-15-0.telecom.net.ar (181.15.0.89)  8.144 ms  8.589 ms  8.669 ms
+ 3  host17.200-117-124.telecom.net.ar (200.117.124.17)  9.870 ms  9.948 ms  10.717 ms
+ 4  host166.190-225-252.telecom.net.ar (190.225.252.166)  6.280 ms  10.779 ms  11.027 ms
+ 5  xe-8-1-2.baires3.bai.seabone.net (195.22.220.106)  76.524 ms  77.074 ms  86.532 ms
+ 6  et-9-3-0.miami15.mia.seabone.net (195.22.199.179)  169.799 ms et-10-1-0.miami15.mia.seabone.net (89.221.41.175)  176.584 ms et-4-3-0.miami15.mia.seabone.net (195.22.199.177)  164.508 ms
+ 7  et-9-3-0.miami15.mia.seabone.net (195.22.199.179)  164.371 ms et-4-3-0.miami15.mia.seabone.net (195.22.199.177)  164.950 ms et-10-3-0.miami15.mia.seabone.net (89.221.41.177)  165.030 ms
+ 8  * * *
+ 9  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  264.839 ms  264.918 ms  264.998 ms
+10  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  265.585 ms  257.449 ms  257.506 ms
+11  212.162.10.82 (212.162.10.82)  299.887 ms  301.543 ms  306.140 ms
+12  z-poznan-gw3.nask.10Gb.rtr.pionier.gov.pl (212.191.224.74)  310.506 ms  310.444 ms  301.648 ms
+13  welcome-at.pw.edu.pl (148.81.253.70)  310.493 ms  310.708 ms  310.766 ms
+14  194.29.132.162 (194.29.132.162)  276.902 ms  276.335 ms  259.706 ms
+15  coi-mini.rtr.pw.edu.pl (194.29.132.2)  312.487 ms  303.434 ms  303.437 ms
+16  planetlab4.mini.pw.edu.pl (194.29.178.14)  258.123 ms  263.557 ms  269.764 ms
+traceroute to planetlab4.mini.pw.edu.pl (194.29.178.14), 30 hops max, 60 byte packets
+ 1  host129.190-227-163.telecom.net.ar (190.227.163.129)  2.699 ms  2.753 ms  2.831 ms
+ 2  host89.181-15-0.telecom.net.ar (181.15.0.89)  10.199 ms  10.673 ms  11.044 ms
+ 3  host17.200-117-124.telecom.net.ar (200.117.124.17)  13.510 ms  13.584 ms  13.660 ms
+ 4  * host166.190-225-252.telecom.net.ar (190.225.252.166)  13.224 ms  13.308 ms
+ 5  * xe-8-1-2.baires3.bai.seabone.net (195.22.220.106)  35.253 ms  35.352 ms
+ 6  et-10-3-0.miami15.mia.seabone.net (89.221.41.177)  130.886 ms et-9-3-0.miami15.mia.seabone.net (195.22.199.179)  127.956 ms et-10-3-0.miami15.mia.seabone.net (89.221.41.177)  140.960 ms
+ 7  et-4-3-0.miami15.mia.seabone.net (195.22.199.177)  140.815 ms et-9-3-0.miami15.mia.seabone.net (195.22.199.179)  141.669 ms et-10-3-0.miami15.mia.seabone.net (89.221.41.177)  141.764 ms
+ 8  xe-11-0-0.edge2.miami1.Level3.net (63.209.150.165)  149.598 ms * *
+ 9  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  296.426 ms  296.900 ms  296.983 ms
+10  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  436.344 ms  436.410 ms  436.535 ms
+11  212.162.10.82 (212.162.10.82)  270.735 ms  265.405 ms  271.167 ms
+12  z-poznan-gw3.nask.10Gb.rtr.pionier.gov.pl (212.191.224.74)  270.058 ms  270.513 ms  264.874 ms
+13  welcome-at.pw.edu.pl (148.81.253.70)  279.725 ms  266.169 ms  289.964 ms
+14  194.29.132.162 (194.29.132.162)  290.120 ms  284.087 ms  284.543 ms
+15  coi-mini.rtr.pw.edu.pl (194.29.132.2)  306.780 ms  280.052 ms  280.288 ms
+16  planetlab4.mini.pw.edu.pl (194.29.178.14)  269.771 ms  264.468 ms  264.892 ms
+traceroute to planetlab4.mini.pw.edu.pl (194.29.178.14), 30 hops max, 60 byte packets
+ 1  host129.190-227-163.telecom.net.ar (190.227.163.129)  1.606 ms  1.683 ms  1.753 ms
+ 2  * host89.181-15-0.telecom.net.ar (181.15.0.89)  7.625 ms  7.873 ms
+ 3  host17.200-117-124.telecom.net.ar (200.117.124.17)  8.875 ms  9.327 ms  9.414 ms
+ 4  host166.190-225-252.telecom.net.ar (190.225.252.166)  12.536 ms  12.622 ms *
+ 5  xe-8-1-2.baires3.bai.seabone.net (195.22.220.106)  6.523 ms  6.857 ms  6.943 ms
+ 6  * et-9-3-0.miami15.mia.seabone.net (195.22.199.179)  127.759 ms et-4-3-0.miami15.mia.seabone.net (195.22.199.177)  128.160 ms
+ 7  et-10-1-0.miami15.mia.seabone.net (89.221.41.175)  133.402 ms et-9-3-0.miami15.mia.seabone.net (195.22.199.179)  128.783 ms et-4-3-0.miami15.mia.seabone.net (195.22.199.177)  129.323 ms
+ 8  xe-11-0-0.edge2.miami1.Level3.net (63.209.150.165)  126.980 ms  127.437 ms  133.219 ms
+ 9  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  257.080 ms  262.734 ms  262.835 ms
+10  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  255.431 ms  255.510 ms  317.497 ms
+11  212.162.10.82 (212.162.10.82)  318.238 ms  320.008 ms  320.355 ms
+12  z-poznan-gw3.nask.10Gb.rtr.pionier.gov.pl (212.191.224.74)  318.641 ms  315.996 ms  316.307 ms
+13  welcome-at.pw.edu.pl (148.81.253.70)  316.621 ms  282.702 ms  278.602 ms
+14  194.29.132.162 (194.29.132.162)  275.760 ms  276.581 ms  271.626 ms
+15  coi-mini.rtr.pw.edu.pl (194.29.132.2)  299.338 ms  308.140 ms  299.133 ms
+16  planetlab4.mini.pw.edu.pl (194.29.178.14)  296.355 ms  295.396 ms  295.837 ms
+traceroute to planetlab4.mini.pw.edu.pl (194.29.178.14), 30 hops max, 60 byte packets
+ 1  host129.190-227-163.telecom.net.ar (190.227.163.129)  1.712 ms  1.776 ms  1.906 ms
+ 2  host89.181-15-0.telecom.net.ar (181.15.0.89)  6.620 ms  8.587 ms  8.710 ms
+ 3  host17.200-117-124.telecom.net.ar (200.117.124.17)  9.083 ms  9.332 ms  9.878 ms
+ 4  * host166.190-225-252.telecom.net.ar (190.225.252.166)  10.643 ms  10.722 ms
+ 5  xe-8-1-2.baires3.bai.seabone.net (195.22.220.106)  6.986 ms  7.063 ms  8.602 ms
+ 6  et-4-3-0.miami15.mia.seabone.net (195.22.199.177)  130.123 ms et-10-1-0.miami15.mia.seabone.net (89.221.41.175)  154.025 ms  162.239 ms
+ 7  et-10-3-0.miami15.mia.seabone.net (89.221.41.177)  157.111 ms et-10-1-0.miami15.mia.seabone.net (89.221.41.175)  162.869 ms et-10-3-0.miami15.mia.seabone.net (89.221.41.177)  157.523 ms
+ 8  * * *
+ 9  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  282.519 ms  283.261 ms  283.352 ms
+10  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  283.437 ms  288.840 ms  289.388 ms
+11  212.162.10.82 (212.162.10.82)  295.977 ms  296.545 ms  301.778 ms
+12  z-poznan-gw3.nask.10Gb.rtr.pionier.gov.pl (212.191.224.74)  285.757 ms  280.018 ms  271.029 ms
+13  welcome-at.pw.edu.pl (148.81.253.70)  269.045 ms  272.776 ms  266.648 ms
+14  194.29.132.162 (194.29.132.162)  268.312 ms  269.106 ms  265.258 ms
+15  coi-mini.rtr.pw.edu.pl (194.29.132.2)  274.148 ms  286.219 ms  291.383 ms
+16  planetlab4.mini.pw.edu.pl (194.29.178.14)  282.420 ms  257.980 ms  263.326 ms
+traceroute to planetlab4.mini.pw.edu.pl (194.29.178.14), 30 hops max, 60 byte packets
+ 1  host129.190-227-163.telecom.net.ar (190.227.163.129)  1.918 ms  1.971 ms  2.049 ms
+ 2  host89.181-15-0.telecom.net.ar (181.15.0.89)  23.206 ms  23.620 ms  23.700 ms
+ 3  host17.200-117-124.telecom.net.ar (200.117.124.17)  25.275 ms  25.386 ms  26.114 ms
+ 4  host166.190-225-252.telecom.net.ar (190.225.252.166)  21.655 ms  22.244 ms  26.154 ms
+ 5  xe-8-1-2.baires3.bai.seabone.net (195.22.220.106)  22.315 ms  22.392 ms  22.849 ms
+ 6  et-10-1-0.miami15.mia.seabone.net (89.221.41.175)  150.260 ms et-10-3-0.miami15.mia.seabone.net (89.221.41.177)  147.124 ms et-10-1-0.miami15.mia.seabone.net (89.221.41.175)  145.589 ms
+ 7  et-10-1-0.miami15.mia.seabone.net (89.221.41.175)  145.241 ms et-4-3-0.miami15.mia.seabone.net (195.22.199.177)  139.752 ms et-10-3-0.miami15.mia.seabone.net (89.221.41.177)  140.407 ms
+ 8  xe-11-0-0.edge2.miami1.Level3.net (63.209.150.165)  143.947 ms  138.490 ms  144.366 ms
+ 9  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  266.325 ms  266.408 ms  266.770 ms
+10  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  269.633 ms  270.074 ms  264.401 ms
+11  212.162.10.82 (212.162.10.82)  276.990 ms  263.980 ms  277.421 ms
+12  z-poznan-gw3.nask.10Gb.rtr.pionier.gov.pl (212.191.224.74)  277.006 ms  270.425 ms  275.789 ms
+13  welcome-at.pw.edu.pl (148.81.253.70)  267.789 ms  273.114 ms  272.601 ms
+14  194.29.132.162 (194.29.132.162)  264.731 ms  312.107 ms  312.896 ms
+15  coi-mini.rtr.pw.edu.pl (194.29.132.2)  290.281 ms  291.067 ms  285.641 ms
+16  planetlab4.mini.pw.edu.pl (194.29.178.14)  281.069 ms  275.834 ms  276.365 ms
+traceroute to planetlab4.mini.pw.edu.pl (194.29.178.14), 30 hops max, 60 byte packets
+ 1  host129.190-227-163.telecom.net.ar (190.227.163.129)  2.477 ms  2.538 ms  2.612 ms
+ 2  host89.181-15-0.telecom.net.ar (181.15.0.89)  10.255 ms  10.763 ms  10.892 ms
+ 3  host17.200-117-124.telecom.net.ar (200.117.124.17)  6.813 ms  7.265 ms  7.344 ms
+ 4  host166.190-225-252.telecom.net.ar (190.225.252.166)  8.504 ms  8.685 ms  8.951 ms
+ 5  xe-8-1-2.baires3.bai.seabone.net (195.22.220.106)  7.855 ms  8.523 ms  9.510 ms
+ 6  et-10-3-0.miami15.mia.seabone.net (89.221.41.177)  130.433 ms  127.024 ms  127.487 ms
+ 7  et-10-1-0.miami15.mia.seabone.net (89.221.41.175)  132.576 ms  132.671 ms et-4-3-0.miami15.mia.seabone.net (195.22.199.177)  127.543 ms
+ 8  * * *
+ 9  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  253.922 ms  254.012 ms  260.813 ms
+10  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  254.294 ms  254.831 ms  254.863 ms
+11  212.162.10.82 (212.162.10.82)  293.339 ms  269.503 ms  263.897 ms
+12  z-poznan-gw3.nask.10Gb.rtr.pionier.gov.pl (212.191.224.74)  267.644 ms  267.907 ms  267.816 ms
+13  welcome-at.pw.edu.pl (148.81.253.70)  268.672 ms  263.244 ms  263.646 ms
+14  194.29.132.162 (194.29.132.162)  259.471 ms  264.716 ms  265.216 ms
+15  coi-mini.rtr.pw.edu.pl (194.29.132.2)  267.835 ms  267.692 ms  273.223 ms
+16  planetlab4.mini.pw.edu.pl (194.29.178.14)  257.871 ms  257.566 ms  257.942 ms
+traceroute to planetlab4.mini.pw.edu.pl (194.29.178.14), 30 hops max, 60 byte packets
+ 1  host129.190-227-163.telecom.net.ar (190.227.163.129)  2.398 ms  2.458 ms  2.538 ms
+ 2  host89.181-15-0.telecom.net.ar (181.15.0.89)  15.437 ms  16.067 ms  16.149 ms
+ 3  host17.200-117-124.telecom.net.ar (200.117.124.17)  10.077 ms  10.160 ms  10.621 ms
+ 4  host166.190-225-252.telecom.net.ar (190.225.252.166)  16.667 ms  17.078 ms  17.521 ms
+ 5  xe-8-1-2.baires3.bai.seabone.net (195.22.220.106)  11.024 ms  15.354 ms  16.499 ms
+ 6  et-10-3-0.miami15.mia.seabone.net (89.221.41.177)  141.282 ms et-9-3-0.miami15.mia.seabone.net (195.22.199.179)  132.459 ms et-10-1-0.miami15.mia.seabone.net (89.221.41.175)  138.146 ms
+ 7  et-9-3-0.miami15.mia.seabone.net (195.22.199.179)  132.593 ms et-10-3-0.miami15.mia.seabone.net (89.221.41.177)  133.036 ms et-10-1-0.miami15.mia.seabone.net (89.221.41.175)  143.646 ms
+ 8  * * *
+ 9  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  261.419 ms  261.435 ms  260.390 ms
+10  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  262.018 ms  262.103 ms  260.458 ms
+11  212.162.10.82 (212.162.10.82)  273.455 ms  271.291 ms  269.793 ms
+12  z-poznan-gw3.nask.10Gb.rtr.pionier.gov.pl (212.191.224.74)  266.476 ms  270.506 ms  267.926 ms
+13  welcome-at.pw.edu.pl (148.81.253.70)  268.952 ms  263.903 ms  264.419 ms
+14  194.29.132.162 (194.29.132.162)  259.471 ms  271.856 ms  271.284 ms
+15  coi-mini.rtr.pw.edu.pl (194.29.132.2)  273.825 ms  271.917 ms  277.387 ms
+16  planetlab4.mini.pw.edu.pl (194.29.178.14)  268.582 ms  264.589 ms  262.040 ms
+traceroute to planetlab4.mini.pw.edu.pl (194.29.178.14), 30 hops max, 60 byte packets
+ 1  host129.190-227-163.telecom.net.ar (190.227.163.129)  1.686 ms  1.755 ms  1.831 ms
+ 2  host89.181-15-0.telecom.net.ar (181.15.0.89)  20.574 ms  20.659 ms  20.735 ms
+ 3  host17.200-117-124.telecom.net.ar (200.117.124.17)  18.429 ms  18.557 ms  18.873 ms
+ 4  host166.190-225-252.telecom.net.ar (190.225.252.166)  22.571 ms  22.659 ms  23.386 ms
+ 5  xe-8-1-2.baires3.bai.seabone.net (195.22.220.106)  17.812 ms  18.873 ms  19.143 ms
+ 6  et-4-3-0.miami15.mia.seabone.net (195.22.199.177)  141.194 ms et-10-3-0.miami15.mia.seabone.net (89.221.41.177)  126.984 ms et-4-3-0.miami15.mia.seabone.net (195.22.199.177)  142.143 ms
+ 7  et-4-3-0.miami15.mia.seabone.net (195.22.199.177)  142.252 ms et-10-3-0.miami15.mia.seabone.net (89.221.41.177)  142.867 ms  142.956 ms
+ 8  * * *
+ 9  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  323.685 ms  324.202 ms  323.035 ms
+10   (4.69.161.6)  323.523 ms  295.506 ms  295.606 ms
+11  212.162.10.82 (212.162.10.82)  264.952 ms  269.501 ms  282.386 ms
+12  z-poznan-gw3.nask.10Gb.rtr.pionier.gov.pl (212.191.224.74)  267.986 ms  274.601 ms  274.680 ms
+13  welcome-at.pw.edu.pl (148.81.253.70)  281.129 ms  268.058 ms  277.245 ms
+14  194.29.132.162 (194.29.132.162)  278.624 ms  273.820 ms  278.605 ms
+15  coi-mini.rtr.pw.edu.pl (194.29.132.2)  287.967 ms  288.451 ms  280.373 ms
+16  planetlab4.mini.pw.edu.pl (194.29.178.14)  257.793 ms  257.520 ms  263.386 ms
+traceroute to planetlab4.mini.pw.edu.pl (194.29.178.14), 30 hops max, 60 byte packets
+ 1  host129.190-227-163.telecom.net.ar (190.227.163.129)  1.917 ms  1.975 ms  2.059 ms
+ 2  host89.181-15-0.telecom.net.ar (181.15.0.89)  11.730 ms  11.829 ms  12.287 ms
+ 3  host17.200-117-124.telecom.net.ar (200.117.124.17)  6.450 ms  6.888 ms  6.969 ms
+ 4  host166.190-225-252.telecom.net.ar (190.225.252.166)  9.348 ms  9.501 ms  10.939 ms
+ 5  xe-8-1-2.baires3.bai.seabone.net (195.22.220.106)  7.185 ms  7.440 ms  7.849 ms
+ 6  xe-0-3-3.losangeles2.loa.seabone.net (89.221.40.181)  250.421 ms xe-1-2-1.losangeles2.loa.seabone.net (89.221.40.183)  253.340 ms xe-0-3-2.losangeles2.loa.seabone.net (89.221.40.161)  294.442 ms
+ 7  lag-12.ear1.Miami2.Level3.net (4.68.71.161)  320.775 ms  320.849 ms  320.635 ms
+ 8  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  323.493 ms  323.708 ms  321.185 ms
+ 9  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  322.688 ms  321.263 ms  322.422 ms
+10  212.162.10.82 (212.162.10.82)  322.438 ms  328.302 ms  322.689 ms
+11  z-poznan-gw3.nask.10Gb.rtr.pionier.gov.pl (212.191.224.74)  318.942 ms  377.417 ms  318.255 ms
+12  welcome-at.pw.edu.pl (148.81.253.70)  314.686 ms  326.619 ms  328.140 ms
+13  194.29.132.162 (194.29.132.162)  321.100 ms  325.492 ms  319.425 ms
+14  coi-mini.rtr.pw.edu.pl (194.29.132.2)  334.988 ms  330.712 ms  334.201 ms
+15  planetlab4.mini.pw.edu.pl (194.29.178.14)  321.572 ms  311.156 ms  324.736 ms
+traceroute to planetlab4.mini.pw.edu.pl (194.29.178.14), 30 hops max, 60 byte packets
+ 1  host129.190-227-163.telecom.net.ar (190.227.163.129)  1.462 ms  1.520 ms  1.599 ms
+ 2  host89.181-15-0.telecom.net.ar (181.15.0.89)  64.551 ms  64.623 ms  64.973 ms
+ 3  host17.200-117-124.telecom.net.ar (200.117.124.17)  55.990 ms  60.489 ms  61.001 ms
+ 4  host166.190-225-252.telecom.net.ar (190.225.252.166)  59.358 ms  59.801 ms  59.881 ms
+ 5  xe-8-1-2.baires3.bai.seabone.net (195.22.220.106)  57.165 ms  57.568 ms  58.135 ms
+ 6  xe-11-0-1.losangeles2.loa.seabone.net (89.221.40.141)  277.038 ms  217.326 ms xe-1-0-3.losangeles2.loa.seabone.net (89.221.40.185)  216.588 ms
+ 7  lag-12.ear1.Miami2.Level3.net (4.68.71.161)  325.774 ms  326.112 ms  317.566 ms
+ 8  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  328.621 ms  327.213 ms  328.334 ms
+ 9  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  329.298 ms  328.429 ms  328.050 ms
+10  212.162.10.82 (212.162.10.82)  331.980 ms  321.362 ms  321.093 ms
+11  z-poznan-gw3.nask.10Gb.rtr.pionier.gov.pl (212.191.224.74)  312.549 ms  312.564 ms  362.035 ms
+12  welcome-at.pw.edu.pl (148.81.253.70)  372.614 ms  372.677 ms  372.459 ms
+13  194.29.132.162 (194.29.132.162)  352.892 ms  362.762 ms  351.863 ms
+14  coi-mini.rtr.pw.edu.pl (194.29.132.2)  361.264 ms  363.772 ms  361.700 ms
+15  planetlab4.mini.pw.edu.pl (194.29.178.14)  362.183 ms  351.663 ms  361.047 ms
+traceroute to planetlab4.mini.pw.edu.pl (194.29.178.14), 30 hops max, 60 byte packets
+ 1  host129.190-227-163.telecom.net.ar (190.227.163.129)  2.570 ms  2.623 ms  2.751 ms
+ 2  host89.181-15-0.telecom.net.ar (181.15.0.89)  6.619 ms  8.847 ms  9.791 ms
+ 3  host17.200-117-124.telecom.net.ar (200.117.124.17)  6.985 ms  7.529 ms  7.616 ms
+ 4  host166.190-225-252.telecom.net.ar (190.225.252.166)  6.382 ms  10.263 ms  10.775 ms
+ 5  xe-8-1-2.baires3.bai.seabone.net (195.22.220.106)  7.819 ms  8.108 ms  8.191 ms
+ 6  xe-1-0-3.losangeles2.loa.seabone.net (89.221.40.185)  201.146 ms xe-1-2-1.losangeles2.loa.seabone.net (89.221.40.183)  181.872 ms xe-0-0-0.losangeles2.loa.seabone.net (89.221.40.131)  208.757 ms
+ 7  lag-12.ear1.Miami2.Level3.net (4.68.71.161)  298.032 ms  290.349 ms  290.436 ms
+ 8  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  314.889 ms  311.531 ms  304.547 ms
+ 9  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  318.069 ms  310.185 ms  315.680 ms
+10  212.162.10.82 (212.162.10.82)  316.250 ms  317.105 ms  329.471 ms
+11  z-poznan-gw3.nask.10Gb.rtr.pionier.gov.pl (212.191.224.74)  321.324 ms  325.067 ms  329.903 ms
+12  welcome-at.pw.edu.pl (148.81.253.70)  340.043 ms  331.903 ms  332.618 ms
+13  194.29.132.162 (194.29.132.162)  572.304 ms  572.476 ms  572.362 ms
+14  coi-mini.rtr.pw.edu.pl (194.29.132.2)  335.201 ms  351.739 ms  335.943 ms
+15  planetlab4.mini.pw.edu.pl (194.29.178.14)  334.613 ms  327.743 ms  340.654 ms
+traceroute to planetlab4.mini.pw.edu.pl (194.29.178.14), 30 hops max, 60 byte packets
+ 1  host129.190-227-163.telecom.net.ar (190.227.163.129)  1.452 ms  1.509 ms  1.577 ms
+ 2  host89.181-15-0.telecom.net.ar (181.15.0.89)  6.779 ms  7.222 ms  8.785 ms
+ 3  host17.200-117-124.telecom.net.ar (200.117.124.17)  7.286 ms  7.642 ms  8.121 ms
+ 4  host166.190-225-252.telecom.net.ar (190.225.252.166)  10.660 ms  10.725 ms  11.021 ms
+ 5  xe-8-1-2.baires3.bai.seabone.net (195.22.220.106)  8.141 ms  9.504 ms  9.628 ms
+ 6  xe-1-2-1.losangeles2.loa.seabone.net (89.221.40.183)  196.606 ms xe-0-3-2.losangeles2.loa.seabone.net (89.221.40.161)  198.144 ms xe-0-3-3.losangeles2.loa.seabone.net (89.221.40.181)  200.695 ms
+ 7  lag-12.ear1.Miami2.Level3.net (4.68.71.161)  301.396 ms  298.316 ms  288.515 ms
+ 8  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  343.808 ms  314.479 ms  343.960 ms
+ 9  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  343.592 ms  342.982 ms  343.953 ms
+10  212.162.10.82 (212.162.10.82)  322.525 ms  317.002 ms  327.690 ms
+11  z-poznan-gw3.nask.10Gb.rtr.pionier.gov.pl (212.191.224.74)  319.311 ms  326.453 ms  335.356 ms
+12  welcome-at.pw.edu.pl (148.81.253.70)  328.263 ms  339.080 ms  325.655 ms
+13  194.29.132.162 (194.29.132.162)  333.613 ms  321.641 ms  330.766 ms
+14  coi-mini.rtr.pw.edu.pl (194.29.132.2)  343.189 ms  338.193 ms  332.778 ms
+15  planetlab4.mini.pw.edu.pl (194.29.178.14)  322.394 ms  325.103 ms  323.510 ms
+traceroute to planetlab4.mini.pw.edu.pl (194.29.178.14), 30 hops max, 60 byte packets
+ 1  host129.190-227-163.telecom.net.ar (190.227.163.129)  0.946 ms  0.997 ms  1.076 ms
+ 2  host89.181-15-0.telecom.net.ar (181.15.0.89)  8.622 ms  9.449 ms  9.534 ms
+ 3  host17.200-117-124.telecom.net.ar (200.117.124.17)  6.877 ms  6.988 ms  7.580 ms
+ 4  host166.190-225-252.telecom.net.ar (190.225.252.166)  9.541 ms  9.939 ms  10.471 ms
+ 5  xe-8-1-2.baires3.bai.seabone.net (195.22.220.106)  7.596 ms  7.670 ms  7.947 ms
+ 6  xe-1-0-3.losangeles2.loa.seabone.net (89.221.40.185)  207.340 ms xe-0-3-2.losangeles2.loa.seabone.net (89.221.40.161)  197.046 ms xe-0-0-0.losangeles2.loa.seabone.net (89.221.40.131)  197.709 ms
+ 7  lag-12.ear1.Miami2.Level3.net (4.68.71.161)  320.242 ms  320.114 ms  290.400 ms
+ 8  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  319.560 ms  311.296 ms  303.669 ms
+ 9  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  309.306 ms  315.660 ms  310.088 ms
+10  212.162.10.82 (212.162.10.82)  328.077 ms  328.841 ms  331.002 ms
+11  z-poznan-gw3.nask.10Gb.rtr.pionier.gov.pl (212.191.224.74)  326.592 ms  324.617 ms  322.090 ms
+12  welcome-at.pw.edu.pl (148.81.253.70)  315.380 ms  328.245 ms  328.921 ms
+13  194.29.132.162 (194.29.132.162)  310.148 ms  310.561 ms  316.282 ms
+14  coi-mini.rtr.pw.edu.pl (194.29.132.2)  332.952 ms  332.402 ms  335.566 ms
+15  planetlab4.mini.pw.edu.pl (194.29.178.14)  319.105 ms  315.041 ms  314.874 ms
+traceroute to planetlab4.mini.pw.edu.pl (194.29.178.14), 30 hops max, 60 byte packets
+ 1  host129.190-227-163.telecom.net.ar (190.227.163.129)  2.546 ms  2.639 ms  2.719 ms
+ 2  host89.181-15-0.telecom.net.ar (181.15.0.89)  8.489 ms  8.731 ms  9.182 ms
+ 3  host17.200-117-124.telecom.net.ar (200.117.124.17)  6.159 ms  6.709 ms  11.656 ms
+ 4  host166.190-225-252.telecom.net.ar (190.225.252.166)  10.154 ms  10.812 ms  10.898 ms
+ 5  xe-8-1-2.baires3.bai.seabone.net (195.22.220.106)  7.247 ms  7.330 ms  7.931 ms
+ 6  xe-0-3-3.losangeles2.loa.seabone.net (89.221.40.181)  210.110 ms xe-0-3-2.losangeles2.loa.seabone.net (89.221.40.161)  216.831 ms xe-0-0-0.losangeles2.loa.seabone.net (89.221.40.131)  211.417 ms
+ 7  lag-12.ear1.Miami2.Level3.net (4.68.71.161)  293.443 ms  295.569 ms  290.437 ms
+ 8  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  411.821 ms  412.283 ms  412.366 ms
+ 9  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  413.869 ms  413.709 ms  412.780 ms
+10  212.162.10.82 (212.162.10.82)  327.157 ms  319.534 ms  330.791 ms
+11  z-poznan-gw3.nask.10Gb.rtr.pionier.gov.pl (212.191.224.74)  323.808 ms  331.338 ms  312.085 ms
+12  welcome-at.pw.edu.pl (148.81.253.70)  317.442 ms  319.902 ms  330.164 ms
+13  194.29.132.162 (194.29.132.162)  341.774 ms  341.552 ms  341.634 ms
+14  coi-mini.rtr.pw.edu.pl (194.29.132.2)  329.667 ms  340.968 ms  332.808 ms
+15  planetlab4.mini.pw.edu.pl (194.29.178.14)  329.400 ms  319.102 ms  329.464 ms
+traceroute to planetlab4.mini.pw.edu.pl (194.29.178.14), 30 hops max, 60 byte packets
+ 1  host129.190-227-163.telecom.net.ar (190.227.163.129)  1.616 ms  1.677 ms  1.756 ms
+ 2  host89.181-15-0.telecom.net.ar (181.15.0.89)  11.985 ms  12.114 ms  12.225 ms
+ 3  host17.200-117-124.telecom.net.ar (200.117.124.17)  6.813 ms  7.255 ms  7.333 ms
+ 4  host166.190-225-252.telecom.net.ar (190.225.252.166)  9.074 ms  9.647 ms  11.703 ms
+ 5  xe-8-1-2.baires3.bai.seabone.net (195.22.220.106)  7.535 ms  7.823 ms  8.167 ms
+ 6  xe-0-3-3.losangeles2.loa.seabone.net (89.221.40.181)  203.984 ms xe-0-3-2.losangeles2.loa.seabone.net (89.221.40.161)  197.756 ms xe-1-0-3.losangeles2.loa.seabone.net (89.221.40.185)  192.915 ms
+ 7  lag-12.ear1.Miami2.Level3.net (4.68.71.161)  297.289 ms  291.870 ms  300.941 ms
+ 8  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  315.436 ms  318.867 ms  307.255 ms
+ 9  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  317.174 ms  316.408 ms  305.142 ms
+10  212.162.10.82 (212.162.10.82)  316.553 ms  320.312 ms  328.485 ms
+11  z-poznan-gw3.nask.10Gb.rtr.pionier.gov.pl (212.191.224.74)  312.043 ms  330.804 ms  330.864 ms
+12  welcome-at.pw.edu.pl (148.81.253.70)  336.218 ms  319.896 ms  326.212 ms
+13  194.29.132.162 (194.29.132.162)  315.473 ms  320.934 ms  321.999 ms
+14  coi-mini.rtr.pw.edu.pl (194.29.132.2)  336.648 ms  336.131 ms  335.490 ms
+15  planetlab4.mini.pw.edu.pl (194.29.178.14)  326.825 ms  310.924 ms  309.626 ms
+traceroute to planetlab4.mini.pw.edu.pl (194.29.178.14), 30 hops max, 60 byte packets
+ 1  host129.190-227-163.telecom.net.ar (190.227.163.129)  2.528 ms  2.603 ms  2.682 ms
+ 2  host89.181-15-0.telecom.net.ar (181.15.0.89)  24.260 ms  24.370 ms  25.144 ms
+ 3  host17.200-117-124.telecom.net.ar (200.117.124.17)  11.505 ms  11.578 ms  12.903 ms
+ 4  host166.190-225-252.telecom.net.ar (190.225.252.166)  12.985 ms  13.657 ms  13.772 ms
+ 5  xe-8-1-2.baires3.bai.seabone.net (195.22.220.106)  12.719 ms  13.000 ms  13.801 ms
+ 6  xe-1-0-3.losangeles2.loa.seabone.net (89.221.40.185)  207.203 ms  210.362 ms xe-11-0-1.losangeles2.loa.seabone.net (89.221.40.141)  214.366 ms
+ 7  lag-12.ear1.Miami2.Level3.net (4.68.71.161)  312.711 ms  313.213 ms  307.970 ms
+ 8  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  331.138 ms  317.906 ms  317.995 ms
+ 9  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  318.440 ms  332.188 ms  323.490 ms
+10  212.162.10.82 (212.162.10.82)  336.948 ms  316.725 ms  328.011 ms
+11  z-poznan-gw3.nask.10Gb.rtr.pionier.gov.pl (212.191.224.74)  334.601 ms  341.154 ms  340.177 ms
+12  welcome-at.pw.edu.pl (148.81.253.70)  340.550 ms  338.019 ms  338.984 ms
+13  194.29.132.162 (194.29.132.162)  329.176 ms  341.675 ms  333.623 ms
+14  coi-mini.rtr.pw.edu.pl (194.29.132.2)  345.117 ms  345.626 ms  342.760 ms
+15  planetlab4.mini.pw.edu.pl (194.29.178.14)  339.647 ms  339.528 ms  329.163 ms
+traceroute to planetlab4.mini.pw.edu.pl (194.29.178.14), 30 hops max, 60 byte packets
+ 1  host129.190-227-163.telecom.net.ar (190.227.163.129)  3.221 ms  3.271 ms  3.349 ms
+ 2  host89.181-15-0.telecom.net.ar (181.15.0.89)  9.198 ms  9.650 ms  9.737 ms
+ 3  host17.200-117-124.telecom.net.ar (200.117.124.17)  7.324 ms  7.897 ms  8.402 ms
+ 4  host166.190-225-252.telecom.net.ar (190.225.252.166)  10.757 ms  10.841 ms  11.243 ms
+ 5  xe-8-1-2.baires3.bai.seabone.net (195.22.220.106)  7.040 ms  8.342 ms  8.417 ms
+ 6  xe-1-2-1.losangeles2.loa.seabone.net (89.221.40.183)  191.236 ms xe-0-3-3.losangeles2.loa.seabone.net (89.221.40.181)  195.783 ms xe-0-0-0.losangeles2.loa.seabone.net (89.221.40.131)  203.570 ms
+ 7  lag-12.ear1.Miami2.Level3.net (4.68.71.161)  291.707 ms  300.353 ms  292.484 ms
+ 8  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  322.192 ms  323.212 ms  322.250 ms
+ 9  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  308.266 ms  314.396 ms  323.762 ms
+10  212.162.10.82 (212.162.10.82)  333.359 ms  331.729 ms  331.810 ms
+11  z-poznan-gw3.nask.10Gb.rtr.pionier.gov.pl (212.191.224.74)  332.526 ms  320.315 ms  336.038 ms
+12  welcome-at.pw.edu.pl (148.81.253.70)  332.093 ms  335.194 ms  320.619 ms
+13  194.29.132.162 (194.29.132.162)  332.355 ms  333.695 ms  330.599 ms
+14  coi-mini.rtr.pw.edu.pl (194.29.132.2)  333.549 ms  344.789 ms  344.871 ms
+15  planetlab4.mini.pw.edu.pl (194.29.178.14)  332.335 ms  330.613 ms  335.091 ms
+traceroute to planetlab4.mini.pw.edu.pl (194.29.178.14), 30 hops max, 60 byte packets
+ 1  host129.190-227-163.telecom.net.ar (190.227.163.129)  1.310 ms  1.366 ms  1.445 ms
+ 2  host89.181-15-0.telecom.net.ar (181.15.0.89)  22.821 ms  23.269 ms  23.692 ms
+ 3  host17.200-117-124.telecom.net.ar (200.117.124.17)  9.459 ms  9.541 ms  10.043 ms
+ 4  host166.190-225-252.telecom.net.ar (190.225.252.166)  8.050 ms  8.540 ms  8.703 ms
+ 5  xe-8-1-2.baires3.bai.seabone.net (195.22.220.106)  6.507 ms  6.587 ms  6.661 ms
+ 6  xe-0-3-3.losangeles2.loa.seabone.net (89.221.40.181)  205.220 ms xe-11-0-1.losangeles2.loa.seabone.net (89.221.40.141)  198.928 ms  194.653 ms
+ 7  lag-12.ear1.Miami2.Level3.net (4.68.71.161)  364.435 ms  364.801 ms  364.913 ms
+ 8  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  407.190 ms  407.070 ms  406.947 ms
+ 9  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  407.469 ms  407.559 ms  407.869 ms
+10  212.162.10.82 (212.162.10.82)  366.243 ms  371.196 ms  356.537 ms
+11  z-poznan-gw3.nask.10Gb.rtr.pionier.gov.pl (212.191.224.74)  355.143 ms  313.373 ms  362.195 ms
+12  welcome-at.pw.edu.pl (148.81.253.70)  362.058 ms  349.100 ms  349.155 ms
+13  194.29.132.162 (194.29.132.162)  315.541 ms  326.410 ms  326.485 ms
+14  coi-mini.rtr.pw.edu.pl (194.29.132.2)  350.384 ms  337.129 ms  327.738 ms
+15  planetlab4.mini.pw.edu.pl (194.29.178.14)  326.939 ms  335.731 ms  336.595 ms
+traceroute to planetlab4.mini.pw.edu.pl (194.29.178.14), 30 hops max, 60 byte packets
+ 1  host129.190-227-163.telecom.net.ar (190.227.163.129)  1.029 ms  1.117 ms  1.197 ms
+ 2  host89.181-15-0.telecom.net.ar (181.15.0.89)  35.733 ms  36.182 ms  36.267 ms
+ 3  host17.200-117-124.telecom.net.ar (200.117.124.17)  38.268 ms  38.752 ms  39.270 ms
+ 4  host166.190-225-252.telecom.net.ar (190.225.252.166)  36.990 ms  37.435 ms  38.064 ms
+ 5  xe-8-1-2.baires3.bai.seabone.net (195.22.220.106)  36.213 ms  36.492 ms  36.569 ms
+ 6  xe-0-0-0.losangeles2.loa.seabone.net (89.221.40.131)  241.338 ms xe-0-3-2.losangeles2.loa.seabone.net (89.221.40.161)  221.756 ms xe-1-2-1.losangeles2.loa.seabone.net (89.221.40.183)  186.292 ms
+ 7  lag-12.ear1.Miami2.Level3.net (4.68.71.161)  301.691 ms  302.131 ms  298.846 ms
+ 8  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  309.206 ms  318.304 ms  318.764 ms
+ 9  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  306.589 ms  321.725 ms  312.749 ms
+10  212.162.10.82 (212.162.10.82)  322.158 ms  325.882 ms  330.670 ms
+11  z-poznan-gw3.nask.10Gb.rtr.pionier.gov.pl (212.191.224.74)  324.556 ms  325.097 ms  333.113 ms
+12  welcome-at.pw.edu.pl (148.81.253.70)  314.452 ms  358.777 ms  324.382 ms
+13  194.29.132.162 (194.29.132.162)  344.322 ms  334.323 ms  341.372 ms
+14  coi-mini.rtr.pw.edu.pl (194.29.132.2)  350.218 ms  338.003 ms  351.289 ms
+15  planetlab4.mini.pw.edu.pl (194.29.178.14)  334.063 ms  333.942 ms  329.931 ms
+traceroute to planetlab4.mini.pw.edu.pl (194.29.178.14), 30 hops max, 60 byte packets
+ 1  host129.190-227-163.telecom.net.ar (190.227.163.129)  3.269 ms  3.301 ms  3.384 ms
+ 2  host89.181-15-0.telecom.net.ar (181.15.0.89)  7.537 ms  8.223 ms  8.782 ms
+ 3  host17.200-117-124.telecom.net.ar (200.117.124.17)  9.558 ms  10.209 ms  10.289 ms
+ 4  host166.190-225-252.telecom.net.ar (190.225.252.166)  10.888 ms  11.436 ms  11.513 ms
+ 5  xe-8-1-2.baires3.bai.seabone.net (195.22.220.106)  7.043 ms  7.623 ms  7.708 ms
+ 6  xe-0-0-0.losangeles2.loa.seabone.net (89.221.40.131)  207.266 ms  198.156 ms xe-1-2-1.losangeles2.loa.seabone.net (89.221.40.183)  182.594 ms
+ 7  lag-12.ear1.Miami2.Level3.net (4.68.71.161)  287.607 ms  299.137 ms  302.148 ms
+ 8  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  311.322 ms  305.650 ms  317.236 ms
+ 9  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  304.644 ms  309.428 ms  309.788 ms
+10  212.162.10.82 (212.162.10.82)  317.799 ms  340.187 ms  335.348 ms
+11  z-poznan-gw3.nask.10Gb.rtr.pionier.gov.pl (212.191.224.74)  333.737 ms  332.278 ms  313.250 ms
+12  welcome-at.pw.edu.pl (148.81.253.70)  323.444 ms  325.770 ms  320.690 ms
+13  194.29.132.162 (194.29.132.162)  316.432 ms  316.999 ms  325.202 ms
+14  coi-mini.rtr.pw.edu.pl (194.29.132.2)  323.874 ms  326.285 ms  327.313 ms
+15  planetlab4.mini.pw.edu.pl (194.29.178.14)  326.698 ms  315.051 ms  314.240 ms
+traceroute to planetlab4.mini.pw.edu.pl (194.29.178.14), 30 hops max, 60 byte packets
+ 1  host129.190-227-163.telecom.net.ar (190.227.163.129)  1.887 ms  1.959 ms  2.036 ms
+ 2  host89.181-15-0.telecom.net.ar (181.15.0.89)  8.186 ms  8.833 ms  8.913 ms
+ 3  host17.200-117-124.telecom.net.ar (200.117.124.17)  6.988 ms  7.431 ms  7.516 ms
+ 4  host166.190-225-252.telecom.net.ar (190.225.252.166)  9.301 ms  9.384 ms  9.749 ms
+ 5  xe-8-1-2.baires3.bai.seabone.net (195.22.220.106)  13.340 ms  13.834 ms  13.851 ms
+ 6  xe-11-0-1.losangeles2.loa.seabone.net (89.221.40.141)  191.912 ms xe-1-2-1.losangeles2.loa.seabone.net (89.221.40.183)  193.152 ms  182.116 ms
+ 7  lag-12.ear1.Miami2.Level3.net (4.68.71.161)  287.782 ms  299.274 ms  294.037 ms
+ 8  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  314.792 ms  309.487 ms  318.226 ms
+ 9  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  309.887 ms  318.039 ms  315.459 ms
+10  212.162.10.82 (212.162.10.82)  371.951 ms  364.664 ms  364.727 ms
+11  z-poznan-gw3.nask.10Gb.rtr.pionier.gov.pl (212.191.224.74)  319.409 ms  331.351 ms  318.461 ms
+12  welcome-at.pw.edu.pl (148.81.253.70)  321.852 ms  319.227 ms  329.989 ms
+13  194.29.132.162 (194.29.132.162)  317.872 ms  311.116 ms  324.950 ms
+14  coi-mini.rtr.pw.edu.pl (194.29.132.2)  323.224 ms  335.519 ms  321.771 ms
+15  planetlab4.mini.pw.edu.pl (194.29.178.14)  313.340 ms  316.798 ms  311.443 ms
+traceroute to planetlab4.mini.pw.edu.pl (194.29.178.14), 30 hops max, 60 byte packets
+ 1  host129.190-227-163.telecom.net.ar (190.227.163.129)  1.752 ms  1.807 ms  1.886 ms
+ 2  host89.181-15-0.telecom.net.ar (181.15.0.89)  7.961 ms  8.411 ms  8.493 ms
+ 3  host17.200-117-124.telecom.net.ar (200.117.124.17)  9.689 ms  9.735 ms  10.450 ms
+ 4  host166.190-225-252.telecom.net.ar (190.225.252.166)  10.526 ms  10.799 ms  11.124 ms
+ 5  xe-8-1-2.baires3.bai.seabone.net (195.22.220.106)  6.505 ms  7.075 ms  7.151 ms
+ 6  xe-1-0-3.losangeles2.loa.seabone.net (89.221.40.185)  200.444 ms xe-1-2-1.losangeles2.loa.seabone.net (89.221.40.183)  182.358 ms  193.202 ms
+ 7  lag-12.ear1.Miami2.Level3.net (4.68.71.161)  296.504 ms  293.734 ms  299.606 ms
+ 8  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  435.606 ms  435.000 ms  434.174 ms
+ 9  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  434.813 ms  417.799 ms  418.401 ms
+10  212.162.10.82 (212.162.10.82)  321.171 ms  317.852 ms  328.970 ms
+11  z-poznan-gw3.nask.10Gb.rtr.pionier.gov.pl (212.191.224.74)  325.102 ms  323.627 ms  326.617 ms
+12  welcome-at.pw.edu.pl (148.81.253.70)  313.603 ms  317.706 ms  318.073 ms
+13  194.29.132.162 (194.29.132.162)  321.501 ms  317.343 ms  317.216 ms
+14  coi-mini.rtr.pw.edu.pl (194.29.132.2)  331.041 ms  320.712 ms  321.282 ms
+15  planetlab4.mini.pw.edu.pl (194.29.178.14)  310.655 ms  311.314 ms  313.878 ms
+traceroute to planetlab4.mini.pw.edu.pl (194.29.178.14), 30 hops max, 60 byte packets
+ 1  host129.190-227-163.telecom.net.ar (190.227.163.129)  2.021 ms  2.045 ms  2.131 ms
+ 2  host89.181-15-0.telecom.net.ar (181.15.0.89)  8.487 ms  8.574 ms  8.648 ms
+ 3  host17.200-117-124.telecom.net.ar (200.117.124.17)  6.874 ms  6.988 ms  7.251 ms
+ 4  host166.190-225-252.telecom.net.ar (190.225.252.166)  9.481 ms  9.935 ms  10.020 ms
+ 5  xe-8-1-2.baires3.bai.seabone.net (195.22.220.106)  7.598 ms  8.782 ms  8.866 ms
+ 6  xe-1-2-1.losangeles2.loa.seabone.net (89.221.40.183)  191.480 ms xe-0-0-0.losangeles2.loa.seabone.net (89.221.40.131)  197.870 ms xe-0-3-2.losangeles2.loa.seabone.net (89.221.40.161)  203.292 ms
+ 7  lag-12.ear1.Miami2.Level3.net (4.68.71.161)  301.956 ms  287.711 ms  293.279 ms
+ 8  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  303.038 ms  314.558 ms  317.393 ms
+ 9  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  316.278 ms  316.746 ms  303.860 ms
+10  212.162.10.82 (212.162.10.82)  325.028 ms  321.350 ms  321.808 ms
+11  z-poznan-gw3.nask.10Gb.rtr.pionier.gov.pl (212.191.224.74)  324.429 ms  327.387 ms  312.339 ms
+12  welcome-at.pw.edu.pl (148.81.253.70)  320.375 ms  317.660 ms  320.843 ms
+13  194.29.132.162 (194.29.132.162)  311.768 ms  322.317 ms  323.465 ms
+14  coi-mini.rtr.pw.edu.pl (194.29.132.2)  339.099 ms  326.605 ms  323.514 ms
+15  planetlab4.mini.pw.edu.pl (194.29.178.14)  322.854 ms  314.066 ms  318.003 ms
+traceroute to planetlab4.mini.pw.edu.pl (194.29.178.14), 30 hops max, 60 byte packets
+ 1  host129.190-227-163.telecom.net.ar (190.227.163.129)  2.058 ms  2.134 ms  2.216 ms
+ 2  host89.181-15-0.telecom.net.ar (181.15.0.89)  20.353 ms  20.440 ms  20.909 ms
+ 3  host17.200-117-124.telecom.net.ar (200.117.124.17)  17.266 ms  29.509 ms  29.593 ms
+ 4  host166.190-225-252.telecom.net.ar (190.225.252.166)  17.765 ms  17.879 ms  18.356 ms
+ 5  xe-8-1-2.baires3.bai.seabone.net (195.22.220.106)  18.766 ms  18.852 ms  19.449 ms
+ 6  xe-1-2-1.losangeles2.loa.seabone.net (89.221.40.183)  201.516 ms  185.937 ms xe-0-0-0.losangeles2.loa.seabone.net (89.221.40.131)  207.564 ms
+ 7  lag-12.ear1.Miami2.Level3.net (4.68.71.161)  349.244 ms  323.312 ms  331.308 ms
+ 8  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  369.995 ms  361.387 ms  358.340 ms
+ 9  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  357.870 ms  358.435 ms  357.732 ms
+10  212.162.10.82 (212.162.10.82)  370.700 ms  371.315 ms  352.382 ms
+11  z-poznan-gw3.nask.10Gb.rtr.pionier.gov.pl (212.191.224.74)  352.051 ms  377.036 ms  325.449 ms
+12  welcome-at.pw.edu.pl (148.81.253.70)  335.044 ms  325.591 ms  336.667 ms
+13  194.29.132.162 (194.29.132.162)  334.841 ms  324.579 ms  334.210 ms
+14  coi-mini.rtr.pw.edu.pl (194.29.132.2)  336.093 ms  362.170 ms  335.613 ms
+15  planetlab4.mini.pw.edu.pl (194.29.178.14)  323.567 ms  333.589 ms  334.179 ms
+traceroute to planetlab4.mini.pw.edu.pl (194.29.178.14), 30 hops max, 60 byte packets
+ 1  host129.190-227-163.telecom.net.ar (190.227.163.129)  3.193 ms  3.293 ms  3.369 ms
+ 2  host89.181-15-0.telecom.net.ar (181.15.0.89)  19.248 ms  20.885 ms  21.541 ms
+ 3  host17.200-117-124.telecom.net.ar (200.117.124.17)  22.603 ms  22.728 ms  23.239 ms
+ 4  host166.190-225-252.telecom.net.ar (190.225.252.166)  19.612 ms  19.696 ms  20.177 ms
+ 5  xe-8-1-2.baires3.bai.seabone.net (195.22.220.106)  20.824 ms  21.170 ms  21.701 ms
+ 6  xe-11-0-1.losangeles2.loa.seabone.net (89.221.40.141)  216.459 ms xe-0-3-2.losangeles2.loa.seabone.net (89.221.40.161)  244.845 ms  228.632 ms
+ 7  lag-12.ear1.Miami2.Level3.net (4.68.71.161)  287.989 ms  298.411 ms  298.495 ms
+ 8  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  308.775 ms  308.149 ms  312.482 ms
+ 9  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  318.098 ms  313.011 ms  308.770 ms
+10  212.162.10.82 (212.162.10.82)  322.592 ms  320.063 ms  331.298 ms
+11  z-poznan-gw3.nask.10Gb.rtr.pionier.gov.pl (212.191.224.74)  317.871 ms  351.949 ms  348.290 ms
+12  welcome-at.pw.edu.pl (148.81.253.70)  346.807 ms  346.172 ms *
+13  194.29.132.162 (194.29.132.162)  336.044 ms  344.485 ms  346.804 ms
+14  coi-mini.rtr.pw.edu.pl (194.29.132.2)  347.290 ms  346.340 ms  355.601 ms
+15  planetlab4.mini.pw.edu.pl (194.29.178.14)  344.521 ms  344.993 ms  345.653 ms
+traceroute to planetlab4.mini.pw.edu.pl (194.29.178.14), 30 hops max, 60 byte packets
+ 1  host129.190-227-163.telecom.net.ar (190.227.163.129)  2.059 ms  2.107 ms  2.171 ms
+ 2  host89.181-15-0.telecom.net.ar (181.15.0.89)  45.347 ms  46.181 ms  46.274 ms
+ 3  host17.200-117-124.telecom.net.ar (200.117.124.17)  17.193 ms  17.738 ms  17.824 ms
+ 4  host166.190-225-252.telecom.net.ar (190.225.252.166)  18.707 ms  18.791 ms  19.269 ms
+ 5  xe-8-1-2.baires3.bai.seabone.net (195.22.220.106)  18.223 ms  18.311 ms  20.036 ms
+ 6  xe-0-0-0.losangeles2.loa.seabone.net (89.221.40.131)  227.707 ms xe-0-3-2.losangeles2.loa.seabone.net (89.221.40.161)  207.716 ms xe-1-0-3.losangeles2.loa.seabone.net (89.221.40.185)  199.478 ms
+ 7  lag-12.ear1.Miami2.Level3.net (4.68.71.161)  305.610 ms  306.013 ms  306.612 ms
+ 8  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  310.447 ms  328.676 ms  311.837 ms
+ 9  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  329.270 ms  328.294 ms  328.379 ms
+10  212.162.10.82 (212.162.10.82)  329.429 ms  344.387 ms  324.610 ms
+11  z-poznan-gw3.nask.10Gb.rtr.pionier.gov.pl (212.191.224.74)  312.339 ms  313.286 ms  349.855 ms
+12  welcome-at.pw.edu.pl (148.81.253.70)  314.829 ms  327.049 ms  323.382 ms
+13  194.29.132.162 (194.29.132.162)  323.461 ms  324.140 ms  312.352 ms
+14  coi-mini.rtr.pw.edu.pl (194.29.132.2)  323.195 ms *  326.274 ms
+15  planetlab4.mini.pw.edu.pl (194.29.178.14)  323.937 ms  326.748 ms  311.449 ms
+traceroute to planetlab4.mini.pw.edu.pl (194.29.178.14), 30 hops max, 60 byte packets
+ 1  host129.190-227-163.telecom.net.ar (190.227.163.129)  1.542 ms  1.597 ms  1.674 ms
+ 2  host89.181-15-0.telecom.net.ar (181.15.0.89)  7.383 ms  7.844 ms  8.373 ms
+ 3  host17.200-117-124.telecom.net.ar (200.117.124.17)  6.519 ms  6.719 ms  7.013 ms
+ 4  host166.190-225-252.telecom.net.ar (190.225.252.166)  12.573 ms  12.652 ms  13.108 ms
+ 5  xe-8-1-2.baires3.bai.seabone.net (195.22.220.106)  13.242 ms  13.382 ms  13.673 ms
+ 6  xe-1-0-3.losangeles2.loa.seabone.net (89.221.40.185)  194.503 ms xe-11-0-1.losangeles2.loa.seabone.net (89.221.40.141)  200.216 ms xe-0-3-3.losangeles2.loa.seabone.net (89.221.40.181)  200.489 ms
+ 7  lag-12.ear1.Miami2.Level3.net (4.68.71.161)  310.062 ms  310.135 ms  293.929 ms
+ 8  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  339.979 ms  339.014 ms  337.999 ms
+ 9  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  332.257 ms  340.015 ms  338.816 ms
+10  212.162.10.82 (212.162.10.82)  340.549 ms  344.259 ms  344.889 ms
+11  z-poznan-gw3.nask.10Gb.rtr.pionier.gov.pl (212.191.224.74)  340.690 ms  344.096 ms  324.936 ms
+12  welcome-at.pw.edu.pl (148.81.253.70)  331.807 ms  331.823 ms  314.378 ms
+13  194.29.132.162 (194.29.132.162)  482.861 ms  485.073 ms  517.864 ms
+14  coi-mini.rtr.pw.edu.pl (194.29.132.2)  520.963 ms  521.475 ms  523.036 ms
+15  planetlab4.mini.pw.edu.pl (194.29.178.14)  500.515 ms  484.784 ms  516.211 ms
+traceroute to planetlab4.mini.pw.edu.pl (194.29.178.14), 30 hops max, 60 byte packets
+ 1  host129.190-227-163.telecom.net.ar (190.227.163.129)  2.548 ms  2.614 ms  2.692 ms
+ 2  host89.181-15-0.telecom.net.ar (181.15.0.89)  20.643 ms  25.016 ms  25.101 ms
+ 3  host17.200-117-124.telecom.net.ar (200.117.124.17)  19.033 ms  19.483 ms  19.568 ms
+ 4  host166.190-225-252.telecom.net.ar (190.225.252.166)  42.324 ms  42.407 ms  42.975 ms
+ 5  xe-8-1-2.baires3.bai.seabone.net (195.22.220.106)  20.066 ms  25.307 ms  33.778 ms
+ 6  xe-1-0-3.losangeles2.loa.seabone.net (89.221.40.185)  220.588 ms  200.714 ms  193.464 ms
+ 7  lag-12.ear1.Miami2.Level3.net (4.68.71.161)  289.895 ms  289.111 ms  305.877 ms
+ 8  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  389.723 ms  391.172 ms  390.700 ms
+ 9  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  390.082 ms  389.960 ms  390.535 ms
+10  212.162.10.82 (212.162.10.82)  328.385 ms  328.466 ms  334.451 ms
+11  z-poznan-gw3.nask.10Gb.rtr.pionier.gov.pl (212.191.224.74)  323.927 ms  322.043 ms  369.425 ms
+12  welcome-at.pw.edu.pl (148.81.253.70)  368.634 ms  370.100 ms  369.544 ms
+13  194.29.132.162 (194.29.132.162)  366.455 ms  367.824 ms  365.303 ms
+14  coi-mini.rtr.pw.edu.pl (194.29.132.2)  368.676 ms  379.101 ms  369.529 ms
+15  planetlab4.mini.pw.edu.pl (194.29.178.14)  365.763 ms  366.430 ms  364.292 ms
+traceroute to planetlab4.mini.pw.edu.pl (194.29.178.14), 30 hops max, 60 byte packets
+ 1  host129.190-227-163.telecom.net.ar (190.227.163.129)  1.604 ms  1.658 ms  1.734 ms
+ 2  host89.181-15-0.telecom.net.ar (181.15.0.89)  9.437 ms  10.814 ms  10.903 ms
+ 3  host17.200-117-124.telecom.net.ar (200.117.124.17)  9.470 ms  9.543 ms  10.063 ms
+ 4  host166.190-225-252.telecom.net.ar (190.225.252.166)  13.405 ms  13.936 ms  14.025 ms
+ 5  xe-8-1-2.baires3.bai.seabone.net (195.22.220.106)  11.234 ms  11.366 ms  11.446 ms
+ 6  xe-1-2-1.losangeles2.loa.seabone.net (89.221.40.183)  191.482 ms xe-0-3-2.losangeles2.loa.seabone.net (89.221.40.161)  205.189 ms  229.526 ms
+ 7  lag-12.ear1.Miami2.Level3.net (4.68.71.161)  312.621 ms  313.136 ms  301.534 ms
+ 8  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  339.745 ms  338.905 ms  339.082 ms
+ 9  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  339.777 ms  338.944 ms  331.267 ms
+10  212.162.10.82 (212.162.10.82)  348.796 ms  352.016 ms  358.737 ms
+11  z-poznan-gw3.nask.10Gb.rtr.pionier.gov.pl (212.191.224.74)  346.112 ms  323.114 ms  332.420 ms
+12  welcome-at.pw.edu.pl (148.81.253.70)  323.303 ms  320.442 ms  319.448 ms
+13  194.29.132.162 (194.29.132.162)  319.321 ms  318.760 ms  318.930 ms
+14  coi-mini.rtr.pw.edu.pl (194.29.132.2)  333.761 ms  333.086 ms  332.967 ms
+15  planetlab4.mini.pw.edu.pl (194.29.178.14)  320.166 ms  320.044 ms  331.544 ms
+traceroute to planetlab4.mini.pw.edu.pl (194.29.178.14), 30 hops max, 60 byte packets
+ 1  host129.190-227-163.telecom.net.ar (190.227.163.129)  3.256 ms  3.326 ms  3.402 ms
+ 2  host89.181-15-0.telecom.net.ar (181.15.0.89)  6.590 ms  7.083 ms  7.558 ms
+ 3  host17.200-117-124.telecom.net.ar (200.117.124.17)  8.955 ms  9.521 ms  9.657 ms
+ 4  host166.190-225-252.telecom.net.ar (190.225.252.166)  10.765 ms  10.847 ms  11.498 ms
+ 5  xe-8-1-2.baires3.bai.seabone.net (195.22.220.106)  7.478 ms  7.721 ms  7.805 ms
+ 6  xe-11-0-1.losangeles2.loa.seabone.net (89.221.40.141)  191.450 ms xe-1-2-1.losangeles2.loa.seabone.net (89.221.40.183)  188.119 ms *
+ 7  lag-12.ear1.Miami2.Level3.net (4.68.71.161)  302.631 ms  303.095 ms  296.049 ms
+ 8  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  405.681 ms  405.980 ms  406.363 ms
+ 9  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  406.046 ms  406.935 ms  406.596 ms
+10  212.162.10.82 (212.162.10.82)  328.447 ms  321.399 ms  325.805 ms
+11  z-poznan-gw3.nask.10Gb.rtr.pionier.gov.pl (212.191.224.74)  313.996 ms  334.538 ms  328.393 ms
+12  welcome-at.pw.edu.pl (148.81.253.70)  319.535 ms  332.200 ms  320.120 ms
+13  194.29.132.162 (194.29.132.162)  329.715 ms  322.371 ms  324.490 ms
+14  coi-mini.rtr.pw.edu.pl (194.29.132.2)  333.420 ms  336.507 ms  334.326 ms
+15  planetlab4.mini.pw.edu.pl (194.29.178.14)  327.657 ms  322.359 ms  322.785 ms
+traceroute to planetlab4.mini.pw.edu.pl (194.29.178.14), 30 hops max, 60 byte packets
+ 1  host129.190-227-163.telecom.net.ar (190.227.163.129)  1.564 ms  1.619 ms  1.697 ms
+ 2  host89.181-15-0.telecom.net.ar (181.15.0.89)  5.813 ms  6.256 ms  6.339 ms
+ 3  host17.200-117-124.telecom.net.ar (200.117.124.17)  8.434 ms  8.878 ms  8.959 ms
+ 4  host166.190-225-252.telecom.net.ar (190.225.252.166)  10.564 ms  10.643 ms  11.518 ms
+ 5  xe-8-1-2.baires3.bai.seabone.net (195.22.220.106)  38.169 ms  43.105 ms  43.186 ms
+ 6  xe-0-0-0.losangeles2.loa.seabone.net (89.221.40.131)  201.030 ms xe-0-3-3.losangeles2.loa.seabone.net (89.221.40.181)  189.679 ms  206.715 ms
+ 7  lag-12.ear1.Miami2.Level3.net (4.68.71.161)  304.946 ms  305.747 ms  307.439 ms
+ 8  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  314.869 ms  315.402 ms  317.685 ms
+ 9  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  315.469 ms  314.940 ms  305.625 ms
+10  212.162.10.82 (212.162.10.82)  329.029 ms  327.928 ms  327.209 ms
+11  z-poznan-gw3.nask.10Gb.rtr.pionier.gov.pl (212.191.224.74)  322.036 ms  321.360 ms  320.663 ms
+12  welcome-at.pw.edu.pl (148.81.253.70)  314.519 ms  325.521 ms  317.578 ms
+13  194.29.132.162 (194.29.132.162)  310.959 ms  322.857 ms  323.497 ms
+14  coi-mini.rtr.pw.edu.pl (194.29.132.2)  333.485 ms  326.908 ms  333.339 ms
+15  planetlab4.mini.pw.edu.pl (194.29.178.14)  322.658 ms  319.806 ms  325.817 ms
+traceroute to planetlab4.mini.pw.edu.pl (194.29.178.14), 30 hops max, 60 byte packets
+ 1  host129.190-227-163.telecom.net.ar (190.227.163.129)  3.322 ms  3.411 ms  3.476 ms
+ 2  host89.181-15-0.telecom.net.ar (181.15.0.89)  8.060 ms  8.505 ms  8.919 ms
+ 3  host17.200-117-124.telecom.net.ar (200.117.124.17)  10.459 ms  10.540 ms  10.806 ms
+ 4  host166.190-225-252.telecom.net.ar (190.225.252.166)  9.253 ms  9.763 ms  9.884 ms
+ 5  xe-8-1-2.baires3.bai.seabone.net (195.22.220.106)  54.463 ms  58.879 ms  59.348 ms
+ 6  xe-11-0-1.losangeles2.loa.seabone.net (89.221.40.141)  198.418 ms xe-0-0-0.losangeles2.loa.seabone.net (89.221.40.131)  203.465 ms xe-0-3-3.losangeles2.loa.seabone.net (89.221.40.181)  201.371 ms
+ 7  lag-12.ear1.Miami2.Level3.net (4.68.71.161)  292.597 ms  293.772 ms  294.236 ms
+ 8  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  310.875 ms  311.455 ms  312.199 ms
+ 9  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  314.695 ms  312.238 ms  311.414 ms
+10  212.162.10.82 (212.162.10.82)  319.376 ms  314.753 ms  323.110 ms
+11  z-poznan-gw3.nask.10Gb.rtr.pionier.gov.pl (212.191.224.74)  318.329 ms  326.256 ms  328.120 ms
+12  welcome-at.pw.edu.pl (148.81.253.70)  316.369 ms  322.833 ms  319.248 ms
+13  194.29.132.162 (194.29.132.162)  321.564 ms  324.122 ms  319.061 ms
+14  coi-mini.rtr.pw.edu.pl (194.29.132.2)  323.212 ms  325.435 ms  336.500 ms
+15  planetlab4.mini.pw.edu.pl (194.29.178.14)  324.867 ms  325.527 ms  315.609 ms
+traceroute to planetlab4.mini.pw.edu.pl (194.29.178.14), 30 hops max, 60 byte packets
+ 1  host129.190-227-163.telecom.net.ar (190.227.163.129)  1.744 ms  1.802 ms  1.878 ms
+ 2  host89.181-15-0.telecom.net.ar (181.15.0.89)  8.129 ms  8.572 ms  8.699 ms
+ 3  host17.200-117-124.telecom.net.ar (200.117.124.17)  6.570 ms  7.017 ms  7.095 ms
+ 4  host166.190-225-252.telecom.net.ar (190.225.252.166)  9.977 ms  10.060 ms  10.554 ms
+ 5  xe-8-1-2.baires3.bai.seabone.net (195.22.220.106)  52.936 ms  53.394 ms  53.479 ms
+ 6  xe-0-0-0.losangeles2.loa.seabone.net (89.221.40.131)  207.246 ms xe-1-0-3.losangeles2.loa.seabone.net (89.221.40.185)  197.274 ms xe-0-0-0.losangeles2.loa.seabone.net (89.221.40.131)  209.217 ms
+ 7  lag-12.ear1.Miami2.Level3.net (4.68.71.161)  295.379 ms  299.565 ms  287.886 ms
+ 8  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  461.079 ms  461.571 ms  461.240 ms
+ 9  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  461.125 ms  454.636 ms  454.988 ms
+10  212.162.10.82 (212.162.10.82)  314.825 ms  314.724 ms  328.351 ms
+11  z-poznan-gw3.nask.10Gb.rtr.pionier.gov.pl (212.191.224.74)  324.080 ms  318.180 ms  340.182 ms
+12  welcome-at.pw.edu.pl (148.81.253.70)  322.221 ms  320.863 ms  324.758 ms
+13  194.29.132.162 (194.29.132.162)  324.633 ms  319.692 ms  310.909 ms
+14  coi-mini.rtr.pw.edu.pl (194.29.132.2)  331.619 ms  326.023 ms  325.228 ms
+15  planetlab4.mini.pw.edu.pl (194.29.178.14)  317.895 ms  324.400 ms  311.431 ms
+traceroute to planetlab4.mini.pw.edu.pl (194.29.178.14), 30 hops max, 60 byte packets
+ 1  host129.190-227-163.telecom.net.ar (190.227.163.129)  1.809 ms  1.869 ms  1.939 ms
+ 2  host89.181-15-0.telecom.net.ar (181.15.0.89)  7.086 ms  7.700 ms  7.786 ms
+ 3  host17.200-117-124.telecom.net.ar (200.117.124.17)  6.127 ms  6.543 ms  11.259 ms
+ 4  host166.190-225-252.telecom.net.ar (190.225.252.166)  8.261 ms  8.379 ms  9.011 ms
+ 5  xe-8-1-2.baires3.bai.seabone.net (195.22.220.106)  59.199 ms  69.277 ms  69.706 ms
+ 6  xe-1-0-3.losangeles2.loa.seabone.net (89.221.40.185)  206.746 ms xe-1-2-1.losangeles2.loa.seabone.net (89.221.40.183)  193.862 ms xe-0-3-2.losangeles2.loa.seabone.net (89.221.40.161)  208.445 ms
+ 7  lag-12.ear1.Miami2.Level3.net (4.68.71.161)  286.968 ms  301.087 ms  295.860 ms
+ 8  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  314.064 ms  305.698 ms  306.167 ms
+ 9  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  314.797 ms  316.131 ms  312.832 ms
+10  212.162.10.82 (212.162.10.82)  328.187 ms  337.039 ms  337.182 ms
+11  z-poznan-gw3.nask.10Gb.rtr.pionier.gov.pl (212.191.224.74)  336.246 ms  313.163 ms  319.174 ms
+12  welcome-at.pw.edu.pl (148.81.253.70)  316.392 ms  320.773 ms  317.150 ms
+13  194.29.132.162 (194.29.132.162)  325.078 ms  319.563 ms  323.857 ms
+14  coi-mini.rtr.pw.edu.pl (194.29.132.2)  320.165 ms  334.442 ms  326.919 ms
+15  planetlab4.mini.pw.edu.pl (194.29.178.14)  311.262 ms  310.765 ms  320.712 ms
+traceroute to planetlab4.mini.pw.edu.pl (194.29.178.14), 30 hops max, 60 byte packets
+ 1  host129.190-227-163.telecom.net.ar (190.227.163.129)  1.237 ms  1.292 ms  1.376 ms
+ 2  host89.181-15-0.telecom.net.ar (181.15.0.89)  29.862 ms  29.945 ms  30.396 ms
+ 3  host17.200-117-124.telecom.net.ar (200.117.124.17)  8.142 ms  8.712 ms  9.240 ms
+ 4  host166.190-225-252.telecom.net.ar (190.225.252.166)  7.021 ms  7.415 ms  7.498 ms
+ 5  xe-8-1-2.baires3.bai.seabone.net (195.22.220.106)  19.840 ms  39.712 ms  49.773 ms
+ 6  xe-0-0-0.losangeles2.loa.seabone.net (89.221.40.131)  206.921 ms xe-0-3-2.losangeles2.loa.seabone.net (89.221.40.161)  197.496 ms xe-1-2-1.losangeles2.loa.seabone.net (89.221.40.183)  198.383 ms
+ 7  lag-12.ear1.Miami2.Level3.net (4.68.71.161)  288.062 ms  294.911 ms  291.323 ms
+ 8  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  314.639 ms  304.443 ms  316.297 ms
+ 9  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  309.893 ms  314.080 ms  304.639 ms
+10  212.162.10.82 (212.162.10.82)  400.227 ms  400.557 ms  400.010 ms
+11  z-poznan-gw3.nask.10Gb.rtr.pionier.gov.pl (212.191.224.74)  325.093 ms  313.380 ms  321.228 ms
+12  welcome-at.pw.edu.pl (148.81.253.70)  325.806 ms  318.338 ms  327.691 ms
+13  194.29.132.162 (194.29.132.162)  317.787 ms  314.342 ms  318.396 ms
+14  coi-mini.rtr.pw.edu.pl (194.29.132.2)  321.604 ms  324.686 ms  325.161 ms
+15  planetlab4.mini.pw.edu.pl (194.29.178.14)  311.188 ms  324.208 ms  314.741 ms
+traceroute to planetlab4.mini.pw.edu.pl (194.29.178.14), 30 hops max, 60 byte packets
+ 1  host129.190-227-163.telecom.net.ar (190.227.163.129)  2.863 ms  2.920 ms  2.997 ms
+ 2  host89.181-15-0.telecom.net.ar (181.15.0.89)  7.651 ms  8.784 ms  8.870 ms
+ 3  host17.200-117-124.telecom.net.ar (200.117.124.17)  9.368 ms  9.453 ms  9.873 ms
+ 4  host166.190-225-252.telecom.net.ar (190.225.252.166)  10.845 ms  10.921 ms  11.632 ms
+ 5  xe-8-1-2.baires3.bai.seabone.net (195.22.220.106)  54.769 ms  54.848 ms  55.144 ms
+ 6  xe-11-0-1.losangeles2.loa.seabone.net (89.221.40.141)  199.824 ms  199.538 ms xe-1-2-1.losangeles2.loa.seabone.net (89.221.40.183)  186.288 ms
+ 7  lag-12.ear1.Miami2.Level3.net (4.68.71.161)  295.151 ms  293.691 ms  298.688 ms
+ 8  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  310.572 ms  311.670 ms  310.110 ms
+ 9  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  316.038 ms  303.344 ms  308.453 ms
+10  212.162.10.82 (212.162.10.82)  324.181 ms  323.344 ms  319.847 ms
+11  z-poznan-gw3.nask.10Gb.rtr.pionier.gov.pl (212.191.224.74)  324.974 ms  324.282 ms  314.170 ms
+12  welcome-at.pw.edu.pl (148.81.253.70)  321.398 ms  320.507 ms  316.324 ms
+13  194.29.132.162 (194.29.132.162)  312.139 ms  321.848 ms  317.310 ms
+14  coi-mini.rtr.pw.edu.pl (194.29.132.2)  320.869 ms  339.339 ms  326.635 ms
+15  planetlab4.mini.pw.edu.pl (194.29.178.14)  311.914 ms  317.845 ms  316.754 ms
+traceroute to planetlab4.mini.pw.edu.pl (194.29.178.14), 30 hops max, 60 byte packets
+ 1  host129.190-227-163.telecom.net.ar (190.227.163.129)  1.475 ms  1.540 ms  1.619 ms
+ 2  host89.181-15-0.telecom.net.ar (181.15.0.89)  11.768 ms  12.245 ms  12.489 ms
+ 3  host17.200-117-124.telecom.net.ar (200.117.124.17)  10.929 ms  11.220 ms  14.726 ms
+ 4  host166.190-225-252.telecom.net.ar (190.225.252.166)  13.513 ms  14.239 ms  14.365 ms
+ 5  xe-8-1-2.baires3.bai.seabone.net (195.22.220.106)  56.984 ms  57.109 ms  70.611 ms
+ 6  xe-11-0-1.losangeles2.loa.seabone.net (89.221.40.141)  196.726 ms xe-1-0-3.losangeles2.loa.seabone.net (89.221.40.185)  211.913 ms xe-0-3-2.losangeles2.loa.seabone.net (89.221.40.161)  210.563 ms
+ 7  lag-12.ear1.Miami2.Level3.net (4.68.71.161)  305.563 ms  300.917 ms  303.470 ms
+ 8  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  306.940 ms  307.644 ms  312.239 ms
+ 9  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  318.343 ms  318.196 ms  308.200 ms
+10  212.162.10.82 (212.162.10.82)  320.441 ms  328.255 ms  314.921 ms
+11  * z-poznan-gw3.nask.10Gb.rtr.pionier.gov.pl (212.191.224.74)  326.617 ms  326.900 ms
+12  welcome-at.pw.edu.pl (148.81.253.70)  316.539 ms  325.450 ms  321.269 ms
+13  194.29.132.162 (194.29.132.162)  317.854 ms  322.562 ms  314.786 ms
+14  coi-mini.rtr.pw.edu.pl (194.29.132.2)  327.360 ms  327.824 ms  322.039 ms
+15  planetlab4.mini.pw.edu.pl (194.29.178.14)  311.865 ms  322.808 ms  317.194 ms
+traceroute to planetlab4.mini.pw.edu.pl (194.29.178.14), 30 hops max, 60 byte packets
+ 1  host129.190-227-163.telecom.net.ar (190.227.163.129)  1.324 ms  1.369 ms  1.445 ms
+ 2  host89.181-15-0.telecom.net.ar (181.15.0.89)  27.440 ms  27.526 ms  28.092 ms
+ 3  host17.200-117-124.telecom.net.ar (200.117.124.17)  9.070 ms  9.518 ms  9.607 ms
+ 4  host166.190-225-252.telecom.net.ar (190.225.252.166)  11.080 ms  11.569 ms  11.665 ms
+ 5  xe-8-1-2.baires3.bai.seabone.net (195.22.220.106)  184.238 ms  184.327 ms  193.592 ms
+ 6  xe-0-3-3.losangeles2.loa.seabone.net (89.221.40.181)  216.063 ms xe-1-0-3.losangeles2.loa.seabone.net (89.221.40.185)  200.916 ms xe-11-0-1.losangeles2.loa.seabone.net (89.221.40.141)  218.540 ms
+ 7  lag-12.ear1.Miami2.Level3.net (4.68.71.161)  311.800 ms  311.401 ms  311.277 ms
+ 8  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  316.245 ms  318.658 ms  310.726 ms
+ 9  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  304.880 ms  339.332 ms  315.804 ms
+10  212.162.10.82 (212.162.10.82)  329.888 ms  338.798 ms  336.263 ms
+11  z-poznan-gw3.nask.10Gb.rtr.pionier.gov.pl (212.191.224.74)  337.512 ms  329.871 ms  333.798 ms
+12  welcome-at.pw.edu.pl (148.81.253.70)  335.300 ms  338.221 ms  343.105 ms
+13  194.29.132.162 (194.29.132.162)  310.924 ms  324.911 ms  316.354 ms
+14  coi-mini.rtr.pw.edu.pl (194.29.132.2)  339.007 ms  350.195 ms  342.881 ms
+15  planetlab4.mini.pw.edu.pl (194.29.178.14)  325.292 ms  313.747 ms  316.738 ms
+traceroute to planetlab4.mini.pw.edu.pl (194.29.178.14), 30 hops max, 60 byte packets
+ 1  host129.190-227-163.telecom.net.ar (190.227.163.129)  2.510 ms  2.572 ms  2.695 ms
+ 2  host89.181-15-0.telecom.net.ar (181.15.0.89)  17.335 ms  17.420 ms  18.866 ms
+ 3  host17.200-117-124.telecom.net.ar (200.117.124.17)  19.792 ms  19.884 ms  19.956 ms
+ 4  host166.190-225-252.telecom.net.ar (190.225.252.166)  17.392 ms  17.467 ms  17.739 ms
+ 5  xe-8-1-2.baires3.bai.seabone.net (195.22.220.106)  46.935 ms  47.016 ms  47.461 ms
+ 6  xe-1-2-1.losangeles2.loa.seabone.net (89.221.40.183)  209.315 ms xe-1-0-3.losangeles2.loa.seabone.net (89.221.40.185)  237.178 ms xe-11-0-1.losangeles2.loa.seabone.net (89.221.40.141)  210.300 ms
+ 7  lag-12.ear1.Miami2.Level3.net (4.68.71.161)  312.171 ms  304.666 ms  306.880 ms
+ 8  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  312.419 ms  312.504 ms  305.874 ms
+ 9  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  309.998 ms  327.847 ms  315.999 ms
+10  212.162.10.82 (212.162.10.82)  352.561 ms  364.783 ms  374.091 ms
+11  z-poznan-gw3.nask.10Gb.rtr.pionier.gov.pl (212.191.224.74)  355.472 ms  346.042 ms  335.217 ms
+12  welcome-at.pw.edu.pl (148.81.253.70)  330.536 ms  338.851 ms  337.751 ms
+13  194.29.132.162 (194.29.132.162)  323.128 ms  329.493 ms  318.536 ms
+14  coi-mini.rtr.pw.edu.pl (194.29.132.2)  339.604 ms  340.196 ms  343.398 ms
+15  planetlab4.mini.pw.edu.pl (194.29.178.14)  310.767 ms  313.648 ms  315.578 ms
+traceroute to planetlab4.mini.pw.edu.pl (194.29.178.14), 30 hops max, 60 byte packets
+ 1  host129.190-227-163.telecom.net.ar (190.227.163.129)  1.449 ms  1.503 ms  1.579 ms
+ 2  host89.181-15-0.telecom.net.ar (181.15.0.89)  9.702 ms  10.085 ms  10.606 ms
+ 3  host17.200-117-124.telecom.net.ar (200.117.124.17)  6.013 ms  6.620 ms  6.700 ms
+ 4  host166.190-225-252.telecom.net.ar (190.225.252.166)  8.718 ms  8.792 ms  9.376 ms
+ 5  xe-8-1-2.baires3.bai.seabone.net (195.22.220.106)  135.289 ms  135.370 ms  135.443 ms
+ 6  xe-11-0-1.losangeles2.loa.seabone.net (89.221.40.141)  248.840 ms * xe-0-3-3.losangeles2.loa.seabone.net (89.221.40.181)  231.070 ms
+ 7  lag-12.ear1.Miami2.Level3.net (4.68.71.161)  344.782 ms  323.515 ms  344.850 ms
+ 8  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  318.084 ms  308.788 ms  311.402 ms
+ 9  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  312.211 ms  310.467 ms  306.983 ms
+10  212.162.10.82 (212.162.10.82)  370.719 ms  398.582 ms  370.095 ms
+11  z-poznan-gw3.nask.10Gb.rtr.pionier.gov.pl (212.191.224.74)  397.846 ms  386.013 ms  362.437 ms
+12  welcome-at.pw.edu.pl (148.81.253.70)  353.804 ms  360.726 ms  357.503 ms
+13  194.29.132.162 (194.29.132.162)  320.174 ms  310.061 ms  314.884 ms
+14  coi-mini.rtr.pw.edu.pl (194.29.132.2)  365.616 ms  387.324 ms  366.342 ms
+15  planetlab4.mini.pw.edu.pl (194.29.178.14)  308.392 ms  376.529 ms  360.827 ms
+traceroute to planetlab4.mini.pw.edu.pl (194.29.178.14), 30 hops max, 60 byte packets
+ 1  host129.190-227-163.telecom.net.ar (190.227.163.129)  2.908 ms  2.982 ms  3.031 ms
+ 2  host89.181-15-0.telecom.net.ar (181.15.0.89)  15.875 ms  16.548 ms  16.949 ms
+ 3  host17.200-117-124.telecom.net.ar (200.117.124.17)  14.778 ms  15.222 ms  15.310 ms
+ 4  host166.190-225-252.telecom.net.ar (190.225.252.166)  17.826 ms  18.715 ms  18.794 ms
+ 5  xe-8-1-2.baires3.bai.seabone.net (195.22.220.106)  108.244 ms  108.519 ms  108.947 ms
+ 6  xe-0-3-3.losangeles2.loa.seabone.net (89.221.40.181)  250.897 ms xe-11-0-1.losangeles2.loa.seabone.net (89.221.40.141)  233.406 ms xe-1-0-3.losangeles2.loa.seabone.net (89.221.40.185)  234.550 ms
+ 7  lag-12.ear1.Miami2.Level3.net (4.68.71.161)  337.196 ms  324.337 ms  337.695 ms
+ 8  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  320.042 ms  311.039 ms  314.387 ms
+ 9  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  320.532 ms  317.069 ms  312.514 ms
+10  212.162.10.82 (212.162.10.82)  367.970 ms  366.075 ms  365.883 ms
+11  z-poznan-gw3.nask.10Gb.rtr.pionier.gov.pl (212.191.224.74)  365.068 ms  378.470 ms  356.944 ms
+12  welcome-at.pw.edu.pl (148.81.253.70)  366.335 ms  367.306 ms  361.052 ms
+13  194.29.132.162 (194.29.132.162)  344.057 ms  343.874 ms  348.537 ms
+14  coi-mini.rtr.pw.edu.pl (194.29.132.2)  366.663 ms  388.537 ms  367.678 ms
+15  planetlab4.mini.pw.edu.pl (194.29.178.14)  351.093 ms  343.099 ms  349.073 ms
+traceroute to planetlab4.mini.pw.edu.pl (194.29.178.14), 30 hops max, 60 byte packets
+ 1  host129.190-227-163.telecom.net.ar (190.227.163.129)  2.181 ms  2.240 ms  2.319 ms
+ 2  host89.181-15-0.telecom.net.ar (181.15.0.89)  18.580 ms  19.018 ms  19.102 ms
+ 3  host17.200-117-124.telecom.net.ar (200.117.124.17)  22.828 ms  22.956 ms  23.454 ms
+ 4  host166.190-225-252.telecom.net.ar (190.225.252.166)  21.382 ms  21.797 ms  22.189 ms
+ 5  xe-8-1-2.baires3.bai.seabone.net (195.22.220.106)  121.734 ms  126.070 ms  126.148 ms
+ 6  * xe-11-0-1.losangeles2.loa.seabone.net (89.221.40.141)  248.707 ms *
+ 7  lag-12.ear1.Miami2.Level3.net (4.68.71.161)  344.113 ms  346.472 ms  344.923 ms
+ 8  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  342.684 ms  343.910 ms  342.532 ms
+ 9  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  341.455 ms  343.651 ms  343.485 ms
+10  212.162.10.82 (212.162.10.82)  370.581 ms  360.973 ms  361.404 ms
+11  z-poznan-gw3.nask.10Gb.rtr.pionier.gov.pl (212.191.224.74)  359.737 ms  373.465 ms  374.417 ms
+12  welcome-at.pw.edu.pl (148.81.253.70)  392.927 ms  387.792 ms  384.975 ms
+13  194.29.132.162 (194.29.132.162)  354.331 ms  348.794 ms  341.171 ms
+14  coi-mini.rtr.pw.edu.pl (194.29.132.2)  401.182 ms  386.396 ms  399.468 ms
+15  planetlab4.mini.pw.edu.pl (194.29.178.14)  341.888 ms  319.719 ms  320.298 ms
+traceroute to planetlab4.mini.pw.edu.pl (194.29.178.14), 30 hops max, 60 byte packets
+ 1  host129.190-227-163.telecom.net.ar (190.227.163.129)  2.395 ms  2.439 ms  2.518 ms
+ 2  host89.181-15-0.telecom.net.ar (181.15.0.89)  9.109 ms  9.193 ms  9.270 ms
+ 3  host17.200-117-124.telecom.net.ar (200.117.124.17)  11.029 ms  11.612 ms  11.697 ms
+ 4  host166.190-225-252.telecom.net.ar (190.225.252.166)  9.869 ms  10.354 ms *
+ 5  * xe-8-1-2.baires3.bai.seabone.net (195.22.220.106)  79.192 ms  79.281 ms
+ 6  xe-0-0-0.losangeles2.loa.seabone.net (89.221.40.131)  237.891 ms xe-1-2-1.losangeles2.loa.seabone.net (89.221.40.183)  241.137 ms xe-0-3-2.losangeles2.loa.seabone.net (89.221.40.161)  237.648 ms
+ 7  lag-12.ear1.Miami2.Level3.net (4.68.71.161)  343.378 ms  342.179 ms  344.709 ms
+ 8  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  349.752 ms  349.635 ms  349.507 ms
+ 9  * ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  540.401 ms  540.271 ms
+10  212.162.10.82 (212.162.10.82)  431.155 ms  431.554 ms  381.561 ms
+11  z-poznan-gw3.nask.10Gb.rtr.pionier.gov.pl (212.191.224.74)  366.953 ms *  359.166 ms
+12  welcome-at.pw.edu.pl (148.81.253.70)  357.093 ms  356.350 ms  362.586 ms
+13  194.29.132.162 (194.29.132.162)  340.956 ms  328.323 ms  324.332 ms
+14  coi-mini.rtr.pw.edu.pl (194.29.132.2)  359.566 ms  366.004 ms  374.158 ms
+15  planetlab4.mini.pw.edu.pl (194.29.178.14)  319.887 ms  320.596 ms  308.125 ms
+traceroute to planetlab4.mini.pw.edu.pl (194.29.178.14), 30 hops max, 60 byte packets
+ 1  host129.190-227-163.telecom.net.ar (190.227.163.129)  1.896 ms  1.960 ms  2.039 ms
+ 2  host89.181-15-0.telecom.net.ar (181.15.0.89)  7.936 ms  8.410 ms  8.495 ms
+ 3  host17.200-117-124.telecom.net.ar (200.117.124.17)  8.950 ms  9.360 ms  9.784 ms
+ 4  host166.190-225-252.telecom.net.ar (190.225.252.166)  6.428 ms  6.905 ms  10.618 ms
+ 5  xe-8-1-2.baires3.bai.seabone.net (195.22.220.106)  75.282 ms  75.363 ms  75.437 ms
+ 6  xe-1-0-3.losangeles2.loa.seabone.net (89.221.40.185)  237.232 ms xe-1-2-1.losangeles2.loa.seabone.net (89.221.40.183)  217.926 ms xe-11-0-1.losangeles2.loa.seabone.net (89.221.40.141)  243.972 ms
+ 7  lag-12.ear1.Miami2.Level3.net (4.68.71.161)  344.326 ms  325.350 ms  322.889 ms
+ 8  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  315.103 ms  308.842 ms  306.227 ms
+ 9  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  309.401 ms  315.550 ms  321.102 ms
+10  212.162.10.82 (212.162.10.82)  361.687 ms  370.235 ms  370.927 ms
+11  z-poznan-gw3.nask.10Gb.rtr.pionier.gov.pl (212.191.224.74)  352.170 ms  390.301 ms  385.224 ms
+12  welcome-at.pw.edu.pl (148.81.253.70)  500.299 ms  499.349 ms  498.447 ms
+13  194.29.132.162 (194.29.132.162)  418.179 ms  418.415 ms  439.615 ms
+14  coi-mini.rtr.pw.edu.pl (194.29.132.2)  500.003 ms  500.571 ms  499.336 ms
+15  planetlab4.mini.pw.edu.pl (194.29.178.14)  401.646 ms  400.741 ms  431.516 ms
+traceroute to planetlab4.mini.pw.edu.pl (194.29.178.14), 30 hops max, 60 byte packets
+ 1  host129.190-227-163.telecom.net.ar (190.227.163.129)  1.562 ms  1.639 ms  1.730 ms
+ 2  host89.181-15-0.telecom.net.ar (181.15.0.89)  8.576 ms  9.208 ms  9.294 ms
+ 3  host17.200-117-124.telecom.net.ar (200.117.124.17)  9.951 ms  10.043 ms  10.744 ms
+ 4  host166.190-225-252.telecom.net.ar (190.225.252.166)  7.221 ms  7.724 ms  7.804 ms
+ 5  xe-8-1-2.baires3.bai.seabone.net (195.22.220.106)  124.364 ms  124.440 ms  124.549 ms
+ 6  xe-1-0-3.losangeles2.loa.seabone.net (89.221.40.185)  245.253 ms xe-11-0-1.losangeles2.loa.seabone.net (89.221.40.141)  223.536 ms xe-0-3-3.losangeles2.loa.seabone.net (89.221.40.181)  228.157 ms
+ 7  lag-12.ear1.Miami2.Level3.net (4.68.71.161)  341.681 ms  353.159 ms  347.849 ms
+ 8  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  335.297 ms  335.186 ms  371.090 ms
+ 9  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  370.187 ms  365.845 ms  370.903 ms
+10  212.162.10.82 (212.162.10.82)  376.633 ms  365.223 ms  357.723 ms
+11  z-poznan-gw3.nask.10Gb.rtr.pionier.gov.pl (212.191.224.74)  358.437 ms  354.950 ms  349.637 ms
+12  welcome-at.pw.edu.pl (148.81.253.70)  370.376 ms  438.822 ms  438.985 ms
+13  194.29.132.162 (194.29.132.162)  403.571 ms  405.034 ms  405.107 ms
+14  coi-mini.rtr.pw.edu.pl (194.29.132.2)  441.059 ms *  451.076 ms
+15  planetlab4.mini.pw.edu.pl (194.29.178.14)  404.829 ms  404.160 ms  409.280 ms
+traceroute to planetlab4.mini.pw.edu.pl (194.29.178.14), 30 hops max, 60 byte packets
+ 1  host129.190-227-163.telecom.net.ar (190.227.163.129)  2.556 ms  2.617 ms  2.696 ms
+ 2  host89.181-15-0.telecom.net.ar (181.15.0.89)  7.166 ms  7.629 ms *
+ 3  host17.200-117-124.telecom.net.ar (200.117.124.17)  9.495 ms  9.573 ms  10.354 ms
+ 4  host166.190-225-252.telecom.net.ar (190.225.252.166)  6.416 ms  10.420 ms  10.675 ms
+ 5  xe-8-1-2.baires3.bai.seabone.net (195.22.220.106)  137.668 ms  137.747 ms  138.692 ms
+ 6  xe-0-3-2.losangeles2.loa.seabone.net (89.221.40.161)  243.820 ms xe-1-0-3.losangeles2.loa.seabone.net (89.221.40.185)  223.300 ms *
+ 7  lag-12.ear1.Miami2.Level3.net (4.68.71.161)  330.721 ms  325.564 ms  331.401 ms
+ 8  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  309.313 ms  311.575 ms  310.002 ms
+ 9  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  317.694 ms  316.581 ms  307.199 ms
+10  212.162.10.82 (212.162.10.82)  363.926 ms  363.754 ms  395.740 ms
+11  z-poznan-gw3.nask.10Gb.rtr.pionier.gov.pl (212.191.224.74)  382.948 ms  376.273 ms  346.308 ms
+12  welcome-at.pw.edu.pl (148.81.253.70)  352.226 ms  358.681 ms  353.944 ms
+13  194.29.132.162 (194.29.132.162)  320.350 ms  316.324 ms  309.080 ms
+14  coi-mini.rtr.pw.edu.pl (194.29.132.2)  351.582 ms  367.256 ms  376.184 ms
+15  planetlab4.mini.pw.edu.pl (194.29.178.14)  311.048 ms  318.154 ms  335.183 ms
+traceroute to planetlab4.mini.pw.edu.pl (194.29.178.14), 30 hops max, 60 byte packets
+ 1  host129.190-227-163.telecom.net.ar (190.227.163.129)  2.741 ms  2.790 ms  2.873 ms
+ 2  host89.181-15-0.telecom.net.ar (181.15.0.89)  16.308 ms *  16.370 ms
+ 3  host17.200-117-124.telecom.net.ar (200.117.124.17)  7.247 ms  7.666 ms  8.048 ms
+ 4  host166.190-225-252.telecom.net.ar (190.225.252.166)  21.540 ms  21.617 ms *
+ 5  xe-8-1-2.baires3.bai.seabone.net (195.22.220.106)  104.699 ms *  120.715 ms
+ 6  xe-11-0-1.losangeles2.loa.seabone.net (89.221.40.141)  258.617 ms xe-1-2-1.losangeles2.loa.seabone.net (89.221.40.183)  238.230 ms *
+ 7  lag-12.ear1.Miami2.Level3.net (4.68.71.161)  337.991 ms *  341.194 ms
+ 8  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  314.071 ms  307.020 ms *
+ 9  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  317.632 ms  309.480 ms  339.992 ms
+10  * * 212.162.10.82 (212.162.10.82)  396.873 ms
+11  z-poznan-gw3.nask.10Gb.rtr.pionier.gov.pl (212.191.224.74)  354.987 ms  362.537 ms  363.995 ms
+12  welcome-at.pw.edu.pl (148.81.253.70)  368.490 ms  357.713 ms  365.537 ms
+13  194.29.132.162 (194.29.132.162)  352.786 ms  325.482 ms  328.488 ms
+14  coi-mini.rtr.pw.edu.pl (194.29.132.2)  362.134 ms  375.819 ms  374.066 ms
+15  planetlab4.mini.pw.edu.pl (194.29.178.14)  323.681 ms  318.795 ms  374.266 ms
+traceroute to planetlab4.mini.pw.edu.pl (194.29.178.14), 30 hops max, 60 byte packets
+ 1  host129.190-227-163.telecom.net.ar (190.227.163.129)  2.099 ms  2.152 ms  2.271 ms
+ 2  host89.181-15-0.telecom.net.ar (181.15.0.89)  60.540 ms  60.983 ms  61.072 ms
+ 3  host17.200-117-124.telecom.net.ar (200.117.124.17)  61.984 ms  62.482 ms  63.061 ms
+ 4  host166.190-225-252.telecom.net.ar (190.225.252.166)  58.961 ms  63.129 ms  63.937 ms
+ 5  xe-8-1-2.baires3.bai.seabone.net (195.22.220.106)  174.794 ms  196.159 ms  196.705 ms
+ 6  xe-0-3-3.losangeles2.loa.seabone.net (89.221.40.181)  288.047 ms xe-1-0-3.losangeles2.loa.seabone.net (89.221.40.185)  253.646 ms xe-0-3-2.losangeles2.loa.seabone.net (89.221.40.161)  344.568 ms
+ 7  * lag-12.ear1.Miami2.Level3.net (4.68.71.161)  433.635 ms  434.290 ms
+ 8  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  430.282 ms  428.993 ms  429.105 ms
+ 9  * ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  429.763 ms  429.843 ms
+10  212.162.10.82 (212.162.10.82)  442.141 ms  452.632 ms  451.547 ms
+11  z-poznan-gw3.nask.10Gb.rtr.pionier.gov.pl (212.191.224.74)  452.297 ms  412.665 ms  394.592 ms
+12  welcome-at.pw.edu.pl (148.81.253.70)  393.866 ms  393.696 ms  388.326 ms
+13  194.29.132.162 (194.29.132.162)  357.820 ms  346.394 ms  346.163 ms
+14  coi-mini.rtr.pw.edu.pl (194.29.132.2)  424.459 ms  425.001 ms  424.879 ms
+15  planetlab4.mini.pw.edu.pl (194.29.178.14)  358.143 ms  349.156 ms  347.040 ms
+traceroute to planetlab4.mini.pw.edu.pl (194.29.178.14), 30 hops max, 60 byte packets
+ 1  host129.190-227-163.telecom.net.ar (190.227.163.129)  2.524 ms  2.577 ms  2.659 ms
+ 2  host89.181-15-0.telecom.net.ar (181.15.0.89)  45.371 ms  45.465 ms  45.541 ms
+ 3  host17.200-117-124.telecom.net.ar (200.117.124.17)  42.049 ms  42.128 ms  42.632 ms
+ 4  host166.190-225-252.telecom.net.ar (190.225.252.166)  43.317 ms  43.988 ms  44.074 ms
+ 5  xe-8-1-2.baires3.bai.seabone.net (195.22.220.106)  97.521 ms  98.167 ms  98.250 ms
+ 6  xe-1-2-1.losangeles2.loa.seabone.net (89.221.40.183)  250.067 ms  344.564 ms xe-0-3-2.losangeles2.loa.seabone.net (89.221.40.161)  346.501 ms
+ 7  lag-12.ear1.Miami2.Level3.net (4.68.71.161)  417.638 ms  415.386 ms  418.134 ms
+ 8  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  377.570 ms  373.649 ms  376.049 ms
+ 9  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  381.073 ms  326.556 ms  391.172 ms
+10  212.162.10.82 (212.162.10.82)  372.337 ms  372.420 ms  380.454 ms
+11  z-poznan-gw3.nask.10Gb.rtr.pionier.gov.pl (212.191.224.74)  376.720 ms  369.855 ms  421.329 ms
+12  welcome-at.pw.edu.pl (148.81.253.70)  404.606 ms  405.564 ms  421.782 ms
+13  194.29.132.162 (194.29.132.162)  353.766 ms  356.099 ms  356.177 ms
+14  coi-mini.rtr.pw.edu.pl (194.29.132.2)  420.657 ms  422.115 ms  422.747 ms
+15  planetlab4.mini.pw.edu.pl (194.29.178.14)  504.996 ms  506.746 ms  506.829 ms
+traceroute to planetlab4.mini.pw.edu.pl (194.29.178.14), 30 hops max, 60 byte packets
+ 1  host129.190-227-163.telecom.net.ar (190.227.163.129)  1.470 ms  1.532 ms  1.615 ms
+ 2  host89.181-15-0.telecom.net.ar (181.15.0.89)  57.078 ms  58.658 ms  59.154 ms
+ 3  host17.200-117-124.telecom.net.ar (200.117.124.17)  57.778 ms  58.348 ms  58.475 ms
+ 4  host166.190-225-252.telecom.net.ar (190.225.252.166)  60.156 ms  60.284 ms  60.931 ms
+ 5  xe-8-1-2.baires3.bai.seabone.net (195.22.220.106)  151.611 ms  152.089 ms  160.245 ms
+ 6  xe-11-0-1.losangeles2.loa.seabone.net (89.221.40.141)  293.761 ms xe-0-3-2.losangeles2.loa.seabone.net (89.221.40.161)  275.986 ms xe-11-0-1.losangeles2.loa.seabone.net (89.221.40.141)  251.564 ms
+ 7  lag-12.ear1.Miami2.Level3.net (4.68.71.161)  343.666 ms  349.346 ms  389.449 ms
+ 8  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  321.016 ms  323.759 ms  324.223 ms
+ 9  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  320.346 ms  324.282 ms  320.803 ms
+10  212.162.10.82 (212.162.10.82)  384.490 ms  365.077 ms  372.623 ms
+11  z-poznan-gw3.nask.10Gb.rtr.pionier.gov.pl (212.191.224.74)  364.472 ms  395.933 ms  414.182 ms
+12  * welcome-at.pw.edu.pl (148.81.253.70)  418.821 ms  418.312 ms
+13  194.29.132.162 (194.29.132.162)  357.513 ms  358.424 ms  366.757 ms
+14  * coi-mini.rtr.pw.edu.pl (194.29.132.2)  415.890 ms  413.467 ms
+15  planetlab4.mini.pw.edu.pl (194.29.178.14)  363.329 ms  359.662 ms  364.008 ms
+traceroute to planetlab4.mini.pw.edu.pl (194.29.178.14), 30 hops max, 60 byte packets
+ 1  host129.190-227-163.telecom.net.ar (190.227.163.129)  1.258 ms  1.320 ms  1.397 ms
+ 2  host89.181-15-0.telecom.net.ar (181.15.0.89)  173.081 ms  174.421 ms  174.947 ms
+ 3  host17.200-117-124.telecom.net.ar (200.117.124.17)  172.345 ms  172.883 ms *
+ 4  host166.190-225-252.telecom.net.ar (190.225.252.166)  173.228 ms  173.818 ms  177.223 ms
+ 5  xe-8-1-2.baires3.bai.seabone.net (195.22.220.106)  259.472 ms  259.975 ms  260.064 ms
+ 6  xe-0-3-3.losangeles2.loa.seabone.net (89.221.40.181)  416.571 ms xe-0-3-2.losangeles2.loa.seabone.net (89.221.40.161)  419.153 ms xe-1-2-1.losangeles2.loa.seabone.net (89.221.40.183)  279.208 ms
+ 7  lag-12.ear1.Miami2.Level3.net (4.68.71.161)  387.409 ms  387.837 ms  379.363 ms
+ 8  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  419.737 ms *  419.258 ms
+ 9  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  419.781 ms  419.306 ms  418.239 ms
+10  * 212.162.10.82 (212.162.10.82)  415.410 ms  420.347 ms
+11  z-poznan-gw3.nask.10Gb.rtr.pionier.gov.pl (212.191.224.74)  408.009 ms  420.141 ms  365.905 ms
+12  welcome-at.pw.edu.pl (148.81.253.70)  363.578 ms  370.013 ms  366.175 ms
+13  194.29.132.162 (194.29.132.162)  323.630 ms  312.948 ms  315.855 ms
+14  coi-mini.rtr.pw.edu.pl (194.29.132.2)  375.145 ms  368.657 ms  376.841 ms
+15  planetlab4.mini.pw.edu.pl (194.29.178.14)  315.555 ms  314.622 ms  319.907 ms
+traceroute to planetlab4.mini.pw.edu.pl (194.29.178.14), 30 hops max, 60 byte packets
+ 1  host129.190-227-163.telecom.net.ar (190.227.163.129)  1.411 ms  1.478 ms  1.556 ms
+ 2  host89.181-15-0.telecom.net.ar (181.15.0.89)  11.510 ms  12.164 ms  12.245 ms
+ 3  host17.200-117-124.telecom.net.ar (200.117.124.17)  5.491 ms  9.543 ms  10.647 ms
+ 4  host166.190-225-252.telecom.net.ar (190.225.252.166)  6.279 ms  6.793 ms  10.687 ms
+ 5  xe-8-1-2.baires3.bai.seabone.net (195.22.220.106)  85.812 ms  85.901 ms  102.089 ms
+ 6  xe-0-3-2.losangeles2.loa.seabone.net (89.221.40.161)  269.926 ms  262.111 ms  261.819 ms
+ 7  lag-12.ear1.Miami2.Level3.net (4.68.71.161)  352.794 ms  344.648 ms  353.539 ms
+ 8  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  317.807 ms  318.733 ms  310.874 ms
+ 9  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  311.591 ms  304.893 ms  315.619 ms
+10  212.162.10.82 (212.162.10.82)  379.204 ms  380.068 ms  379.336 ms
+11  z-poznan-gw3.nask.10Gb.rtr.pionier.gov.pl (212.191.224.74)  380.072 ms  389.104 ms  377.202 ms
+12  welcome-at.pw.edu.pl (148.81.253.70)  378.172 ms  377.301 ms  377.840 ms
+13  194.29.132.162 (194.29.132.162)  313.704 ms  323.247 ms  312.980 ms
+14  coi-mini.rtr.pw.edu.pl (194.29.132.2)  389.032 ms  379.656 ms  397.828 ms
+15  planetlab4.mini.pw.edu.pl (194.29.178.14)  314.917 ms  317.327 ms  312.202 ms
+traceroute to planetlab4.mini.pw.edu.pl (194.29.178.14), 30 hops max, 60 byte packets
+ 1  host129.190-227-163.telecom.net.ar (190.227.163.129)  3.685 ms  3.736 ms  3.814 ms
+ 2  host89.181-15-0.telecom.net.ar (181.15.0.89)  18.619 ms  18.715 ms  19.031 ms
+ 3  host17.200-117-124.telecom.net.ar (200.117.124.17)  20.542 ms  21.029 ms  21.504 ms
+ 4  host166.190-225-252.telecom.net.ar (190.225.252.166)  19.248 ms  19.498 ms  19.820 ms
+ 5  xe-8-1-2.baires3.bai.seabone.net (195.22.220.106)  100.958 ms  103.000 ms  103.088 ms
+ 6  xe-11-0-1.losangeles2.loa.seabone.net (89.221.40.141)  268.575 ms xe-0-3-3.losangeles2.loa.seabone.net (89.221.40.181)  258.072 ms xe-1-0-3.losangeles2.loa.seabone.net (89.221.40.185)  250.219 ms
+ 7  lag-12.ear1.Miami2.Level3.net (4.68.71.161)  359.697 ms  359.758 ms  359.832 ms
+ 8  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  323.826 ms  305.090 ms  320.698 ms
+ 9  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  323.657 ms  323.532 ms  322.064 ms
+10  212.162.10.82 (212.162.10.82)  381.753 ms  368.700 ms  368.904 ms
+11  z-poznan-gw3.nask.10Gb.rtr.pionier.gov.pl (212.191.224.74)  374.533 ms  378.514 ms  383.759 ms
+12  welcome-at.pw.edu.pl (148.81.253.70)  383.031 ms  403.696 ms  383.783 ms
+13  194.29.132.162 (194.29.132.162)  337.012 ms  337.197 ms  337.714 ms
+14  coi-mini.rtr.pw.edu.pl (194.29.132.2)  405.008 ms  405.580 ms  405.640 ms
+15  planetlab4.mini.pw.edu.pl (194.29.178.14)  338.219 ms  337.156 ms  337.468 ms
+traceroute to planetlab4.mini.pw.edu.pl (194.29.178.14), 30 hops max, 60 byte packets
+ 1  host129.190-227-163.telecom.net.ar (190.227.163.129)  3.120 ms  3.165 ms  3.282 ms
+ 2  host89.181-15-0.telecom.net.ar (181.15.0.89)  52.757 ms  53.030 ms  53.484 ms
+ 3  host17.200-117-124.telecom.net.ar (200.117.124.17)  54.432 ms  55.436 ms  55.526 ms
+ 4  host166.190-225-252.telecom.net.ar (190.225.252.166)  51.353 ms  51.434 ms  52.002 ms
+ 5  xe-8-1-2.baires3.bai.seabone.net (195.22.220.106)  213.859 ms  220.615 ms  220.702 ms
+ 6  * xe-0-3-3.losangeles2.loa.seabone.net (89.221.40.181)  270.482 ms xe-11-0-1.losangeles2.loa.seabone.net (89.221.40.141)  257.607 ms
+ 7  lag-12.ear1.Miami2.Level3.net (4.68.71.161)  358.292 ms  385.591 ms  385.672 ms
+ 8  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  329.477 ms  328.697 ms  331.984 ms
+ 9  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  330.457 ms  330.946 ms  331.716 ms
+10  212.162.10.82 (212.162.10.82)  384.643 ms  393.290 ms  384.702 ms
+11  z-poznan-gw3.nask.10Gb.rtr.pionier.gov.pl (212.191.224.74)  388.220 ms  393.128 ms  414.080 ms
+12  welcome-at.pw.edu.pl (148.81.253.70)  386.323 ms  387.029 ms  387.102 ms
+13  194.29.132.162 (194.29.132.162)  329.814 ms  330.331 ms  326.711 ms
+14  coi-mini.rtr.pw.edu.pl (194.29.132.2)  387.629 ms  396.319 ms  388.018 ms
+15  planetlab4.mini.pw.edu.pl (194.29.178.14)  327.395 ms  327.982 ms  328.565 ms
+traceroute to planetlab4.mini.pw.edu.pl (194.29.178.14), 30 hops max, 60 byte packets
+ 1  host129.190-227-163.telecom.net.ar (190.227.163.129)  2.629 ms  2.722 ms  2.803 ms
+ 2  host89.181-15-0.telecom.net.ar (181.15.0.89)  26.030 ms  26.566 ms  26.650 ms
+ 3  host17.200-117-124.telecom.net.ar (200.117.124.17)  28.430 ms  28.517 ms  28.591 ms
+ 4  host166.190-225-252.telecom.net.ar (190.225.252.166)  25.770 ms  28.649 ms  29.192 ms
+ 5  xe-8-1-2.baires3.bai.seabone.net (195.22.220.106)  93.458 ms  93.544 ms  102.886 ms
+ 6  xe-0-3-3.losangeles2.loa.seabone.net (89.221.40.181)  266.342 ms xe-11-0-1.losangeles2.loa.seabone.net (89.221.40.141)  263.697 ms xe-0-3-2.losangeles2.loa.seabone.net (89.221.40.161)  298.046 ms
+ 7  lag-12.ear1.Miami2.Level3.net (4.68.71.161)  370.873 ms  379.407 ms  376.864 ms
+ 8  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  358.911 ms  358.130 ms  363.353 ms
+ 9  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  374.140 ms  347.015 ms  374.196 ms
+10  212.162.10.82 (212.162.10.82)  396.720 ms  392.669 ms  381.744 ms
+11  z-poznan-gw3.nask.10Gb.rtr.pionier.gov.pl (212.191.224.74)  391.621 ms  388.170 ms  401.427 ms
+12  welcome-at.pw.edu.pl (148.81.253.70)  396.463 ms  395.689 ms  394.024 ms
+13  194.29.132.162 (194.29.132.162)  346.683 ms  347.520 ms  335.742 ms
+14  coi-mini.rtr.pw.edu.pl (194.29.132.2)  397.868 ms  396.429 ms  410.860 ms
+15  planetlab4.mini.pw.edu.pl (194.29.178.14)  355.707 ms  355.792 ms  356.250 ms
+traceroute to planetlab4.mini.pw.edu.pl (194.29.178.14), 30 hops max, 60 byte packets
+ 1  host129.190-227-163.telecom.net.ar (190.227.163.129)  2.506 ms  2.602 ms  2.683 ms
+ 2  host89.181-15-0.telecom.net.ar (181.15.0.89)  8.499 ms  9.385 ms  9.518 ms
+ 3  host17.200-117-124.telecom.net.ar (200.117.124.17)  7.330 ms  7.776 ms  7.864 ms
+ 4  host166.190-225-252.telecom.net.ar (190.225.252.166)  9.837 ms  10.156 ms  10.730 ms
+ 5  xe-8-1-2.baires3.bai.seabone.net (195.22.220.106)  77.620 ms  78.140 ms  94.960 ms
+ 6  xe-0-3-2.losangeles2.loa.seabone.net (89.221.40.161)  261.566 ms xe-1-2-1.losangeles2.loa.seabone.net (89.221.40.183)  242.219 ms xe-0-3-2.losangeles2.loa.seabone.net (89.221.40.161)  251.191 ms
+ 7  lag-12.ear1.Miami2.Level3.net (4.68.71.161)  342.912 ms  355.843 ms  349.388 ms
+ 8  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  315.551 ms  308.909 ms  315.891 ms
+ 9  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  303.708 ms  310.555 ms  316.384 ms
+10  212.162.10.82 (212.162.10.82)  385.324 ms  375.126 ms  367.532 ms
+11  z-poznan-gw3.nask.10Gb.rtr.pionier.gov.pl (212.191.224.74)  365.539 ms  378.729 ms  451.635 ms
+12  welcome-at.pw.edu.pl (148.81.253.70)  377.163 ms  377.214 ms  369.739 ms
+13  194.29.132.162 (194.29.132.162)  332.192 ms  331.316 ms  311.584 ms
+14  coi-mini.rtr.pw.edu.pl (194.29.132.2)  387.856 ms  376.056 ms  376.856 ms
+15  planetlab4.mini.pw.edu.pl (194.29.178.14)  317.331 ms  331.626 ms  331.705 ms
+traceroute to planetlab4.mini.pw.edu.pl (194.29.178.14), 30 hops max, 60 byte packets
+ 1  host129.190-227-163.telecom.net.ar (190.227.163.129)  1.534 ms  1.591 ms  1.674 ms
+ 2  host89.181-15-0.telecom.net.ar (181.15.0.89)  28.840 ms  29.436 ms  30.195 ms
+ 3  host17.200-117-124.telecom.net.ar (200.117.124.17)  11.466 ms  11.903 ms  11.989 ms
+ 4  host166.190-225-252.telecom.net.ar (190.225.252.166)  14.992 ms  15.155 ms  16.206 ms
+ 5  xe-8-1-2.baires3.bai.seabone.net (195.22.220.106)  96.780 ms  97.072 ms  97.156 ms
+ 6  xe-0-0-0.losangeles2.loa.seabone.net (89.221.40.131)  258.118 ms xe-11-0-1.losangeles2.loa.seabone.net (89.221.40.141)  251.348 ms xe-0-3-2.losangeles2.loa.seabone.net (89.221.40.161)  272.549 ms
+ 7  lag-12.ear1.Miami2.Level3.net (4.68.71.161)  359.067 ms  359.739 ms  364.052 ms
+ 8  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  328.943 ms  325.310 ms  329.753 ms
+ 9  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  324.098 ms  332.145 ms  327.875 ms
+10  212.162.10.82 (212.162.10.82)  402.930 ms  407.871 ms  411.259 ms
+11  z-poznan-gw3.nask.10Gb.rtr.pionier.gov.pl (212.191.224.74)  409.401 ms  385.799 ms  396.381 ms
+12  welcome-at.pw.edu.pl (148.81.253.70)  394.717 ms  395.699 ms  395.965 ms
+13  194.29.132.162 (194.29.132.162)  330.207 ms  325.514 ms  330.302 ms
+14  coi-mini.rtr.pw.edu.pl (194.29.132.2)  397.277 ms  397.154 ms  396.079 ms
+15  planetlab4.mini.pw.edu.pl (194.29.178.14)  324.678 ms  322.361 ms  322.829 ms
+traceroute to planetlab4.mini.pw.edu.pl (194.29.178.14), 30 hops max, 60 byte packets
+ 1  host129.190-227-163.telecom.net.ar (190.227.163.129)  1.750 ms  1.808 ms  1.886 ms
+ 2  host89.181-15-0.telecom.net.ar (181.15.0.89)  15.863 ms  16.373 ms  16.868 ms
+ 3  host17.200-117-124.telecom.net.ar (200.117.124.17)  14.747 ms  15.189 ms  15.273 ms
+ 4  host166.190-225-252.telecom.net.ar (190.225.252.166)  16.940 ms  17.386 ms  17.471 ms
+ 5  xe-8-1-2.baires3.bai.seabone.net (195.22.220.106)  89.723 ms  89.855 ms  90.317 ms
+ 6  xe-0-3-2.losangeles2.loa.seabone.net (89.221.40.161)  267.812 ms xe-1-0-3.losangeles2.loa.seabone.net (89.221.40.185)  253.176 ms xe-1-2-1.losangeles2.loa.seabone.net (89.221.40.183)  236.310 ms
+ 7  lag-12.ear1.Miami2.Level3.net (4.68.71.161)  349.381 ms  349.012 ms  348.124 ms
+ 8  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  314.702 ms  314.187 ms  306.569 ms
+ 9  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  314.997 ms  318.395 ms  304.400 ms
+10  212.162.10.82 (212.162.10.82)  377.074 ms  371.707 ms  372.269 ms
+11  z-poznan-gw3.nask.10Gb.rtr.pionier.gov.pl (212.191.224.74)  381.632 ms  380.655 ms  401.210 ms
+12  welcome-at.pw.edu.pl (148.81.253.70)  387.717 ms  385.377 ms  391.789 ms
+13  194.29.132.162 (194.29.132.162)  327.368 ms  334.427 ms  329.625 ms
+14  coi-mini.rtr.pw.edu.pl (194.29.132.2)  385.166 ms  386.608 ms  397.716 ms
+15  planetlab4.mini.pw.edu.pl (194.29.178.14)  329.031 ms  330.116 ms  331.576 ms
+traceroute to planetlab4.mini.pw.edu.pl (194.29.178.14), 30 hops max, 60 byte packets
+ 1  host129.190-227-163.telecom.net.ar (190.227.163.129)  1.463 ms  1.530 ms  1.615 ms
+ 2  host89.181-15-0.telecom.net.ar (181.15.0.89)  6.486 ms  7.044 ms  7.126 ms
+ 3  host17.200-117-124.telecom.net.ar (200.117.124.17)  9.042 ms  9.554 ms  10.726 ms
+ 4  host166.190-225-252.telecom.net.ar (190.225.252.166)  7.548 ms  7.676 ms  8.194 ms
+ 5  xe-8-1-2.baires3.bai.seabone.net (195.22.220.106)  90.300 ms  90.383 ms  90.685 ms
+ 6  * xe-1-2-1.losangeles2.loa.seabone.net (89.221.40.183)  253.064 ms  247.299 ms
+ 7  lag-12.ear1.Miami2.Level3.net (4.68.71.161)  362.857 ms  359.518 ms  354.773 ms
+ 8  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  325.703 ms  315.440 ms  314.479 ms
+ 9  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  315.257 ms  321.324 ms  304.304 ms
+10  212.162.10.82 (212.162.10.82)  378.209 ms  377.819 ms  373.390 ms
+11  z-poznan-gw3.nask.10Gb.rtr.pionier.gov.pl (212.191.224.74)  366.660 ms  368.173 ms  384.699 ms
+12  welcome-at.pw.edu.pl (148.81.253.70)  381.368 ms  375.056 ms  383.591 ms
+13  194.29.132.162 (194.29.132.162)  324.864 ms  312.792 ms  336.423 ms
+14  coi-mini.rtr.pw.edu.pl (194.29.132.2)  386.652 ms  386.171 ms  386.340 ms
+15  planetlab4.mini.pw.edu.pl (194.29.178.14)  322.209 ms  322.361 ms  322.211 ms
+traceroute to planetlab4.mini.pw.edu.pl (194.29.178.14), 30 hops max, 60 byte packets
+ 1  host129.190-227-163.telecom.net.ar (190.227.163.129)  1.718 ms  1.771 ms  1.850 ms
+ 2  host89.181-15-0.telecom.net.ar (181.15.0.89)  6.273 ms  6.718 ms  6.805 ms
+ 3  host17.200-117-124.telecom.net.ar (200.117.124.17)  8.474 ms  8.550 ms  8.830 ms
+ 4  host166.190-225-252.telecom.net.ar (190.225.252.166)  7.229 ms  8.291 ms  10.203 ms
+ 5  xe-8-1-2.baires3.bai.seabone.net (195.22.220.106)  105.736 ms  105.812 ms  106.308 ms
+ 6  xe-0-3-3.losangeles2.loa.seabone.net (89.221.40.181)  252.322 ms xe-1-2-1.losangeles2.loa.seabone.net (89.221.40.183)  247.066 ms  247.051 ms
+ 7  lag-12.ear1.Miami2.Level3.net (4.68.71.161)  350.508 ms  353.257 ms  344.152 ms
+ 8  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  349.433 ms  349.518 ms  349.595 ms
+ 9  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  348.886 ms  349.968 ms  349.847 ms
+10  212.162.10.82 (212.162.10.82)  373.519 ms  370.766 ms  366.798 ms
+11  z-poznan-gw3.nask.10Gb.rtr.pionier.gov.pl (212.191.224.74)  371.630 ms  374.072 ms  368.846 ms
+12  welcome-at.pw.edu.pl (148.81.253.70)  383.346 ms  374.453 ms  383.082 ms
+13  194.29.132.162 (194.29.132.162)  314.916 ms  315.014 ms  312.698 ms
+14  coi-mini.rtr.pw.edu.pl (194.29.132.2)  380.232 ms  381.666 ms  378.013 ms
+15  planetlab4.mini.pw.edu.pl (194.29.178.14)  325.859 ms  322.782 ms  312.721 ms
+traceroute to planetlab4.mini.pw.edu.pl (194.29.178.14), 30 hops max, 60 byte packets
+ 1  host129.190-227-163.telecom.net.ar (190.227.163.129)  2.615 ms  2.676 ms  2.759 ms
+ 2  host89.181-15-0.telecom.net.ar (181.15.0.89)  8.493 ms  9.047 ms  9.158 ms
+ 3  host17.200-117-124.telecom.net.ar (200.117.124.17)  7.318 ms  7.401 ms  7.671 ms
+ 4  host166.190-225-252.telecom.net.ar (190.225.252.166)  6.474 ms  10.791 ms  10.879 ms
+ 5  xe-8-1-2.baires3.bai.seabone.net (195.22.220.106)  82.976 ms  88.503 ms  88.586 ms
+ 6  xe-0-3-2.losangeles2.loa.seabone.net (89.221.40.161)  254.419 ms xe-1-2-1.losangeles2.loa.seabone.net (89.221.40.183)  235.691 ms xe-0-3-2.losangeles2.loa.seabone.net (89.221.40.161)  251.083 ms
+ 7  lag-12.ear1.Miami2.Level3.net (4.68.71.161)  347.806 ms  354.072 ms  342.707 ms
+ 8  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  314.717 ms  318.214 ms  304.498 ms
+ 9  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  304.574 ms  311.349 ms  316.225 ms
+10  212.162.10.82 (212.162.10.82)  378.514 ms  406.673 ms  406.121 ms
+11  z-poznan-gw3.nask.10Gb.rtr.pionier.gov.pl (212.191.224.74)  385.621 ms  369.469 ms  371.982 ms
+12  welcome-at.pw.edu.pl (148.81.253.70)  367.451 ms  369.514 ms  378.163 ms
+13  194.29.132.162 (194.29.132.162)  311.706 ms  319.823 ms  314.145 ms
+14  coi-mini.rtr.pw.edu.pl (194.29.132.2)  382.954 ms  379.947 ms  386.359 ms
+15  planetlab4.mini.pw.edu.pl (194.29.178.14)  321.997 ms  325.176 ms  317.894 ms
+traceroute to planetlab4.mini.pw.edu.pl (194.29.178.14), 30 hops max, 60 byte packets
+ 1  host129.190-227-163.telecom.net.ar (190.227.163.129)  1.642 ms  1.700 ms  1.774 ms
+ 2  host89.181-15-0.telecom.net.ar (181.15.0.89)  19.375 ms  19.455 ms  19.780 ms
+ 3  host17.200-117-124.telecom.net.ar (200.117.124.17)  7.703 ms  8.337 ms  13.282 ms
+ 4  host166.190-225-252.telecom.net.ar (190.225.252.166)  14.438 ms  14.527 ms  14.650 ms
+ 5  xe-8-1-2.baires3.bai.seabone.net (195.22.220.106)  272.991 ms  283.035 ms  283.335 ms
+ 6  xe-0-3-3.losangeles2.loa.seabone.net (89.221.40.181)  245.946 ms  261.022 ms xe-1-0-3.losangeles2.loa.seabone.net (89.221.40.185)  257.625 ms
+ 7  lag-12.ear1.Miami2.Level3.net (4.68.71.161)  351.115 ms  354.678 ms  351.191 ms
+ 8  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  321.932 ms  312.958 ms  312.370 ms
+ 9  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  322.816 ms  308.472 ms  315.125 ms
+10  212.162.10.82 (212.162.10.82)  377.927 ms  379.033 ms  369.192 ms
+11  z-poznan-gw3.nask.10Gb.rtr.pionier.gov.pl (212.191.224.74)  373.025 ms  372.468 ms  366.901 ms
+12  welcome-at.pw.edu.pl (148.81.253.70)  381.715 ms  367.913 ms  375.103 ms
+13  194.29.132.162 (194.29.132.162)  327.404 ms  326.633 ms  321.498 ms
+14  coi-mini.rtr.pw.edu.pl (194.29.132.2)  373.190 ms  379.874 ms  382.399 ms
+15  planetlab4.mini.pw.edu.pl (194.29.178.14)  314.236 ms  326.785 ms  310.968 ms
+traceroute to planetlab4.mini.pw.edu.pl (194.29.178.14), 30 hops max, 60 byte packets
+ 1  host129.190-227-163.telecom.net.ar (190.227.163.129)  2.292 ms  2.391 ms  2.474 ms
+ 2  host89.181-15-0.telecom.net.ar (181.15.0.89)  11.946 ms  13.406 ms  13.698 ms
+ 3  host17.200-117-124.telecom.net.ar (200.117.124.17)  12.186 ms  12.429 ms  12.842 ms
+ 4  host166.190-225-252.telecom.net.ar (190.225.252.166)  15.060 ms  15.133 ms  15.483 ms
+ 5  xe-8-1-2.baires3.bai.seabone.net (195.22.220.106)  123.647 ms  132.833 ms  133.417 ms
+ 6  xe-0-3-3.losangeles2.loa.seabone.net (89.221.40.181)  263.136 ms xe-1-0-3.losangeles2.loa.seabone.net (89.221.40.185)  271.877 ms xe-0-3-2.losangeles2.loa.seabone.net (89.221.40.161)  263.467 ms
+ 7  lag-12.ear1.Miami2.Level3.net (4.68.71.161)  362.719 ms  354.904 ms  354.774 ms
+ 8  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  308.845 ms  309.390 ms  309.267 ms
+ 9  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  321.676 ms  304.485 ms  321.741 ms
+10  212.162.10.82 (212.162.10.82)  392.571 ms  394.947 ms  394.760 ms
+11  z-poznan-gw3.nask.10Gb.rtr.pionier.gov.pl (212.191.224.74)  401.954 ms  374.488 ms  375.253 ms
+12  welcome-at.pw.edu.pl (148.81.253.70)  386.480 ms  373.646 ms  372.970 ms
+13  194.29.132.162 (194.29.132.162)  332.666 ms  316.473 ms  332.367 ms
+14  coi-mini.rtr.pw.edu.pl (194.29.132.2)  394.898 ms  391.022 ms  394.748 ms
+15  planetlab4.mini.pw.edu.pl (194.29.178.14)  322.404 ms  332.129 ms  320.629 ms
+traceroute to planetlab4.mini.pw.edu.pl (194.29.178.14), 30 hops max, 60 byte packets
+ 1  host129.190-227-163.telecom.net.ar (190.227.163.129)  2.296 ms  2.362 ms  2.462 ms
+ 2  host89.181-15-0.telecom.net.ar (181.15.0.89)  23.972 ms  24.707 ms  25.691 ms
+ 3  host17.200-117-124.telecom.net.ar (200.117.124.17)  26.566 ms  27.099 ms  27.184 ms
+ 4  host166.190-225-252.telecom.net.ar (190.225.252.166)  25.709 ms  26.276 ms  26.363 ms
+ 5  xe-8-1-2.baires3.bai.seabone.net (195.22.220.106)  108.753 ms  117.486 ms  127.282 ms
+ 6  xe-11-0-1.losangeles2.loa.seabone.net (89.221.40.141)  262.069 ms xe-0-3-2.losangeles2.loa.seabone.net (89.221.40.161)  265.557 ms xe-1-2-1.losangeles2.loa.seabone.net (89.221.40.183)  261.029 ms
+ 7  lag-12.ear1.Miami2.Level3.net (4.68.71.161)  361.752 ms  364.822 ms  365.152 ms
+ 8  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  331.702 ms  331.194 ms  331.762 ms
+ 9  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  332.153 ms  332.235 ms  331.801 ms
+10  212.162.10.82 (212.162.10.82)  388.654 ms  387.438 ms  384.492 ms
+11  z-poznan-gw3.nask.10Gb.rtr.pionier.gov.pl (212.191.224.74)  374.569 ms  371.304 ms  400.761 ms
+12  welcome-at.pw.edu.pl (148.81.253.70)  389.825 ms  402.474 ms  393.349 ms
+13  194.29.132.162 (194.29.132.162)  332.575 ms  346.011 ms  336.105 ms
+14  coi-mini.rtr.pw.edu.pl (194.29.132.2)  402.855 ms  397.138 ms  408.308 ms
+15  planetlab4.mini.pw.edu.pl (194.29.178.14)  333.779 ms  355.569 ms  333.254 ms
+traceroute to planetlab4.mini.pw.edu.pl (194.29.178.14), 30 hops max, 60 byte packets
+ 1  host129.190-227-163.telecom.net.ar (190.227.163.129)  1.674 ms  1.728 ms  1.806 ms
+ 2  host89.181-15-0.telecom.net.ar (181.15.0.89)  34.745 ms  34.822 ms  35.201 ms
+ 3  host17.200-117-124.telecom.net.ar (200.117.124.17)  6.120 ms  6.653 ms  6.738 ms
+ 4  host166.190-225-252.telecom.net.ar (190.225.252.166)  9.178 ms  10.366 ms  10.479 ms
+ 5  xe-8-1-2.baires3.bai.seabone.net (195.22.220.106)  79.406 ms  79.490 ms  79.900 ms
+ 6  xe-0-0-0.losangeles2.loa.seabone.net (89.221.40.131)  252.846 ms xe-1-0-3.losangeles2.loa.seabone.net (89.221.40.185)  248.500 ms  243.515 ms
+ 7  lag-12.ear1.Miami2.Level3.net (4.68.71.161)  349.909 ms  347.108 ms  342.887 ms
+ 8  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  317.377 ms  306.452 ms  314.372 ms
+ 9  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  310.004 ms  302.209 ms  308.364 ms
+10  212.162.10.82 (212.162.10.82)  375.356 ms  415.794 ms  415.224 ms
+11  z-poznan-gw3.nask.10Gb.rtr.pionier.gov.pl (212.191.224.74)  367.583 ms  371.071 ms  375.607 ms
+12  welcome-at.pw.edu.pl (148.81.253.70)  386.381 ms  388.800 ms  392.155 ms
+13  194.29.132.162 (194.29.132.162)  337.377 ms  335.784 ms  337.438 ms
+14  coi-mini.rtr.pw.edu.pl (194.29.132.2)  394.742 ms  389.806 ms  386.435 ms
+15  planetlab4.mini.pw.edu.pl (194.29.178.14)  324.548 ms  333.752 ms  337.732 ms
+traceroute to planetlab4.mini.pw.edu.pl (194.29.178.14), 30 hops max, 60 byte packets
+ 1  host129.190-227-163.telecom.net.ar (190.227.163.129)  2.471 ms  2.525 ms  2.604 ms
+ 2  host89.181-15-0.telecom.net.ar (181.15.0.89)  6.264 ms  6.677 ms  6.968 ms
+ 3  host17.200-117-124.telecom.net.ar (200.117.124.17)  7.516 ms  7.939 ms  8.229 ms
+ 4  host166.190-225-252.telecom.net.ar (190.225.252.166)  9.242 ms  9.729 ms  10.899 ms
+ 5  xe-8-1-2.baires3.bai.seabone.net (195.22.220.106)  83.970 ms  84.430 ms  84.513 ms
+ 6  xe-1-2-1.losangeles2.loa.seabone.net (89.221.40.183)  222.850 ms xe-1-0-3.losangeles2.loa.seabone.net (89.221.40.185)  227.637 ms xe-0-0-0.losangeles2.loa.seabone.net (89.221.40.131)  238.205 ms
+ 7  lag-12.ear1.Miami2.Level3.net (4.68.71.161)  320.977 ms  328.083 ms  328.666 ms
+ 8  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  311.506 ms  310.314 ms  309.574 ms
+ 9  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  317.617 ms  310.144 ms  312.781 ms
+10  212.162.10.82 (212.162.10.82)  350.790 ms  350.386 ms  439.428 ms
+11  z-poznan-gw3.nask.10Gb.rtr.pionier.gov.pl (212.191.224.74)  357.534 ms  362.801 ms  355.705 ms
+12  welcome-at.pw.edu.pl (148.81.253.70)  352.255 ms  348.828 ms  343.448 ms
+13  194.29.132.162 (194.29.132.162)  316.336 ms  325.155 ms  325.278 ms
+14  coi-mini.rtr.pw.edu.pl (194.29.132.2)  372.191 ms  360.708 ms  372.252 ms
+15  planetlab4.mini.pw.edu.pl (194.29.178.14)  318.807 ms  312.261 ms  317.531 ms
+traceroute to planetlab4.mini.pw.edu.pl (194.29.178.14), 30 hops max, 60 byte packets
+ 1  host129.190-227-163.telecom.net.ar (190.227.163.129)  2.446 ms  2.505 ms  2.584 ms
+ 2  host89.181-15-0.telecom.net.ar (181.15.0.89)  84.558 ms  84.633 ms  84.678 ms
+ 3  host17.200-117-124.telecom.net.ar (200.117.124.17)  79.791 ms  79.869 ms  79.944 ms
+ 4  host166.190-225-252.telecom.net.ar (190.225.252.166)  80.348 ms  80.802 ms  80.888 ms
+ 5  xe-8-1-2.baires3.bai.seabone.net (195.22.220.106)  89.477 ms  93.422 ms  94.742 ms
+ 6  xe-1-0-3.losangeles2.loa.seabone.net (89.221.40.185)  203.948 ms xe-0-0-0.losangeles2.loa.seabone.net (89.221.40.131)  225.520 ms  225.505 ms
+ 7  lag-12.ear1.Miami2.Level3.net (4.68.71.161)  347.642 ms  347.768 ms  347.846 ms
+ 8  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  346.029 ms  346.047 ms  329.205 ms
+ 9  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  328.661 ms  320.499 ms  318.698 ms
+10  212.162.10.82 (212.162.10.82)  329.311 ms  319.584 ms  319.992 ms
+11  z-poznan-gw3.nask.10Gb.rtr.pionier.gov.pl (212.191.224.74)  316.538 ms  326.233 ms  326.042 ms
+12  welcome-at.pw.edu.pl (148.81.253.70)  326.433 ms  325.697 ms  322.210 ms
+13  194.29.132.162 (194.29.132.162)  322.849 ms  321.967 ms  322.050 ms
+14  coi-mini.rtr.pw.edu.pl (194.29.132.2)  332.402 ms  334.493 ms  327.481 ms
+15  planetlab4.mini.pw.edu.pl (194.29.178.14)  316.861 ms  315.933 ms  325.960 ms
+traceroute to planetlab4.mini.pw.edu.pl (194.29.178.14), 30 hops max, 60 byte packets
+ 1  host129.190-227-163.telecom.net.ar (190.227.163.129)  1.694 ms  1.758 ms  1.830 ms
+ 2  host89.181-15-0.telecom.net.ar (181.15.0.89)  37.521 ms  38.131 ms  38.214 ms
+ 3  host17.200-117-124.telecom.net.ar (200.117.124.17)  38.839 ms  39.482 ms  39.565 ms
+ 4  host166.190-225-252.telecom.net.ar (190.225.252.166)  36.303 ms  36.383 ms  36.788 ms
+ 5  xe-8-1-2.baires3.bai.seabone.net (195.22.220.106)  40.052 ms  40.137 ms  40.215 ms
+ 6  xe-0-0-0.losangeles2.loa.seabone.net (89.221.40.131)  206.875 ms  230.376 ms xe-11-0-1.losangeles2.loa.seabone.net (89.221.40.141)  219.964 ms
+ 7  lag-12.ear1.Miami2.Level3.net (4.68.71.161)  322.630 ms  322.502 ms  314.351 ms
+ 8  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  323.565 ms  330.311 ms  330.495 ms
+ 9  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  325.645 ms  305.461 ms  316.303 ms
+10  212.162.10.82 (212.162.10.82)  322.207 ms  323.246 ms  318.845 ms
+11  z-poznan-gw3.nask.10Gb.rtr.pionier.gov.pl (212.191.224.74)  319.258 ms  316.730 ms *
+12  welcome-at.pw.edu.pl (148.81.253.70)  331.078 ms  331.651 ms  314.693 ms
+13  194.29.132.162 (194.29.132.162)  324.708 ms  317.322 ms  311.207 ms
+14  coi-mini.rtr.pw.edu.pl (194.29.132.2)  325.098 ms  331.950 ms  331.379 ms
+15  planetlab4.mini.pw.edu.pl (194.29.178.14)  319.375 ms  325.150 ms  317.270 ms
+traceroute to planetlab4.mini.pw.edu.pl (194.29.178.14), 30 hops max, 60 byte packets
+ 1  host129.190-227-163.telecom.net.ar (190.227.163.129)  2.579 ms  2.632 ms  2.710 ms
+ 2  host89.181-15-0.telecom.net.ar (181.15.0.89)  29.473 ms  29.593 ms  29.876 ms
+ 3  host17.200-117-124.telecom.net.ar (200.117.124.17)  30.130 ms  30.691 ms  31.497 ms
+ 4  host166.190-225-252.telecom.net.ar (190.225.252.166)  32.286 ms  32.363 ms  33.220 ms
+ 5  xe-8-1-2.baires3.bai.seabone.net (195.22.220.106)  24.616 ms  28.695 ms  28.780 ms
+ 6  xe-1-0-3.losangeles2.loa.seabone.net (89.221.40.185)  206.343 ms xe-0-0-0.losangeles2.loa.seabone.net (89.221.40.131)  219.085 ms xe-1-2-1.losangeles2.loa.seabone.net (89.221.40.183)  187.807 ms
+ 7  lag-12.ear1.Miami2.Level3.net (4.68.71.161)  301.804 ms  300.165 ms  302.314 ms
+ 8  * ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  417.894 ms  417.166 ms
+ 9  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  417.043 ms  417.933 ms  417.194 ms
+10  212.162.10.82 (212.162.10.82)  335.123 ms  344.115 ms  339.402 ms
+11  z-poznan-gw3.nask.10Gb.rtr.pionier.gov.pl (212.191.224.74)  327.455 ms  343.812 ms  337.770 ms
+12  welcome-at.pw.edu.pl (148.81.253.70)  328.014 ms  325.965 ms  335.399 ms
+13  194.29.132.162 (194.29.132.162)  324.249 ms  327.180 ms  325.207 ms
+14  coi-mini.rtr.pw.edu.pl (194.29.132.2)  344.050 ms  344.137 ms  335.806 ms
+15  planetlab4.mini.pw.edu.pl (194.29.178.14)  327.893 ms  327.104 ms  324.926 ms
+traceroute to planetlab4.mini.pw.edu.pl (194.29.178.14), 30 hops max, 60 byte packets
+ 1  host129.190-227-163.telecom.net.ar (190.227.163.129)  4.028 ms  4.113 ms  4.198 ms
+ 2  host89.181-15-0.telecom.net.ar (181.15.0.89)  11.202 ms  11.275 ms  12.081 ms
+ 3  host17.200-117-124.telecom.net.ar (200.117.124.17)  7.511 ms  7.955 ms  8.041 ms
+ 4  host166.190-225-252.telecom.net.ar (190.225.252.166)  9.949 ms  10.034 ms  10.922 ms
+ 5  xe-8-1-2.baires3.bai.seabone.net (195.22.220.106)  8.264 ms *  8.889 ms
+ 6  xe-0-0-0.losangeles2.loa.seabone.net (89.221.40.131)  211.311 ms xe-1-2-1.losangeles2.loa.seabone.net (89.221.40.183)  239.033 ms xe-1-0-3.losangeles2.loa.seabone.net (89.221.40.185)  283.566 ms
+ 7  lag-12.ear1.Miami2.Level3.net (4.68.71.161)  396.659 ms  397.113 ms  365.524 ms
+ 8  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  382.911 ms  382.782 ms  478.583 ms
+ 9  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  478.657 ms  478.414 ms  383.125 ms
+10  212.162.10.82 (212.162.10.82)  405.016 ms  399.380 ms  408.815 ms
+11  z-poznan-gw3.nask.10Gb.rtr.pionier.gov.pl (212.191.224.74)  400.888 ms  387.391 ms  321.239 ms
+12  welcome-at.pw.edu.pl (148.81.253.70)  439.102 ms  439.097 ms  430.001 ms
+13  194.29.132.162 (194.29.132.162)  429.613 ms  425.238 ms  416.676 ms
+14  coi-mini.rtr.pw.edu.pl (194.29.132.2)  440.281 ms  421.539 ms  426.548 ms
+15  planetlab4.mini.pw.edu.pl (194.29.178.14)  404.820 ms  420.513 ms  410.463 ms
+traceroute to planetlab4.mini.pw.edu.pl (194.29.178.14), 30 hops max, 60 byte packets
+ 1  host129.190-227-163.telecom.net.ar (190.227.163.129)  2.924 ms  3.000 ms  3.099 ms
+ 2  host89.181-15-0.telecom.net.ar (181.15.0.89)  8.111 ms  8.382 ms  9.065 ms
+ 3  host17.200-117-124.telecom.net.ar (200.117.124.17)  10.169 ms  10.259 ms  10.728 ms
+ 4  host166.190-225-252.telecom.net.ar (190.225.252.166)  14.776 ms  14.888 ms  15.135 ms
+ 5  xe-8-1-2.baires3.bai.seabone.net (195.22.220.106)  8.015 ms  8.075 ms  8.748 ms
+ 6  xe-1-0-3.losangeles2.loa.seabone.net (89.221.40.185)  206.168 ms xe-11-0-1.losangeles2.loa.seabone.net (89.221.40.141)  214.066 ms xe-0-0-0.losangeles2.loa.seabone.net (89.221.40.131)  291.263 ms
+ 7  lag-12.ear1.Miami2.Level3.net (4.68.71.161)  454.964 ms  453.843 ms  453.916 ms
+ 8  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  557.444 ms  556.624 ms  555.973 ms
+ 9  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  556.680 ms  557.253 ms  556.436 ms
+10  212.162.10.82 (212.162.10.82)  455.955 ms  472.604 ms  472.413 ms
+11  z-poznan-gw3.nask.10Gb.rtr.pionier.gov.pl (212.191.224.74)  473.029 ms  443.313 ms  420.975 ms
+12  welcome-at.pw.edu.pl (148.81.253.70)  405.460 ms  425.831 ms  426.354 ms
+13  194.29.132.162 (194.29.132.162)  458.531 ms  367.534 ms  370.484 ms
+14  coi-mini.rtr.pw.edu.pl (194.29.132.2)  378.931 ms  370.482 ms  378.328 ms
+15  planetlab4.mini.pw.edu.pl (194.29.178.14)  368.585 ms  367.988 ms  366.945 ms
+traceroute to planetlab4.mini.pw.edu.pl (194.29.178.14), 30 hops max, 60 byte packets
+ 1  host129.190-227-163.telecom.net.ar (190.227.163.129)  2.538 ms  2.603 ms  2.680 ms
+ 2  host89.181-15-0.telecom.net.ar (181.15.0.89)  30.398 ms  30.931 ms  31.012 ms
+ 3  host17.200-117-124.telecom.net.ar (200.117.124.17)  7.101 ms  7.241 ms  8.097 ms
+ 4  * host166.190-225-252.telecom.net.ar (190.225.252.166)  9.252 ms  9.336 ms
+ 5  xe-8-1-2.baires3.bai.seabone.net (195.22.220.106)  8.106 ms  8.184 ms  8.599 ms
+ 6  xe-0-3-3.losangeles2.loa.seabone.net (89.221.40.181)  205.513 ms xe-1-2-1.losangeles2.loa.seabone.net (89.221.40.183)  201.562 ms xe-0-3-2.losangeles2.loa.seabone.net (89.221.40.161)  214.637 ms
+ 7  lag-12.ear1.Miami2.Level3.net (4.68.71.161)  343.694 ms  343.774 ms  331.392 ms
+ 8  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  345.916 ms  344.888 ms  346.723 ms
+ 9  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  344.982 ms *  345.539 ms
+10  212.162.10.82 (212.162.10.82)  334.280 ms  324.403 ms  331.728 ms
+11  z-poznan-gw3.nask.10Gb.rtr.pionier.gov.pl (212.191.224.74)  368.663 ms  379.005 ms  382.187 ms
+12  welcome-at.pw.edu.pl (148.81.253.70)  339.662 ms  332.753 ms  327.254 ms
+13  194.29.132.162 (194.29.132.162)  330.385 ms  329.804 ms  329.830 ms
+14  coi-mini.rtr.pw.edu.pl (194.29.132.2)  330.007 ms *  334.827 ms
+15  planetlab4.mini.pw.edu.pl (194.29.178.14)  331.184 ms  323.880 ms  326.212 ms
+traceroute to planetlab4.mini.pw.edu.pl (194.29.178.14), 30 hops max, 60 byte packets
+ 1  host129.190-227-163.telecom.net.ar (190.227.163.129)  2.355 ms  2.427 ms  2.554 ms
+ 2  host89.181-15-0.telecom.net.ar (181.15.0.89)  63.038 ms  63.172 ms  63.202 ms
+ 3  host17.200-117-124.telecom.net.ar (200.117.124.17)  51.347 ms  51.964 ms  52.556 ms
+ 4  host166.190-225-252.telecom.net.ar (190.225.252.166)  57.518 ms  57.606 ms *
+ 5  xe-8-1-2.baires3.bai.seabone.net (195.22.220.106)  57.654 ms  62.053 ms  62.136 ms
+ 6  * xe-1-0-3.losangeles2.loa.seabone.net (89.221.40.185)  192.762 ms xe-0-0-0.losangeles2.loa.seabone.net (89.221.40.131)  220.029 ms
+ 7  lag-12.ear1.Miami2.Level3.net (4.68.71.161)  305.274 ms  305.146 ms  313.852 ms
+ 8  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  314.528 ms  314.408 ms  316.814 ms
+ 9  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  314.798 ms  315.279 ms  313.827 ms
+10  212.162.10.82 (212.162.10.82)  330.627 ms  330.714 ms  332.691 ms
+11  z-poznan-gw3.nask.10Gb.rtr.pionier.gov.pl (212.191.224.74)  366.943 ms  357.628 ms  357.710 ms
+12  welcome-at.pw.edu.pl (148.81.253.70)  333.256 ms *  325.887 ms
+13  194.29.132.162 (194.29.132.162)  330.015 ms  328.176 ms  324.884 ms
+14  coi-mini.rtr.pw.edu.pl (194.29.132.2)  329.182 ms  329.825 ms  328.776 ms
+15  planetlab4.mini.pw.edu.pl (194.29.178.14)  325.843 ms  325.144 ms  327.689 ms
+traceroute to planetlab4.mini.pw.edu.pl (194.29.178.14), 30 hops max, 60 byte packets
+ 1  host129.190-227-163.telecom.net.ar (190.227.163.129)  1.276 ms  1.346 ms  1.414 ms
+ 2  host89.181-15-0.telecom.net.ar (181.15.0.89)  91.006 ms  91.092 ms  91.553 ms
+ 3  host17.200-117-124.telecom.net.ar (200.117.124.17)  88.226 ms  88.513 ms  88.807 ms
+ 4  host166.190-225-252.telecom.net.ar (190.225.252.166)  89.200 ms  89.495 ms  90.265 ms
+ 5  xe-8-1-2.baires3.bai.seabone.net (195.22.220.106)  87.361 ms *  87.953 ms
+ 6  xe-0-3-3.losangeles2.loa.seabone.net (89.221.40.181)  284.645 ms xe-0-3-2.losangeles2.loa.seabone.net (89.221.40.161)  203.231 ms xe-11-0-1.losangeles2.loa.seabone.net (89.221.40.141)  192.656 ms
+ 7  lag-12.ear1.Miami2.Level3.net (4.68.71.161)  287.800 ms  288.559 ms  302.029 ms
+ 8  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  303.829 ms  312.214 ms  325.429 ms
+ 9  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  304.884 ms  312.716 ms  312.590 ms
+10  212.162.10.82 (212.162.10.82)  325.846 ms  316.920 ms  325.402 ms
+11  z-poznan-gw3.nask.10Gb.rtr.pionier.gov.pl (212.191.224.74)  363.433 ms  354.622 ms  354.697 ms
+12  welcome-at.pw.edu.pl (148.81.253.70)  341.388 ms  330.296 ms  343.648 ms
+13  194.29.132.162 (194.29.132.162)  335.243 ms  326.571 ms  330.079 ms
+14  coi-mini.rtr.pw.edu.pl (194.29.132.2)  346.210 ms  344.193 ms  346.270 ms
+15  planetlab4.mini.pw.edu.pl (194.29.178.14)  327.165 ms  320.735 ms  332.365 ms
+traceroute to planetlab4.mini.pw.edu.pl (194.29.178.14), 30 hops max, 60 byte packets
+ 1  host129.190-227-163.telecom.net.ar (190.227.163.129)  3.483 ms  3.536 ms  3.587 ms
+ 2  host89.181-15-0.telecom.net.ar (181.15.0.89)  41.190 ms  41.273 ms  41.348 ms
+ 3  host17.200-117-124.telecom.net.ar (200.117.124.17)  42.634 ms  42.563 ms  42.955 ms
+ 4  host166.190-225-252.telecom.net.ar (190.225.252.166)  52.128 ms  52.208 ms  52.832 ms
+ 5  xe-8-1-2.baires3.bai.seabone.net (195.22.220.106)  41.353 ms  41.428 ms  41.829 ms
+ 6  xe-11-0-1.losangeles2.loa.seabone.net (89.221.40.141)  287.222 ms  240.119 ms xe-0-0-0.losangeles2.loa.seabone.net (89.221.40.131)  215.566 ms
+ 7  lag-12.ear1.Miami2.Level3.net (4.68.71.161)  352.481 ms  350.567 ms  352.328 ms
+ 8  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  352.502 ms  353.107 ms  370.655 ms
+ 9  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  369.481 ms  353.612 ms  353.147 ms
+10  212.162.10.82 (212.162.10.82)  379.260 ms  384.206 ms  384.338 ms
+11  z-poznan-gw3.nask.10Gb.rtr.pionier.gov.pl (212.191.224.74)  384.803 ms  355.689 ms  324.617 ms
+12  welcome-at.pw.edu.pl (148.81.253.70)  314.078 ms  317.510 ms  315.385 ms
+13  194.29.132.162 (194.29.132.162)  349.431 ms  348.918 ms  349.007 ms
+14  coi-mini.rtr.pw.edu.pl (194.29.132.2)  332.514 ms  329.427 ms  333.094 ms
+15  planetlab4.mini.pw.edu.pl (194.29.178.14)  327.212 ms  313.732 ms  323.401 ms
+traceroute to planetlab4.mini.pw.edu.pl (194.29.178.14), 30 hops max, 60 byte packets
+ 1  host129.190-227-163.telecom.net.ar (190.227.163.129)  1.533 ms  1.593 ms  1.671 ms
+ 2  host89.181-15-0.telecom.net.ar (181.15.0.89)  84.959 ms  85.040 ms  85.114 ms
+ 3  host17.200-117-124.telecom.net.ar (200.117.124.17)  83.281 ms  83.377 ms  84.747 ms
+ 4  host166.190-225-252.telecom.net.ar (190.225.252.166)  81.896 ms *  82.562 ms
+ 5  xe-8-1-2.baires3.bai.seabone.net (195.22.220.106)  80.894 ms  80.973 ms  81.048 ms
+ 6  xe-0-0-0.losangeles2.loa.seabone.net (89.221.40.131)  266.659 ms xe-0-3-2.losangeles2.loa.seabone.net (89.221.40.161)  246.654 ms xe-11-0-1.losangeles2.loa.seabone.net (89.221.40.141)  256.138 ms
+ 7  lag-12.ear1.Miami2.Level3.net (4.68.71.161)  377.553 ms  376.935 ms  377.374 ms
+ 8  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  380.293 ms  379.129 ms  379.006 ms
+ 9  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  379.011 ms  380.489 ms  377.676 ms
+10  * * *
+11  z-poznan-gw3.nask.10Gb.rtr.pionier.gov.pl (212.191.224.74)  393.090 ms  350.698 ms  327.826 ms
+12  welcome-at.pw.edu.pl (148.81.253.70)  404.764 ms  383.873 ms  384.748 ms
+13  194.29.132.162 (194.29.132.162)  404.199 ms  379.915 ms  384.667 ms
+14  coi-mini.rtr.pw.edu.pl (194.29.132.2)  406.777 ms  404.839 ms  401.733 ms
+15  planetlab4.mini.pw.edu.pl (194.29.178.14)  442.993 ms  451.049 ms  385.662 ms
+traceroute to planetlab4.mini.pw.edu.pl (194.29.178.14), 30 hops max, 60 byte packets
+ 1  host129.190-227-163.telecom.net.ar (190.227.163.129)  1.542 ms  1.608 ms  1.696 ms
+ 2  host89.181-15-0.telecom.net.ar (181.15.0.89)  87.709 ms  87.781 ms  88.152 ms
+ 3  host17.200-117-124.telecom.net.ar (200.117.124.17)  71.831 ms *  72.229 ms
+ 4  host166.190-225-252.telecom.net.ar (190.225.252.166)  70.562 ms  81.308 ms  81.391 ms
+ 5  xe-8-1-2.baires3.bai.seabone.net (195.22.220.106)  70.589 ms  71.279 ms  71.360 ms
+ 6  xe-1-0-3.losangeles2.loa.seabone.net (89.221.40.185)  250.935 ms xe-0-0-0.losangeles2.loa.seabone.net (89.221.40.131)  229.448 ms xe-11-0-1.losangeles2.loa.seabone.net (89.221.40.141)  218.625 ms
+ 7  lag-12.ear1.Miami2.Level3.net (4.68.71.161)  302.970 ms  303.816 ms  320.042 ms
+ 8  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  321.981 ms  321.314 ms  321.049 ms
+ 9  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  320.060 ms  312.750 ms  321.592 ms
+10  212.162.10.82 (212.162.10.82)  349.323 ms  342.363 ms  339.152 ms
+11  z-poznan-gw3.nask.10Gb.rtr.pionier.gov.pl (212.191.224.74)  320.517 ms  370.384 ms  397.027 ms
+12  * welcome-at.pw.edu.pl (148.81.253.70)  334.398 ms  322.338 ms
+13  194.29.132.162 (194.29.132.162)  331.325 ms  332.786 ms  333.893 ms
+14  coi-mini.rtr.pw.edu.pl (194.29.132.2)  347.300 ms  346.808 ms  338.606 ms
+15  planetlab4.mini.pw.edu.pl (194.29.178.14)  313.351 ms  309.285 ms  316.303 ms
+traceroute to planetlab4.mini.pw.edu.pl (194.29.178.14), 30 hops max, 60 byte packets
+ 1  host129.190-227-163.telecom.net.ar (190.227.163.129)  1.535 ms  1.602 ms  1.669 ms
+ 2  host89.181-15-0.telecom.net.ar (181.15.0.89)  5.786 ms  7.160 ms  7.871 ms
+ 3  host17.200-117-124.telecom.net.ar (200.117.124.17)  10.302 ms  10.393 ms  11.001 ms
+ 4  host166.190-225-252.telecom.net.ar (190.225.252.166)  8.505 ms  8.586 ms  9.471 ms
+ 5  * xe-8-1-2.baires3.bai.seabone.net (195.22.220.106)  6.418 ms  6.506 ms
+ 6  xe-11-0-1.losangeles2.loa.seabone.net (89.221.40.141)  192.980 ms  200.357 ms  195.557 ms
+ 7  lag-12.ear1.Miami2.Level3.net (4.68.71.161)  300.271 ms  297.869 ms  292.767 ms
+ 8  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  400.741 ms  311.187 ms  310.816 ms
+ 9  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  311.251 ms  311.724 ms  400.533 ms
+10  212.162.10.82 (212.162.10.82)  316.045 ms  319.154 ms  328.408 ms
+11  z-poznan-gw3.nask.10Gb.rtr.pionier.gov.pl (212.191.224.74)  322.639 ms  346.762 ms  340.177 ms
+12  welcome-at.pw.edu.pl (148.81.253.70)  331.431 ms  330.660 ms  334.113 ms
+13  194.29.132.162 (194.29.132.162)  334.298 ms  339.539 ms  333.212 ms
+14  coi-mini.rtr.pw.edu.pl (194.29.132.2)  353.756 ms  334.817 ms  332.531 ms
+15  planetlab4.mini.pw.edu.pl (194.29.178.14)  323.094 ms  336.875 ms  337.474 ms
+traceroute to planetlab4.mini.pw.edu.pl (194.29.178.14), 30 hops max, 60 byte packets
+ 1  host129.190-227-163.telecom.net.ar (190.227.163.129)  2.551 ms  2.610 ms  2.689 ms
+ 2  host89.181-15-0.telecom.net.ar (181.15.0.89)  28.447 ms  28.565 ms  28.820 ms
+ 3  host17.200-117-124.telecom.net.ar (200.117.124.17)  27.845 ms *  27.905 ms
+ 4  host166.190-225-252.telecom.net.ar (190.225.252.166)  29.649 ms  30.116 ms  31.076 ms
+ 5  xe-8-1-2.baires3.bai.seabone.net (195.22.220.106)  31.154 ms  31.223 ms  31.297 ms
+ 6  xe-0-3-2.losangeles2.loa.seabone.net (89.221.40.161)  211.880 ms xe-0-0-0.losangeles2.loa.seabone.net (89.221.40.131)  209.856 ms xe-0-3-3.losangeles2.loa.seabone.net (89.221.40.181)  196.530 ms
+ 7  lag-12.ear1.Miami2.Level3.net (4.68.71.161)  296.465 ms  296.542 ms  296.816 ms
+ 8  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  306.193 ms  326.487 ms  326.039 ms
+ 9  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  306.937 ms  328.189 ms  326.471 ms
+10  212.162.10.82 (212.162.10.82)  327.255 ms  330.165 ms  339.320 ms
+11  z-poznan-gw3.nask.10Gb.rtr.pionier.gov.pl (212.191.224.74)  333.867 ms  331.980 ms  333.993 ms
+12  welcome-at.pw.edu.pl (148.81.253.70)  316.047 ms  324.921 ms  315.797 ms
+13  194.29.132.162 (194.29.132.162)  315.043 ms  320.778 ms  317.152 ms
+14  coi-mini.rtr.pw.edu.pl (194.29.132.2)  325.356 ms *  325.444 ms
+15  planetlab4.mini.pw.edu.pl (194.29.178.14)  319.339 ms  322.213 ms  313.716 ms
+traceroute to planetlab4.mini.pw.edu.pl (194.29.178.14), 30 hops max, 60 byte packets
+ 1  host129.190-227-163.telecom.net.ar (190.227.163.129)  1.917 ms  1.991 ms  2.070 ms
+ 2  host89.181-15-0.telecom.net.ar (181.15.0.89)  10.368 ms  10.719 ms *
+ 3  host17.200-117-124.telecom.net.ar (200.117.124.17)  11.248 ms  11.334 ms  11.636 ms
+ 4  host166.190-225-252.telecom.net.ar (190.225.252.166)  13.673 ms  13.755 ms  13.830 ms
+ 5  xe-8-1-2.baires3.bai.seabone.net (195.22.220.106)  11.861 ms  11.942 ms  12.210 ms
+ 6  * xe-0-3-2.losangeles2.loa.seabone.net (89.221.40.161)  212.987 ms xe-0-0-0.losangeles2.loa.seabone.net (89.221.40.131)  206.978 ms
+ 7  lag-12.ear1.Miami2.Level3.net (4.68.71.161)  292.391 ms  293.186 ms  290.860 ms
+ 8  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  328.822 ms  328.082 ms  329.589 ms
+ 9  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  329.348 ms  329.434 ms  328.616 ms
+10  212.162.10.82 (212.162.10.82)  324.623 ms  317.646 ms  328.447 ms
+11  z-poznan-gw3.nask.10Gb.rtr.pionier.gov.pl (212.191.224.74)  341.818 ms  341.539 ms  330.302 ms
+12  welcome-at.pw.edu.pl (148.81.253.70)  341.654 ms  345.675 ms  338.657 ms
+13  194.29.132.162 (194.29.132.162)  377.485 ms  374.740 ms  373.779 ms
+14  * coi-mini.rtr.pw.edu.pl (194.29.132.2)  336.779 ms  338.649 ms
+15  planetlab4.mini.pw.edu.pl (194.29.178.14)  326.290 ms  334.851 ms  336.614 ms
+traceroute to planetlab4.mini.pw.edu.pl (194.29.178.14), 30 hops max, 60 byte packets
+ 1  host129.190-227-163.telecom.net.ar (190.227.163.129)  2.949 ms  3.052 ms  3.131 ms
+ 2  host89.181-15-0.telecom.net.ar (181.15.0.89)  23.906 ms  24.571 ms  25.643 ms
+ 3  host17.200-117-124.telecom.net.ar (200.117.124.17)  25.916 ms  26.225 ms  26.308 ms
+ 4  host166.190-225-252.telecom.net.ar (190.225.252.166)  26.826 ms  26.910 ms  27.363 ms
+ 5  * xe-8-1-2.baires3.bai.seabone.net (195.22.220.106)  25.569 ms  25.645 ms
+ 6  xe-0-3-3.losangeles2.loa.seabone.net (89.221.40.181)  209.426 ms xe-1-0-3.losangeles2.loa.seabone.net (89.221.40.185)  235.363 ms xe-0-3-3.losangeles2.loa.seabone.net (89.221.40.181)  239.051 ms
+ 7  lag-12.ear1.Miami2.Level3.net (4.68.71.161)  350.215 ms  336.072 ms  348.077 ms
+ 8  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  352.355 ms  370.083 ms  355.962 ms
+ 9  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  358.754 ms  370.093 ms  370.684 ms
+10  212.162.10.82 (212.162.10.82)  371.343 ms  381.968 ms  371.869 ms
+11  z-poznan-gw3.nask.10Gb.rtr.pionier.gov.pl (212.191.224.74)  358.152 ms  358.279 ms  358.155 ms
+12  welcome-at.pw.edu.pl (148.81.253.70)  323.227 ms  320.492 ms  318.925 ms
+13  194.29.132.162 (194.29.132.162)  317.443 ms  316.920 ms  318.260 ms
+14  coi-mini.rtr.pw.edu.pl (194.29.132.2)  320.716 ms  326.067 ms  332.648 ms
+15  planetlab4.mini.pw.edu.pl (194.29.178.14)  318.666 ms  317.393 ms  323.708 ms
+traceroute to planetlab4.mini.pw.edu.pl (194.29.178.14), 30 hops max, 60 byte packets
+ 1  host129.190-227-163.telecom.net.ar (190.227.163.129)  1.501 ms  1.554 ms  1.630 ms
+ 2  host89.181-15-0.telecom.net.ar (181.15.0.89)  5.903 ms  7.018 ms  7.469 ms
+ 3  host17.200-117-124.telecom.net.ar (200.117.124.17)  8.795 ms  8.883 ms  9.181 ms
+ 4  host166.190-225-252.telecom.net.ar (190.225.252.166)  6.338 ms  6.778 ms  11.997 ms
+ 5  xe-8-1-2.baires3.bai.seabone.net (195.22.220.106)  7.988 ms  9.170 ms  9.463 ms
+ 6  xe-11-0-1.losangeles2.loa.seabone.net (89.221.40.141)  201.275 ms xe-1-0-3.losangeles2.loa.seabone.net (89.221.40.185)  199.397 ms  200.333 ms
+ 7  lag-12.ear1.Miami2.Level3.net (4.68.71.161)  304.348 ms  301.453 ms  310.244 ms
+ 8  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  318.375 ms  316.048 ms  326.501 ms
+ 9  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  316.208 ms  327.079 ms  316.071 ms
+10  212.162.10.82 (212.162.10.82)  345.271 ms  345.139 ms  344.605 ms
+11  z-poznan-gw3.nask.10Gb.rtr.pionier.gov.pl (212.191.224.74)  320.437 ms  391.780 ms  434.228 ms
+12  welcome-at.pw.edu.pl (148.81.253.70)  436.277 ms  435.349 ms  437.280 ms
+13  194.29.132.162 (194.29.132.162)  436.016 ms  436.094 ms  433.789 ms
+14  coi-mini.rtr.pw.edu.pl (194.29.132.2)  446.280 ms  447.112 ms  446.774 ms
+15  planetlab4.mini.pw.edu.pl (194.29.178.14)  435.791 ms  436.540 ms  446.043 ms
+traceroute to planetlab4.mini.pw.edu.pl (194.29.178.14), 30 hops max, 60 byte packets
+ 1  host129.190-227-163.telecom.net.ar (190.227.163.129)  2.809 ms  2.862 ms  2.941 ms
+ 2  host89.181-15-0.telecom.net.ar (181.15.0.89)  6.957 ms  9.185 ms  9.275 ms
+ 3  host17.200-117-124.telecom.net.ar (200.117.124.17)  6.027 ms  6.468 ms  6.547 ms
+ 4  host166.190-225-252.telecom.net.ar (190.225.252.166)  9.377 ms  9.721 ms  10.258 ms
+ 5  xe-8-1-2.baires3.bai.seabone.net (195.22.220.106)  7.040 ms  7.339 ms  7.794 ms
+ 6  xe-11-0-1.losangeles2.loa.seabone.net (89.221.40.141)  196.778 ms  211.409 ms  187.883 ms
+ 7  lag-12.ear1.Miami2.Level3.net (4.68.71.161)  289.944 ms  292.705 ms  287.302 ms
+ 8  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  305.976 ms  309.729 ms  315.115 ms
+ 9  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  310.342 ms  312.322 ms  304.371 ms
+10  212.162.10.82 (212.162.10.82)  326.549 ms  319.859 ms  319.944 ms
+11  z-poznan-gw3.nask.10Gb.rtr.pionier.gov.pl (212.191.224.74)  320.762 ms  327.206 ms  327.403 ms
+12  welcome-at.pw.edu.pl (148.81.253.70)  328.486 ms  317.580 ms  326.815 ms
+13  194.29.132.162 (194.29.132.162)  324.760 ms  317.296 ms  317.896 ms
+14  coi-mini.rtr.pw.edu.pl (194.29.132.2)  331.049 ms  329.373 ms  320.905 ms
+15  planetlab4.mini.pw.edu.pl (194.29.178.14)  322.460 ms  312.114 ms  318.597 ms
+traceroute to planetlab4.mini.pw.edu.pl (194.29.178.14), 30 hops max, 60 byte packets
+ 1  host129.190-227-163.telecom.net.ar (190.227.163.129)  2.845 ms  2.902 ms  2.981 ms
+ 2  host89.181-15-0.telecom.net.ar (181.15.0.89)  9.844 ms  9.932 ms  11.508 ms
+ 3  host17.200-117-124.telecom.net.ar (200.117.124.17)  7.027 ms  7.474 ms  7.560 ms
+ 4  host166.190-225-252.telecom.net.ar (190.225.252.166)  11.525 ms  11.643 ms  11.722 ms
+ 5  xe-8-1-2.baires3.bai.seabone.net (195.22.220.106)  7.762 ms  8.029 ms  8.397 ms
+ 6  xe-1-2-1.losangeles2.loa.seabone.net (89.221.40.183)  203.900 ms xe-11-0-1.losangeles2.loa.seabone.net (89.221.40.141)  194.923 ms xe-0-3-2.losangeles2.loa.seabone.net (89.221.40.161)  202.926 ms
+ 7  lag-12.ear1.Miami2.Level3.net (4.68.71.161)  316.010 ms  291.321 ms  316.472 ms
+ 8  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  316.566 ms  305.432 ms  307.076 ms
+ 9  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  305.330 ms  318.798 ms  307.277 ms
+10  212.162.10.82 (212.162.10.82)  325.457 ms  326.877 ms  325.508 ms
+11  z-poznan-gw3.nask.10Gb.rtr.pionier.gov.pl (212.191.224.74)  326.334 ms  340.784 ms  326.651 ms
+12  welcome-at.pw.edu.pl (148.81.253.70)  317.121 ms  317.750 ms  325.975 ms
+13  194.29.132.162 (194.29.132.162)  329.188 ms  326.621 ms  329.245 ms
+14  coi-mini.rtr.pw.edu.pl (194.29.132.2)  326.915 ms  330.760 ms  328.423 ms
+15  planetlab4.mini.pw.edu.pl (194.29.178.14)  316.832 ms  327.551 ms  328.210 ms
+traceroute to planetlab4.mini.pw.edu.pl (194.29.178.14), 30 hops max, 60 byte packets
+ 1  host129.190-227-163.telecom.net.ar (190.227.163.129)  2.826 ms  2.886 ms  2.964 ms
+ 2  host89.181-15-0.telecom.net.ar (181.15.0.89)  10.477 ms  10.958 ms  11.472 ms
+ 3  host17.200-117-124.telecom.net.ar (200.117.124.17)  9.099 ms  9.184 ms *
+ 4  host166.190-225-252.telecom.net.ar (190.225.252.166)  11.996 ms  12.585 ms  13.640 ms
+ 5  xe-8-1-2.baires3.bai.seabone.net (195.22.220.106)  9.676 ms  10.134 ms *
+ 6  xe-1-2-1.losangeles2.loa.seabone.net (89.221.40.183)  200.768 ms xe-0-3-3.losangeles2.loa.seabone.net (89.221.40.181)  204.515 ms  195.321 ms
+ 7  lag-12.ear1.Miami2.Level3.net (4.68.71.161)  350.867 ms  350.740 ms  302.872 ms
+ 8  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  495.874 ms  500.752 ms  495.939 ms
+ 9  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  500.504 ms  500.588 ms  501.393 ms
+10  * 212.162.10.82 (212.162.10.82)  318.465 ms  332.668 ms
+11  z-poznan-gw3.nask.10Gb.rtr.pionier.gov.pl (212.191.224.74)  375.441 ms  371.320 ms  325.939 ms
+12  welcome-at.pw.edu.pl (148.81.253.70)  323.735 ms  330.605 ms  331.000 ms
+13  194.29.132.162 (194.29.132.162)  424.653 ms  424.404 ms  410.141 ms
+14  coi-mini.rtr.pw.edu.pl (194.29.132.2)  420.278 ms  429.861 ms  429.251 ms
+15  planetlab4.mini.pw.edu.pl (194.29.178.14)  412.768 ms  373.476 ms  381.484 ms
+traceroute to planetlab4.mini.pw.edu.pl (194.29.178.14), 30 hops max, 60 byte packets
+ 1  host129.190-227-163.telecom.net.ar (190.227.163.129)  4.622 ms  4.692 ms  4.773 ms
+ 2  host89.181-15-0.telecom.net.ar (181.15.0.89)  73.636 ms  73.712 ms  73.785 ms
+ 3  host17.200-117-124.telecom.net.ar (200.117.124.17)  73.863 ms  73.942 ms  74.020 ms
+ 4  host166.190-225-252.telecom.net.ar (190.225.252.166)  74.319 ms  74.401 ms  74.936 ms
+ 5  xe-8-1-2.baires3.bai.seabone.net (195.22.220.106)  72.215 ms  72.294 ms  75.006 ms
+ 6  xe-0-3-2.losangeles2.loa.seabone.net (89.221.40.161)  274.557 ms xe-0-0-0.losangeles2.loa.seabone.net (89.221.40.131)  309.828 ms xe-1-2-1.losangeles2.loa.seabone.net (89.221.40.183)  184.890 ms
+ 7  lag-12.ear1.Miami2.Level3.net (4.68.71.161)  303.662 ms  305.356 ms  322.622 ms
+ 8  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  340.210 ms  340.541 ms  323.859 ms
+ 9  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  323.248 ms  339.923 ms  322.688 ms
+10  212.162.10.82 (212.162.10.82)  342.827 ms  342.905 ms  342.976 ms
+11  z-poznan-gw3.nask.10Gb.rtr.pionier.gov.pl (212.191.224.74)  340.798 ms  385.604 ms  356.643 ms
+12  welcome-at.pw.edu.pl (148.81.253.70)  327.486 ms  369.107 ms  370.728 ms
+13  194.29.132.162 (194.29.132.162)  368.250 ms  369.896 ms  368.090 ms
+14  coi-mini.rtr.pw.edu.pl (194.29.132.2)  379.189 ms  370.425 ms  369.583 ms
+15  planetlab4.mini.pw.edu.pl (194.29.178.14)  358.758 ms  358.238 ms  368.776 ms
+traceroute to planetlab4.mini.pw.edu.pl (194.29.178.14), 30 hops max, 60 byte packets
+ 1  host129.190-227-163.telecom.net.ar (190.227.163.129)  3.056 ms  3.125 ms  3.204 ms
+ 2  host89.181-15-0.telecom.net.ar (181.15.0.89)  32.976 ms  33.515 ms *
+ 3  host17.200-117-124.telecom.net.ar (200.117.124.17)  38.178 ms  38.767 ms  39.542 ms
+ 4  host166.190-225-252.telecom.net.ar (190.225.252.166)  39.628 ms  39.698 ms  40.165 ms
+ 5  xe-8-1-2.baires3.bai.seabone.net (195.22.220.106)  33.450 ms  37.496 ms  37.576 ms
+ 6  * xe-0-3-3.losangeles2.loa.seabone.net (89.221.40.181)  211.435 ms xe-1-2-1.losangeles2.loa.seabone.net (89.221.40.183)  196.757 ms
+ 7  lag-12.ear1.Miami2.Level3.net (4.68.71.161)  296.842 ms  302.776 ms  302.130 ms
+ 8  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  392.642 ms  393.827 ms  393.298 ms
+ 9  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  393.078 ms  393.162 ms  393.855 ms
+10  212.162.10.82 (212.162.10.82)  345.600 ms  329.067 ms  340.937 ms
+11  z-poznan-gw3.nask.10Gb.rtr.pionier.gov.pl (212.191.224.74)  355.846 ms  398.480 ms  360.012 ms
+12  welcome-at.pw.edu.pl (148.81.253.70)  356.423 ms  355.245 ms  333.247 ms
+13  194.29.132.162 (194.29.132.162)  323.359 ms  318.086 ms  355.499 ms
+14  coi-mini.rtr.pw.edu.pl (194.29.132.2)  374.604 ms  364.330 ms  363.367 ms
+15  planetlab4.mini.pw.edu.pl (194.29.178.14)  363.768 ms  367.392 ms  375.513 ms
+traceroute to planetlab4.mini.pw.edu.pl (194.29.178.14), 30 hops max, 60 byte packets
+ 1  host129.190-227-163.telecom.net.ar (190.227.163.129)  2.480 ms  2.545 ms  2.654 ms
+ 2  host89.181-15-0.telecom.net.ar (181.15.0.89)  10.192 ms  10.811 ms  10.889 ms
+ 3  host17.200-117-124.telecom.net.ar (200.117.124.17)  11.382 ms  11.510 ms  11.979 ms
+ 4  host166.190-225-252.telecom.net.ar (190.225.252.166)  8.233 ms  8.698 ms *
+ 5  xe-8-1-2.baires3.bai.seabone.net (195.22.220.106)  9.092 ms  9.178 ms  9.483 ms
+ 6  xe-0-3-2.losangeles2.loa.seabone.net (89.221.40.161)  201.907 ms xe-11-0-1.losangeles2.loa.seabone.net (89.221.40.141)  208.073 ms  197.591 ms
+ 7  lag-12.ear1.Miami2.Level3.net (4.68.71.161)  305.341 ms  302.634 ms  296.173 ms
+ 8  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  317.332 ms *  317.393 ms
+ 9  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  322.115 ms  321.794 ms  317.428 ms
+10  * 212.162.10.82 (212.162.10.82)  343.057 ms  349.860 ms
+11  z-poznan-gw3.nask.10Gb.rtr.pionier.gov.pl (212.191.224.74)  406.739 ms *  423.706 ms
+12  welcome-at.pw.edu.pl (148.81.253.70)  356.363 ms  359.807 ms *
+13  194.29.132.162 (194.29.132.162)  356.718 ms  356.351 ms  355.024 ms
+14  * coi-mini.rtr.pw.edu.pl (194.29.132.2)  362.090 ms  360.968 ms
+15  planetlab4.mini.pw.edu.pl (194.29.178.14)  357.382 ms  357.894 ms  358.321 ms
+traceroute to planetlab4.mini.pw.edu.pl (194.29.178.14), 30 hops max, 60 byte packets
+ 1  host129.190-227-163.telecom.net.ar (190.227.163.129)  1.437 ms  1.503 ms  1.578 ms
+ 2  host89.181-15-0.telecom.net.ar (181.15.0.89)  43.103 ms  43.183 ms  43.292 ms
+ 3  host17.200-117-124.telecom.net.ar (200.117.124.17)  38.162 ms  38.728 ms  40.724 ms
+ 4  host166.190-225-252.telecom.net.ar (190.225.252.166)  36.450 ms  36.868 ms  37.287 ms
+ 5  xe-8-1-2.baires3.bai.seabone.net (195.22.220.106)  40.987 ms  41.061 ms  41.169 ms
+ 6  xe-1-2-1.losangeles2.loa.seabone.net (89.221.40.183)  208.476 ms xe-1-0-3.losangeles2.loa.seabone.net (89.221.40.185)  240.827 ms xe-0-3-3.losangeles2.loa.seabone.net (89.221.40.181)  240.589 ms
+ 7  lag-12.ear1.Miami2.Level3.net (4.68.71.161)  310.141 ms  311.008 ms  298.316 ms
+ 8  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  313.987 ms  316.894 ms  315.974 ms
+ 9  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  311.884 ms  310.923 ms  325.690 ms
+10  212.162.10.82 (212.162.10.82)  327.264 ms  365.878 ms  318.543 ms
+11  z-poznan-gw3.nask.10Gb.rtr.pionier.gov.pl (212.191.224.74)  321.770 ms  344.451 ms  335.441 ms
+12  * welcome-at.pw.edu.pl (148.81.253.70)  337.245 ms  334.928 ms
+13  194.29.132.162 (194.29.132.162)  335.655 ms  333.595 ms  331.919 ms
+14  coi-mini.rtr.pw.edu.pl (194.29.132.2)  337.892 ms  336.187 ms  336.018 ms
+15  planetlab4.mini.pw.edu.pl (194.29.178.14)  335.088 ms  334.590 ms  332.676 ms
+traceroute to planetlab4.mini.pw.edu.pl (194.29.178.14), 30 hops max, 60 byte packets
+ 1  host129.190-227-163.telecom.net.ar (190.227.163.129)  2.752 ms  2.822 ms  2.898 ms
+ 2  host89.181-15-0.telecom.net.ar (181.15.0.89)  21.278 ms  21.740 ms  21.812 ms
+ 3  host17.200-117-124.telecom.net.ar (200.117.124.17)  8.979 ms  9.063 ms  9.327 ms
+ 4  host166.190-225-252.telecom.net.ar (190.225.252.166)  10.560 ms  11.091 ms  12.810 ms
+ 5  xe-8-1-2.baires3.bai.seabone.net (195.22.220.106)  7.618 ms  7.702 ms  7.777 ms
+ 6  xe-0-3-2.losangeles2.loa.seabone.net (89.221.40.161)  206.680 ms xe-1-0-3.losangeles2.loa.seabone.net (89.221.40.185)  197.772 ms xe-0-3-3.losangeles2.loa.seabone.net (89.221.40.181)  196.193 ms
+ 7  lag-12.ear1.Miami2.Level3.net (4.68.71.161)  290.254 ms  290.338 ms  297.689 ms
+ 8  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  327.172 ms  327.299 ms  321.327 ms
+ 9  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  311.454 ms  312.065 ms  310.992 ms
+10  212.162.10.82 (212.162.10.82)  335.170 ms  340.431 ms  328.440 ms
+11  z-poznan-gw3.nask.10Gb.rtr.pionier.gov.pl (212.191.224.74)  336.823 ms  318.562 ms  371.150 ms
+12  welcome-at.pw.edu.pl (148.81.253.70)  396.820 ms  365.062 ms  366.674 ms
+13  194.29.132.162 (194.29.132.162)  356.647 ms  369.071 ms  370.492 ms
+14  coi-mini.rtr.pw.edu.pl (194.29.132.2)  366.485 ms  367.300 ms  398.887 ms
+15  planetlab4.mini.pw.edu.pl (194.29.178.14)  357.437 ms  362.308 ms  356.690 ms
+traceroute to planetlab4.mini.pw.edu.pl (194.29.178.14), 30 hops max, 60 byte packets
+ 1  host129.190-227-163.telecom.net.ar (190.227.163.129)  3.484 ms  3.541 ms  3.615 ms
+ 2  host89.181-15-0.telecom.net.ar (181.15.0.89)  29.082 ms  29.556 ms  29.639 ms
+ 3  host17.200-117-124.telecom.net.ar (200.117.124.17)  31.969 ms  32.446 ms  33.228 ms
+ 4  host166.190-225-252.telecom.net.ar (190.225.252.166)  31.168 ms  31.256 ms  31.334 ms
+ 5  xe-8-1-2.baires3.bai.seabone.net (195.22.220.106)  30.140 ms  31.387 ms  31.684 ms
+ 6  xe-1-2-1.losangeles2.loa.seabone.net (89.221.40.183)  217.801 ms xe-0-3-2.losangeles2.loa.seabone.net (89.221.40.161)  209.466 ms xe-11-0-1.losangeles2.loa.seabone.net (89.221.40.141)  207.973 ms
+ 7  lag-12.ear1.Miami2.Level3.net (4.68.71.161)  308.915 ms  308.777 ms  306.105 ms
+ 8  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  324.841 ms  324.341 ms  326.559 ms
+ 9  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  328.209 ms  326.851 ms  315.180 ms
+10  212.162.10.82 (212.162.10.82)  325.992 ms  326.351 ms  330.360 ms
+11  z-poznan-gw3.nask.10Gb.rtr.pionier.gov.pl (212.191.224.74)  332.654 ms  321.929 ms  349.804 ms
+12  welcome-at.pw.edu.pl (148.81.253.70)  327.868 ms  341.587 ms  330.528 ms
+13  194.29.132.162 (194.29.132.162)  371.262 ms  370.722 ms  326.322 ms
+14  coi-mini.rtr.pw.edu.pl (194.29.132.2)  332.589 ms  331.567 ms  332.754 ms
+15  planetlab4.mini.pw.edu.pl (194.29.178.14)  330.660 ms  326.931 ms  328.723 ms
+traceroute to planetlab4.mini.pw.edu.pl (194.29.178.14), 30 hops max, 60 byte packets
+ 1  host129.190-227-163.telecom.net.ar (190.227.163.129)  3.072 ms  3.119 ms  3.201 ms
+ 2  host89.181-15-0.telecom.net.ar (181.15.0.89)  10.328 ms  10.417 ms  10.687 ms
+ 3  host17.200-117-124.telecom.net.ar (200.117.124.17)  13.344 ms  13.424 ms  13.501 ms
+ 4  host166.190-225-252.telecom.net.ar (190.225.252.166)  8.731 ms  9.166 ms  9.253 ms
+ 5  xe-8-1-2.baires3.bai.seabone.net (195.22.220.106)  9.652 ms *  12.304 ms
+ 6  xe-1-0-3.losangeles2.loa.seabone.net (89.221.40.185)  215.491 ms xe-0-3-3.losangeles2.loa.seabone.net (89.221.40.181)  207.287 ms  200.754 ms
+ 7  lag-12.ear1.Miami2.Level3.net (4.68.71.161)  308.058 ms  312.379 ms  311.677 ms
+ 8  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  502.547 ms  501.715 ms  501.604 ms
+ 9  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  502.380 ms  502.234 ms  501.374 ms
+10  212.162.10.82 (212.162.10.82)  328.462 ms  325.348 ms  317.318 ms
+11  z-poznan-gw3.nask.10Gb.rtr.pionier.gov.pl (212.191.224.74)  321.655 ms  342.942 ms  342.637 ms
+12  welcome-at.pw.edu.pl (148.81.253.70)  319.436 ms  314.048 ms  329.703 ms
+13  194.29.132.162 (194.29.132.162)  325.408 ms  318.965 ms  314.581 ms
+14  coi-mini.rtr.pw.edu.pl (194.29.132.2)  420.873 ms  394.120 ms  334.983 ms
+15  planetlab4.mini.pw.edu.pl (194.29.178.14)  333.142 ms  332.965 ms  332.901 ms
+traceroute to planetlab4.mini.pw.edu.pl (194.29.178.14), 30 hops max, 60 byte packets
+ 1  host129.190-227-163.telecom.net.ar (190.227.163.129)  2.488 ms  2.538 ms  2.619 ms
+ 2  host89.181-15-0.telecom.net.ar (181.15.0.89)  30.671 ms  30.947 ms  31.190 ms
+ 3  host17.200-117-124.telecom.net.ar (200.117.124.17)  29.746 ms  30.322 ms  30.434 ms
+ 4  host166.190-225-252.telecom.net.ar (190.225.252.166)  28.851 ms  29.552 ms *
+ 5  xe-8-1-2.baires3.bai.seabone.net (195.22.220.106)  27.947 ms  28.035 ms  28.111 ms
+ 6  xe-1-2-1.losangeles2.loa.seabone.net (89.221.40.183)  218.420 ms xe-11-0-1.losangeles2.loa.seabone.net (89.221.40.141)  212.822 ms xe-1-0-3.losangeles2.loa.seabone.net (89.221.40.185)  206.000 ms
+ 7  * lag-12.ear1.Miami2.Level3.net (4.68.71.161)  314.570 ms  329.711 ms
+ 8  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  413.996 ms  414.664 ms  413.071 ms
+ 9  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  413.690 ms  413.773 ms  413.105 ms
+10  212.162.10.82 (212.162.10.82)  382.081 ms *  381.272 ms
+11  z-poznan-gw3.nask.10Gb.rtr.pionier.gov.pl (212.191.224.74)  326.528 ms  318.686 ms  323.897 ms
+12  welcome-at.pw.edu.pl (148.81.253.70)  324.822 ms  340.332 ms  341.909 ms
+13  194.29.132.162 (194.29.132.162)  337.127 ms  322.011 ms  322.056 ms
+14  coi-mini.rtr.pw.edu.pl (194.29.132.2)  327.443 ms  331.159 ms  333.637 ms
+15  planetlab4.mini.pw.edu.pl (194.29.178.14)  314.698 ms  325.099 ms  311.768 ms
+traceroute to planetlab4.mini.pw.edu.pl (194.29.178.14), 30 hops max, 60 byte packets
+ 1  host129.190-227-163.telecom.net.ar (190.227.163.129)  2.809 ms  2.864 ms  2.943 ms
+ 2  * host89.181-15-0.telecom.net.ar (181.15.0.89)  37.574 ms  37.883 ms
+ 3  host17.200-117-124.telecom.net.ar (200.117.124.17)  9.197 ms  9.642 ms  9.722 ms
+ 4  host166.190-225-252.telecom.net.ar (190.225.252.166)  10.970 ms *  11.029 ms
+ 5  xe-8-1-2.baires3.bai.seabone.net (195.22.220.106)  13.983 ms  14.661 ms  14.748 ms
+ 6  xe-11-0-1.losangeles2.loa.seabone.net (89.221.40.141)  205.008 ms xe-1-0-3.losangeles2.loa.seabone.net (89.221.40.185)  203.014 ms  199.717 ms
+ 7  lag-12.ear1.Miami2.Level3.net (4.68.71.161)  301.584 ms  289.626 ms  301.323 ms
+ 8  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  315.397 ms  311.928 ms  307.192 ms
+ 9  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  320.556 ms  318.702 ms  307.809 ms
+10  212.162.10.82 (212.162.10.82)  322.186 ms  327.924 ms  315.207 ms
+11  z-poznan-gw3.nask.10Gb.rtr.pionier.gov.pl (212.191.224.74)  320.450 ms  318.017 ms  316.942 ms
+12  welcome-at.pw.edu.pl (148.81.253.70)  319.081 ms  324.584 ms  327.358 ms
+13  194.29.132.162 (194.29.132.162)  318.206 ms  319.058 ms  318.567 ms
+14  coi-mini.rtr.pw.edu.pl (194.29.132.2)  318.929 ms  329.900 ms  323.624 ms
+15  planetlab4.mini.pw.edu.pl (194.29.178.14)  317.151 ms  320.388 ms  322.582 ms
+traceroute to planetlab4.mini.pw.edu.pl (194.29.178.14), 30 hops max, 60 byte packets
+ 1  host129.190-227-163.telecom.net.ar (190.227.163.129)  3.035 ms  3.081 ms  3.206 ms
+ 2  host89.181-15-0.telecom.net.ar (181.15.0.89)  11.038 ms  11.564 ms *
+ 3  host17.200-117-124.telecom.net.ar (200.117.124.17)  6.008 ms  9.814 ms  10.324 ms
+ 4  host166.190-225-252.telecom.net.ar (190.225.252.166)  7.314 ms  7.931 ms  8.018 ms
+ 5  xe-8-1-2.baires3.bai.seabone.net (195.22.220.106)  20.914 ms  21.376 ms  23.008 ms
+ 6  xe-1-0-3.losangeles2.loa.seabone.net (89.221.40.185)  209.164 ms xe-0-3-3.losangeles2.loa.seabone.net (89.221.40.181)  205.231 ms  194.609 ms
+ 7  * lag-12.ear1.Miami2.Level3.net (4.68.71.161)  292.941 ms  298.981 ms
+ 8  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  323.291 ms  317.949 ms  323.348 ms
+ 9  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  323.467 ms  317.304 ms  328.490 ms
+10  212.162.10.82 (212.162.10.82)  333.250 ms  334.788 ms  333.011 ms
+11  z-poznan-gw3.nask.10Gb.rtr.pionier.gov.pl (212.191.224.74)  322.102 ms *  319.190 ms
+12  welcome-at.pw.edu.pl (148.81.253.70)  328.167 ms  323.508 ms  328.318 ms
+13  194.29.132.162 (194.29.132.162)  314.202 ms  323.506 ms  328.507 ms
+14  coi-mini.rtr.pw.edu.pl (194.29.132.2)  328.459 ms  326.893 ms  319.375 ms
+15  planetlab4.mini.pw.edu.pl (194.29.178.14)  322.882 ms  322.661 ms  315.956 ms
+traceroute to planetlab4.mini.pw.edu.pl (194.29.178.14), 30 hops max, 60 byte packets
+ 1  host129.190-227-163.telecom.net.ar (190.227.163.129)  2.467 ms  2.514 ms  2.590 ms
+ 2  host89.181-15-0.telecom.net.ar (181.15.0.89)  7.946 ms  8.193 ms  8.592 ms
+ 3  host17.200-117-124.telecom.net.ar (200.117.124.17)  6.309 ms  6.777 ms *
+ 4  host166.190-225-252.telecom.net.ar (190.225.252.166)  13.006 ms  13.088 ms  13.660 ms
+ 5  xe-8-1-2.baires3.bai.seabone.net (195.22.220.106)  47.122 ms  54.857 ms  55.283 ms
+ 6  xe-1-2-1.losangeles2.loa.seabone.net (89.221.40.183)  191.919 ms xe-0-0-0.losangeles2.loa.seabone.net (89.221.40.131)  207.091 ms xe-1-2-1.losangeles2.loa.seabone.net (89.221.40.183)  182.493 ms
+ 7  lag-12.ear1.Miami2.Level3.net (4.68.71.161)  297.454 ms *  290.975 ms
+ 8  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  304.340 ms  312.811 ms  307.059 ms
+ 9  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  318.200 ms  305.083 ms  304.913 ms
+10  212.162.10.82 (212.162.10.82)  347.677 ms  357.859 ms  347.776 ms
+11  * z-poznan-gw3.nask.10Gb.rtr.pionier.gov.pl (212.191.224.74)  342.049 ms  346.938 ms
+12  welcome-at.pw.edu.pl (148.81.253.70)  320.215 ms  318.460 ms  325.900 ms
+13  * 194.29.132.162 (194.29.132.162)  320.181 ms  318.155 ms
+14  coi-mini.rtr.pw.edu.pl (194.29.132.2)  322.769 ms  335.534 ms  335.951 ms
+15  planetlab4.mini.pw.edu.pl (194.29.178.14)  312.976 ms  309.408 ms  320.075 ms
+traceroute to planetlab4.mini.pw.edu.pl (194.29.178.14), 30 hops max, 60 byte packets
+ 1  host129.190-227-163.telecom.net.ar (190.227.163.129)  1.609 ms  1.665 ms  1.736 ms
+ 2  host89.181-15-0.telecom.net.ar (181.15.0.89)  8.057 ms  8.473 ms  8.883 ms
+ 3  host17.200-117-124.telecom.net.ar (200.117.124.17)  10.196 ms  10.269 ms  10.765 ms
+ 4  host166.190-225-252.telecom.net.ar (190.225.252.166)  6.153 ms  19.881 ms  19.960 ms
+ 5  xe-8-1-2.baires3.bai.seabone.net (195.22.220.106)  20.782 ms  21.184 ms  27.418 ms
+ 6  xe-11-0-1.losangeles2.loa.seabone.net (89.221.40.141)  208.217 ms  236.502 ms xe-0-3-2.losangeles2.loa.seabone.net (89.221.40.161)  221.002 ms
+ 7  lag-12.ear1.Miami2.Level3.net (4.68.71.161)  303.525 ms  293.450 ms *
+ 8  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  308.386 ms  319.248 ms *
+ 9  * ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  318.287 ms  360.046 ms
+10  212.162.10.82 (212.162.10.82)  327.531 ms  321.367 ms  318.548 ms
+11  z-poznan-gw3.nask.10Gb.rtr.pionier.gov.pl (212.191.224.74)  317.966 ms  319.687 ms  320.761 ms
+12  welcome-at.pw.edu.pl (148.81.253.70)  355.547 ms  342.594 ms  335.733 ms
+13  194.29.132.162 (194.29.132.162)  317.109 ms *  340.664 ms
+14  coi-mini.rtr.pw.edu.pl (194.29.132.2)  342.571 ms  372.595 ms  336.193 ms
+15  planetlab4.mini.pw.edu.pl (194.29.178.14)  340.390 ms  317.315 ms  340.971 ms
+traceroute to planetlab4.mini.pw.edu.pl (194.29.178.14), 30 hops max, 60 byte packets
+ 1  host129.190-227-163.telecom.net.ar (190.227.163.129)  1.420 ms  1.466 ms  1.543 ms
+ 2  host89.181-15-0.telecom.net.ar (181.15.0.89)  22.818 ms  23.836 ms  24.258 ms
+ 3  host17.200-117-124.telecom.net.ar (200.117.124.17)  23.594 ms *  23.658 ms
+ 4  host166.190-225-252.telecom.net.ar (190.225.252.166)  24.694 ms  25.203 ms  25.333 ms
+ 5  xe-8-1-2.baires3.bai.seabone.net (195.22.220.106)  46.374 ms *  62.386 ms
+ 6  xe-0-3-2.losangeles2.loa.seabone.net (89.221.40.161)  242.611 ms xe-1-2-1.losangeles2.loa.seabone.net (89.221.40.183)  198.976 ms xe-0-3-3.losangeles2.loa.seabone.net (89.221.40.181)  214.474 ms
+ 7  lag-12.ear1.Miami2.Level3.net (4.68.71.161)  313.025 ms *  317.353 ms
+ 8  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  318.656 ms  320.258 ms  321.876 ms
+ 9  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  318.612 ms  325.443 ms  319.874 ms
+10  212.162.10.82 (212.162.10.82)  321.751 ms  337.319 ms  330.162 ms
+11  z-poznan-gw3.nask.10Gb.rtr.pionier.gov.pl (212.191.224.74)  318.668 ms  320.661 ms  332.079 ms
+12  welcome-at.pw.edu.pl (148.81.253.70)  333.232 ms  327.881 ms  327.059 ms
+13  194.29.132.162 (194.29.132.162)  331.045 ms  330.933 ms  329.762 ms
+14  coi-mini.rtr.pw.edu.pl (194.29.132.2)  326.902 ms *  319.225 ms
+15  planetlab4.mini.pw.edu.pl (194.29.178.14)  314.132 ms  308.672 ms  308.979 ms
+traceroute to planetlab4.mini.pw.edu.pl (194.29.178.14), 30 hops max, 60 byte packets
+ 1  host129.190-227-163.telecom.net.ar (190.227.163.129)  2.530 ms  2.591 ms  2.671 ms
+ 2  host89.181-15-0.telecom.net.ar (181.15.0.89)  11.833 ms  12.361 ms  12.878 ms
+ 3  * host17.200-117-124.telecom.net.ar (200.117.124.17)  12.942 ms *
+ 4  host166.190-225-252.telecom.net.ar (190.225.252.166)  13.411 ms  13.865 ms  13.939 ms
+ 5  xe-8-1-2.baires3.bai.seabone.net (195.22.220.106)  67.768 ms  92.494 ms *
+ 6  xe-11-0-1.losangeles2.loa.seabone.net (89.221.40.141)  223.137 ms * xe-1-0-3.losangeles2.loa.seabone.net (89.221.40.185)  217.798 ms
+ 7  lag-12.ear1.Miami2.Level3.net (4.68.71.161)  292.556 ms  301.778 ms  299.214 ms
+ 8  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  325.800 ms  325.877 ms  326.694 ms
+ 9  * ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  310.710 ms  305.302 ms
+10  212.162.10.82 (212.162.10.82)  329.047 ms  347.482 ms  332.792 ms
+11  z-poznan-gw3.nask.10Gb.rtr.pionier.gov.pl (212.191.224.74)  326.401 ms  320.134 ms  321.119 ms
+12  welcome-at.pw.edu.pl (148.81.253.70)  326.850 ms *  323.662 ms
+13  194.29.132.162 (194.29.132.162)  327.262 ms  319.970 ms  335.927 ms
+14  coi-mini.rtr.pw.edu.pl (194.29.132.2)  375.969 ms  381.677 ms  332.077 ms
+15  planetlab4.mini.pw.edu.pl (194.29.178.14)  312.982 ms  319.321 ms  310.379 ms
+traceroute to planetlab4.mini.pw.edu.pl (194.29.178.14), 30 hops max, 60 byte packets
+ 1  host129.190-227-163.telecom.net.ar (190.227.163.129)  3.388 ms  3.455 ms  3.542 ms
+ 2  host89.181-15-0.telecom.net.ar (181.15.0.89)  16.862 ms  17.436 ms  17.547 ms
+ 3  host17.200-117-124.telecom.net.ar (200.117.124.17)  19.665 ms  19.737 ms  19.816 ms
+ 4  host166.190-225-252.telecom.net.ar (190.225.252.166)  17.726 ms  18.214 ms  19.460 ms
+ 5  xe-8-1-2.baires3.bai.seabone.net (195.22.220.106)  143.995 ms  144.105 ms  144.175 ms
+ 6  xe-1-0-3.losangeles2.loa.seabone.net (89.221.40.185)  228.214 ms *  236.113 ms
+ 7  lag-12.ear1.Miami2.Level3.net (4.68.71.161)  337.779 ms *  345.555 ms
+ 8  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  350.221 ms  349.987 ms  355.593 ms
+ 9  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  361.716 ms *  358.085 ms
+10  212.162.10.82 (212.162.10.82)  393.005 ms  393.317 ms  393.756 ms
+11  z-poznan-gw3.nask.10Gb.rtr.pionier.gov.pl (212.191.224.74)  368.226 ms  363.747 ms  359.426 ms
+12  welcome-at.pw.edu.pl (148.81.253.70)  351.142 ms *  355.563 ms
+13  194.29.132.162 (194.29.132.162)  350.301 ms  431.448 ms  426.225 ms
+14  * coi-mini.rtr.pw.edu.pl (194.29.132.2)  345.646 ms  354.726 ms
+15  planetlab4.mini.pw.edu.pl (194.29.178.14)  349.242 ms  427.881 ms  426.913 ms
+traceroute to planetlab4.mini.pw.edu.pl (194.29.178.14), 30 hops max, 60 byte packets
+ 1  host129.190-227-163.telecom.net.ar (190.227.163.129)  2.661 ms  2.744 ms  2.817 ms
+ 2  host89.181-15-0.telecom.net.ar (181.15.0.89)  38.937 ms *  43.283 ms
+ 3  host17.200-117-124.telecom.net.ar (200.117.124.17)  43.368 ms  43.940 ms  44.417 ms
+ 4  * host166.190-225-252.telecom.net.ar (190.225.252.166)  48.531 ms  48.618 ms
+ 5  * xe-8-1-2.baires3.bai.seabone.net (195.22.220.106)  103.731 ms  103.815 ms
+ 6  xe-1-0-3.losangeles2.loa.seabone.net (89.221.40.185)  223.376 ms xe-0-3-3.losangeles2.loa.seabone.net (89.221.40.181)  205.529 ms xe-1-0-3.losangeles2.loa.seabone.net (89.221.40.185)  243.687 ms
+ 7  lag-12.ear1.Miami2.Level3.net (4.68.71.161)  348.918 ms  360.247 ms  360.081 ms
+ 8  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  434.387 ms  434.470 ms  435.207 ms
+ 9  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  434.527 ms  434.604 ms  420.028 ms
+10  212.162.10.82 (212.162.10.82)  413.753 ms  397.893 ms *
+11  z-poznan-gw3.nask.10Gb.rtr.pionier.gov.pl (212.191.224.74)  407.426 ms  411.882 ms  397.697 ms
+12  welcome-at.pw.edu.pl (148.81.253.70)  338.978 ms *  351.418 ms
+13  194.29.132.162 (194.29.132.162)  334.608 ms  351.170 ms  334.416 ms
+14  * coi-mini.rtr.pw.edu.pl (194.29.132.2)  351.909 ms  353.458 ms
+15  planetlab4.mini.pw.edu.pl (194.29.178.14)  344.997 ms  349.707 ms  345.606 ms
+traceroute to planetlab4.mini.pw.edu.pl (194.29.178.14), 30 hops max, 60 byte packets
+ 1  host129.190-227-163.telecom.net.ar (190.227.163.129)  2.451 ms  2.502 ms  2.585 ms
+ 2  host89.181-15-0.telecom.net.ar (181.15.0.89)  84.101 ms  84.594 ms  85.025 ms
+ 3  host17.200-117-124.telecom.net.ar (200.117.124.17)  82.982 ms  83.292 ms  83.641 ms
+ 4  host166.190-225-252.telecom.net.ar (190.225.252.166)  86.375 ms  86.807 ms  86.890 ms
+ 5  xe-8-1-2.baires3.bai.seabone.net (195.22.220.106)  127.934 ms  128.014 ms  137.066 ms
+ 6  * xe-1-2-1.losangeles2.loa.seabone.net (89.221.40.183)  271.630 ms *
+ 7  lag-12.ear1.Miami2.Level3.net (4.68.71.161)  413.233 ms  406.899 ms  407.663 ms
+ 8  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  430.216 ms  415.468 ms  416.726 ms
+ 9  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  427.170 ms  422.028 ms  423.775 ms
+10  212.162.10.82 (212.162.10.82)  438.591 ms  560.639 ms  560.482 ms
+11  z-poznan-gw3.nask.10Gb.rtr.pionier.gov.pl (212.191.224.74)  462.314 ms  461.681 ms  455.390 ms
+12  welcome-at.pw.edu.pl (148.81.253.70)  464.828 ms  459.393 ms  458.072 ms
+13  194.29.132.162 (194.29.132.162)  456.150 ms  452.229 ms  451.820 ms
+14  coi-mini.rtr.pw.edu.pl (194.29.132.2)  446.514 ms  443.995 ms  470.936 ms
+15  planetlab4.mini.pw.edu.pl (194.29.178.14)  499.287 ms  498.872 ms  441.395 ms
+traceroute to planetlab4.mini.pw.edu.pl (194.29.178.14), 30 hops max, 60 byte packets
+ 1  host129.190-227-163.telecom.net.ar (190.227.163.129)  1.479 ms  1.521 ms  1.598 ms
+ 2  host89.181-15-0.telecom.net.ar (181.15.0.89)  15.219 ms  16.463 ms *
+ 3  host17.200-117-124.telecom.net.ar (200.117.124.17)  14.098 ms  14.183 ms  14.655 ms
+ 4  host166.190-225-252.telecom.net.ar (190.225.252.166)  15.497 ms  16.428 ms  16.507 ms
+ 5  xe-8-1-2.baires3.bai.seabone.net (195.22.220.106)  72.894 ms *  72.947 ms
+ 6  xe-1-0-3.losangeles2.loa.seabone.net (89.221.40.185)  231.942 ms xe-11-0-1.losangeles2.loa.seabone.net (89.221.40.141)  223.301 ms *
+ 7  lag-12.ear1.Miami2.Level3.net (4.68.71.161)  355.998 ms  355.459 ms  334.604 ms
+ 8  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  332.599 ms  333.092 ms  333.176 ms
+ 9  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  322.698 ms  323.339 ms  332.287 ms
+10  212.162.10.82 (212.162.10.82)  352.336 ms  359.074 ms  344.794 ms
+11  z-poznan-gw3.nask.10Gb.rtr.pionier.gov.pl (212.191.224.74)  343.901 ms  354.753 ms  343.961 ms
+12  welcome-at.pw.edu.pl (148.81.253.70)  334.139 ms  342.309 ms  344.954 ms
+13  194.29.132.162 (194.29.132.162)  322.853 ms  324.681 ms  325.497 ms
+14  coi-mini.rtr.pw.edu.pl (194.29.132.2)  349.980 ms  354.038 ms  344.323 ms
+15  planetlab4.mini.pw.edu.pl (194.29.178.14)  323.266 ms  343.999 ms  344.106 ms
+traceroute to planetlab4.mini.pw.edu.pl (194.29.178.14), 30 hops max, 60 byte packets
+ 1  host129.190-227-163.telecom.net.ar (190.227.163.129)  2.155 ms  2.247 ms  2.329 ms
+ 2  host89.181-15-0.telecom.net.ar (181.15.0.89)  31.529 ms  31.622 ms *
+ 3  host17.200-117-124.telecom.net.ar (200.117.124.17)  39.983 ms  40.067 ms  40.619 ms
+ 4  host166.190-225-252.telecom.net.ar (190.225.252.166)  41.081 ms  41.163 ms  41.800 ms
+ 5  xe-8-1-2.baires3.bai.seabone.net (195.22.220.106)  84.894 ms  106.225 ms  106.214 ms
+ 6  xe-11-0-1.losangeles2.loa.seabone.net (89.221.40.141)  255.003 ms xe-1-0-3.losangeles2.loa.seabone.net (89.221.40.185)  284.059 ms xe-0-3-3.losangeles2.loa.seabone.net (89.221.40.181)  309.473 ms
+ 7  lag-12.ear1.Miami2.Level3.net (4.68.71.161)  409.862 ms  413.953 ms *
+ 8  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  392.609 ms  392.695 ms  397.265 ms
+ 9  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  392.051 ms  391.826 ms  391.917 ms
+10  212.162.10.82 (212.162.10.82)  439.696 ms  439.553 ms  426.576 ms
+11  z-poznan-gw3.nask.10Gb.rtr.pionier.gov.pl (212.191.224.74)  372.422 ms  369.072 ms  384.053 ms
+12  welcome-at.pw.edu.pl (148.81.253.70)  367.657 ms  378.156 ms  380.063 ms
+13  194.29.132.162 (194.29.132.162)  346.494 ms  349.341 ms  343.769 ms
+14  coi-mini.rtr.pw.edu.pl (194.29.132.2)  363.272 ms  381.132 ms  366.718 ms
+15  planetlab4.mini.pw.edu.pl (194.29.178.14)  332.733 ms  323.792 ms  342.464 ms
+traceroute to planetlab4.mini.pw.edu.pl (194.29.178.14), 30 hops max, 60 byte packets
+ 1  host129.190-227-163.telecom.net.ar (190.227.163.129)  3.280 ms  3.356 ms  3.429 ms
+ 2  host89.181-15-0.telecom.net.ar (181.15.0.89)  55.224 ms  55.460 ms *
+ 3  * host17.200-117-124.telecom.net.ar (200.117.124.17)  34.278 ms  34.637 ms
+ 4  host166.190-225-252.telecom.net.ar (190.225.252.166)  33.103 ms  33.616 ms  34.090 ms
+ 5  xe-8-1-2.baires3.bai.seabone.net (195.22.220.106)  142.380 ms  142.806 ms *
+ 6  xe-0-3-2.losangeles2.loa.seabone.net (89.221.40.161)  272.634 ms xe-0-3-3.losangeles2.loa.seabone.net (89.221.40.181)  239.561 ms xe-1-2-1.losangeles2.loa.seabone.net (89.221.40.183)  232.514 ms
+ 7  lag-12.ear1.Miami2.Level3.net (4.68.71.161)  335.795 ms  336.383 ms  373.868 ms
+ 8  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  334.449 ms  334.909 ms  334.756 ms
+ 9  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  315.445 ms  371.091 ms  354.634 ms
+10  212.162.10.82 (212.162.10.82)  442.436 ms  442.852 ms  442.720 ms
+11  z-poznan-gw3.nask.10Gb.rtr.pionier.gov.pl (212.191.224.74)  431.709 ms  436.378 ms  422.254 ms
+12  welcome-at.pw.edu.pl (148.81.253.70)  441.291 ms  423.110 ms  423.192 ms
+13  194.29.132.162 (194.29.132.162)  366.962 ms  387.821 ms  366.818 ms
+14  coi-mini.rtr.pw.edu.pl (194.29.132.2)  440.673 ms  386.970 ms  412.470 ms
+15  planetlab4.mini.pw.edu.pl (194.29.178.14)  348.230 ms  347.717 ms  348.250 ms
+traceroute to planetlab4.mini.pw.edu.pl (194.29.178.14), 30 hops max, 60 byte packets
+ 1  host129.190-227-163.telecom.net.ar (190.227.163.129)  2.361 ms  2.396 ms  2.475 ms
+ 2  * host89.181-15-0.telecom.net.ar (181.15.0.89)  46.791 ms  47.377 ms
+ 3  host17.200-117-124.telecom.net.ar (200.117.124.17)  43.988 ms  44.447 ms  44.562 ms
+ 4  host166.190-225-252.telecom.net.ar (190.225.252.166)  45.057 ms  45.145 ms  45.426 ms
+ 5  xe-8-1-2.baires3.bai.seabone.net (195.22.220.106)  100.664 ms  109.418 ms  109.501 ms
+ 6  xe-0-0-0.losangeles2.loa.seabone.net (89.221.40.131)  294.818 ms xe-1-2-1.losangeles2.loa.seabone.net (89.221.40.183)  254.859 ms xe-0-3-2.losangeles2.loa.seabone.net (89.221.40.161)  275.658 ms
+ 7  lag-12.ear1.Miami2.Level3.net (4.68.71.161)  371.515 ms  370.927 ms  369.424 ms
+ 8  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  337.824 ms  338.283 ms  340.835 ms
+ 9  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  362.261 ms  344.332 ms  363.083 ms
+10  212.162.10.82 (212.162.10.82)  413.172 ms  404.310 ms  405.203 ms
+11  z-poznan-gw3.nask.10Gb.rtr.pionier.gov.pl (212.191.224.74)  360.463 ms  380.149 ms  381.558 ms
+12  welcome-at.pw.edu.pl (148.81.253.70)  406.655 ms  401.122 ms  399.076 ms
+13  194.29.132.162 (194.29.132.162)  357.440 ms  345.162 ms  342.181 ms
+14  coi-mini.rtr.pw.edu.pl (194.29.132.2)  408.797 ms  416.968 ms  439.422 ms
+15  planetlab4.mini.pw.edu.pl (194.29.178.14)  379.811 ms  380.364 ms  354.808 ms
+traceroute to planetlab4.mini.pw.edu.pl (194.29.178.14), 30 hops max, 60 byte packets
+ 1  host129.190-227-163.telecom.net.ar (190.227.163.129)  3.196 ms  3.285 ms  3.366 ms
+ 2  host89.181-15-0.telecom.net.ar (181.15.0.89)  140.361 ms  140.447 ms  140.918 ms
+ 3  host17.200-117-124.telecom.net.ar (200.117.124.17)  139.084 ms  142.926 ms  143.344 ms
+ 4  host166.190-225-252.telecom.net.ar (190.225.252.166)  144.047 ms  144.565 ms  145.305 ms
+ 5  xe-8-1-2.baires3.bai.seabone.net (195.22.220.106)  175.020 ms  185.191 ms  185.655 ms
+ 6  xe-0-0-0.losangeles2.loa.seabone.net (89.221.40.131)  363.020 ms * xe-0-3-3.losangeles2.loa.seabone.net (89.221.40.181)  299.249 ms
+ 7  lag-12.ear1.Miami2.Level3.net (4.68.71.161)  444.226 ms  410.503 ms  410.542 ms
+ 8  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  410.277 ms  409.645 ms  411.412 ms
+ 9  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  411.292 ms  408.742 ms  328.793 ms
+10  212.162.10.82 (212.162.10.82)  354.986 ms  350.814 ms  353.642 ms
+11  z-poznan-gw3.nask.10Gb.rtr.pionier.gov.pl (212.191.224.74)  353.721 ms  356.208 ms  348.732 ms
+12  welcome-at.pw.edu.pl (148.81.253.70)  349.199 ms  351.537 ms  350.002 ms
+13  194.29.132.162 (194.29.132.162)  314.251 ms  313.982 ms  322.185 ms
+14  coi-mini.rtr.pw.edu.pl (194.29.132.2)  351.314 ms  348.632 ms  350.572 ms
+15  planetlab4.mini.pw.edu.pl (194.29.178.14)  322.944 ms  328.165 ms  325.758 ms
+traceroute to planetlab4.mini.pw.edu.pl (194.29.178.14), 30 hops max, 60 byte packets
+ 1  host129.190-227-163.telecom.net.ar (190.227.163.129)  2.866 ms  2.928 ms  3.010 ms
+ 2  host89.181-15-0.telecom.net.ar (181.15.0.89)  8.470 ms  9.039 ms  9.116 ms
+ 3  host17.200-117-124.telecom.net.ar (200.117.124.17)  9.842 ms  9.926 ms  10.203 ms
+ 4  host166.190-225-252.telecom.net.ar (190.225.252.166)  10.500 ms  10.751 ms  11.085 ms
+ 5  xe-8-1-2.baires3.bai.seabone.net (195.22.220.106)  84.284 ms  94.595 ms  97.233 ms
+ 6  * xe-1-0-3.losangeles2.loa.seabone.net (89.221.40.185)  218.031 ms xe-0-0-0.losangeles2.loa.seabone.net (89.221.40.131)  234.287 ms
+ 7  lag-12.ear1.Miami2.Level3.net (4.68.71.161)  356.730 ms  357.233 ms  318.166 ms
+ 8  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  338.440 ms  337.508 ms  337.292 ms
+ 9  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  336.667 ms  338.439 ms  337.299 ms
+10  212.162.10.82 (212.162.10.82)  352.294 ms  395.770 ms  387.208 ms
+11  z-poznan-gw3.nask.10Gb.rtr.pionier.gov.pl (212.191.224.74)  412.666 ms  400.759 ms  353.239 ms
+12  welcome-at.pw.edu.pl (148.81.253.70)  333.611 ms  338.560 ms  334.616 ms
+13  194.29.132.162 (194.29.132.162)  317.086 ms  315.391 ms  333.963 ms
+14  coi-mini.rtr.pw.edu.pl (194.29.132.2)  364.075 ms  360.711 ms  357.198 ms
+15  planetlab4.mini.pw.edu.pl (194.29.178.14)  346.387 ms  334.989 ms  327.272 ms
+traceroute to planetlab4.mini.pw.edu.pl (194.29.178.14), 30 hops max, 60 byte packets
+ 1  host129.190-227-163.telecom.net.ar (190.227.163.129)  2.575 ms  2.664 ms  2.690 ms
+ 2  host89.181-15-0.telecom.net.ar (181.15.0.89)  6.083 ms  7.889 ms  8.254 ms
+ 3  host17.200-117-124.telecom.net.ar (200.117.124.17)  6.437 ms  6.846 ms  7.687 ms
+ 4  host166.190-225-252.telecom.net.ar (190.225.252.166)  13.498 ms  13.580 ms  14.586 ms
+ 5  xe-8-1-2.baires3.bai.seabone.net (195.22.220.106)  68.959 ms  78.488 ms  78.954 ms
+ 6  xe-0-0-0.losangeles2.loa.seabone.net (89.221.40.131)  231.369 ms xe-11-0-1.losangeles2.loa.seabone.net (89.221.40.141)  217.745 ms xe-1-0-3.losangeles2.loa.seabone.net (89.221.40.185)  311.764 ms
+ 7  lag-12.ear1.Miami2.Level3.net (4.68.71.161)  334.687 ms  335.877 ms  346.565 ms
+ 8  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  333.553 ms  323.120 ms  324.146 ms
+ 9  ae-21-3204.car1.Berlin1.Level3.net (4.69.161.6)  334.193 ms  311.337 ms  323.215 ms
+10  212.162.10.82 (212.162.10.82)  341.251 ms  349.829 ms  351.267 ms
+11  z-poznan-gw3.nask.10Gb.rtr.pionier.gov.pl (212.191.224.74)  352.540 ms  379.308 ms  345.911 ms
+12  welcome-at.pw.edu.pl (148.81.253.70)  336.136 ms  336.377 ms  340.030 ms
+13  194.29.132.162 (194.29.132.162)  313.423 ms  316.394 ms  325.967 ms
+14  coi-mini.rtr.pw.edu.pl (194.29.132.2)  342.147 ms  342.228 ms  352.121 ms
+15  planetlab4.mini.pw.edu.pl (194.29.178.14)  325.671 ms  319.972 ms  314.460 ms

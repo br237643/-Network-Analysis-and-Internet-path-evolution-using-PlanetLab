@@ -1,0 +1,1356 @@
+traceroute to pl1.cs.montana.edu (153.90.1.34), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  te2-7-dist-rt-phy.ns.uwaterloo.ca (172.16.3.5)  1.044 ms  1.115 ms  1.268 ms
+ 3  * * *
+ 4  te2-12-dist-rt-mc-global.ns.uwaterloo.ca (172.31.0.161)  1.200 ms  1.166 ms  1.659 ms
+ 5  te2-16-cn-rt-mc.ns.uwaterloo.ca (172.16.31.117)  53.988 ms  53.978 ms  53.965 ms
+ 6  gi0-0-1-ext-rt-rac.ns.uwaterloo.ca (172.16.31.109)  1.327 ms  1.393 ms  1.429 ms
+ 7  216-191-167-37.dedicated.allstream.net (216.191.167.37)  2.711 ms  2.654 ms  2.681 ms
+ 8  pnwgp-six.pnw-gigapop.net (206.81.80.84)  53.436 ms  55.247 ms  55.382 ms
+ 9  ui-brin-16.client.pnw-gigpop.net (209.124.188.149)  70.599 ms  68.949 ms  68.878 ms
+10  192.105.205.132 (192.105.205.132)  95.596 ms ajm-edge-rn-edge.msu.montana.edu (192.105.205.193)  95.583 ms 192.105.205.132 (192.105.205.132)  95.832 ms
+11  pl1.cs.montana.edu (153.90.1.34)  95.462 ms  95.629 ms  97.240 ms
+traceroute to pl1.cs.montana.edu (153.90.1.34), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  te2-7-dist-rt-phy.ns.uwaterloo.ca (172.16.3.5)  2.316 ms  2.305 ms  2.524 ms
+ 3  * * xe1-0-0-u11-dist-sa-mc-trust.ns.uwaterloo.ca (172.31.0.149)  0.501 ms
+ 4  te2-12-dist-rt-mc-global.ns.uwaterloo.ca (172.31.0.161)  1.543 ms  1.532 ms  1.519 ms
+ 5  te2-16-cn-rt-mc.ns.uwaterloo.ca (172.16.31.117)  0.928 ms  0.926 ms  0.904 ms
+ 6  gi0-0-1-ext-rt-rac.ns.uwaterloo.ca (172.16.31.109)  1.374 ms  1.408 ms  1.373 ms
+ 7  216-191-167-37.dedicated.allstream.net (216.191.167.37)  2.442 ms  2.499 ms  2.392 ms
+ 8  pnwgp-six.pnw-gigapop.net (206.81.80.84)  53.596 ms  55.140 ms  53.616 ms
+ 9  ui-brin-16.client.pnw-gigpop.net (209.124.188.149)  68.758 ms  68.657 ms  70.390 ms
+10  192.105.205.132 (192.105.205.132)  95.862 ms ajm-edge-rn-edge.msu.montana.edu (192.105.205.193)  95.864 ms 192.105.205.132 (192.105.205.132)  95.858 ms
+11  pl1.cs.montana.edu (153.90.1.34)  95.333 ms  97.146 ms  95.398 ms
+traceroute to pl1.cs.montana.edu (153.90.1.34), 30 hops max, 60 byte packets
+ 1  dc3558-cs2-csnet.uwaterloo.ca (129.97.74.1)  5.609 ms  5.656 ms  5.643 ms
+ 2  te2-7-dist-rt-phy.ns.uwaterloo.ca (172.16.3.5)  0.878 ms  0.863 ms  0.850 ms
+ 3  xe1-0-0-u11-dist-sa-mc-trust.ns.uwaterloo.ca (172.31.0.149)  0.705 ms  0.753 ms  0.742 ms
+ 4  te2-12-dist-rt-mc-global.ns.uwaterloo.ca (172.31.0.161)  1.155 ms  1.148 ms  1.360 ms
+ 5  te2-16-cn-rt-mc.ns.uwaterloo.ca (172.16.31.117)  0.854 ms  0.843 ms  0.828 ms
+ 6  gi0-0-1-ext-rt-rac.ns.uwaterloo.ca (172.16.31.109)  1.294 ms  1.409 ms  1.405 ms
+ 7  216-191-167-37.dedicated.allstream.net (216.191.167.37)  2.598 ms  2.629 ms  2.817 ms
+ 8  pnwgp-six.pnw-gigapop.net (206.81.80.84)  53.518 ms  53.491 ms  53.480 ms
+ 9  ui-brin-16.client.pnw-gigpop.net (209.124.188.149)  68.615 ms  68.512 ms  70.398 ms
+10  ajm-edge-rn-edge.msu.montana.edu (192.105.205.193)  95.673 ms 192.105.205.132 (192.105.205.132)  97.643 ms ajm-edge-rn-edge.msu.montana.edu (192.105.205.193)  95.630 ms
+11  pl1.cs.montana.edu (153.90.1.34)  97.111 ms  97.142 ms  97.108 ms
+traceroute to pl1.cs.montana.edu (153.90.1.34), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  te2-7-dist-rt-phy.ns.uwaterloo.ca (172.16.3.5)  0.491 ms  0.792 ms  0.779 ms
+ 3  xe1-0-0-u11-dist-sa-mc-trust.ns.uwaterloo.ca (172.31.0.149)  0.686 ms  0.726 ms  0.714 ms
+ 4  te2-12-dist-rt-mc-global.ns.uwaterloo.ca (172.31.0.161)  1.199 ms  1.188 ms  1.176 ms
+ 5  te2-16-cn-rt-mc.ns.uwaterloo.ca (172.16.31.117)  0.828 ms  0.801 ms  0.953 ms
+ 6  gi0-0-1-ext-rt-rac.ns.uwaterloo.ca (172.16.31.109)  1.484 ms  1.466 ms  1.426 ms
+ 7  216-191-167-37.dedicated.allstream.net (216.191.167.37)  2.635 ms  2.699 ms  2.689 ms
+ 8  pnwgp-six.pnw-gigapop.net (206.81.80.84)  55.301 ms  53.416 ms  53.446 ms
+ 9  ui-brin-16.client.pnw-gigpop.net (209.124.188.149)  70.630 ms  70.644 ms  69.330 ms
+10  ajm-edge-rn-edge.msu.montana.edu (192.105.205.193)  95.548 ms 192.105.205.132 (192.105.205.132)  95.615 ms ajm-edge-rn-edge.msu.montana.edu (192.105.205.193)  95.683 ms
+11  pl1.cs.montana.edu (153.90.1.34)  95.187 ms  97.151 ms  96.992 ms
+traceroute to pl1.cs.montana.edu (153.90.1.34), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  te2-7-dist-rt-phy.ns.uwaterloo.ca (172.16.3.5)  0.759 ms  0.799 ms  0.784 ms
+ 3  xe1-0-0-u11-dist-sa-mc-trust.ns.uwaterloo.ca (172.31.0.149)  0.754 ms * *
+ 4  te2-12-dist-rt-mc-global.ns.uwaterloo.ca (172.31.0.161)  2.210 ms  1.614 ms  2.158 ms
+ 5  te2-16-cn-rt-mc.ns.uwaterloo.ca (172.16.31.117)  0.862 ms  0.826 ms  1.037 ms
+ 6  gi0-0-1-ext-rt-rac.ns.uwaterloo.ca (172.16.31.109)  1.266 ms  1.416 ms  1.440 ms
+ 7  216-191-167-37.dedicated.allstream.net (216.191.167.37)  2.611 ms  2.649 ms  2.491 ms
+ 8  pnwgp-six.pnw-gigapop.net (206.81.80.84)  161.326 ms  161.157 ms  160.897 ms
+ 9  ui-brin-16.client.pnw-gigpop.net (209.124.188.149)  68.860 ms  70.638 ms  70.669 ms
+10  ajm-edge-rn-edge.msu.montana.edu (192.105.205.193)  95.902 ms  95.802 ms  95.627 ms
+11  pl1.cs.montana.edu (153.90.1.34)  97.094 ms  95.328 ms  95.416 ms
+traceroute to pl1.cs.montana.edu (153.90.1.34), 30 hops max, 60 byte packets
+ 1  dc3558-cs2-csnet.uwaterloo.ca (129.97.74.1)  3.359 ms * *
+ 2  te2-7-dist-rt-phy.ns.uwaterloo.ca (172.16.3.5)  0.813 ms  0.801 ms  1.006 ms
+ 3  * xe1-0-0-u11-dist-sa-mc-trust.ns.uwaterloo.ca (172.31.0.149)  0.710 ms *
+ 4  te2-12-dist-rt-mc-global.ns.uwaterloo.ca (172.31.0.161)  1.421 ms  1.158 ms  1.636 ms
+ 5  te2-16-cn-rt-mc.ns.uwaterloo.ca (172.16.31.117)  0.887 ms  0.863 ms  0.853 ms
+ 6  gi0-0-1-ext-rt-rac.ns.uwaterloo.ca (172.16.31.109)  1.201 ms  1.212 ms  1.301 ms
+ 7  216-191-167-37.dedicated.allstream.net (216.191.167.37)  2.663 ms  2.466 ms  2.690 ms
+ 8  pnwgp-six.pnw-gigapop.net (206.81.80.84)  63.370 ms  63.056 ms  62.866 ms
+ 9  ui-brin-16.client.pnw-gigpop.net (209.124.188.149)  69.019 ms  68.992 ms  69.184 ms
+10  192.105.205.132 (192.105.205.132)  95.870 ms  95.795 ms  95.889 ms
+11  pl1.cs.montana.edu (153.90.1.34)  95.348 ms  95.384 ms  97.062 ms
+traceroute to pl1.cs.montana.edu (153.90.1.34), 30 hops max, 60 byte packets
+ 1  dc3558-cs2-csnet.uwaterloo.ca (129.97.74.1)  5.053 ms  4.988 ms  4.972 ms
+ 2  te2-7-dist-rt-phy.ns.uwaterloo.ca (172.16.3.5)  0.745 ms  0.942 ms  0.934 ms
+ 3  * xe1-0-0-u11-dist-sa-mc-trust.ns.uwaterloo.ca (172.31.0.149)  0.664 ms  0.598 ms
+ 4  te2-12-dist-rt-mc-global.ns.uwaterloo.ca (172.31.0.161)  1.205 ms  1.312 ms  1.304 ms
+ 5  te2-16-cn-rt-mc.ns.uwaterloo.ca (172.16.31.117)  1.028 ms  1.126 ms  1.119 ms
+ 6  gi0-0-1-ext-rt-rac.ns.uwaterloo.ca (172.16.31.109)  1.473 ms  3.496 ms  3.400 ms
+ 7  216-191-167-37.dedicated.allstream.net (216.191.167.37)  2.385 ms  2.457 ms  2.487 ms
+ 8  pnwgp-six.pnw-gigapop.net (206.81.80.84)  61.080 ms  61.062 ms  61.051 ms
+ 9  ui-brin-16.client.pnw-gigpop.net (209.124.188.149)  70.507 ms  68.923 ms  70.483 ms
+10  192.105.205.132 (192.105.205.132)  97.633 ms  95.879 ms ajm-edge-rn-edge.msu.montana.edu (192.105.205.193)  97.373 ms
+11  pl1.cs.montana.edu (153.90.1.34)  97.099 ms  97.128 ms  97.092 ms
+traceroute to pl1.cs.montana.edu (153.90.1.34), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  te2-7-dist-rt-phy.ns.uwaterloo.ca (172.16.3.5)  0.803 ms  0.814 ms  0.802 ms
+ 3  xe1-0-0-u11-dist-sa-mc-trust.ns.uwaterloo.ca (172.31.0.149)  0.735 ms *  0.658 ms
+ 4  te2-12-dist-rt-mc-global.ns.uwaterloo.ca (172.31.0.161)  1.406 ms  1.629 ms  1.593 ms
+ 5  te2-16-cn-rt-mc.ns.uwaterloo.ca (172.16.31.117)  0.956 ms  0.926 ms  0.788 ms
+ 6  gi0-0-1-ext-rt-rac.ns.uwaterloo.ca (172.16.31.109)  1.266 ms  1.250 ms  1.163 ms
+ 7  216-191-167-37.dedicated.allstream.net (216.191.167.37)  2.680 ms  2.615 ms  2.641 ms
+ 8  pnwgp-six.pnw-gigapop.net (206.81.80.84)  53.491 ms  53.515 ms  53.489 ms
+ 9  ui-brin-16.client.pnw-gigpop.net (209.124.188.149)  68.672 ms  70.392 ms  70.238 ms
+10  ajm-edge-rn-edge.msu.montana.edu (192.105.205.193)  97.393 ms 192.105.205.132 (192.105.205.132)  95.705 ms  95.594 ms
+11  pl1.cs.montana.edu (153.90.1.34)  95.394 ms  97.112 ms  95.405 ms
+traceroute to pl1.cs.montana.edu (153.90.1.34), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  te2-7-dist-rt-phy.ns.uwaterloo.ca (172.16.3.5)  0.536 ms  0.771 ms  0.759 ms
+ 3  * xe1-0-0-u11-dist-sa-mc-trust.ns.uwaterloo.ca (172.31.0.149)  0.470 ms *
+ 4  te2-12-dist-rt-mc-global.ns.uwaterloo.ca (172.31.0.161)  1.673 ms  1.157 ms  1.211 ms
+ 5  te2-16-cn-rt-mc.ns.uwaterloo.ca (172.16.31.117)  0.869 ms  0.868 ms  0.843 ms
+ 6  gi0-0-1-ext-rt-rac.ns.uwaterloo.ca (172.16.31.109)  1.312 ms  1.474 ms  1.439 ms
+ 7  216-191-167-37.dedicated.allstream.net (216.191.167.37)  2.463 ms  2.690 ms  2.505 ms
+ 8  pnwgp-six.pnw-gigapop.net (206.81.80.84)  53.429 ms  53.387 ms  53.628 ms
+ 9  ui-brin-16.client.pnw-gigpop.net (209.124.188.149)  68.843 ms  68.733 ms  68.639 ms
+10  192.105.205.132 (192.105.205.132)  95.660 ms  97.391 ms  97.617 ms
+11  pl1.cs.montana.edu (153.90.1.34)  96.056 ms  97.846 ms  95.622 ms
+traceroute to pl1.cs.montana.edu (153.90.1.34), 30 hops max, 60 byte packets
+ 1  dc3558-cs2-csnet.uwaterloo.ca (129.97.74.1)  4.860 ms * *
+ 2  te2-7-dist-rt-phy.ns.uwaterloo.ca (172.16.3.5)  0.568 ms  0.772 ms  0.848 ms
+ 3  xe1-0-0-u11-dist-sa-mc-trust.ns.uwaterloo.ca (172.31.0.149)  0.505 ms  0.460 ms  0.460 ms
+ 4  te2-12-dist-rt-mc-global.ns.uwaterloo.ca (172.31.0.161)  4.417 ms  4.570 ms  4.560 ms
+ 5  te2-16-cn-rt-mc.ns.uwaterloo.ca (172.16.31.117)  0.858 ms  0.849 ms  0.835 ms
+ 6  gi0-0-1-ext-rt-rac.ns.uwaterloo.ca (172.16.31.109)  1.481 ms  1.424 ms  1.415 ms
+ 7  216-191-167-37.dedicated.allstream.net (216.191.167.37)  2.385 ms  2.618 ms  2.483 ms
+ 8  pnwgp-six.pnw-gigapop.net (206.81.80.84)  282.384 ms  282.359 ms  282.323 ms
+ 9  ui-brin-16.client.pnw-gigpop.net (209.124.188.149)  70.371 ms  68.604 ms  68.674 ms
+10  ajm-edge-rn-edge.msu.montana.edu (192.105.205.193)  95.807 ms 192.105.205.132 (192.105.205.132)  97.537 ms ajm-edge-rn-edge.msu.montana.edu (192.105.205.193)  95.831 ms
+11  pl1.cs.montana.edu (153.90.1.34)  95.654 ms  97.042 ms  96.974 ms
+traceroute to pl1.cs.montana.edu (153.90.1.34), 30 hops max, 60 byte packets
+ 1  dc3558-cs2-csnet.uwaterloo.ca (129.97.74.1)  4.746 ms * *
+ 2  te2-7-dist-rt-phy.ns.uwaterloo.ca (172.16.3.5)  0.684 ms  0.727 ms  0.898 ms
+ 3  * * *
+ 4  te2-12-dist-rt-mc-global.ns.uwaterloo.ca (172.31.0.161)  1.069 ms  1.301 ms  1.306 ms
+ 5  te2-16-cn-rt-mc.ns.uwaterloo.ca (172.16.31.117)  0.862 ms  0.841 ms  0.828 ms
+ 6  gi0-0-1-ext-rt-rac.ns.uwaterloo.ca (172.16.31.109)  1.448 ms  1.413 ms  1.396 ms
+ 7  216-191-167-37.dedicated.allstream.net (216.191.167.37)  2.731 ms  2.688 ms  2.920 ms
+ 8  pnwgp-six.pnw-gigapop.net (206.81.80.84)  329.061 ms  329.052 ms  328.945 ms
+ 9  ui-brin-16.client.pnw-gigpop.net (209.124.188.149)  70.238 ms  70.303 ms  70.458 ms
+10  ajm-edge-rn-edge.msu.montana.edu (192.105.205.193)  95.673 ms 192.105.205.132 (192.105.205.132)  95.724 ms ajm-edge-rn-edge.msu.montana.edu (192.105.205.193)  97.676 ms
+11  pl1.cs.montana.edu (153.90.1.34)  95.408 ms  95.431 ms  97.056 ms
+traceroute to pl1.cs.montana.edu (153.90.1.34), 30 hops max, 60 byte packets
+ 1  dc3558-cs2-csnet.uwaterloo.ca (129.97.74.1)  4.159 ms  4.139 ms *
+ 2  te2-7-dist-rt-phy.ns.uwaterloo.ca (172.16.3.5)  0.574 ms  0.812 ms  0.807 ms
+ 3  xe1-0-0-u11-dist-sa-mc-trust.ns.uwaterloo.ca (172.31.0.149)  0.535 ms  0.492 ms  0.479 ms
+ 4  te2-12-dist-rt-mc-global.ns.uwaterloo.ca (172.31.0.161)  1.432 ms  1.479 ms  1.206 ms
+ 5  te2-16-cn-rt-mc.ns.uwaterloo.ca (172.16.31.117)  0.878 ms  0.834 ms  1.052 ms
+ 6  gi0-0-1-ext-rt-rac.ns.uwaterloo.ca (172.16.31.109)  1.353 ms  1.426 ms  1.484 ms
+ 7  216-191-167-37.dedicated.allstream.net (216.191.167.37)  2.652 ms  2.626 ms  2.713 ms
+ 8  pnwgp-six.pnw-gigapop.net (206.81.80.84)  205.187 ms  204.856 ms  204.953 ms
+ 9  ui-brin-16.client.pnw-gigpop.net (209.124.188.149)  68.883 ms  70.356 ms  70.359 ms
+10  ajm-edge-rn-edge.msu.montana.edu (192.105.205.193)  96.075 ms 192.105.205.132 (192.105.205.132)  95.857 ms ajm-edge-rn-edge.msu.montana.edu (192.105.205.193)  95.855 ms
+11  pl1.cs.montana.edu (153.90.1.34)  95.330 ms  95.409 ms  97.141 ms
+traceroute to pl1.cs.montana.edu (153.90.1.34), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  te2-7-dist-rt-phy.ns.uwaterloo.ca (172.16.3.5)  0.761 ms  0.835 ms  0.824 ms
+ 3  * xe1-0-0-u11-dist-sa-mc-trust.ns.uwaterloo.ca (172.31.0.149)  0.434 ms  0.428 ms
+ 4  te2-12-dist-rt-mc-global.ns.uwaterloo.ca (172.31.0.161)  1.395 ms  1.611 ms  1.312 ms
+ 5  te2-16-cn-rt-mc.ns.uwaterloo.ca (172.16.31.117)  1.034 ms  1.073 ms  1.062 ms
+ 6  gi0-0-1-ext-rt-rac.ns.uwaterloo.ca (172.16.31.109)  1.483 ms  1.511 ms  1.436 ms
+ 7  216-191-167-37.dedicated.allstream.net (216.191.167.37)  2.635 ms  2.636 ms  2.625 ms
+ 8  pnwgp-six.pnw-gigapop.net (206.81.80.84)  323.497 ms  323.530 ms  323.505 ms
+ 9  ui-brin-16.client.pnw-gigpop.net (209.124.188.149)  69.177 ms  69.206 ms  69.404 ms
+10  192.105.205.132 (192.105.205.132)  95.862 ms ajm-edge-rn-edge.msu.montana.edu (192.105.205.193)  96.125 ms 192.105.205.132 (192.105.205.132)  96.188 ms
+11  pl1.cs.montana.edu (153.90.1.34)  95.792 ms  97.363 ms  95.748 ms
+traceroute to pl1.cs.montana.edu (153.90.1.34), 30 hops max, 60 byte packets
+ 1  dc3558-cs2-csnet.uwaterloo.ca (129.97.74.1)  15.868 ms  15.895 ms  15.882 ms
+ 2  te2-7-dist-rt-phy.ns.uwaterloo.ca (172.16.3.5)  0.817 ms  0.879 ms  1.029 ms
+ 3  xe1-0-0-u11-dist-sa-mc-trust.ns.uwaterloo.ca (172.31.0.149)  0.528 ms  0.504 ms  0.474 ms
+ 4  te2-12-dist-rt-mc-global.ns.uwaterloo.ca (172.31.0.161)  1.709 ms  1.439 ms  1.744 ms
+ 5  te2-16-cn-rt-mc.ns.uwaterloo.ca (172.16.31.117)  0.918 ms  0.890 ms  0.878 ms
+ 6  gi0-0-1-ext-rt-rac.ns.uwaterloo.ca (172.16.31.109)  1.302 ms  1.276 ms  1.429 ms
+ 7  216-191-167-37.dedicated.allstream.net (216.191.167.37)  2.411 ms  2.400 ms  2.433 ms
+ 8  pnwgp-six.pnw-gigapop.net (206.81.80.84)  54.393 ms  56.111 ms  54.401 ms
+ 9  ui-brin-16.client.pnw-gigpop.net (209.124.188.149)  70.819 ms  70.674 ms  71.155 ms
+10  192.105.205.132 (192.105.205.132)  95.868 ms  97.824 ms  96.062 ms
+11  pl1.cs.montana.edu (153.90.1.34)  95.622 ms  95.852 ms  95.631 ms
+traceroute to pl1.cs.montana.edu (153.90.1.34), 30 hops max, 60 byte packets
+ 1  dc3558-cs2-csnet.uwaterloo.ca (129.97.74.1)  5.491 ms  5.623 ms  5.601 ms
+ 2  te2-7-dist-rt-phy.ns.uwaterloo.ca (172.16.3.5)  0.720 ms  0.904 ms  0.889 ms
+ 3  xe1-0-0-u11-dist-sa-mc-trust.ns.uwaterloo.ca (172.31.0.149)  0.855 ms  0.842 ms  0.811 ms
+ 4  te2-12-dist-rt-mc-global.ns.uwaterloo.ca (172.31.0.161)  2.110 ms  2.036 ms  1.584 ms
+ 5  te2-16-cn-rt-mc.ns.uwaterloo.ca (172.16.31.117)  11.244 ms  11.234 ms  11.219 ms
+ 6  gi0-0-1-ext-rt-rac.ns.uwaterloo.ca (172.16.31.109)  1.443 ms  1.353 ms  1.347 ms
+ 7  216-191-167-37.dedicated.allstream.net (216.191.167.37)  2.619 ms  2.549 ms  2.786 ms
+ 8  pnwgp-six.pnw-gigapop.net (206.81.80.84)  195.659 ms  195.075 ms  195.043 ms
+ 9  ui-brin-16.client.pnw-gigpop.net (209.124.188.149)  69.141 ms  69.174 ms  69.184 ms
+10  192.105.205.132 (192.105.205.132)  97.893 ms ajm-edge-rn-edge.msu.montana.edu (192.105.205.193)  96.427 ms 192.105.205.132 (192.105.205.132)  96.347 ms
+11  pl1.cs.montana.edu (153.90.1.34)  97.600 ms  97.542 ms  95.854 ms
+traceroute to pl1.cs.montana.edu (153.90.1.34), 30 hops max, 60 byte packets
+ 1  dc3558-cs2-csnet.uwaterloo.ca (129.97.74.1)  3.563 ms * *
+ 2  te2-7-dist-rt-phy.ns.uwaterloo.ca (172.16.3.5)  0.808 ms  0.795 ms  0.781 ms
+ 3  * xe1-0-0-u11-dist-sa-mc-trust.ns.uwaterloo.ca (172.31.0.149)  0.673 ms  0.712 ms
+ 4  te2-12-dist-rt-mc-global.ns.uwaterloo.ca (172.31.0.161)  1.389 ms  1.396 ms  1.367 ms
+ 5  te2-16-cn-rt-mc.ns.uwaterloo.ca (172.16.31.117)  0.842 ms  0.918 ms  0.903 ms
+ 6  gi0-0-1-ext-rt-rac.ns.uwaterloo.ca (172.16.31.109)  1.299 ms  1.418 ms  1.441 ms
+ 7  216-191-167-37.dedicated.allstream.net (216.191.167.37)  2.669 ms  2.665 ms  2.644 ms
+ 8  pnwgp-six.pnw-gigapop.net (206.81.80.84)  56.101 ms  54.352 ms  54.349 ms
+ 9  ui-brin-16.client.pnw-gigpop.net (209.124.188.149)  70.680 ms  69.145 ms  69.192 ms
+10  192.105.205.132 (192.105.205.132)  96.949 ms ajm-edge-rn-edge.msu.montana.edu (192.105.205.193)  96.260 ms 192.105.205.132 (192.105.205.132)  96.655 ms
+11  pl1.cs.montana.edu (153.90.1.34)  95.895 ms  95.845 ms  95.735 ms
+traceroute to pl1.cs.montana.edu (153.90.1.34), 30 hops max, 60 byte packets
+ 1  dc3558-cs2-csnet.uwaterloo.ca (129.97.74.1)  6.120 ms  6.145 ms  6.132 ms
+ 2  te2-7-dist-rt-phy.ns.uwaterloo.ca (172.16.3.5)  0.643 ms  0.779 ms  0.778 ms
+ 3  xe1-0-0-u11-dist-sa-mc-trust.ns.uwaterloo.ca (172.31.0.149)  0.553 ms  0.543 ms  0.437 ms
+ 4  te2-12-dist-rt-mc-global.ns.uwaterloo.ca (172.31.0.161)  1.166 ms  1.252 ms  1.380 ms
+ 5  te2-16-cn-rt-mc.ns.uwaterloo.ca (172.16.31.117)  48.241 ms  48.068 ms  48.213 ms
+ 6  gi0-0-1-ext-rt-rac.ns.uwaterloo.ca (172.16.31.109)  1.317 ms  1.493 ms  1.522 ms
+ 7  216-191-167-37.dedicated.allstream.net (216.191.167.37)  2.505 ms  2.432 ms  2.654 ms
+ 8  pnwgp-six.pnw-gigapop.net (206.81.80.84)  55.939 ms  54.347 ms  54.346 ms
+ 9  ui-brin-16.client.pnw-gigpop.net (209.124.188.149)  69.480 ms  69.395 ms  69.136 ms
+10  192.105.205.132 (192.105.205.132)  95.903 ms  96.154 ms  97.601 ms
+11  pl1.cs.montana.edu (153.90.1.34)  95.818 ms  95.867 ms  97.568 ms
+traceroute to pl1.cs.montana.edu (153.90.1.34), 30 hops max, 60 byte packets
+ 1  dc3558-cs2-csnet.uwaterloo.ca (129.97.74.1)  5.368 ms  5.241 ms  5.227 ms
+ 2  te2-7-dist-rt-phy.ns.uwaterloo.ca (172.16.3.5)  1.238 ms  1.267 ms  1.260 ms
+ 3  xe1-0-0-u11-dist-sa-mc-trust.ns.uwaterloo.ca (172.31.0.149)  0.558 ms * *
+ 4  te2-12-dist-rt-mc-global.ns.uwaterloo.ca (172.31.0.161)  1.509 ms  1.161 ms  1.712 ms
+ 5  te2-16-cn-rt-mc.ns.uwaterloo.ca (172.16.31.117)  1.084 ms  1.096 ms  1.069 ms
+ 6  gi0-0-1-ext-rt-rac.ns.uwaterloo.ca (172.16.31.109)  1.388 ms  1.337 ms  1.312 ms
+ 7  216-191-167-37.dedicated.allstream.net (216.191.167.37)  2.516 ms  2.728 ms  2.520 ms
+ 8  pnwgp-six.pnw-gigapop.net (206.81.80.84)  86.970 ms  86.873 ms  86.944 ms
+ 9  ui-brin-16.client.pnw-gigpop.net (209.124.188.149)  69.188 ms  69.154 ms  69.324 ms
+10  192.105.205.132 (192.105.205.132)  96.283 ms  96.116 ms ajm-edge-rn-edge.msu.montana.edu (192.105.205.193)  96.175 ms
+11  pl1.cs.montana.edu (153.90.1.34)  95.604 ms  95.637 ms  95.658 ms
+traceroute to pl1.cs.montana.edu (153.90.1.34), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  te2-7-dist-rt-phy.ns.uwaterloo.ca (172.16.3.5)  0.711 ms  0.651 ms  0.636 ms
+ 3  xe1-0-0-u11-dist-sa-mc-trust.ns.uwaterloo.ca (172.31.0.149)  0.605 ms * *
+ 4  te2-12-dist-rt-mc-global.ns.uwaterloo.ca (172.31.0.161)  1.251 ms  1.294 ms  1.461 ms
+ 5  te2-16-cn-rt-mc.ns.uwaterloo.ca (172.16.31.117)  0.942 ms  0.936 ms  0.922 ms
+ 6  gi0-0-1-ext-rt-rac.ns.uwaterloo.ca (172.16.31.109)  1.449 ms  1.401 ms  1.372 ms
+ 7  216-191-167-37.dedicated.allstream.net (216.191.167.37)  2.606 ms  2.641 ms  2.473 ms
+ 8  pnwgp-six.pnw-gigapop.net (206.81.80.84)  54.489 ms  54.395 ms  55.636 ms
+ 9  ui-brin-16.client.pnw-gigpop.net (209.124.188.149)  69.102 ms  70.621 ms  68.918 ms
+10  192.105.205.132 (192.105.205.132)  97.671 ms ajm-edge-rn-edge.msu.montana.edu (192.105.205.193)  96.148 ms  95.931 ms
+11  pl1.cs.montana.edu (153.90.1.34)  95.600 ms  95.617 ms  95.841 ms
+traceroute to pl1.cs.montana.edu (153.90.1.34), 30 hops max, 60 byte packets
+ 1  dc3558-cs2-csnet.uwaterloo.ca (129.97.74.1)  4.576 ms  4.557 ms  4.542 ms
+ 2  te2-7-dist-rt-phy.ns.uwaterloo.ca (172.16.3.5)  0.824 ms  0.744 ms  0.898 ms
+ 3  xe1-0-0-u11-dist-sa-mc-trust.ns.uwaterloo.ca (172.31.0.149)  0.691 ms  0.603 ms  0.658 ms
+ 4  te2-12-dist-rt-mc-global.ns.uwaterloo.ca (172.31.0.161)  1.575 ms  1.547 ms  1.280 ms
+ 5  te2-16-cn-rt-mc.ns.uwaterloo.ca (172.16.31.117)  0.785 ms  0.991 ms  1.041 ms
+ 6  gi0-0-1-ext-rt-rac.ns.uwaterloo.ca (172.16.31.109)  1.222 ms  3.371 ms  3.361 ms
+ 7  216-191-167-37.dedicated.allstream.net (216.191.167.37)  2.585 ms  2.557 ms  2.727 ms
+ 8  pnwgp-six.pnw-gigapop.net (206.81.80.84)  54.415 ms  54.461 ms  54.449 ms
+ 9  ui-brin-16.client.pnw-gigpop.net (209.124.188.149)  69.098 ms  68.995 ms  69.145 ms
+10  192.105.205.132 (192.105.205.132)  96.157 ms ajm-edge-rn-edge.msu.montana.edu (192.105.205.193)  97.889 ms  97.865 ms
+11  pl1.cs.montana.edu (153.90.1.34)  95.649 ms  95.615 ms  95.662 ms
+traceroute to pl1.cs.montana.edu (153.90.1.34), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  te2-7-dist-rt-phy.ns.uwaterloo.ca (172.16.3.5)  0.475 ms  0.560 ms  0.685 ms
+ 3  xe1-0-0-u11-dist-sa-mc-trust.ns.uwaterloo.ca (172.31.0.149)  0.511 ms *  0.479 ms
+ 4  te2-12-dist-rt-mc-global.ns.uwaterloo.ca (172.31.0.161)  1.609 ms  1.341 ms  1.400 ms
+ 5  te2-16-cn-rt-mc.ns.uwaterloo.ca (172.16.31.117)  1.050 ms  1.089 ms  1.066 ms
+ 6  gi0-0-1-ext-rt-rac.ns.uwaterloo.ca (172.16.31.109)  1.257 ms  1.382 ms  1.328 ms
+ 7  216-191-167-37.dedicated.allstream.net (216.191.167.37)  2.764 ms  2.735 ms  2.726 ms
+ 8  pnwgp-six.pnw-gigapop.net (206.81.80.84)  53.633 ms  53.727 ms  53.703 ms
+ 9  ui-brin-16.client.pnw-gigpop.net (209.124.188.149)  68.670 ms  70.333 ms  68.818 ms
+10  ajm-edge-rn-edge.msu.montana.edu (192.105.205.193)  97.365 ms  95.875 ms  95.922 ms
+11  pl1.cs.montana.edu (153.90.1.34)  95.418 ms  95.451 ms  97.123 ms
+traceroute to pl1.cs.montana.edu (153.90.1.34), 30 hops max, 60 byte packets
+ 1  dc3558-cs2-csnet.uwaterloo.ca (129.97.74.1)  3.474 ms * *
+ 2  te2-7-dist-rt-phy.ns.uwaterloo.ca (172.16.3.5)  1.887 ms  2.110 ms  2.132 ms
+ 3  xe1-0-0-u11-dist-sa-mc-trust.ns.uwaterloo.ca (172.31.0.149)  0.550 ms * *
+ 4  te2-12-dist-rt-mc-global.ns.uwaterloo.ca (172.31.0.161)  1.229 ms  1.450 ms  1.224 ms
+ 5  te2-16-cn-rt-mc.ns.uwaterloo.ca (172.16.31.117)  0.892 ms  0.942 ms  0.927 ms
+ 6  gi0-0-1-ext-rt-rac.ns.uwaterloo.ca (172.16.31.109)  1.318 ms  1.243 ms  1.621 ms
+ 7  216-191-167-37.dedicated.allstream.net (216.191.167.37)  2.615 ms  2.568 ms  2.573 ms
+ 8  pnwgp-six.pnw-gigapop.net (206.81.80.84)  264.367 ms  264.572 ms  264.521 ms
+ 9  ui-brin-16.client.pnw-gigpop.net (209.124.188.149)  68.632 ms  70.592 ms  68.450 ms
+10  ajm-edge-rn-edge.msu.montana.edu (192.105.205.193)  95.581 ms  95.869 ms 192.105.205.132 (192.105.205.132)  97.469 ms
+11  pl1.cs.montana.edu (153.90.1.34)  95.428 ms  97.139 ms  95.366 ms
+traceroute to pl1.cs.montana.edu (153.90.1.34), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  te2-7-dist-rt-phy.ns.uwaterloo.ca (172.16.3.5)  0.524 ms  0.729 ms  0.724 ms
+ 3  * xe1-0-0-u11-dist-sa-mc-trust.ns.uwaterloo.ca (172.31.0.149)  0.457 ms *
+ 4  te2-12-dist-rt-mc-global.ns.uwaterloo.ca (172.31.0.161)  1.123 ms  1.354 ms  1.364 ms
+ 5  te2-16-cn-rt-mc.ns.uwaterloo.ca (172.16.31.117)  5.059 ms  5.088 ms  5.074 ms
+ 6  gi0-0-1-ext-rt-rac.ns.uwaterloo.ca (172.16.31.109)  1.293 ms  1.434 ms  1.418 ms
+ 7  216-191-167-37.dedicated.allstream.net (216.191.167.37)  2.465 ms  2.488 ms  2.692 ms
+ 8  pnwgp-six.pnw-gigapop.net (206.81.80.84)  53.417 ms  55.451 ms  55.316 ms
+ 9  ui-brin-16.client.pnw-gigpop.net (209.124.188.149)  70.671 ms  70.154 ms  68.647 ms
+10  192.105.205.132 (192.105.205.132)  95.856 ms ajm-edge-rn-edge.msu.montana.edu (192.105.205.193)  97.669 ms  95.884 ms
+11  pl1.cs.montana.edu (153.90.1.34)  95.330 ms  95.363 ms  95.382 ms
+traceroute to pl1.cs.montana.edu (153.90.1.34), 30 hops max, 60 byte packets
+ 1  dc3558-cs2-csnet.uwaterloo.ca (129.97.74.1)  14.861 ms * *
+ 2  te2-7-dist-rt-phy.ns.uwaterloo.ca (172.16.3.5)  0.485 ms  0.552 ms  0.707 ms
+ 3  xe1-0-0-u11-dist-sa-mc-trust.ns.uwaterloo.ca (172.31.0.149)  0.511 ms  0.479 ms  0.469 ms
+ 4  te2-12-dist-rt-mc-global.ns.uwaterloo.ca (172.31.0.161)  1.427 ms  1.352 ms  1.377 ms
+ 5  te2-16-cn-rt-mc.ns.uwaterloo.ca (172.16.31.117)  0.818 ms  0.894 ms  0.883 ms
+ 6  gi0-0-1-ext-rt-rac.ns.uwaterloo.ca (172.16.31.109)  1.311 ms  1.407 ms  1.460 ms
+ 7  216-191-167-37.dedicated.allstream.net (216.191.167.37)  2.597 ms  2.653 ms  2.643 ms
+ 8  pnwgp-six.pnw-gigapop.net (206.81.80.84)  53.425 ms  55.107 ms  53.577 ms
+ 9  ui-brin-16.client.pnw-gigpop.net (209.124.188.149)  68.800 ms  68.902 ms  68.429 ms
+10  192.105.205.132 (192.105.205.132)  95.835 ms ajm-edge-rn-edge.msu.montana.edu (192.105.205.193)  95.831 ms  97.344 ms
+11  pl1.cs.montana.edu (153.90.1.34)  97.064 ms  95.408 ms  95.384 ms
+traceroute to pl1.cs.montana.edu (153.90.1.34), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  te2-7-dist-rt-phy.ns.uwaterloo.ca (172.16.3.5)  0.755 ms  0.797 ms  1.336 ms
+ 3  * * *
+ 4  te2-12-dist-rt-mc-global.ns.uwaterloo.ca (172.31.0.161)  1.270 ms  1.377 ms  1.622 ms
+ 5  te2-16-cn-rt-mc.ns.uwaterloo.ca (172.16.31.117)  1.031 ms  1.093 ms  1.069 ms
+ 6  gi0-0-1-ext-rt-rac.ns.uwaterloo.ca (172.16.31.109)  1.445 ms  1.169 ms  1.393 ms
+ 7  216-191-167-37.dedicated.allstream.net (216.191.167.37)  2.544 ms  2.765 ms  2.570 ms
+ 8  pnwgp-six.pnw-gigapop.net (206.81.80.84)  79.936 ms  80.057 ms  80.024 ms
+ 9  ui-brin-16.client.pnw-gigpop.net (209.124.188.149)  68.887 ms  70.348 ms  68.745 ms
+10  192.105.205.132 (192.105.205.132)  97.472 ms  97.608 ms ajm-edge-rn-edge.msu.montana.edu (192.105.205.193)  95.646 ms
+11  pl1.cs.montana.edu (153.90.1.34)  95.375 ms  97.192 ms  97.070 ms
+traceroute to pl1.cs.montana.edu (153.90.1.34), 30 hops max, 60 byte packets
+ 1  dc3558-cs2-csnet.uwaterloo.ca (129.97.74.1)  4.034 ms * *
+ 2  te2-7-dist-rt-phy.ns.uwaterloo.ca (172.16.3.5)  0.716 ms  0.790 ms  0.780 ms
+ 3  * * *
+ 4  te2-12-dist-rt-mc-global.ns.uwaterloo.ca (172.31.0.161)  2.200 ms  2.195 ms  1.818 ms
+ 5  te2-16-cn-rt-mc.ns.uwaterloo.ca (172.16.31.117)  0.932 ms  0.953 ms  0.941 ms
+ 6  gi0-0-1-ext-rt-rac.ns.uwaterloo.ca (172.16.31.109)  1.369 ms  1.386 ms  1.458 ms
+ 7  216-191-167-37.dedicated.allstream.net (216.191.167.37)  2.585 ms  2.474 ms  2.409 ms
+ 8  pnwgp-six.pnw-gigapop.net (206.81.80.84)  53.622 ms  53.781 ms  53.744 ms
+ 9  ui-brin-16.client.pnw-gigpop.net (209.124.188.149)  70.352 ms  68.884 ms  68.802 ms
+10  192.105.205.132 (192.105.205.132)  95.761 ms  95.691 ms ajm-edge-rn-edge.msu.montana.edu (192.105.205.193)  95.960 ms
+11  pl1.cs.montana.edu (153.90.1.34)  95.371 ms  95.538 ms  95.362 ms
+traceroute to pl1.cs.montana.edu (153.90.1.34), 30 hops max, 60 byte packets
+ 1  dc3558-cs2-csnet.uwaterloo.ca (129.97.74.1)  4.992 ms  4.876 ms  4.859 ms
+ 2  te2-7-dist-rt-phy.ns.uwaterloo.ca (172.16.3.5)  0.827 ms  0.885 ms  0.871 ms
+ 3  * * *
+ 4  te2-12-dist-rt-mc-global.ns.uwaterloo.ca (172.31.0.161)  1.527 ms  1.444 ms  1.678 ms
+ 5  te2-16-cn-rt-mc.ns.uwaterloo.ca (172.16.31.117)  0.909 ms  0.902 ms  0.889 ms
+ 6  gi0-0-1-ext-rt-rac.ns.uwaterloo.ca (172.16.31.109)  1.656 ms  1.647 ms  1.657 ms
+ 7  216-191-167-37.dedicated.allstream.net (216.191.167.37)  6.097 ms  5.957 ms  5.935 ms
+ 8  pnwgp-six.pnw-gigapop.net (206.81.80.84)  53.387 ms  53.717 ms  53.610 ms
+ 9  ui-brin-16.client.pnw-gigpop.net (209.124.188.149)  68.640 ms  70.361 ms  68.655 ms
+10  192.105.205.132 (192.105.205.132)  95.614 ms  95.890 ms  95.817 ms
+11  pl1.cs.montana.edu (153.90.1.34)  95.628 ms  95.591 ms  97.000 ms
+traceroute to pl1.cs.montana.edu (153.90.1.34), 30 hops max, 60 byte packets
+ 1  dc3558-cs2-csnet.uwaterloo.ca (129.97.74.1)  5.110 ms  5.224 ms *
+ 2  te2-7-dist-rt-phy.ns.uwaterloo.ca (172.16.3.5)  0.542 ms  0.890 ms  0.878 ms
+ 3  xe1-0-0-u11-dist-sa-mc-trust.ns.uwaterloo.ca (172.31.0.149)  0.842 ms  0.708 ms  0.643 ms
+ 4  te2-12-dist-rt-mc-global.ns.uwaterloo.ca (172.31.0.161)  1.239 ms  1.281 ms  1.269 ms
+ 5  te2-16-cn-rt-mc.ns.uwaterloo.ca (172.16.31.117)  7.476 ms  7.466 ms  7.453 ms
+ 6  gi0-0-1-ext-rt-rac.ns.uwaterloo.ca (172.16.31.109)  1.431 ms  1.270 ms  1.121 ms
+ 7  216-191-167-37.dedicated.allstream.net (216.191.167.37)  2.680 ms  2.678 ms  2.918 ms
+ 8  pnwgp-six.pnw-gigapop.net (206.81.80.84)  325.353 ms  324.994 ms  324.775 ms
+ 9  ui-brin-16.client.pnw-gigpop.net (209.124.188.149)  68.737 ms  68.931 ms  68.926 ms
+10  192.105.205.132 (192.105.205.132)  95.625 ms ajm-edge-rn-edge.msu.montana.edu (192.105.205.193)  97.760 ms 192.105.205.132 (192.105.205.132)  97.730 ms
+11  pl1.cs.montana.edu (153.90.1.34)  97.039 ms  97.007 ms  97.175 ms
+traceroute to pl1.cs.montana.edu (153.90.1.34), 30 hops max, 60 byte packets
+ 1  dc3558-cs2-csnet.uwaterloo.ca (129.97.74.1)  3.650 ms * *
+ 2  te2-7-dist-rt-phy.ns.uwaterloo.ca (172.16.3.5)  0.840 ms  0.833 ms  1.052 ms
+ 3  xe1-0-0-u11-dist-sa-mc-trust.ns.uwaterloo.ca (172.31.0.149)  0.531 ms * *
+ 4  te2-12-dist-rt-mc-global.ns.uwaterloo.ca (172.31.0.161)  1.971 ms  1.963 ms  2.180 ms
+ 5  te2-16-cn-rt-mc.ns.uwaterloo.ca (172.16.31.117)  0.972 ms  0.966 ms  0.943 ms
+ 6  gi0-0-1-ext-rt-rac.ns.uwaterloo.ca (172.16.31.109)  1.355 ms  3.211 ms  3.468 ms
+ 7  216-191-167-37.dedicated.allstream.net (216.191.167.37)  2.766 ms  2.667 ms  2.644 ms
+ 8  pnwgp-six.pnw-gigapop.net (206.81.80.84)  53.586 ms  53.583 ms  55.415 ms
+ 9  ui-brin-16.client.pnw-gigpop.net (209.124.188.149)  70.473 ms  70.412 ms  68.833 ms
+10  ajm-edge-rn-edge.msu.montana.edu (192.105.205.193)  95.954 ms  97.648 ms 192.105.205.132 (192.105.205.132)  97.713 ms
+11  pl1.cs.montana.edu (153.90.1.34)  95.309 ms  95.357 ms  95.334 ms
+traceroute to pl1.cs.montana.edu (153.90.1.34), 30 hops max, 60 byte packets
+ 1  dc3558-cs2-csnet.uwaterloo.ca (129.97.74.1)  5.038 ms  5.022 ms  5.007 ms
+ 2  te2-7-dist-rt-phy.ns.uwaterloo.ca (172.16.3.5)  4.474 ms  4.497 ms  4.485 ms
+ 3  xe1-0-0-u11-dist-sa-mc-trust.ns.uwaterloo.ca (172.31.0.149)  0.673 ms  0.714 ms  0.701 ms
+ 4  te2-12-dist-rt-mc-global.ns.uwaterloo.ca (172.31.0.161)  1.334 ms  1.396 ms  1.380 ms
+ 5  te2-16-cn-rt-mc.ns.uwaterloo.ca (172.16.31.117)  1.017 ms  0.997 ms  0.981 ms
+ 6  gi0-0-1-ext-rt-rac.ns.uwaterloo.ca (172.16.31.109)  1.295 ms  1.168 ms  1.390 ms
+ 7  216-191-167-37.dedicated.allstream.net (216.191.167.37)  2.621 ms  2.452 ms  2.507 ms
+ 8  pnwgp-six.pnw-gigapop.net (206.81.80.84)  53.389 ms  53.617 ms  53.592 ms
+ 9  ui-brin-16.client.pnw-gigpop.net (209.124.188.149)  68.807 ms  70.754 ms  70.441 ms
+10  192.105.205.132 (192.105.205.132)  97.917 ms ajm-edge-rn-edge.msu.montana.edu (192.105.205.193)  95.691 ms 192.105.205.132 (192.105.205.132)  95.607 ms
+11  pl1.cs.montana.edu (153.90.1.34)  95.331 ms  95.448 ms  95.362 ms
+traceroute to pl1.cs.montana.edu (153.90.1.34), 30 hops max, 60 byte packets
+ 1  dc3558-cs2-csnet.uwaterloo.ca (129.97.74.1)  3.586 ms * *
+ 2  te2-7-dist-rt-phy.ns.uwaterloo.ca (172.16.3.5)  0.521 ms  0.563 ms  0.737 ms
+ 3  * * xe1-0-0-u11-dist-sa-mc-trust.ns.uwaterloo.ca (172.31.0.149)  0.497 ms
+ 4  te2-12-dist-rt-mc-global.ns.uwaterloo.ca (172.31.0.161)  1.487 ms  1.639 ms  1.910 ms
+ 5  te2-16-cn-rt-mc.ns.uwaterloo.ca (172.16.31.117)  0.853 ms  0.886 ms  0.873 ms
+ 6  gi0-0-1-ext-rt-rac.ns.uwaterloo.ca (172.16.31.109)  1.290 ms  1.417 ms  1.433 ms
+ 7  216-191-167-37.dedicated.allstream.net (216.191.167.37)  2.369 ms  2.464 ms  2.514 ms
+ 8  pnwgp-six.pnw-gigapop.net (206.81.80.84)  99.090 ms  99.123 ms  98.656 ms
+ 9  ui-brin-16.client.pnw-gigpop.net (209.124.188.149)  68.746 ms  70.421 ms  68.657 ms
+10  ajm-edge-rn-edge.msu.montana.edu (192.105.205.193)  95.610 ms 192.105.205.132 (192.105.205.132)  97.337 ms ajm-edge-rn-edge.msu.montana.edu (192.105.205.193)  95.635 ms
+11  pl1.cs.montana.edu (153.90.1.34)  95.369 ms  95.352 ms  95.245 ms
+traceroute to pl1.cs.montana.edu (153.90.1.34), 30 hops max, 60 byte packets
+ 1  dc3558-cs2-csnet.uwaterloo.ca (129.97.74.1)  3.316 ms * *
+ 2  te2-7-dist-rt-phy.ns.uwaterloo.ca (172.16.3.5)  0.757 ms  0.770 ms  0.756 ms
+ 3  xe1-0-0-u11-dist-sa-mc-trust.ns.uwaterloo.ca (172.31.0.149)  0.727 ms  0.697 ms  0.686 ms
+ 4  te2-12-dist-rt-mc-global.ns.uwaterloo.ca (172.31.0.161)  1.112 ms  1.100 ms  1.307 ms
+ 5  te2-16-cn-rt-mc.ns.uwaterloo.ca (172.16.31.117)  0.788 ms  1.021 ms  1.012 ms
+ 6  gi0-0-1-ext-rt-rac.ns.uwaterloo.ca (172.16.31.109)  1.480 ms  1.408 ms  1.373 ms
+ 7  216-191-167-37.dedicated.allstream.net (216.191.167.37)  3.800 ms  3.775 ms  3.770 ms
+ 8  pnwgp-six.pnw-gigapop.net (206.81.80.84)  352.031 ms  352.048 ms  351.808 ms
+ 9  ui-brin-16.client.pnw-gigpop.net (209.124.188.149)  68.393 ms  70.374 ms  68.860 ms
+10  ajm-edge-rn-edge.msu.montana.edu (192.105.205.193)  95.670 ms  95.822 ms 192.105.205.132 (192.105.205.132)  97.409 ms
+11  pl1.cs.montana.edu (153.90.1.34)  95.145 ms  95.540 ms  95.511 ms
+traceroute to pl1.cs.montana.edu (153.90.1.34), 30 hops max, 60 byte packets
+ 1  dc3558-cs2-csnet.uwaterloo.ca (129.97.74.1)  3.531 ms * *
+ 2  te2-7-dist-rt-phy.ns.uwaterloo.ca (172.16.3.5)  0.788 ms  0.953 ms  1.011 ms
+ 3  * * xe1-0-0-u11-dist-sa-mc-trust.ns.uwaterloo.ca (172.31.0.149)  0.621 ms
+ 4  te2-12-dist-rt-mc-global.ns.uwaterloo.ca (172.31.0.161)  1.353 ms  1.395 ms  1.111 ms
+ 5  te2-16-cn-rt-mc.ns.uwaterloo.ca (172.16.31.117)  0.861 ms  0.849 ms  0.989 ms
+ 6  gi0-0-1-ext-rt-rac.ns.uwaterloo.ca (172.16.31.109)  1.308 ms  1.474 ms  1.377 ms
+ 7  216-191-167-37.dedicated.allstream.net (216.191.167.37)  2.654 ms  2.627 ms  2.616 ms
+ 8  pnwgp-six.pnw-gigapop.net (206.81.80.84)  57.122 ms  56.885 ms  56.930 ms
+ 9  ui-brin-16.client.pnw-gigpop.net (209.124.188.149)  68.861 ms  68.893 ms  68.879 ms
+10  ajm-edge-rn-edge.msu.montana.edu (192.105.205.193)  96.169 ms 192.105.205.132 (192.105.205.132)  96.126 ms ajm-edge-rn-edge.msu.montana.edu (192.105.205.193)  95.570 ms
+11  pl1.cs.montana.edu (153.90.1.34)  95.346 ms  95.334 ms  95.253 ms
+traceroute to pl1.cs.montana.edu (153.90.1.34), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  te2-7-dist-rt-phy.ns.uwaterloo.ca (172.16.3.5)  0.457 ms  0.684 ms  0.730 ms
+ 3  * * *
+ 4  te2-12-dist-rt-mc-global.ns.uwaterloo.ca (172.31.0.161)  1.340 ms  1.395 ms  1.553 ms
+ 5  te2-16-cn-rt-mc.ns.uwaterloo.ca (172.16.31.117)  0.958 ms  0.958 ms  0.945 ms
+ 6  gi0-0-1-ext-rt-rac.ns.uwaterloo.ca (172.16.31.109)  1.232 ms  1.459 ms  1.417 ms
+ 7  216-191-167-37.dedicated.allstream.net (216.191.167.37)  2.514 ms  2.444 ms  2.678 ms
+ 8  pnwgp-six.pnw-gigapop.net (206.81.80.84)  55.131 ms  55.378 ms  55.409 ms
+ 9  ui-brin-16.client.pnw-gigpop.net (209.124.188.149)  70.570 ms  68.911 ms  68.830 ms
+10  192.105.205.132 (192.105.205.132)  95.920 ms ajm-edge-rn-edge.msu.montana.edu (192.105.205.193)  95.530 ms 192.105.205.132 (192.105.205.132)  97.917 ms
+11  pl1.cs.montana.edu (153.90.1.34)  95.374 ms  95.354 ms  97.117 ms
+traceroute to pl1.cs.montana.edu (153.90.1.34), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  te2-7-dist-rt-phy.ns.uwaterloo.ca (172.16.3.5)  0.741 ms  0.973 ms  1.205 ms
+ 3  * * *
+ 4  te2-12-dist-rt-mc-global.ns.uwaterloo.ca (172.31.0.161)  1.374 ms  1.432 ms  1.641 ms
+ 5  te2-16-cn-rt-mc.ns.uwaterloo.ca (172.16.31.117)  63.281 ms  63.345 ms  63.332 ms
+ 6  gi0-0-1-ext-rt-rac.ns.uwaterloo.ca (172.16.31.109)  1.507 ms  1.476 ms  1.316 ms
+ 7  216-191-167-37.dedicated.allstream.net (216.191.167.37)  2.639 ms  2.455 ms  2.633 ms
+ 8  pnwgp-six.pnw-gigapop.net (206.81.80.84)  336.241 ms  336.263 ms  335.754 ms
+ 9  ui-brin-16.client.pnw-gigpop.net (209.124.188.149)  70.897 ms  69.145 ms  69.199 ms
+10  192.105.205.132 (192.105.205.132)  95.669 ms  95.836 ms ajm-edge-rn-edge.msu.montana.edu (192.105.205.193)  95.860 ms
+11  pl1.cs.montana.edu (153.90.1.34)  95.281 ms  97.080 ms  95.308 ms
+traceroute to pl1.cs.montana.edu (153.90.1.34), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  te2-7-dist-rt-phy.ns.uwaterloo.ca (172.16.3.5)  0.728 ms  0.790 ms  0.779 ms
+ 3  * * *
+ 4  te2-12-dist-rt-mc-global.ns.uwaterloo.ca (172.31.0.161)  1.369 ms  1.600 ms  1.343 ms
+ 5  te2-16-cn-rt-mc.ns.uwaterloo.ca (172.16.31.117)  1.115 ms  1.081 ms  1.083 ms
+ 6  gi0-0-1-ext-rt-rac.ns.uwaterloo.ca (172.16.31.109)  1.565 ms  1.149 ms  1.368 ms
+ 7  216-191-167-37.dedicated.allstream.net (216.191.167.37)  2.599 ms  2.417 ms  2.458 ms
+ 8  pnwgp-six.pnw-gigapop.net (206.81.80.84)  55.331 ms  53.683 ms  53.713 ms
+ 9  ui-brin-16.client.pnw-gigpop.net (209.124.188.149)  68.626 ms  70.349 ms  68.646 ms
+10  ajm-edge-rn-edge.msu.montana.edu (192.105.205.193)  95.617 ms  95.419 ms 192.105.205.132 (192.105.205.132)  97.350 ms
+11  pl1.cs.montana.edu (153.90.1.34)  97.071 ms  95.373 ms  95.403 ms
+traceroute to pl1.cs.montana.edu (153.90.1.34), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  te2-7-dist-rt-phy.ns.uwaterloo.ca (172.16.3.5)  1.357 ms  1.345 ms  1.336 ms
+ 3  xe1-0-0-u11-dist-sa-mc-trust.ns.uwaterloo.ca (172.31.0.149)  0.713 ms  0.444 ms  0.754 ms
+ 4  te2-12-dist-rt-mc-global.ns.uwaterloo.ca (172.31.0.161)  1.207 ms  1.198 ms  1.185 ms
+ 5  te2-16-cn-rt-mc.ns.uwaterloo.ca (172.16.31.117)  0.800 ms  1.034 ms  0.774 ms
+ 6  gi0-0-1-ext-rt-rac.ns.uwaterloo.ca (172.16.31.109)  1.497 ms  1.464 ms  1.406 ms
+ 7  216-191-167-37.dedicated.allstream.net (216.191.167.37)  2.627 ms  2.509 ms  2.697 ms
+ 8  pnwgp-six.pnw-gigapop.net (206.81.80.84)  53.613 ms  53.654 ms  55.303 ms
+ 9  ui-brin-16.client.pnw-gigpop.net (209.124.188.149)  69.029 ms  69.070 ms  70.492 ms
+10  ajm-edge-rn-edge.msu.montana.edu (192.105.205.193)  95.703 ms  97.668 ms  97.487 ms
+11  pl1.cs.montana.edu (153.90.1.34)  95.843 ms  95.964 ms  95.944 ms
+traceroute to pl1.cs.montana.edu (153.90.1.34), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  te2-7-dist-rt-phy.ns.uwaterloo.ca (172.16.3.5)  0.586 ms  0.631 ms  0.800 ms
+ 3  * * *
+ 4  te2-12-dist-rt-mc-global.ns.uwaterloo.ca (172.31.0.161)  1.035 ms  1.243 ms  1.212 ms
+ 5  te2-16-cn-rt-mc.ns.uwaterloo.ca (172.16.31.117)  0.966 ms  0.890 ms  0.935 ms
+ 6  gi0-0-1-ext-rt-rac.ns.uwaterloo.ca (172.16.31.109)  1.352 ms  1.414 ms  1.398 ms
+ 7  216-191-167-37.dedicated.allstream.net (216.191.167.37)  2.465 ms  2.729 ms  2.637 ms
+ 8  pnwgp-six.pnw-gigapop.net (206.81.80.84)  176.287 ms  176.218 ms  176.100 ms
+ 9  ui-brin-16.client.pnw-gigpop.net (209.124.188.149)  68.861 ms  68.831 ms  68.926 ms
+10  192.105.205.132 (192.105.205.132)  95.716 ms ajm-edge-rn-edge.msu.montana.edu (192.105.205.193)  95.897 ms  95.875 ms
+11  pl1.cs.montana.edu (153.90.1.34)  95.443 ms  95.343 ms  96.909 ms
+traceroute to pl1.cs.montana.edu (153.90.1.34), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  te2-7-dist-rt-phy.ns.uwaterloo.ca (172.16.3.5)  0.499 ms  0.733 ms  0.797 ms
+ 3  * * *
+ 4  te2-12-dist-rt-mc-global.ns.uwaterloo.ca (172.31.0.161)  1.352 ms  1.586 ms  1.322 ms
+ 5  te2-16-cn-rt-mc.ns.uwaterloo.ca (172.16.31.117)  0.794 ms  0.835 ms  0.810 ms
+ 6  gi0-0-1-ext-rt-rac.ns.uwaterloo.ca (172.16.31.109)  3.487 ms  3.277 ms  3.147 ms
+ 7  216-191-167-37.dedicated.allstream.net (216.191.167.37)  2.622 ms  2.482 ms  2.544 ms
+ 8  pnwgp-six.pnw-gigapop.net (206.81.80.84)  53.606 ms  55.181 ms  55.229 ms
+ 9  ui-brin-16.client.pnw-gigpop.net (209.124.188.149)  68.619 ms  68.960 ms  68.871 ms
+10  ajm-edge-rn-edge.msu.montana.edu (192.105.205.193)  95.762 ms  95.669 ms 192.105.205.132 (192.105.205.132)  95.843 ms
+11  pl1.cs.montana.edu (153.90.1.34)  95.420 ms  97.081 ms  97.113 ms
+traceroute to pl1.cs.montana.edu (153.90.1.34), 30 hops max, 60 byte packets
+ 1  dc3558-cs2-csnet.uwaterloo.ca (129.97.74.1)  3.670 ms * *
+ 2  te2-7-dist-rt-phy.ns.uwaterloo.ca (172.16.3.5)  0.858 ms  0.846 ms  0.832 ms
+ 3  xe1-0-0-u11-dist-sa-mc-trust.ns.uwaterloo.ca (172.31.0.149)  0.796 ms *  0.703 ms
+ 4  te2-12-dist-rt-mc-global.ns.uwaterloo.ca (172.31.0.161)  1.188 ms  1.228 ms  1.218 ms
+ 5  te2-16-cn-rt-mc.ns.uwaterloo.ca (172.16.31.117)  0.885 ms  0.900 ms  0.887 ms
+ 6  gi0-0-1-ext-rt-rac.ns.uwaterloo.ca (172.16.31.109)  1.146 ms  1.419 ms  1.418 ms
+ 7  216-191-167-37.dedicated.allstream.net (216.191.167.37)  2.611 ms  2.654 ms  2.644 ms
+ 8  pnwgp-six.pnw-gigapop.net (206.81.80.84)  53.665 ms  53.697 ms  53.673 ms
+ 9  ui-brin-16.client.pnw-gigpop.net (209.124.188.149)  68.911 ms  68.866 ms  69.087 ms
+10  192.105.205.132 (192.105.205.132)  95.853 ms  96.392 ms ajm-edge-rn-edge.msu.montana.edu (192.105.205.193)  95.616 ms
+11  pl1.cs.montana.edu (153.90.1.34)  95.175 ms  95.356 ms  95.278 ms
+traceroute to pl1.cs.montana.edu (153.90.1.34), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  te2-7-dist-rt-phy.ns.uwaterloo.ca (172.16.3.5)  0.834 ms  0.893 ms  0.881 ms
+ 3  * * *
+ 4  te2-12-dist-rt-mc-global.ns.uwaterloo.ca (172.31.0.161)  1.728 ms  1.513 ms  1.431 ms
+ 5  te2-16-cn-rt-mc.ns.uwaterloo.ca (172.16.31.117)  0.978 ms  0.895 ms  0.948 ms
+ 6  gi0-0-1-ext-rt-rac.ns.uwaterloo.ca (172.16.31.109)  1.406 ms  1.401 ms  1.183 ms
+ 7  216-191-167-37.dedicated.allstream.net (216.191.167.37)  2.601 ms  2.471 ms  2.459 ms
+ 8  pnwgp-six.pnw-gigapop.net (206.81.80.84)  292.949 ms  292.608 ms  292.572 ms
+ 9  ui-brin-16.client.pnw-gigpop.net (209.124.188.149)  70.348 ms  69.103 ms  68.903 ms
+10  ajm-edge-rn-edge.msu.montana.edu (192.105.205.193)  95.918 ms 192.105.205.132 (192.105.205.132)  97.355 ms  95.826 ms
+11  pl1.cs.montana.edu (153.90.1.34)  95.309 ms  95.458 ms  95.303 ms
+traceroute to pl1.cs.montana.edu (153.90.1.34), 30 hops max, 60 byte packets
+ 1  dc3558-cs2-csnet.uwaterloo.ca (129.97.74.1)  3.894 ms * *
+ 2  te2-7-dist-rt-phy.ns.uwaterloo.ca (172.16.3.5)  0.907 ms  0.894 ms  1.149 ms
+ 3  xe1-0-0-u11-dist-sa-mc-trust.ns.uwaterloo.ca (172.31.0.149)  0.628 ms  0.704 ms  0.691 ms
+ 4  te2-12-dist-rt-mc-global.ns.uwaterloo.ca (172.31.0.161)  1.308 ms  1.044 ms  1.282 ms
+ 5  te2-16-cn-rt-mc.ns.uwaterloo.ca (172.16.31.117)  0.922 ms  0.908 ms  0.893 ms
+ 6  gi0-0-1-ext-rt-rac.ns.uwaterloo.ca (172.16.31.109)  1.450 ms  1.438 ms  1.345 ms
+ 7  216-191-167-37.dedicated.allstream.net (216.191.167.37)  2.865 ms  2.810 ms  2.828 ms
+ 8  pnwgp-six.pnw-gigapop.net (206.81.80.84)  54.529 ms  54.567 ms  55.540 ms
+ 9  ui-brin-16.client.pnw-gigpop.net (209.124.188.149)  68.692 ms  68.914 ms  68.751 ms
+10  ajm-edge-rn-edge.msu.montana.edu (192.105.205.193)  95.682 ms 192.105.205.132 (192.105.205.132)  95.907 ms ajm-edge-rn-edge.msu.montana.edu (192.105.205.193)  97.374 ms
+11  pl1.cs.montana.edu (153.90.1.34)  95.348 ms  97.142 ms  95.267 ms
+traceroute to pl1.cs.montana.edu (153.90.1.34), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  te2-7-dist-rt-phy.ns.uwaterloo.ca (172.16.3.5)  0.811 ms  0.802 ms  0.963 ms
+ 3  * xe1-0-0-u11-dist-sa-mc-trust.ns.uwaterloo.ca (172.31.0.149)  0.672 ms *
+ 4  te2-12-dist-rt-mc-global.ns.uwaterloo.ca (172.31.0.161)  1.140 ms  1.213 ms  1.349 ms
+ 5  te2-16-cn-rt-mc.ns.uwaterloo.ca (172.16.31.117)  0.856 ms  0.829 ms  0.820 ms
+ 6  gi0-0-1-ext-rt-rac.ns.uwaterloo.ca (172.16.31.109)  1.246 ms  1.461 ms  1.383 ms
+ 7  216-191-167-37.dedicated.allstream.net (216.191.167.37)  2.615 ms  2.504 ms  2.479 ms
+ 8  pnwgp-six.pnw-gigapop.net (206.81.80.84)  179.534 ms  179.586 ms  179.365 ms
+ 9  ui-brin-16.client.pnw-gigpop.net (209.124.188.149)  68.823 ms  68.737 ms  68.711 ms
+10  192.105.205.132 (192.105.205.132)  95.931 ms  95.858 ms ajm-edge-rn-edge.msu.montana.edu (192.105.205.193)  95.585 ms
+11  pl1.cs.montana.edu (153.90.1.34)  97.065 ms  97.092 ms  95.419 ms
+traceroute to pl1.cs.montana.edu (153.90.1.34), 30 hops max, 60 byte packets
+ 1  dc3558-cs2-csnet.uwaterloo.ca (129.97.74.1)  4.507 ms * *
+ 2  te2-7-dist-rt-phy.ns.uwaterloo.ca (172.16.3.5)  0.698 ms  0.746 ms  0.734 ms
+ 3  * xe1-0-0-u11-dist-sa-mc-trust.ns.uwaterloo.ca (172.31.0.149)  0.678 ms  0.664 ms
+ 4  te2-12-dist-rt-mc-global.ns.uwaterloo.ca (172.31.0.161)  1.385 ms  1.316 ms  1.343 ms
+ 5  te2-16-cn-rt-mc.ns.uwaterloo.ca (172.16.31.117)  0.785 ms  0.856 ms  0.831 ms
+ 6  gi0-0-1-ext-rt-rac.ns.uwaterloo.ca (172.16.31.109)  1.462 ms  1.423 ms  1.400 ms
+ 7  216-191-167-37.dedicated.allstream.net (216.191.167.37)  2.674 ms  2.605 ms  2.636 ms
+ 8  pnwgp-six.pnw-gigapop.net (206.81.80.84)  59.855 ms  59.886 ms  59.858 ms
+ 9  ui-brin-16.client.pnw-gigpop.net (209.124.188.149)  70.397 ms  68.930 ms  68.850 ms
+10  192.105.205.132 (192.105.205.132)  95.621 ms  95.660 ms  95.893 ms
+11  pl1.cs.montana.edu (153.90.1.34)  95.425 ms  95.355 ms  95.385 ms
+traceroute to pl1.cs.montana.edu (153.90.1.34), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  te2-7-dist-rt-phy.ns.uwaterloo.ca (172.16.3.5)  0.702 ms  0.705 ms  0.692 ms
+ 3  xe1-0-0-u11-dist-sa-mc-trust.ns.uwaterloo.ca (172.31.0.149)  0.658 ms *  0.626 ms
+ 4  te2-12-dist-rt-mc-global.ns.uwaterloo.ca (172.31.0.161)  1.341 ms  1.080 ms  1.351 ms
+ 5  te2-16-cn-rt-mc.ns.uwaterloo.ca (172.16.31.117)  0.793 ms  0.880 ms  0.857 ms
+ 6  gi0-0-1-ext-rt-rac.ns.uwaterloo.ca (172.16.31.109)  1.258 ms  1.216 ms  1.432 ms
+ 7  216-191-167-37.dedicated.allstream.net (216.191.167.37)  2.664 ms  2.658 ms  2.648 ms
+ 8  pnwgp-six.pnw-gigapop.net (206.81.80.84)  55.342 ms  53.637 ms  53.611 ms
+ 9  ui-brin-16.client.pnw-gigpop.net (209.124.188.149)  68.675 ms  68.463 ms  70.372 ms
+10  ajm-edge-rn-edge.msu.montana.edu (192.105.205.193)  97.840 ms 192.105.205.132 (192.105.205.132)  97.644 ms  97.476 ms
+11  pl1.cs.montana.edu (153.90.1.34)  95.476 ms  97.134 ms  95.368 ms
+traceroute to pl1.cs.montana.edu (153.90.1.34), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  te2-7-dist-rt-phy.ns.uwaterloo.ca (172.16.3.5)  0.560 ms  0.597 ms  0.769 ms
+ 3  * * xe1-0-0-u11-dist-sa-mc-trust.ns.uwaterloo.ca (172.31.0.149)  0.527 ms
+ 4  te2-12-dist-rt-mc-global.ns.uwaterloo.ca (172.31.0.161)  1.443 ms  1.175 ms  1.512 ms
+ 5  te2-16-cn-rt-mc.ns.uwaterloo.ca (172.16.31.117)  0.876 ms  0.909 ms  0.898 ms
+ 6  gi0-0-1-ext-rt-rac.ns.uwaterloo.ca (172.16.31.109)  1.440 ms  1.421 ms  1.228 ms
+ 7  216-191-167-37.dedicated.allstream.net (216.191.167.37)  2.621 ms  2.458 ms  2.492 ms
+ 8  pnwgp-six.pnw-gigapop.net (206.81.80.84)  205.037 ms  205.151 ms  213.547 ms
+ 9  ui-brin-16.client.pnw-gigpop.net (209.124.188.149)  68.846 ms  68.791 ms  69.027 ms
+10  192.105.205.132 (192.105.205.132)  95.582 ms  95.876 ms  97.452 ms
+11  pl1.cs.montana.edu (153.90.1.34)  95.365 ms  97.090 ms  95.392 ms
+traceroute to pl1.cs.montana.edu (153.90.1.34), 30 hops max, 60 byte packets
+ 1  dc3558-cs2-csnet.uwaterloo.ca (129.97.74.1)  3.786 ms * *
+ 2  te2-7-dist-rt-phy.ns.uwaterloo.ca (172.16.3.5)  0.472 ms  0.702 ms  0.696 ms
+ 3  * * *
+ 4  te2-12-dist-rt-mc-global.ns.uwaterloo.ca (172.31.0.161)  1.596 ms  1.330 ms  1.572 ms
+ 5  te2-16-cn-rt-mc.ns.uwaterloo.ca (172.16.31.117)  1.038 ms  1.029 ms  1.003 ms
+ 6  gi0-0-1-ext-rt-rac.ns.uwaterloo.ca (172.16.31.109)  1.477 ms  1.460 ms  1.472 ms
+ 7  216-191-167-37.dedicated.allstream.net (216.191.167.37)  2.696 ms  2.540 ms  2.514 ms
+ 8  pnwgp-six.pnw-gigapop.net (206.81.80.84)  55.889 ms  54.387 ms  54.269 ms
+ 9  ui-brin-16.client.pnw-gigpop.net (209.124.188.149)  68.908 ms  68.948 ms  68.669 ms
+10  192.105.205.132 (192.105.205.132)  95.669 ms  95.880 ms ajm-edge-rn-edge.msu.montana.edu (192.105.205.193)  95.847 ms
+11  pl1.cs.montana.edu (153.90.1.34)  95.365 ms  95.298 ms  97.152 ms
+traceroute to pl1.cs.montana.edu (153.90.1.34), 30 hops max, 60 byte packets
+ 1  dc3558-cs2-csnet.uwaterloo.ca (129.97.74.1)  4.376 ms * *
+ 2  te2-7-dist-rt-phy.ns.uwaterloo.ca (172.16.3.5)  0.790 ms  0.778 ms  0.764 ms
+ 3  * xe1-0-0-u11-dist-sa-mc-trust.ns.uwaterloo.ca (172.31.0.149)  0.699 ms *
+ 4  te2-12-dist-rt-mc-global.ns.uwaterloo.ca (172.31.0.161)  1.412 ms  1.512 ms  1.507 ms
+ 5  te2-16-cn-rt-mc.ns.uwaterloo.ca (172.16.31.117)  29.337 ms  29.375 ms  29.363 ms
+ 6  gi0-0-1-ext-rt-rac.ns.uwaterloo.ca (172.16.31.109)  1.421 ms  1.458 ms  1.476 ms
+ 7  216-191-167-37.dedicated.allstream.net (216.191.167.37)  3.454 ms  3.388 ms  2.668 ms
+ 8  pnwgp-six.pnw-gigapop.net (206.81.80.84)  55.300 ms  53.589 ms  53.518 ms
+ 9  ui-brin-16.client.pnw-gigpop.net (209.124.188.149)  68.889 ms  68.915 ms  68.904 ms
+10  192.105.205.132 (192.105.205.132)  96.040 ms ajm-edge-rn-edge.msu.montana.edu (192.105.205.193)  96.074 ms 192.105.205.132 (192.105.205.132)  96.752 ms
+11  pl1.cs.montana.edu (153.90.1.34)  97.170 ms  97.085 ms  95.568 ms
+traceroute to pl1.cs.montana.edu (153.90.1.34), 30 hops max, 60 byte packets
+ 1  dc3558-cs2-csnet.uwaterloo.ca (129.97.74.1)  5.806 ms  5.851 ms  5.839 ms
+ 2  te2-7-dist-rt-phy.ns.uwaterloo.ca (172.16.3.5)  0.828 ms  0.816 ms  0.802 ms
+ 3  xe1-0-0-u11-dist-sa-mc-trust.ns.uwaterloo.ca (172.31.0.149)  0.763 ms  0.668 ms  0.732 ms
+ 4  te2-12-dist-rt-mc-global.ns.uwaterloo.ca (172.31.0.161)  1.636 ms  1.374 ms  1.679 ms
+ 5  te2-16-cn-rt-mc.ns.uwaterloo.ca (172.16.31.117)  0.830 ms  0.885 ms  0.875 ms
+ 6  gi0-0-1-ext-rt-rac.ns.uwaterloo.ca (172.16.31.109)  1.265 ms  1.396 ms  1.462 ms
+ 7  216-191-167-37.dedicated.allstream.net (216.191.167.37)  2.642 ms  2.569 ms  2.616 ms
+ 8  pnwgp-six.pnw-gigapop.net (206.81.80.84)  55.252 ms  53.438 ms  53.447 ms
+ 9  ui-brin-16.client.pnw-gigpop.net (209.124.188.149)  70.333 ms  68.747 ms  68.654 ms
+10  ajm-edge-rn-edge.msu.montana.edu (192.105.205.193)  95.620 ms 192.105.205.132 (192.105.205.132)  97.340 ms ajm-edge-rn-edge.msu.montana.edu (192.105.205.193)  97.378 ms
+11  pl1.cs.montana.edu (153.90.1.34)  95.298 ms  95.374 ms  95.358 ms
+traceroute to pl1.cs.montana.edu (153.90.1.34), 30 hops max, 60 byte packets
+ 1  dc3558-cs2-csnet.uwaterloo.ca (129.97.74.1)  5.844 ms  5.829 ms  5.814 ms
+ 2  te2-7-dist-rt-phy.ns.uwaterloo.ca (172.16.3.5)  1.273 ms  1.516 ms  1.510 ms
+ 3  * xe1-0-0-u11-dist-sa-mc-trust.ns.uwaterloo.ca (172.31.0.149)  0.785 ms *
+ 4  te2-12-dist-rt-mc-global.ns.uwaterloo.ca (172.31.0.161)  1.299 ms  1.526 ms  1.217 ms
+ 5  te2-16-cn-rt-mc.ns.uwaterloo.ca (172.16.31.117)  0.972 ms  0.949 ms  0.914 ms
+ 6  gi0-0-1-ext-rt-rac.ns.uwaterloo.ca (172.16.31.109)  1.451 ms  3.634 ms  3.443 ms
+ 7  216-191-167-37.dedicated.allstream.net (216.191.167.37)  2.667 ms  2.683 ms  2.674 ms
+ 8  pnwgp-six.pnw-gigapop.net (206.81.80.84)  279.594 ms  279.448 ms  279.496 ms
+ 9  ui-brin-16.client.pnw-gigpop.net (209.124.188.149)  68.785 ms  70.702 ms  70.613 ms
+10  192.105.205.132 (192.105.205.132)  97.379 ms ajm-edge-rn-edge.msu.montana.edu (192.105.205.193)  95.611 ms  95.947 ms
+11  pl1.cs.montana.edu (153.90.1.34)  97.171 ms  95.398 ms  95.457 ms
+traceroute to pl1.cs.montana.edu (153.90.1.34), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  te2-7-dist-rt-phy.ns.uwaterloo.ca (172.16.3.5)  0.469 ms  0.524 ms  0.752 ms
+ 3  xe1-0-0-u11-dist-sa-mc-trust.ns.uwaterloo.ca (172.31.0.149)  0.723 ms  0.710 ms  0.674 ms
+ 4  te2-12-dist-rt-mc-global.ns.uwaterloo.ca (172.31.0.161)  1.353 ms  1.430 ms  1.122 ms
+ 5  te2-16-cn-rt-mc.ns.uwaterloo.ca (172.16.31.117)  1.095 ms  1.084 ms  1.009 ms
+ 6  gi0-0-1-ext-rt-rac.ns.uwaterloo.ca (172.16.31.109)  1.334 ms  1.545 ms  1.499 ms
+ 7  216-191-167-37.dedicated.allstream.net (216.191.167.37)  2.638 ms  2.609 ms  2.607 ms
+ 8  pnwgp-six.pnw-gigapop.net (206.81.80.84)  55.297 ms  53.737 ms  53.622 ms
+ 9  ui-brin-16.client.pnw-gigpop.net (209.124.188.149)  68.847 ms  70.329 ms  70.171 ms
+10  ajm-edge-rn-edge.msu.montana.edu (192.105.205.193)  95.804 ms 192.105.205.132 (192.105.205.132)  97.303 ms  96.028 ms
+11  pl1.cs.montana.edu (153.90.1.34)  95.317 ms  95.402 ms  95.394 ms
+traceroute to pl1.cs.montana.edu (153.90.1.34), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  te2-7-dist-rt-phy.ns.uwaterloo.ca (172.16.3.5)  0.472 ms  0.701 ms  0.770 ms
+ 3  xe1-0-0-u11-dist-sa-mc-trust.ns.uwaterloo.ca (172.31.0.149)  0.747 ms * *
+ 4  te2-12-dist-rt-mc-global.ns.uwaterloo.ca (172.31.0.161)  1.323 ms  1.403 ms  1.378 ms
+ 5  te2-16-cn-rt-mc.ns.uwaterloo.ca (172.16.31.117)  1.015 ms  1.055 ms  1.042 ms
+ 6  gi0-0-1-ext-rt-rac.ns.uwaterloo.ca (172.16.31.109)  1.462 ms  1.464 ms  1.406 ms
+ 7  216-191-167-37.dedicated.allstream.net (216.191.167.37)  3.934 ms  3.853 ms  3.490 ms
+ 8  pnwgp-six.pnw-gigapop.net (206.81.80.84)  53.615 ms  53.653 ms  53.613 ms
+ 9  ui-brin-16.client.pnw-gigpop.net (209.124.188.149)  70.323 ms  68.807 ms  68.694 ms
+10  192.105.205.132 (192.105.205.132)  97.417 ms ajm-edge-rn-edge.msu.montana.edu (192.105.205.193)  95.866 ms  96.121 ms
+11  pl1.cs.montana.edu (153.90.1.34)  95.407 ms  95.325 ms  95.439 ms
+traceroute to pl1.cs.montana.edu (153.90.1.34), 30 hops max, 60 byte packets
+ 1  dc3558-cs2-csnet.uwaterloo.ca (129.97.74.1)  5.287 ms  5.273 ms  5.258 ms
+ 2  te2-7-dist-rt-phy.ns.uwaterloo.ca (172.16.3.5)  0.725 ms  0.792 ms  0.779 ms
+ 3  * * *
+ 4  te2-12-dist-rt-mc-global.ns.uwaterloo.ca (172.31.0.161)  1.369 ms  1.168 ms  1.118 ms
+ 5  te2-16-cn-rt-mc.ns.uwaterloo.ca (172.16.31.117)  1.089 ms  1.005 ms  1.045 ms
+ 6  gi0-0-1-ext-rt-rac.ns.uwaterloo.ca (172.16.31.109)  1.468 ms  1.469 ms  1.360 ms
+ 7  216-191-167-37.dedicated.allstream.net (216.191.167.37)  2.592 ms  2.423 ms  2.439 ms
+ 8  pnwgp-six.pnw-gigapop.net (206.81.80.84)  53.589 ms  53.636 ms  55.304 ms
+ 9  ui-brin-16.client.pnw-gigpop.net (209.124.188.149)  70.425 ms  68.658 ms  70.365 ms
+10  192.105.205.132 (192.105.205.132)  95.824 ms  95.644 ms  97.378 ms
+11  pl1.cs.montana.edu (153.90.1.34)  97.102 ms  95.419 ms  95.401 ms
+traceroute to pl1.cs.montana.edu (153.90.1.34), 30 hops max, 60 byte packets
+ 1  dc3558-cs2-csnet.uwaterloo.ca (129.97.74.1)  3.287 ms * *
+ 2  te2-7-dist-rt-phy.ns.uwaterloo.ca (172.16.3.5)  0.745 ms  0.996 ms  0.992 ms
+ 3  * xe1-0-0-u11-dist-sa-mc-trust.ns.uwaterloo.ca (172.31.0.149)  0.647 ms *
+ 4  te2-12-dist-rt-mc-global.ns.uwaterloo.ca (172.31.0.161)  1.354 ms  1.089 ms  1.331 ms
+ 5  te2-16-cn-rt-mc.ns.uwaterloo.ca (172.16.31.117)  67.763 ms  67.805 ms  67.792 ms
+ 6  gi0-0-1-ext-rt-rac.ns.uwaterloo.ca (172.16.31.109)  1.262 ms  1.183 ms  1.663 ms
+ 7  216-191-167-37.dedicated.allstream.net (216.191.167.37)  2.487 ms  2.661 ms  2.492 ms
+ 8  pnwgp-six.pnw-gigapop.net (206.81.80.84)  53.691 ms  53.741 ms  55.142 ms
+ 9  ui-brin-16.client.pnw-gigpop.net (209.124.188.149)  68.639 ms  68.438 ms  68.820 ms
+10  192.105.205.132 (192.105.205.132)  97.571 ms ajm-edge-rn-edge.msu.montana.edu (192.105.205.193)  97.502 ms  96.052 ms
+11  pl1.cs.montana.edu (153.90.1.34)  95.331 ms  95.373 ms  95.333 ms
+traceroute to pl1.cs.montana.edu (153.90.1.34), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  te2-7-dist-rt-phy.ns.uwaterloo.ca (172.16.3.5)  0.841 ms  0.833 ms  0.821 ms
+ 3  * * xe1-0-0-u11-dist-sa-mc-trust.ns.uwaterloo.ca (172.31.0.149)  0.487 ms
+ 4  te2-12-dist-rt-mc-global.ns.uwaterloo.ca (172.31.0.161)  1.216 ms  1.446 ms  1.438 ms
+ 5  te2-16-cn-rt-mc.ns.uwaterloo.ca (172.16.31.117)  39.387 ms  39.429 ms  39.417 ms
+ 6  gi0-0-1-ext-rt-rac.ns.uwaterloo.ca (172.16.31.109)  1.369 ms  3.465 ms  3.451 ms
+ 7  216-191-167-37.dedicated.allstream.net (216.191.167.37)  2.683 ms  2.737 ms  2.472 ms
+ 8  pnwgp-six.pnw-gigapop.net (206.81.80.84)  55.190 ms  53.495 ms  53.393 ms
+ 9  ui-brin-16.client.pnw-gigpop.net (209.124.188.149)  68.868 ms  68.914 ms  70.381 ms
+10  192.105.205.132 (192.105.205.132)  96.164 ms ajm-edge-rn-edge.msu.montana.edu (192.105.205.193)  95.939 ms 192.105.205.132 (192.105.205.132)  97.920 ms
+11  pl1.cs.montana.edu (153.90.1.34)  95.330 ms  95.383 ms  95.341 ms
+traceroute to pl1.cs.montana.edu (153.90.1.34), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  te2-7-dist-rt-phy.ns.uwaterloo.ca (172.16.3.5)  0.731 ms  0.781 ms  0.762 ms
+ 3  * xe1-0-0-u11-dist-sa-mc-trust.ns.uwaterloo.ca (172.31.0.149)  0.639 ms *
+ 4  te2-12-dist-rt-mc-global.ns.uwaterloo.ca (172.31.0.161)  3.597 ms  3.641 ms  3.618 ms
+ 5  te2-16-cn-rt-mc.ns.uwaterloo.ca (172.16.31.117)  44.344 ms  44.316 ms  44.315 ms
+ 6  gi0-0-1-ext-rt-rac.ns.uwaterloo.ca (172.16.31.109)  1.243 ms  1.465 ms  1.383 ms
+ 7  216-191-167-37.dedicated.allstream.net (216.191.167.37)  2.615 ms  2.486 ms  2.397 ms
+ 8  pnwgp-six.pnw-gigapop.net (206.81.80.84)  55.398 ms  53.621 ms  53.624 ms
+ 9  ui-brin-16.client.pnw-gigpop.net (209.124.188.149)  70.337 ms  68.704 ms  68.607 ms
+10  192.105.205.132 (192.105.205.132)  95.853 ms ajm-edge-rn-edge.msu.montana.edu (192.105.205.193)  95.716 ms  95.652 ms
+11  pl1.cs.montana.edu (153.90.1.34)  95.318 ms  95.316 ms  97.106 ms
+traceroute to pl1.cs.montana.edu (153.90.1.34), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  te2-7-dist-rt-phy.ns.uwaterloo.ca (172.16.3.5)  0.500 ms  0.732 ms  0.822 ms
+ 3  xe1-0-0-u11-dist-sa-mc-trust.ns.uwaterloo.ca (172.31.0.149)  0.731 ms  0.718 ms  0.704 ms
+ 4  te2-12-dist-rt-mc-global.ns.uwaterloo.ca (172.31.0.161)  1.341 ms  1.313 ms  1.544 ms
+ 5  te2-16-cn-rt-mc.ns.uwaterloo.ca (172.16.31.117)  1.026 ms  1.021 ms  1.007 ms
+ 6  gi0-0-1-ext-rt-rac.ns.uwaterloo.ca (172.16.31.109)  1.577 ms  3.466 ms  3.390 ms
+ 7  216-191-167-37.dedicated.allstream.net (216.191.167.37)  2.901 ms  2.871 ms  2.898 ms
+ 8  pnwgp-six.pnw-gigapop.net (206.81.80.84)  53.414 ms  53.500 ms  53.479 ms
+ 9  ui-brin-16.client.pnw-gigpop.net (209.124.188.149)  70.377 ms  68.675 ms  70.166 ms
+10  ajm-edge-rn-edge.msu.montana.edu (192.105.205.193)  95.819 ms 192.105.205.132 (192.105.205.132)  96.045 ms ajm-edge-rn-edge.msu.montana.edu (192.105.205.193)  97.395 ms
+11  pl1.cs.montana.edu (153.90.1.34)  95.314 ms  95.375 ms  95.224 ms
+traceroute to pl1.cs.montana.edu (153.90.1.34), 30 hops max, 60 byte packets
+ 1  dc3558-cs2-csnet.uwaterloo.ca (129.97.74.1)  5.804 ms  5.810 ms  5.797 ms
+ 2  te2-7-dist-rt-phy.ns.uwaterloo.ca (172.16.3.5)  0.996 ms  0.989 ms  0.976 ms
+ 3  xe1-0-0-u11-dist-sa-mc-trust.ns.uwaterloo.ca (172.31.0.149)  0.445 ms *  0.422 ms
+ 4  te2-12-dist-rt-mc-global.ns.uwaterloo.ca (172.31.0.161)  1.144 ms  1.182 ms  1.171 ms
+ 5  te2-16-cn-rt-mc.ns.uwaterloo.ca (172.16.31.117)  38.813 ms  38.834 ms  38.776 ms
+ 6  gi0-0-1-ext-rt-rac.ns.uwaterloo.ca (172.16.31.109)  1.483 ms  1.453 ms  1.444 ms
+ 7  216-191-167-37.dedicated.allstream.net (216.191.167.37)  2.720 ms  2.751 ms  2.728 ms
+ 8  pnwgp-six.pnw-gigapop.net (206.81.80.84)  56.390 ms  56.462 ms  56.592 ms
+ 9  ui-brin-16.client.pnw-gigpop.net (209.124.188.149)  68.637 ms  68.918 ms  68.647 ms
+10  192.105.205.132 (192.105.205.132)  96.187 ms ajm-edge-rn-edge.msu.montana.edu (192.105.205.193)  96.090 ms  97.322 ms
+11  pl1.cs.montana.edu (153.90.1.34)  95.371 ms  97.008 ms  95.237 ms
+traceroute to pl1.cs.montana.edu (153.90.1.34), 30 hops max, 60 byte packets
+ 1  dc3558-cs2-csnet.uwaterloo.ca (129.97.74.1)  7.152 ms  7.200 ms *
+ 2  te2-7-dist-rt-phy.ns.uwaterloo.ca (172.16.3.5)  0.537 ms  0.772 ms  0.757 ms
+ 3  xe1-0-0-u11-dist-sa-mc-trust.ns.uwaterloo.ca (172.31.0.149)  0.486 ms *  0.445 ms
+ 4  te2-12-dist-rt-mc-global.ns.uwaterloo.ca (172.31.0.161)  1.468 ms  1.455 ms  1.374 ms
+ 5  te2-16-cn-rt-mc.ns.uwaterloo.ca (172.16.31.117)  0.859 ms  0.911 ms  0.886 ms
+ 6  gi0-0-1-ext-rt-rac.ns.uwaterloo.ca (172.16.31.109)  1.350 ms  1.466 ms  1.446 ms
+ 7  216-191-167-37.dedicated.allstream.net (216.191.167.37)  2.418 ms  2.564 ms  2.550 ms
+ 8  pnwgp-six.pnw-gigapop.net (206.81.80.84)  53.691 ms  53.599 ms  53.651 ms
+ 9  ui-brin-16.client.pnw-gigpop.net (209.124.188.149)  68.897 ms  68.882 ms  68.870 ms
+10  192.105.205.132 (192.105.205.132)  97.563 ms ajm-edge-rn-edge.msu.montana.edu (192.105.205.193)  95.912 ms  97.391 ms
+11  pl1.cs.montana.edu (153.90.1.34)  95.385 ms  95.260 ms  97.234 ms
+traceroute to pl1.cs.montana.edu (153.90.1.34), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  te2-7-dist-rt-phy.ns.uwaterloo.ca (172.16.3.5)  0.859 ms  0.847 ms  1.023 ms
+ 3  * xe1-0-0-u11-dist-sa-mc-trust.ns.uwaterloo.ca (172.31.0.149)  0.720 ms *
+ 4  te2-12-dist-rt-mc-global.ns.uwaterloo.ca (172.31.0.161)  1.296 ms  1.290 ms  1.369 ms
+ 5  te2-16-cn-rt-mc.ns.uwaterloo.ca (172.16.31.117)  0.866 ms  1.188 ms  1.048 ms
+ 6  gi0-0-1-ext-rt-rac.ns.uwaterloo.ca (172.16.31.109)  1.279 ms  1.411 ms  1.459 ms
+ 7  216-191-167-37.dedicated.allstream.net (216.191.167.37)  2.613 ms  2.451 ms  2.676 ms
+ 8  pnwgp-six.pnw-gigapop.net (206.81.80.84)  53.668 ms  53.558 ms  53.609 ms
+ 9  ui-brin-16.client.pnw-gigpop.net (209.124.188.149)  69.015 ms  70.431 ms  68.967 ms
+10  192.105.205.132 (192.105.205.132)  96.145 ms ajm-edge-rn-edge.msu.montana.edu (192.105.205.193)  96.074 ms  95.923 ms
+11  pl1.cs.montana.edu (153.90.1.34)  97.147 ms  95.352 ms  97.097 ms
+traceroute to pl1.cs.montana.edu (153.90.1.34), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  te2-7-dist-rt-phy.ns.uwaterloo.ca (172.16.3.5)  0.628 ms  0.671 ms  0.661 ms
+ 3  * * xe1-0-0-u11-dist-sa-mc-trust.ns.uwaterloo.ca (172.31.0.149)  0.587 ms
+ 4  te2-12-dist-rt-mc-global.ns.uwaterloo.ca (172.31.0.161)  1.007 ms  1.243 ms  1.209 ms
+ 5  te2-16-cn-rt-mc.ns.uwaterloo.ca (172.16.31.117)  127.368 ms  127.361 ms  127.347 ms
+ 6  gi0-0-1-ext-rt-rac.ns.uwaterloo.ca (172.16.31.109)  1.381 ms  1.418 ms  1.394 ms
+ 7  216-191-167-37.dedicated.allstream.net (216.191.167.37)  2.534 ms  2.485 ms  2.471 ms
+ 8  pnwgp-six.pnw-gigapop.net (206.81.80.84)  330.035 ms  330.081 ms  329.817 ms
+ 9  ui-brin-16.client.pnw-gigpop.net (209.124.188.149)  68.691 ms  68.661 ms  68.667 ms
+10  ajm-edge-rn-edge.msu.montana.edu (192.105.205.193)  95.881 ms 192.105.205.132 (192.105.205.132)  95.711 ms  95.892 ms
+11  pl1.cs.montana.edu (153.90.1.34)  95.372 ms  95.352 ms  95.393 ms
+traceroute to pl1.cs.montana.edu (153.90.1.34), 30 hops max, 60 byte packets
+ 1  dc3558-cs2-csnet.uwaterloo.ca (129.97.74.1)  3.980 ms * *
+ 2  te2-7-dist-rt-phy.ns.uwaterloo.ca (172.16.3.5)  0.663 ms  0.674 ms  0.677 ms
+ 3  xe1-0-0-u11-dist-sa-mc-trust.ns.uwaterloo.ca (172.31.0.149)  0.652 ms  0.624 ms  0.611 ms
+ 4  te2-12-dist-rt-mc-global.ns.uwaterloo.ca (172.31.0.161)  1.337 ms  1.273 ms  1.308 ms
+ 5  te2-16-cn-rt-mc.ns.uwaterloo.ca (172.16.31.117)  49.458 ms  49.507 ms  49.495 ms
+ 6  gi0-0-1-ext-rt-rac.ns.uwaterloo.ca (172.16.31.109)  1.432 ms  1.230 ms  1.176 ms
+ 7  216-191-167-37.dedicated.allstream.net (216.191.167.37)  2.692 ms  2.542 ms  2.776 ms
+ 8  pnwgp-six.pnw-gigapop.net (206.81.80.84)  55.477 ms  53.631 ms  53.592 ms
+ 9  ui-brin-16.client.pnw-gigpop.net (209.124.188.149)  68.792 ms  68.698 ms  70.645 ms
+10  192.105.205.132 (192.105.205.132)  95.862 ms  95.868 ms ajm-edge-rn-edge.msu.montana.edu (192.105.205.193)  95.854 ms
+11  pl1.cs.montana.edu (153.90.1.34)  95.416 ms  95.420 ms  95.454 ms
+traceroute to pl1.cs.montana.edu (153.90.1.34), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  te2-7-dist-rt-phy.ns.uwaterloo.ca (172.16.3.5)  0.780 ms  0.991 ms  1.026 ms
+ 3  * xe1-0-0-u11-dist-sa-mc-trust.ns.uwaterloo.ca (172.31.0.149)  0.682 ms  0.679 ms
+ 4  te2-12-dist-rt-mc-global.ns.uwaterloo.ca (172.31.0.161)  1.394 ms  1.629 ms  1.374 ms
+ 5  te2-16-cn-rt-mc.ns.uwaterloo.ca (172.16.31.117)  0.899 ms  0.826 ms  0.812 ms
+ 6  gi0-0-1-ext-rt-rac.ns.uwaterloo.ca (172.16.31.109)  1.233 ms  1.242 ms  1.429 ms
+ 7  216-191-167-37.dedicated.allstream.net (216.191.167.37)  2.661 ms  2.466 ms  2.646 ms
+ 8  pnwgp-six.pnw-gigapop.net (206.81.80.84)  321.771 ms  321.747 ms  321.670 ms
+ 9  ui-brin-16.client.pnw-gigpop.net (209.124.188.149)  68.908 ms  68.637 ms  68.679 ms
+10  192.105.205.132 (192.105.205.132)  95.915 ms  95.697 ms  95.624 ms
+11  pl1.cs.montana.edu (153.90.1.34)  97.143 ms  97.167 ms  95.369 ms
+traceroute to pl1.cs.montana.edu (153.90.1.34), 30 hops max, 60 byte packets
+ 1  dc3558-cs2-csnet.uwaterloo.ca (129.97.74.1)  4.085 ms * *
+ 2  te2-7-dist-rt-phy.ns.uwaterloo.ca (172.16.3.5)  0.778 ms  0.789 ms  0.774 ms
+ 3  xe1-0-0-u11-dist-sa-mc-trust.ns.uwaterloo.ca (172.31.0.149)  0.739 ms  0.726 ms  0.695 ms
+ 4  te2-12-dist-rt-mc-global.ns.uwaterloo.ca (172.31.0.161)  1.397 ms  1.489 ms  1.481 ms
+ 5  te2-16-cn-rt-mc.ns.uwaterloo.ca (172.16.31.117)  0.846 ms  0.906 ms  0.893 ms
+ 6  gi0-0-1-ext-rt-rac.ns.uwaterloo.ca (172.16.31.109)  1.397 ms  1.437 ms  1.376 ms
+ 7  216-191-167-37.dedicated.allstream.net (216.191.167.37)  2.623 ms  2.611 ms  2.578 ms
+ 8  pnwgp-six.pnw-gigapop.net (206.81.80.84)  53.530 ms  53.618 ms  53.391 ms
+ 9  ui-brin-16.client.pnw-gigpop.net (209.124.188.149)  68.734 ms  68.586 ms  70.546 ms
+10  ajm-edge-rn-edge.msu.montana.edu (192.105.205.193)  97.763 ms  96.063 ms 192.105.205.132 (192.105.205.132)  95.468 ms
+11  pl1.cs.montana.edu (153.90.1.34)  95.367 ms  95.395 ms  97.125 ms
+traceroute to pl1.cs.montana.edu (153.90.1.34), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  te2-7-dist-rt-phy.ns.uwaterloo.ca (172.16.3.5)  0.486 ms  0.713 ms  0.785 ms
+ 3  * * xe1-0-0-u11-dist-sa-mc-trust.ns.uwaterloo.ca (172.31.0.149)  0.598 ms
+ 4  te2-12-dist-rt-mc-global.ns.uwaterloo.ca (172.31.0.161)  1.235 ms  1.229 ms  1.016 ms
+ 5  te2-16-cn-rt-mc.ns.uwaterloo.ca (172.16.31.117)  0.925 ms  0.965 ms  0.955 ms
+ 6  gi0-0-1-ext-rt-rac.ns.uwaterloo.ca (172.16.31.109)  1.620 ms  1.473 ms  1.449 ms
+ 7  216-191-167-37.dedicated.allstream.net (216.191.167.37)  2.685 ms  2.593 ms  2.639 ms
+ 8  pnwgp-six.pnw-gigapop.net (206.81.80.84)  53.567 ms  53.608 ms  53.593 ms
+ 9  ui-brin-16.client.pnw-gigpop.net (209.124.188.149)  68.765 ms  68.735 ms  68.682 ms
+10  192.105.205.132 (192.105.205.132)  95.638 ms  95.564 ms  97.604 ms
+11  pl1.cs.montana.edu (153.90.1.34)  97.077 ms  95.419 ms  97.265 ms
+traceroute to pl1.cs.montana.edu (153.90.1.34), 30 hops max, 60 byte packets
+ 1  dc3558-cs2-csnet.uwaterloo.ca (129.97.74.1)  4.845 ms  4.828 ms  4.812 ms
+ 2  te2-7-dist-rt-phy.ns.uwaterloo.ca (172.16.3.5)  0.758 ms  0.793 ms  0.784 ms
+ 3  * * *
+ 4  te2-12-dist-rt-mc-global.ns.uwaterloo.ca (172.31.0.161)  4.143 ms  4.137 ms  4.261 ms
+ 5  te2-16-cn-rt-mc.ns.uwaterloo.ca (172.16.31.117)  0.956 ms  0.993 ms  0.981 ms
+ 6  gi0-0-1-ext-rt-rac.ns.uwaterloo.ca (172.16.31.109)  1.153 ms  1.708 ms  1.594 ms
+ 7  216-191-167-37.dedicated.allstream.net (216.191.167.37)  2.577 ms  2.426 ms  2.405 ms
+ 8  pnwgp-six.pnw-gigapop.net (206.81.80.84)  53.600 ms  55.629 ms  53.612 ms
+ 9  ui-brin-16.client.pnw-gigpop.net (209.124.188.149)  68.829 ms  68.643 ms  70.684 ms
+10  192.105.205.132 (192.105.205.132)  95.891 ms  95.673 ms ajm-edge-rn-edge.msu.montana.edu (192.105.205.193)  96.142 ms
+11  pl1.cs.montana.edu (153.90.1.34)  95.385 ms  95.511 ms  95.400 ms
+traceroute to pl1.cs.montana.edu (153.90.1.34), 30 hops max, 60 byte packets
+ 1  dc3558-cs2-csnet.uwaterloo.ca (129.97.74.1)  3.505 ms * *
+ 2  te2-7-dist-rt-phy.ns.uwaterloo.ca (172.16.3.5)  0.719 ms  0.707 ms  0.693 ms
+ 3  xe1-0-0-u11-dist-sa-mc-trust.ns.uwaterloo.ca (172.31.0.149)  0.662 ms  0.621 ms  0.617 ms
+ 4  te2-12-dist-rt-mc-global.ns.uwaterloo.ca (172.31.0.161)  1.335 ms  1.179 ms  1.643 ms
+ 5  te2-16-cn-rt-mc.ns.uwaterloo.ca (172.16.31.117)  0.876 ms  0.871 ms  0.857 ms
+ 6  gi0-0-1-ext-rt-rac.ns.uwaterloo.ca (172.16.31.109)  1.320 ms  1.460 ms  1.430 ms
+ 7  216-191-167-37.dedicated.allstream.net (216.191.167.37)  2.702 ms  2.691 ms  2.679 ms
+ 8  pnwgp-six.pnw-gigapop.net (206.81.80.84)  331.708 ms  331.355 ms  331.341 ms
+ 9  ui-brin-16.client.pnw-gigpop.net (209.124.188.149)  69.618 ms  69.926 ms  69.461 ms
+10  ajm-edge-rn-edge.msu.montana.edu (192.105.205.193)  96.419 ms  96.185 ms 192.105.205.132 (192.105.205.132)  97.410 ms
+11  pl1.cs.montana.edu (153.90.1.34)  95.395 ms  95.336 ms  95.361 ms
+traceroute to pl1.cs.montana.edu (153.90.1.34), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  te2-7-dist-rt-phy.ns.uwaterloo.ca (172.16.3.5)  0.485 ms  0.784 ms  0.774 ms
+ 3  * * xe1-0-0-u11-dist-sa-mc-trust.ns.uwaterloo.ca (172.31.0.149)  0.645 ms
+ 4  te2-12-dist-rt-mc-global.ns.uwaterloo.ca (172.31.0.161)  1.377 ms  1.170 ms  1.351 ms
+ 5  te2-16-cn-rt-mc.ns.uwaterloo.ca (172.16.31.117)  0.821 ms  0.816 ms  1.031 ms
+ 6  gi0-0-1-ext-rt-rac.ns.uwaterloo.ca (172.16.31.109)  1.511 ms  1.462 ms  1.664 ms
+ 7  216-191-167-37.dedicated.allstream.net (216.191.167.37)  2.633 ms  2.684 ms  2.712 ms
+ 8  pnwgp-six.pnw-gigapop.net (206.81.80.84)  55.161 ms  53.642 ms  53.686 ms
+ 9  ui-brin-16.client.pnw-gigpop.net (209.124.188.149)  68.686 ms  68.911 ms  68.758 ms
+10  ajm-edge-rn-edge.msu.montana.edu (192.105.205.193)  95.920 ms  95.635 ms  95.812 ms
+11  pl1.cs.montana.edu (153.90.1.34)  95.293 ms  95.187 ms  95.352 ms
+traceroute to pl1.cs.montana.edu (153.90.1.34), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  te2-7-dist-rt-phy.ns.uwaterloo.ca (172.16.3.5)  0.530 ms  0.587 ms  0.739 ms
+ 3  xe1-0-0-u11-dist-sa-mc-trust.ns.uwaterloo.ca (172.31.0.149)  0.535 ms *  0.507 ms
+ 4  te2-12-dist-rt-mc-global.ns.uwaterloo.ca (172.31.0.161)  1.194 ms  1.142 ms  1.159 ms
+ 5  te2-16-cn-rt-mc.ns.uwaterloo.ca (172.16.31.117)  45.392 ms  45.554 ms  45.502 ms
+ 6  gi0-0-1-ext-rt-rac.ns.uwaterloo.ca (172.16.31.109)  3.485 ms  3.227 ms  3.381 ms
+ 7  216-191-167-37.dedicated.allstream.net (216.191.167.37)  2.601 ms  2.597 ms  2.481 ms
+ 8  pnwgp-six.pnw-gigapop.net (206.81.80.84)  75.297 ms  75.191 ms  75.244 ms
+ 9  ui-brin-16.client.pnw-gigpop.net (209.124.188.149)  70.411 ms  68.819 ms  68.820 ms
+10  192.105.205.132 (192.105.205.132)  97.854 ms ajm-edge-rn-edge.msu.montana.edu (192.105.205.193)  95.965 ms 192.105.205.132 (192.105.205.132)  97.649 ms
+11  pl1.cs.montana.edu (153.90.1.34)  96.972 ms  97.045 ms  95.276 ms
+traceroute to pl1.cs.montana.edu (153.90.1.34), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  te2-7-dist-rt-phy.ns.uwaterloo.ca (172.16.3.5)  0.727 ms  0.772 ms  0.762 ms
+ 3  * xe1-0-0-u11-dist-sa-mc-trust.ns.uwaterloo.ca (172.31.0.149)  0.714 ms *
+ 4  te2-12-dist-rt-mc-global.ns.uwaterloo.ca (172.31.0.161)  1.166 ms  1.348 ms  1.317 ms
+ 5  te2-16-cn-rt-mc.ns.uwaterloo.ca (172.16.31.117)  0.827 ms  0.818 ms  1.010 ms
+ 6  gi0-0-1-ext-rt-rac.ns.uwaterloo.ca (172.16.31.109)  1.492 ms  1.411 ms  1.442 ms
+ 7  216-191-167-37.dedicated.allstream.net (216.191.167.37)  2.637 ms  2.591 ms  2.683 ms
+ 8  pnwgp-six.pnw-gigapop.net (206.81.80.84)  55.146 ms  55.142 ms  53.614 ms
+ 9  ui-brin-16.client.pnw-gigpop.net (209.124.188.149)  68.935 ms  70.409 ms  68.720 ms
+10  ajm-edge-rn-edge.msu.montana.edu (192.105.205.193)  96.106 ms 192.105.205.132 (192.105.205.132)  96.155 ms  95.459 ms
+11  pl1.cs.montana.edu (153.90.1.34)  95.379 ms  95.375 ms  96.963 ms
+traceroute to pl1.cs.montana.edu (153.90.1.34), 30 hops max, 60 byte packets
+ 1  dc3558-cs2-csnet.uwaterloo.ca (129.97.74.1)  4.360 ms  4.381 ms *
+ 2  te2-7-dist-rt-phy.ns.uwaterloo.ca (172.16.3.5)  0.626 ms  0.777 ms  0.771 ms
+ 3  * * xe1-0-0-u11-dist-sa-mc-trust.ns.uwaterloo.ca (172.31.0.149)  0.449 ms
+ 4  te2-12-dist-rt-mc-global.ns.uwaterloo.ca (172.31.0.161)  1.427 ms  1.433 ms  1.571 ms
+ 5  te2-16-cn-rt-mc.ns.uwaterloo.ca (172.16.31.117)  0.781 ms  0.925 ms  0.901 ms
+ 6  gi0-0-1-ext-rt-rac.ns.uwaterloo.ca (172.16.31.109)  1.282 ms  1.399 ms  1.460 ms
+ 7  216-191-167-37.dedicated.allstream.net (216.191.167.37)  2.508 ms  2.438 ms  2.573 ms
+ 8  pnwgp-six.pnw-gigapop.net (206.81.80.84)  55.263 ms  53.498 ms  53.399 ms
+ 9  ui-brin-16.client.pnw-gigpop.net (209.124.188.149)  70.360 ms  68.594 ms  70.384 ms
+10  192.105.205.132 (192.105.205.132)  97.604 ms  97.565 ms ajm-edge-rn-edge.msu.montana.edu (192.105.205.193)  95.879 ms
+11  pl1.cs.montana.edu (153.90.1.34)  97.103 ms  95.484 ms  95.263 ms
+traceroute to pl1.cs.montana.edu (153.90.1.34), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  te2-7-dist-rt-phy.ns.uwaterloo.ca (172.16.3.5)  0.519 ms  0.507 ms  0.821 ms
+ 3  * xe1-0-0-u11-dist-sa-mc-trust.ns.uwaterloo.ca (172.31.0.149)  0.686 ms *
+ 4  te2-12-dist-rt-mc-global.ns.uwaterloo.ca (172.31.0.161)  1.391 ms  1.128 ms  1.365 ms
+ 5  te2-16-cn-rt-mc.ns.uwaterloo.ca (172.16.31.117)  0.833 ms  0.880 ms  0.855 ms
+ 6  gi0-0-1-ext-rt-rac.ns.uwaterloo.ca (172.16.31.109)  1.284 ms  1.306 ms  1.194 ms
+ 7  216-191-167-37.dedicated.allstream.net (216.191.167.37)  2.638 ms  2.668 ms  2.464 ms
+ 8  pnwgp-six.pnw-gigapop.net (206.81.80.84)  53.604 ms  55.587 ms  53.489 ms
+ 9  ui-brin-16.client.pnw-gigpop.net (209.124.188.149)  70.440 ms  68.659 ms  68.892 ms
+10  ajm-edge-rn-edge.msu.montana.edu (192.105.205.193)  96.144 ms  96.062 ms 192.105.205.132 (192.105.205.132)  95.748 ms
+11  pl1.cs.montana.edu (153.90.1.34)  95.478 ms  97.209 ms  95.494 ms
+traceroute to pl1.cs.montana.edu (153.90.1.34), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  te2-7-dist-rt-phy.ns.uwaterloo.ca (172.16.3.5)  0.475 ms  0.736 ms  0.725 ms
+ 3  xe1-0-0-u11-dist-sa-mc-trust.ns.uwaterloo.ca (172.31.0.149)  0.670 ms * *
+ 4  te2-12-dist-rt-mc-global.ns.uwaterloo.ca (172.31.0.161)  1.110 ms  1.340 ms  1.333 ms
+ 5  te2-16-cn-rt-mc.ns.uwaterloo.ca (172.16.31.117)  0.806 ms  0.842 ms  0.829 ms
+ 6  gi0-0-1-ext-rt-rac.ns.uwaterloo.ca (172.16.31.109)  1.485 ms  1.464 ms  1.473 ms
+ 7  216-191-167-37.dedicated.allstream.net (216.191.167.37)  2.675 ms  2.705 ms  2.473 ms
+ 8  pnwgp-six.pnw-gigapop.net (206.81.80.84)  53.611 ms  55.344 ms  53.452 ms
+ 9  ui-brin-16.client.pnw-gigpop.net (209.124.188.149)  68.610 ms  69.142 ms  69.061 ms
+10  192.105.205.132 (192.105.205.132)  95.603 ms ajm-edge-rn-edge.msu.montana.edu (192.105.205.193)  97.298 ms 192.105.205.132 (192.105.205.132)  95.632 ms
+11  pl1.cs.montana.edu (153.90.1.34)  95.320 ms  95.196 ms  95.459 ms
+traceroute to pl1.cs.montana.edu (153.90.1.34), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  te2-7-dist-rt-phy.ns.uwaterloo.ca (172.16.3.5)  0.729 ms  0.774 ms  0.761 ms
+ 3  * * xe1-0-0-u11-dist-sa-mc-trust.ns.uwaterloo.ca (172.31.0.149)  0.695 ms
+ 4  te2-12-dist-rt-mc-global.ns.uwaterloo.ca (172.31.0.161)  1.371 ms  1.318 ms  1.304 ms
+ 5  te2-16-cn-rt-mc.ns.uwaterloo.ca (172.16.31.117)  39.497 ms  39.545 ms  83.028 ms
+ 6  gi0-0-1-ext-rt-rac.ns.uwaterloo.ca (172.16.31.109)  1.454 ms  1.422 ms  1.481 ms
+ 7  216-191-167-37.dedicated.allstream.net (216.191.167.37)  2.624 ms  2.672 ms  2.451 ms
+ 8  pnwgp-six.pnw-gigapop.net (206.81.80.84)  53.417 ms  53.389 ms  53.368 ms
+ 9  ui-brin-16.client.pnw-gigpop.net (209.124.188.149)  68.856 ms  70.326 ms  68.635 ms
+10  192.105.205.132 (192.105.205.132)  97.598 ms  97.422 ms  95.844 ms
+11  pl1.cs.montana.edu (153.90.1.34)  95.313 ms  95.480 ms  95.383 ms
+traceroute to pl1.cs.montana.edu (153.90.1.34), 30 hops max, 60 byte packets
+ 1  dc3558-cs2-csnet.uwaterloo.ca (129.97.74.1)  5.061 ms * *
+ 2  te2-7-dist-rt-phy.ns.uwaterloo.ca (172.16.3.5)  0.753 ms  0.741 ms  0.956 ms
+ 3  xe1-0-0-u11-dist-sa-mc-trust.ns.uwaterloo.ca (172.31.0.149)  0.684 ms * *
+ 4  te2-12-dist-rt-mc-global.ns.uwaterloo.ca (172.31.0.161)  1.117 ms  1.350 ms  1.344 ms
+ 5  te2-16-cn-rt-mc.ns.uwaterloo.ca (172.16.31.117)  42.539 ms  42.564 ms  42.552 ms
+ 6  gi0-0-1-ext-rt-rac.ns.uwaterloo.ca (172.16.31.109)  1.510 ms  1.526 ms  1.432 ms
+ 7  216-191-167-37.dedicated.allstream.net (216.191.167.37)  2.415 ms  2.323 ms  2.418 ms
+ 8  pnwgp-six.pnw-gigapop.net (206.81.80.84)  242.624 ms  242.652 ms  242.422 ms
+ 9  ui-brin-16.client.pnw-gigpop.net (209.124.188.149)  68.930 ms  68.860 ms  68.599 ms
+10  192.105.205.132 (192.105.205.132)  97.653 ms  97.563 ms  95.588 ms
+11  pl1.cs.montana.edu (153.90.1.34)  95.380 ms  95.349 ms  95.222 ms
+traceroute to pl1.cs.montana.edu (153.90.1.34), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  te2-7-dist-rt-phy.ns.uwaterloo.ca (172.16.3.5)  1.226 ms  1.206 ms  1.198 ms
+ 3  xe1-0-0-u11-dist-sa-mc-trust.ns.uwaterloo.ca (172.31.0.149)  0.537 ms  0.544 ms  0.516 ms
+ 4  te2-12-dist-rt-mc-global.ns.uwaterloo.ca (172.31.0.161)  1.110 ms  1.205 ms  1.454 ms
+ 5  te2-16-cn-rt-mc.ns.uwaterloo.ca (172.16.31.117)  0.916 ms  1.004 ms  0.996 ms
+ 6  gi0-0-1-ext-rt-rac.ns.uwaterloo.ca (172.16.31.109)  1.367 ms  1.456 ms  1.486 ms
+ 7  216-191-167-37.dedicated.allstream.net (216.191.167.37)  2.657 ms  2.409 ms  2.543 ms
+ 8  pnwgp-six.pnw-gigapop.net (206.81.80.84)  55.190 ms  53.423 ms  53.454 ms
+ 9  ui-brin-16.client.pnw-gigpop.net (209.124.188.149)  69.126 ms  68.858 ms  69.335 ms
+10  ajm-edge-rn-edge.msu.montana.edu (192.105.205.193)  95.660 ms  95.695 ms 192.105.205.132 (192.105.205.132)  95.620 ms
+11  pl1.cs.montana.edu (153.90.1.34)  95.348 ms  95.373 ms  95.418 ms
+traceroute to pl1.cs.montana.edu (153.90.1.34), 30 hops max, 60 byte packets
+ 1  dc3558-cs2-csnet.uwaterloo.ca (129.97.74.1)  5.076 ms  5.111 ms  5.096 ms
+ 2  te2-7-dist-rt-phy.ns.uwaterloo.ca (172.16.3.5)  0.760 ms  0.738 ms  0.961 ms
+ 3  * * *
+ 4  te2-12-dist-rt-mc-global.ns.uwaterloo.ca (172.31.0.161)  1.396 ms  1.623 ms  1.593 ms
+ 5  te2-16-cn-rt-mc.ns.uwaterloo.ca (172.16.31.117)  0.890 ms  0.878 ms  0.854 ms
+ 6  gi0-0-1-ext-rt-rac.ns.uwaterloo.ca (172.16.31.109)  1.258 ms  1.515 ms  1.439 ms
+ 7  216-191-167-37.dedicated.allstream.net (216.191.167.37)  2.666 ms  2.659 ms  2.642 ms
+ 8  pnwgp-six.pnw-gigapop.net (206.81.80.84)  53.562 ms  53.440 ms  53.513 ms
+ 9  ui-brin-16.client.pnw-gigpop.net (209.124.188.149)  70.434 ms  68.660 ms  70.382 ms
+10  192.105.205.132 (192.105.205.132)  95.853 ms  97.402 ms ajm-edge-rn-edge.msu.montana.edu (192.105.205.193)  95.624 ms
+11  pl1.cs.montana.edu (153.90.1.34)  97.106 ms  95.291 ms  95.330 ms
+traceroute to pl1.cs.montana.edu (153.90.1.34), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  te2-7-dist-rt-phy.ns.uwaterloo.ca (172.16.3.5)  0.685 ms  0.717 ms  0.704 ms
+ 3  * * *
+ 4  te2-12-dist-rt-mc-global.ns.uwaterloo.ca (172.31.0.161)  2.179 ms  2.166 ms  2.152 ms
+ 5  te2-16-cn-rt-mc.ns.uwaterloo.ca (172.16.31.117)  1.008 ms  0.998 ms  0.975 ms
+ 6  gi0-0-1-ext-rt-rac.ns.uwaterloo.ca (172.16.31.109)  1.447 ms  1.426 ms  1.507 ms
+ 7  216-191-167-37.dedicated.allstream.net (216.191.167.37)  11.128 ms  10.785 ms  10.774 ms
+ 8  pnwgp-six.pnw-gigapop.net (206.81.80.84)  53.450 ms  53.405 ms  55.464 ms
+ 9  ui-brin-16.client.pnw-gigpop.net (209.124.188.149)  69.123 ms  69.030 ms  70.262 ms
+10  ajm-edge-rn-edge.msu.montana.edu (192.105.205.193)  95.732 ms 192.105.205.132 (192.105.205.132)  95.780 ms  95.820 ms
+11  pl1.cs.montana.edu (153.90.1.34)  95.227 ms  95.304 ms  95.405 ms
+traceroute to pl1.cs.montana.edu (153.90.1.34), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  te2-7-dist-rt-phy.ns.uwaterloo.ca (172.16.3.5)  0.696 ms  0.928 ms  1.048 ms
+ 3  * * *
+ 4  te2-12-dist-rt-mc-global.ns.uwaterloo.ca (172.31.0.161)  1.388 ms  1.307 ms  1.544 ms
+ 5  te2-16-cn-rt-mc.ns.uwaterloo.ca (172.16.31.117)  0.910 ms  0.883 ms  0.869 ms
+ 6  gi0-0-1-ext-rt-rac.ns.uwaterloo.ca (172.16.31.109)  1.444 ms  1.218 ms  1.338 ms
+ 7  216-191-167-37.dedicated.allstream.net (216.191.167.37)  2.800 ms  2.533 ms  2.552 ms
+ 8  pnwgp-six.pnw-gigapop.net (206.81.80.84)  53.463 ms  53.389 ms  55.111 ms
+ 9  ui-brin-16.client.pnw-gigpop.net (209.124.188.149)  68.682 ms  69.156 ms  68.870 ms
+10  192.105.205.132 (192.105.205.132)  95.868 ms ajm-edge-rn-edge.msu.montana.edu (192.105.205.193)  95.890 ms  95.437 ms
+11  pl1.cs.montana.edu (153.90.1.34)  95.163 ms  95.345 ms  95.415 ms
+traceroute to pl1.cs.montana.edu (153.90.1.34), 30 hops max, 60 byte packets
+ 1  dc3558-cs2-csnet.uwaterloo.ca (129.97.74.1)  127.428 ms  127.474 ms  127.462 ms
+ 2  te2-7-dist-rt-phy.ns.uwaterloo.ca (172.16.3.5)  0.752 ms  0.740 ms  0.898 ms
+ 3  xe1-0-0-u11-dist-sa-mc-trust.ns.uwaterloo.ca (172.31.0.149)  0.687 ms  0.676 ms  0.590 ms
+ 4  te2-12-dist-rt-mc-global.ns.uwaterloo.ca (172.31.0.161)  1.322 ms  1.422 ms  1.445 ms
+ 5  te2-16-cn-rt-mc.ns.uwaterloo.ca (172.16.31.117)  0.983 ms  0.959 ms  0.848 ms
+ 6  gi0-0-1-ext-rt-rac.ns.uwaterloo.ca (172.16.31.109)  1.367 ms  1.503 ms  1.378 ms
+ 7  216-191-167-37.dedicated.allstream.net (216.191.167.37)  2.649 ms  2.639 ms  2.578 ms
+ 8  pnwgp-six.pnw-gigapop.net (206.81.80.84)  55.169 ms  55.112 ms  53.581 ms
+ 9  ui-brin-16.client.pnw-gigpop.net (209.124.188.149)  68.556 ms  70.433 ms  68.657 ms
+10  ajm-edge-rn-edge.msu.montana.edu (192.105.205.193)  95.922 ms  95.597 ms 192.105.205.132 (192.105.205.132)  95.597 ms
+11  pl1.cs.montana.edu (153.90.1.34)  95.324 ms  95.479 ms  97.113 ms
+traceroute to pl1.cs.montana.edu (153.90.1.34), 30 hops max, 60 byte packets
+ 1  dc3558-cs2-csnet.uwaterloo.ca (129.97.74.1)  4.041 ms * *
+ 2  te2-7-dist-rt-phy.ns.uwaterloo.ca (172.16.3.5)  0.858 ms  0.835 ms  0.925 ms
+ 3  xe1-0-0-u11-dist-sa-mc-trust.ns.uwaterloo.ca (172.31.0.149)  0.787 ms  0.762 ms  0.617 ms
+ 4  te2-12-dist-rt-mc-global.ns.uwaterloo.ca (172.31.0.161)  1.664 ms  1.330 ms  1.564 ms
+ 5  te2-16-cn-rt-mc.ns.uwaterloo.ca (172.16.31.117)  13.537 ms  13.576 ms  13.564 ms
+ 6  gi0-0-1-ext-rt-rac.ns.uwaterloo.ca (172.16.31.109)  1.545 ms  1.345 ms  1.369 ms
+ 7  216-191-167-37.dedicated.allstream.net (216.191.167.37)  2.537 ms  2.484 ms  2.681 ms
+ 8  pnwgp-six.pnw-gigapop.net (206.81.80.84)  53.629 ms  53.439 ms  53.397 ms
+ 9  ui-brin-16.client.pnw-gigpop.net (209.124.188.149)  68.606 ms  70.590 ms  70.164 ms
+10  ajm-edge-rn-edge.msu.montana.edu (192.105.205.193)  95.842 ms  95.702 ms 192.105.205.132 (192.105.205.132)  95.866 ms
+11  pl1.cs.montana.edu (153.90.1.34)  95.381 ms  95.268 ms  95.360 ms
+traceroute to pl1.cs.montana.edu (153.90.1.34), 30 hops max, 60 byte packets
+ 1  dc3558-cs2-csnet.uwaterloo.ca (129.97.74.1)  7.819 ms  7.829 ms  7.815 ms
+ 2  te2-7-dist-rt-phy.ns.uwaterloo.ca (172.16.3.5)  0.760 ms  0.997 ms  1.071 ms
+ 3  xe1-0-0-u11-dist-sa-mc-trust.ns.uwaterloo.ca (172.31.0.149)  0.601 ms  0.593 ms  0.570 ms
+ 4  te2-12-dist-rt-mc-global.ns.uwaterloo.ca (172.31.0.161)  1.477 ms  1.711 ms  1.784 ms
+ 5  te2-16-cn-rt-mc.ns.uwaterloo.ca (172.16.31.117)  0.779 ms  0.940 ms  0.932 ms
+ 6  gi0-0-1-ext-rt-rac.ns.uwaterloo.ca (172.16.31.109)  1.403 ms  1.268 ms  1.242 ms
+ 7  216-191-167-37.dedicated.allstream.net (216.191.167.37)  2.870 ms  2.897 ms  2.884 ms
+ 8  pnwgp-six.pnw-gigapop.net (206.81.80.84)  183.073 ms  182.983 ms  182.880 ms
+ 9  ui-brin-16.client.pnw-gigpop.net (209.124.188.149)  68.871 ms  68.913 ms  69.085 ms
+10  192.105.205.132 (192.105.205.132)  95.839 ms  95.821 ms  97.288 ms
+11  pl1.cs.montana.edu (153.90.1.34)  95.271 ms  97.137 ms  95.363 ms
+traceroute to pl1.cs.montana.edu (153.90.1.34), 30 hops max, 60 byte packets
+ 1  dc3558-cs2-csnet.uwaterloo.ca (129.97.74.1)  14.521 ms * *
+ 2  te2-7-dist-rt-phy.ns.uwaterloo.ca (172.16.3.5)  0.711 ms  0.709 ms  0.944 ms
+ 3  * * *
+ 4  te2-12-dist-rt-mc-global.ns.uwaterloo.ca (172.31.0.161)  1.160 ms  1.357 ms  1.357 ms
+ 5  te2-16-cn-rt-mc.ns.uwaterloo.ca (172.16.31.117)  0.791 ms  0.783 ms  1.002 ms
+ 6  gi0-0-1-ext-rt-rac.ns.uwaterloo.ca (172.16.31.109)  1.271 ms  1.460 ms  1.444 ms
+ 7  216-191-167-37.dedicated.allstream.net (216.191.167.37)  64.664 ms  64.705 ms  64.992 ms
+ 8  pnwgp-six.pnw-gigapop.net (206.81.80.84)  66.127 ms  66.177 ms  65.971 ms
+ 9  ui-brin-16.client.pnw-gigpop.net (209.124.188.149)  68.939 ms  68.857 ms  68.427 ms
+10  ajm-edge-rn-edge.msu.montana.edu (192.105.205.193)  95.639 ms  95.548 ms 192.105.205.132 (192.105.205.132)  95.438 ms
+11  pl1.cs.montana.edu (153.90.1.34)  95.301 ms  95.248 ms  95.359 ms
+traceroute to pl1.cs.montana.edu (153.90.1.34), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  te2-7-dist-rt-phy.ns.uwaterloo.ca (172.16.3.5)  0.813 ms  0.993 ms  1.039 ms
+ 3  * xe1-0-0-u11-dist-sa-mc-trust.ns.uwaterloo.ca (172.31.0.149)  0.686 ms *
+ 4  te2-12-dist-rt-mc-global.ns.uwaterloo.ca (172.31.0.161)  1.400 ms  1.470 ms  1.444 ms
+ 5  te2-16-cn-rt-mc.ns.uwaterloo.ca (172.16.31.117)  0.917 ms  0.904 ms  0.890 ms
+ 6  gi0-0-1-ext-rt-rac.ns.uwaterloo.ca (172.16.31.109)  1.363 ms  1.228 ms  1.162 ms
+ 7  216-191-167-37.dedicated.allstream.net (216.191.167.37)  2.664 ms  2.701 ms  2.684 ms
+ 8  pnwgp-six.pnw-gigapop.net (206.81.80.84)  53.636 ms  53.544 ms  53.377 ms
+ 9  ui-brin-16.client.pnw-gigpop.net (209.124.188.149)  68.626 ms  68.566 ms  68.803 ms
+10  ajm-edge-rn-edge.msu.montana.edu (192.105.205.193)  95.890 ms 192.105.205.132 (192.105.205.132)  95.969 ms  96.107 ms
+11  pl1.cs.montana.edu (153.90.1.34)  97.077 ms  95.312 ms  95.343 ms
+traceroute to pl1.cs.montana.edu (153.90.1.34), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  te2-7-dist-rt-phy.ns.uwaterloo.ca (172.16.3.5)  0.781 ms  0.892 ms  0.882 ms
+ 3  * * xe1-0-0-u11-dist-sa-mc-trust.ns.uwaterloo.ca (172.31.0.149)  0.561 ms
+ 4  te2-12-dist-rt-mc-global.ns.uwaterloo.ca (172.31.0.161)  1.541 ms  1.566 ms  1.253 ms
+ 5  te2-16-cn-rt-mc.ns.uwaterloo.ca (172.16.31.117)  0.986 ms  1.045 ms  1.034 ms
+ 6  gi0-0-1-ext-rt-rac.ns.uwaterloo.ca (172.16.31.109)  1.466 ms  3.672 ms  3.652 ms
+ 7  216-191-167-37.dedicated.allstream.net (216.191.167.37)  2.572 ms  2.441 ms  2.401 ms
+ 8  pnwgp-six.pnw-gigapop.net (206.81.80.84)  311.997 ms  311.927 ms  311.859 ms
+ 9  ui-brin-16.client.pnw-gigpop.net (209.124.188.149)  70.733 ms  70.626 ms  68.605 ms
+10  192.105.205.132 (192.105.205.132)  95.567 ms ajm-edge-rn-edge.msu.montana.edu (192.105.205.193)  96.041 ms  97.371 ms
+11  pl1.cs.montana.edu (153.90.1.34)  97.169 ms  95.207 ms  95.345 ms
+traceroute to pl1.cs.montana.edu (153.90.1.34), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  te2-7-dist-rt-phy.ns.uwaterloo.ca (172.16.3.5)  0.736 ms  0.819 ms  0.806 ms
+ 3  * * xe1-0-0-u11-dist-sa-mc-trust.ns.uwaterloo.ca (172.31.0.149)  0.732 ms
+ 4  te2-12-dist-rt-mc-global.ns.uwaterloo.ca (172.31.0.161)  1.621 ms  1.687 ms  1.333 ms
+ 5  te2-16-cn-rt-mc.ns.uwaterloo.ca (172.16.31.117)  0.825 ms  1.046 ms  1.086 ms
+ 6  gi0-0-1-ext-rt-rac.ns.uwaterloo.ca (172.16.31.109)  1.270 ms  1.134 ms  1.175 ms
+ 7  216-191-167-37.dedicated.allstream.net (216.191.167.37)  2.829 ms  2.893 ms  2.796 ms
+ 8  pnwgp-six.pnw-gigapop.net (206.81.80.84)  53.645 ms  53.635 ms  53.455 ms
+ 9  ui-brin-16.client.pnw-gigpop.net (209.124.188.149)  68.619 ms  70.359 ms  68.585 ms
+10  ajm-edge-rn-edge.msu.montana.edu (192.105.205.193)  95.594 ms 192.105.205.132 (192.105.205.132)  95.828 ms ajm-edge-rn-edge.msu.montana.edu (192.105.205.193)  95.599 ms
+11  pl1.cs.montana.edu (153.90.1.34)  97.069 ms  95.303 ms  95.404 ms
+traceroute to pl1.cs.montana.edu (153.90.1.34), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  te2-7-dist-rt-phy.ns.uwaterloo.ca (172.16.3.5)  0.538 ms  0.767 ms  0.805 ms
+ 3  * * *
+ 4  te2-12-dist-rt-mc-global.ns.uwaterloo.ca (172.31.0.161)  1.132 ms  1.362 ms  1.428 ms
+ 5  te2-16-cn-rt-mc.ns.uwaterloo.ca (172.16.31.117)  0.933 ms  0.804 ms  0.902 ms
+ 6  gi0-0-1-ext-rt-rac.ns.uwaterloo.ca (172.16.31.109)  1.538 ms  1.717 ms  1.467 ms
+ 7  216-191-167-37.dedicated.allstream.net (216.191.167.37)  2.645 ms  2.371 ms  2.591 ms
+ 8  pnwgp-six.pnw-gigapop.net (206.81.80.84)  53.544 ms  55.118 ms  53.370 ms
+ 9  ui-brin-16.client.pnw-gigpop.net (209.124.188.149)  68.583 ms  70.415 ms  68.651 ms
+10  ajm-edge-rn-edge.msu.montana.edu (192.105.205.193)  95.672 ms 192.105.205.132 (192.105.205.132)  95.894 ms ajm-edge-rn-edge.msu.montana.edu (192.105.205.193)  95.717 ms
+11  pl1.cs.montana.edu (153.90.1.34)  97.123 ms  97.116 ms  95.379 ms
+traceroute to pl1.cs.montana.edu (153.90.1.34), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  te2-7-dist-rt-phy.ns.uwaterloo.ca (172.16.3.5)  1.318 ms  1.487 ms  1.487 ms
+ 3  xe1-0-0-u11-dist-sa-mc-trust.ns.uwaterloo.ca (172.31.0.149)  0.765 ms  0.677 ms  0.729 ms
+ 4  te2-12-dist-rt-mc-global.ns.uwaterloo.ca (172.31.0.161)  1.644 ms  1.383 ms  1.712 ms
+ 5  te2-16-cn-rt-mc.ns.uwaterloo.ca (172.16.31.117)  0.839 ms  1.065 ms  1.104 ms
+ 6  gi0-0-1-ext-rt-rac.ns.uwaterloo.ca (172.16.31.109)  1.301 ms  3.450 ms  3.382 ms
+ 7  216-191-167-37.dedicated.allstream.net (216.191.167.37)  13.109 ms  13.007 ms  12.726 ms
+ 8  pnwgp-six.pnw-gigapop.net (206.81.80.84)  53.698 ms  53.600 ms  53.527 ms
+ 9  ui-brin-16.client.pnw-gigpop.net (209.124.188.149)  68.920 ms  68.898 ms  68.826 ms
+10  ajm-edge-rn-edge.msu.montana.edu (192.105.205.193)  97.818 ms  97.856 ms 192.105.205.132 (192.105.205.132)  95.893 ms
+11  pl1.cs.montana.edu (153.90.1.34)  97.116 ms  95.472 ms  95.342 ms
+traceroute to pl1.cs.montana.edu (153.90.1.34), 30 hops max, 60 byte packets
+ 1  dc3558-cs2-csnet.uwaterloo.ca (129.97.74.1)  5.805 ms  5.839 ms  5.825 ms
+ 2  te2-7-dist-rt-phy.ns.uwaterloo.ca (172.16.3.5)  0.681 ms  0.731 ms  0.719 ms
+ 3  * * *
+ 4  te2-12-dist-rt-mc-global.ns.uwaterloo.ca (172.31.0.161)  1.321 ms  1.616 ms  1.523 ms
+ 5  te2-16-cn-rt-mc.ns.uwaterloo.ca (172.16.31.117)  0.834 ms  0.985 ms  0.781 ms
+ 6  gi0-0-1-ext-rt-rac.ns.uwaterloo.ca (172.16.31.109)  1.193 ms  1.408 ms  1.430 ms
+ 7  216-191-167-37.dedicated.allstream.net (216.191.167.37)  2.610 ms  2.450 ms  2.433 ms
+ 8  pnwgp-six.pnw-gigapop.net (206.81.80.84)  53.437 ms  53.705 ms  53.668 ms
+ 9  ui-brin-16.client.pnw-gigpop.net (209.124.188.149)  68.868 ms  68.888 ms  68.893 ms
+10  192.105.205.132 (192.105.205.132)  97.353 ms ajm-edge-rn-edge.msu.montana.edu (192.105.205.193)  95.867 ms 192.105.205.132 (192.105.205.132)  95.944 ms
+11  pl1.cs.montana.edu (153.90.1.34)  97.069 ms  95.296 ms  95.351 ms
+traceroute to pl1.cs.montana.edu (153.90.1.34), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  te2-7-dist-rt-phy.ns.uwaterloo.ca (172.16.3.5)  0.755 ms  0.700 ms  0.683 ms
+ 3  * * xe1-0-0-u11-dist-sa-mc-trust.ns.uwaterloo.ca (172.31.0.149)  0.616 ms
+ 4  te2-12-dist-rt-mc-global.ns.uwaterloo.ca (172.31.0.161)  1.430 ms  1.417 ms  1.298 ms
+ 5  te2-16-cn-rt-mc.ns.uwaterloo.ca (172.16.31.117)  1.038 ms  1.024 ms  0.980 ms
+ 6  gi0-0-1-ext-rt-rac.ns.uwaterloo.ca (172.16.31.109)  1.321 ms  1.462 ms  1.581 ms
+ 7  216-191-167-37.dedicated.allstream.net (216.191.167.37)  2.661 ms  2.641 ms  2.447 ms
+ 8  pnwgp-six.pnw-gigapop.net (206.81.80.84)  193.072 ms  193.119 ms  192.772 ms
+ 9  ui-brin-16.client.pnw-gigpop.net (209.124.188.149)  70.504 ms  68.738 ms  70.536 ms
+10  ajm-edge-rn-edge.msu.montana.edu (192.105.205.193)  95.776 ms 192.105.205.132 (192.105.205.132)  95.790 ms ajm-edge-rn-edge.msu.montana.edu (192.105.205.193)  97.654 ms
+11  pl1.cs.montana.edu (153.90.1.34)  95.359 ms  97.125 ms  95.350 ms
+traceroute to pl1.cs.montana.edu (153.90.1.34), 30 hops max, 60 byte packets
+ 1  dc3558-cs2-csnet.uwaterloo.ca (129.97.74.1)  4.064 ms * *
+ 2  te2-7-dist-rt-phy.ns.uwaterloo.ca (172.16.3.5)  0.739 ms  0.782 ms  0.739 ms
+ 3  xe1-0-0-u11-dist-sa-mc-trust.ns.uwaterloo.ca (172.31.0.149)  0.705 ms * *
+ 4  te2-12-dist-rt-mc-global.ns.uwaterloo.ca (172.31.0.161)  1.173 ms  1.149 ms  1.299 ms
+ 5  te2-16-cn-rt-mc.ns.uwaterloo.ca (172.16.31.117)  0.795 ms  1.011 ms  1.069 ms
+ 6  gi0-0-1-ext-rt-rac.ns.uwaterloo.ca (172.16.31.109)  1.474 ms  1.668 ms  1.707 ms
+ 7  216-191-167-37.dedicated.allstream.net (216.191.167.37)  2.615 ms  2.665 ms  2.522 ms
+ 8  pnwgp-six.pnw-gigapop.net (206.81.80.84)  53.697 ms  53.591 ms  55.323 ms
+ 9  ui-brin-16.client.pnw-gigpop.net (209.124.188.149)  70.299 ms  68.678 ms  70.347 ms
+10  192.105.205.132 (192.105.205.132)  95.857 ms  97.330 ms ajm-edge-rn-edge.msu.montana.edu (192.105.205.193)  97.596 ms
+11  pl1.cs.montana.edu (153.90.1.34)  97.077 ms  95.309 ms  97.036 ms
+traceroute to pl1.cs.montana.edu (153.90.1.34), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  te2-7-dist-rt-phy.ns.uwaterloo.ca (172.16.3.5)  0.523 ms  0.753 ms  0.984 ms
+ 3  * * xe1-0-0-u11-dist-sa-mc-trust.ns.uwaterloo.ca (172.31.0.149)  0.482 ms
+ 4  te2-12-dist-rt-mc-global.ns.uwaterloo.ca (172.31.0.161)  1.010 ms  1.132 ms  1.363 ms
+ 5  te2-16-cn-rt-mc.ns.uwaterloo.ca (172.16.31.117)  0.936 ms  0.926 ms  0.911 ms
+ 6  gi0-0-1-ext-rt-rac.ns.uwaterloo.ca (172.16.31.109)  1.344 ms  1.413 ms  1.475 ms
+ 7  216-191-167-37.dedicated.allstream.net (216.191.167.37)  3.606 ms  3.323 ms  3.291 ms
+ 8  pnwgp-six.pnw-gigapop.net (206.81.80.84)  122.562 ms  122.552 ms  122.482 ms
+ 9  ui-brin-16.client.pnw-gigpop.net (209.124.188.149)  68.866 ms  68.726 ms  68.705 ms
+10  192.105.205.132 (192.105.205.132)  95.842 ms ajm-edge-rn-edge.msu.montana.edu (192.105.205.193)  95.883 ms 192.105.205.132 (192.105.205.132)  95.753 ms
+11  pl1.cs.montana.edu (153.90.1.34)  96.969 ms  95.418 ms  95.326 ms
+traceroute to pl1.cs.montana.edu (153.90.1.34), 30 hops max, 60 byte packets
+ 1  dc3558-cs2-csnet.uwaterloo.ca (129.97.74.1)  14.802 ms  14.828 ms *
+ 2  te2-7-dist-rt-phy.ns.uwaterloo.ca (172.16.3.5)  0.993 ms  1.106 ms  1.097 ms
+ 3  * * *
+ 4  te2-12-dist-rt-mc-global.ns.uwaterloo.ca (172.31.0.161)  1.137 ms  1.363 ms  1.358 ms
+ 5  te2-16-cn-rt-mc.ns.uwaterloo.ca (172.16.31.117)  0.946 ms  0.932 ms  0.916 ms
+ 6  gi0-0-1-ext-rt-rac.ns.uwaterloo.ca (172.16.31.109)  1.254 ms  1.355 ms  1.326 ms
+ 7  216-191-167-37.dedicated.allstream.net (216.191.167.37)  2.562 ms  2.527 ms  2.761 ms
+ 8  pnwgp-six.pnw-gigapop.net (206.81.80.84)  53.464 ms  53.531 ms  53.457 ms
+ 9  ui-brin-16.client.pnw-gigpop.net (209.124.188.149)  70.145 ms  68.629 ms  68.686 ms
+10  192.105.205.132 (192.105.205.132)  95.895 ms ajm-edge-rn-edge.msu.montana.edu (192.105.205.193)  95.864 ms  97.345 ms
+11  pl1.cs.montana.edu (153.90.1.34)  95.379 ms  97.092 ms  97.147 ms
+traceroute to pl1.cs.montana.edu (153.90.1.34), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  te2-7-dist-rt-phy.ns.uwaterloo.ca (172.16.3.5)  0.803 ms  0.792 ms  0.771 ms
+ 3  * * xe1-0-0-u11-dist-sa-mc-trust.ns.uwaterloo.ca (172.31.0.149)  0.644 ms
+ 4  te2-12-dist-rt-mc-global.ns.uwaterloo.ca (172.31.0.161)  1.374 ms  1.441 ms  1.089 ms
+ 5  te2-16-cn-rt-mc.ns.uwaterloo.ca (172.16.31.117)  0.821 ms  0.886 ms  0.874 ms
+ 6  gi0-0-1-ext-rt-rac.ns.uwaterloo.ca (172.16.31.109)  1.346 ms  1.422 ms  1.433 ms
+ 7  216-191-167-37.dedicated.allstream.net (216.191.167.37)  2.705 ms  2.607 ms  2.482 ms
+ 8  pnwgp-six.pnw-gigapop.net (206.81.80.84)  271.035 ms  271.116 ms  270.995 ms
+ 9  ui-brin-16.client.pnw-gigpop.net (209.124.188.149)  70.610 ms  68.580 ms  70.633 ms
+10  ajm-edge-rn-edge.msu.montana.edu (192.105.205.193)  95.638 ms 192.105.205.132 (192.105.205.132)  97.362 ms ajm-edge-rn-edge.msu.montana.edu (192.105.205.193)  95.599 ms
+11  pl1.cs.montana.edu (153.90.1.34)  95.320 ms  95.338 ms  97.101 ms
+traceroute to pl1.cs.montana.edu (153.90.1.34), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  te2-7-dist-rt-phy.ns.uwaterloo.ca (172.16.3.5)  0.568 ms  0.564 ms  0.776 ms
+ 3  * * *
+ 4  te2-12-dist-rt-mc-global.ns.uwaterloo.ca (172.31.0.161)  1.195 ms  1.509 ms  1.412 ms
+ 5  te2-16-cn-rt-mc.ns.uwaterloo.ca (172.16.31.117)  1.043 ms  1.045 ms  0.830 ms
+ 6  gi0-0-1-ext-rt-rac.ns.uwaterloo.ca (172.16.31.109)  3.641 ms  3.470 ms  3.673 ms
+ 7  216-191-167-37.dedicated.allstream.net (216.191.167.37)  2.581 ms  2.623 ms  2.577 ms
+ 8  pnwgp-six.pnw-gigapop.net (206.81.80.84)  53.628 ms  53.510 ms  53.425 ms
+ 9  ui-brin-16.client.pnw-gigpop.net (209.124.188.149)  68.741 ms  68.801 ms  70.526 ms
+10  ajm-edge-rn-edge.msu.montana.edu (192.105.205.193)  96.237 ms 192.105.205.132 (192.105.205.132)  96.164 ms  96.154 ms
+11  pl1.cs.montana.edu (153.90.1.34)  95.354 ms  95.363 ms  95.246 ms
+traceroute to pl1.cs.montana.edu (153.90.1.34), 30 hops max, 60 byte packets
+ 1  dc3558-cs2-csnet.uwaterloo.ca (129.97.74.1)  3.414 ms * *
+ 2  te2-7-dist-rt-phy.ns.uwaterloo.ca (172.16.3.5)  0.566 ms  0.656 ms  0.655 ms
+ 3  xe1-0-0-u11-dist-sa-mc-trust.ns.uwaterloo.ca (172.31.0.149)  0.631 ms  0.607 ms *
+ 4  te2-12-dist-rt-mc-global.ns.uwaterloo.ca (172.31.0.161)  1.454 ms  1.270 ms  1.167 ms
+ 5  te2-16-cn-rt-mc.ns.uwaterloo.ca (172.16.31.117)  49.968 ms  49.869 ms  49.939 ms
+ 6  gi0-0-1-ext-rt-rac.ns.uwaterloo.ca (172.16.31.109)  1.381 ms  1.368 ms  1.341 ms
+ 7  216-191-167-37.dedicated.allstream.net (216.191.167.37)  2.611 ms  2.600 ms  2.588 ms
+ 8  pnwgp-six.pnw-gigapop.net (206.81.80.84)  55.368 ms  55.394 ms  53.417 ms
+ 9  ui-brin-16.client.pnw-gigpop.net (209.124.188.149)  68.633 ms  68.674 ms  68.907 ms
+10  ajm-edge-rn-edge.msu.montana.edu (192.105.205.193)  95.434 ms  95.825 ms  97.481 ms
+11  pl1.cs.montana.edu (153.90.1.34)  95.215 ms  97.315 ms  95.581 ms
+traceroute to pl1.cs.montana.edu (153.90.1.34), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  te2-7-dist-rt-phy.ns.uwaterloo.ca (172.16.3.5)  0.592 ms  0.645 ms  0.649 ms
+ 3  xe1-0-0-u11-dist-sa-mc-trust.ns.uwaterloo.ca (172.31.0.149)  0.620 ms  0.596 ms  0.588 ms
+ 4  te2-12-dist-rt-mc-global.ns.uwaterloo.ca (172.31.0.161)  1.484 ms  1.471 ms  1.636 ms
+ 5  te2-16-cn-rt-mc.ns.uwaterloo.ca (172.16.31.117)  0.877 ms  0.846 ms  0.845 ms
+ 6  gi0-0-1-ext-rt-rac.ns.uwaterloo.ca (172.16.31.109)  1.307 ms  1.404 ms  1.608 ms
+ 7  216-191-167-37.dedicated.allstream.net (216.191.167.37)  2.639 ms  2.571 ms  2.611 ms
+ 8  pnwgp-six.pnw-gigapop.net (206.81.80.84)  55.258 ms  53.692 ms  53.727 ms
+ 9  ui-brin-16.client.pnw-gigpop.net (209.124.188.149)  70.327 ms  70.385 ms  68.855 ms
+10  ajm-edge-rn-edge.msu.montana.edu (192.105.205.193)  97.323 ms  97.176 ms  95.722 ms
+11  pl1.cs.montana.edu (153.90.1.34)  95.380 ms  95.451 ms  95.345 ms
+traceroute to pl1.cs.montana.edu (153.90.1.34), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  te2-7-dist-rt-phy.ns.uwaterloo.ca (172.16.3.5)  0.555 ms  0.608 ms  0.763 ms
+ 3  xe1-0-0-u11-dist-sa-mc-trust.ns.uwaterloo.ca (172.31.0.149)  0.565 ms *  0.520 ms
+ 4  te2-12-dist-rt-mc-global.ns.uwaterloo.ca (172.31.0.161)  1.439 ms  1.473 ms  1.460 ms
+ 5  te2-16-cn-rt-mc.ns.uwaterloo.ca (172.16.31.117)  1.012 ms  1.006 ms  0.990 ms
+ 6  gi0-0-1-ext-rt-rac.ns.uwaterloo.ca (172.16.31.109)  1.283 ms  3.471 ms  3.377 ms
+ 7  216-191-167-37.dedicated.allstream.net (216.191.167.37)  2.610 ms  2.604 ms  2.719 ms
+ 8  pnwgp-six.pnw-gigapop.net (206.81.80.84)  53.795 ms  53.755 ms  53.649 ms
+ 9  ui-brin-16.client.pnw-gigpop.net (209.124.188.149)  68.985 ms  68.851 ms  68.943 ms
+10  ajm-edge-rn-edge.msu.montana.edu (192.105.205.193)  95.996 ms 192.105.205.132 (192.105.205.132)  96.357 ms  96.210 ms
+11  pl1.cs.montana.edu (153.90.1.34)  95.360 ms  95.362 ms  95.420 ms
+traceroute to pl1.cs.montana.edu (153.90.1.34), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  te2-7-dist-rt-phy.ns.uwaterloo.ca (172.16.3.5)  0.549 ms  0.583 ms  0.831 ms
+ 3  * * *
+ 4  te2-12-dist-rt-mc-global.ns.uwaterloo.ca (172.31.0.161)  1.191 ms  1.184 ms  1.395 ms
+ 5  te2-16-cn-rt-mc.ns.uwaterloo.ca (172.16.31.117)  0.874 ms  0.871 ms  0.846 ms
+ 6  gi0-0-1-ext-rt-rac.ns.uwaterloo.ca (172.16.31.109)  1.380 ms  1.382 ms  1.419 ms
+ 7  216-191-167-37.dedicated.allstream.net (216.191.167.37)  2.399 ms  2.463 ms  2.451 ms
+ 8  pnwgp-six.pnw-gigapop.net (206.81.80.84)  56.387 ms  56.468 ms  56.406 ms
+ 9  ui-brin-16.client.pnw-gigpop.net (209.124.188.149)  69.378 ms  70.344 ms  68.921 ms
+10  ajm-edge-rn-edge.msu.montana.edu (192.105.205.193)  97.325 ms 192.105.205.132 (192.105.205.132)  97.416 ms  97.652 ms
+11  pl1.cs.montana.edu (153.90.1.34)  95.386 ms  95.376 ms  95.645 ms
+traceroute to pl1.cs.montana.edu (153.90.1.34), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  te2-7-dist-rt-phy.ns.uwaterloo.ca (172.16.3.5)  0.505 ms  0.812 ms  0.804 ms
+ 3  xe1-0-0-u11-dist-sa-mc-trust.ns.uwaterloo.ca (172.31.0.149)  0.684 ms  0.739 ms  0.730 ms
+ 4  te2-12-dist-rt-mc-global.ns.uwaterloo.ca (172.31.0.161)  1.206 ms  1.191 ms  1.330 ms
+ 5  te2-16-cn-rt-mc.ns.uwaterloo.ca (172.16.31.117)  1.059 ms  1.118 ms  1.107 ms
+ 6  gi0-0-1-ext-rt-rac.ns.uwaterloo.ca (172.16.31.109)  1.326 ms  1.441 ms  1.399 ms
+ 7  216-191-167-37.dedicated.allstream.net (216.191.167.37)  2.705 ms  2.591 ms  2.662 ms
+ 8  pnwgp-six.pnw-gigapop.net (206.81.80.84)  53.779 ms  53.449 ms  55.334 ms
+ 9  ui-brin-16.client.pnw-gigpop.net (209.124.188.149)  68.810 ms  70.580 ms  70.779 ms
+10  ajm-edge-rn-edge.msu.montana.edu (192.105.205.193)  95.860 ms  97.617 ms 192.105.205.132 (192.105.205.132)  97.590 ms
+11  pl1.cs.montana.edu (153.90.1.34)  95.371 ms  95.525 ms  95.477 ms
+traceroute to pl1.cs.montana.edu (153.90.1.34), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  te2-7-dist-rt-phy.ns.uwaterloo.ca (172.16.3.5)  0.860 ms  0.848 ms  1.219 ms
+ 3  xe1-0-0-u11-dist-sa-mc-trust.ns.uwaterloo.ca (172.31.0.149)  0.741 ms  0.669 ms  0.696 ms
+ 4  te2-12-dist-rt-mc-global.ns.uwaterloo.ca (172.31.0.161)  1.147 ms  1.364 ms  1.094 ms
+ 5  te2-16-cn-rt-mc.ns.uwaterloo.ca (172.16.31.117)  79.051 ms  79.015 ms  79.008 ms
+ 6  gi0-0-1-ext-rt-rac.ns.uwaterloo.ca (172.16.31.109)  1.285 ms  1.222 ms  1.644 ms
+ 7  216-191-167-37.dedicated.allstream.net (216.191.167.37)  3.049 ms  3.043 ms  2.978 ms
+ 8  pnwgp-six.pnw-gigapop.net (206.81.80.84)  199.860 ms  199.845 ms  199.833 ms
+ 9  ui-brin-16.client.pnw-gigpop.net (209.124.188.149)  70.421 ms  68.903 ms  68.500 ms
+10  ajm-edge-rn-edge.msu.montana.edu (192.105.205.193)  97.724 ms 192.105.205.132 (192.105.205.132)  97.493 ms ajm-edge-rn-edge.msu.montana.edu (192.105.205.193)  96.214 ms
+11  pl1.cs.montana.edu (153.90.1.34)  97.195 ms  95.313 ms  97.031 ms
+traceroute to pl1.cs.montana.edu (153.90.1.34), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  te2-7-dist-rt-phy.ns.uwaterloo.ca (172.16.3.5)  0.776 ms  0.794 ms  0.952 ms
+ 3  * * *
+ 4  te2-12-dist-rt-mc-global.ns.uwaterloo.ca (172.31.0.161)  1.420 ms  1.360 ms  1.592 ms
+ 5  te2-16-cn-rt-mc.ns.uwaterloo.ca (172.16.31.117)  1.083 ms  1.052 ms  1.052 ms
+ 6  gi0-0-1-ext-rt-rac.ns.uwaterloo.ca (172.16.31.109)  1.303 ms  1.190 ms  1.415 ms
+ 7  216-191-167-37.dedicated.allstream.net (216.191.167.37)  6.008 ms  5.985 ms  5.884 ms
+ 8  pnwgp-six.pnw-gigapop.net (206.81.80.84)  53.581 ms  55.189 ms  53.444 ms
+ 9  ui-brin-16.client.pnw-gigpop.net (209.124.188.149)  70.359 ms  68.571 ms  70.431 ms
+10  192.105.205.132 (192.105.205.132)  97.418 ms ajm-edge-rn-edge.msu.montana.edu (192.105.205.193)  96.141 ms 192.105.205.132 (192.105.205.132)  96.065 ms
+11  pl1.cs.montana.edu (153.90.1.34)  95.300 ms  95.379 ms  95.345 ms
+traceroute to pl1.cs.montana.edu (153.90.1.34), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  te2-7-dist-rt-phy.ns.uwaterloo.ca (172.16.3.5)  0.496 ms  0.543 ms  0.712 ms
+ 3  * xe1-0-0-u11-dist-sa-mc-trust.ns.uwaterloo.ca (172.31.0.149)  0.482 ms *
+ 4  te2-12-dist-rt-mc-global.ns.uwaterloo.ca (172.31.0.161)  1.137 ms  1.174 ms  1.352 ms
+ 5  te2-16-cn-rt-mc.ns.uwaterloo.ca (172.16.31.117)  33.889 ms  33.796 ms  33.853 ms
+ 6  gi0-0-1-ext-rt-rac.ns.uwaterloo.ca (172.16.31.109)  1.523 ms  1.250 ms  1.388 ms
+ 7  216-191-167-37.dedicated.allstream.net (216.191.167.37)  2.618 ms  2.515 ms  2.429 ms
+ 8  pnwgp-six.pnw-gigapop.net (206.81.80.84)  53.624 ms  54.950 ms  55.373 ms
+ 9  ui-brin-16.client.pnw-gigpop.net (209.124.188.149)  68.838 ms  68.697 ms  70.407 ms
+10  192.105.205.132 (192.105.205.132)  97.366 ms  95.734 ms  95.846 ms
+11  pl1.cs.montana.edu (153.90.1.34)  95.252 ms  95.268 ms  97.120 ms
+traceroute to pl1.cs.montana.edu (153.90.1.34), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  te2-7-dist-rt-phy.ns.uwaterloo.ca (172.16.3.5)  0.534 ms  0.581 ms  0.574 ms
+ 3  * xe1-0-0-u11-dist-sa-mc-trust.ns.uwaterloo.ca (172.31.0.149)  0.527 ms *
+ 4  te2-12-dist-rt-mc-global.ns.uwaterloo.ca (172.31.0.161)  1.166 ms  1.165 ms  1.377 ms
+ 5  te2-16-cn-rt-mc.ns.uwaterloo.ca (172.16.31.117)  0.854 ms  0.847 ms  0.833 ms
+ 6  gi0-0-1-ext-rt-rac.ns.uwaterloo.ca (172.16.31.109)  1.385 ms  1.420 ms  1.362 ms
+ 7  216-191-167-37.dedicated.allstream.net (216.191.167.37)  2.658 ms  2.577 ms  2.471 ms
+ 8  pnwgp-six.pnw-gigapop.net (206.81.80.84)  53.910 ms  53.960 ms  55.327 ms
+ 9  ui-brin-16.client.pnw-gigpop.net (209.124.188.149)  68.781 ms  70.602 ms  70.633 ms
+10  192.105.205.132 (192.105.205.132)  95.890 ms ajm-edge-rn-edge.msu.montana.edu (192.105.205.193)  97.363 ms 192.105.205.132 (192.105.205.132)  95.674 ms
+11  pl1.cs.montana.edu (153.90.1.34)  97.088 ms  95.418 ms  95.376 ms
+traceroute to pl1.cs.montana.edu (153.90.1.34), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  te2-7-dist-rt-phy.ns.uwaterloo.ca (172.16.3.5)  0.583 ms  0.674 ms  0.661 ms
+ 3  * xe1-0-0-u11-dist-sa-mc-trust.ns.uwaterloo.ca (172.31.0.149)  0.626 ms *
+ 4  te2-12-dist-rt-mc-global.ns.uwaterloo.ca (172.31.0.161)  1.212 ms  1.479 ms  1.422 ms
+ 5  te2-16-cn-rt-mc.ns.uwaterloo.ca (172.16.31.117)  0.910 ms  0.968 ms  0.955 ms
+ 6  gi0-0-1-ext-rt-rac.ns.uwaterloo.ca (172.16.31.109)  1.391 ms  1.270 ms  1.195 ms
+ 7  216-191-167-37.dedicated.allstream.net (216.191.167.37)  2.928 ms  2.964 ms  2.707 ms
+ 8  pnwgp-six.pnw-gigapop.net (206.81.80.84)  270.718 ms  270.745 ms  278.565 ms
+ 9  ui-brin-16.client.pnw-gigpop.net (209.124.188.149)  68.909 ms  68.933 ms  70.446 ms
+10  ajm-edge-rn-edge.msu.montana.edu (192.105.205.193)  96.142 ms 192.105.205.132 (192.105.205.132)  96.096 ms  95.879 ms
+11  pl1.cs.montana.edu (153.90.1.34)  97.290 ms  95.523 ms  95.427 ms
+traceroute to pl1.cs.montana.edu (153.90.1.34), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  te2-7-dist-rt-phy.ns.uwaterloo.ca (172.16.3.5)  0.817 ms  0.805 ms  0.790 ms
+ 3  * xe1-0-0-u11-dist-sa-mc-trust.ns.uwaterloo.ca (172.31.0.149)  0.673 ms *
+ 4  te2-12-dist-rt-mc-global.ns.uwaterloo.ca (172.31.0.161)  1.380 ms  1.366 ms  1.351 ms
+ 5  te2-16-cn-rt-mc.ns.uwaterloo.ca (172.16.31.117)  46.144 ms  46.017 ms  46.113 ms
+ 6  gi0-0-1-ext-rt-rac.ns.uwaterloo.ca (172.16.31.109)  1.277 ms  1.384 ms  1.372 ms
+ 7  216-191-167-37.dedicated.allstream.net (216.191.167.37)  2.642 ms  2.576 ms  2.467 ms
+ 8  pnwgp-six.pnw-gigapop.net (206.81.80.84)  199.138 ms  199.057 ms  199.097 ms
+ 9  ui-brin-16.client.pnw-gigpop.net (209.124.188.149)  70.674 ms  70.405 ms  70.397 ms
+10  ajm-edge-rn-edge.msu.montana.edu (192.105.205.193)  95.859 ms  95.920 ms 192.105.205.132 (192.105.205.132)  96.060 ms
+11  pl1.cs.montana.edu (153.90.1.34)  95.524 ms  95.559 ms  95.408 ms
+traceroute to pl1.cs.montana.edu (153.90.1.34), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  te2-7-dist-rt-phy.ns.uwaterloo.ca (172.16.3.5)  0.809 ms  0.790 ms  0.777 ms
+ 3  * * xe1-0-0-u11-dist-sa-mc-trust.ns.uwaterloo.ca (172.31.0.149)  0.700 ms
+ 4  te2-12-dist-rt-mc-global.ns.uwaterloo.ca (172.31.0.161)  1.692 ms  1.912 ms  1.655 ms
+ 5  te2-16-cn-rt-mc.ns.uwaterloo.ca (172.16.31.117)  0.872 ms  0.863 ms  0.848 ms
+ 6  gi0-0-1-ext-rt-rac.ns.uwaterloo.ca (172.16.31.109)  1.564 ms  1.249 ms  1.431 ms
+ 7  216-191-167-37.dedicated.allstream.net (216.191.167.37)  3.205 ms  3.178 ms  3.002 ms
+ 8  pnwgp-six.pnw-gigapop.net (206.81.80.84)  53.658 ms  55.389 ms  53.692 ms
+ 9  ui-brin-16.client.pnw-gigpop.net (209.124.188.149)  68.655 ms  70.337 ms  68.607 ms
+10  192.105.205.132 (192.105.205.132)  97.821 ms  95.920 ms  95.878 ms
+11  pl1.cs.montana.edu (153.90.1.34)  95.351 ms  95.346 ms  97.208 ms
+traceroute to pl1.cs.montana.edu (153.90.1.34), 30 hops max, 60 byte packets
+ 1  dc3558-cs2-csnet.uwaterloo.ca (129.97.74.1)  4.053 ms * *
+ 2  te2-7-dist-rt-phy.ns.uwaterloo.ca (172.16.3.5)  0.482 ms  0.602 ms  0.682 ms
+ 3  xe1-0-0-u11-dist-sa-mc-trust.ns.uwaterloo.ca (172.31.0.149)  0.553 ms *  0.498 ms
+ 4  te2-12-dist-rt-mc-global.ns.uwaterloo.ca (172.31.0.161)  1.151 ms  1.334 ms  1.301 ms
+ 5  te2-16-cn-rt-mc.ns.uwaterloo.ca (172.16.31.117)  1.029 ms  1.053 ms  1.022 ms
+ 6  gi0-0-1-ext-rt-rac.ns.uwaterloo.ca (172.16.31.109)  1.466 ms  1.323 ms  1.495 ms
+ 7  216-191-167-37.dedicated.allstream.net (216.191.167.37)  2.822 ms  2.454 ms  2.787 ms
+ 8  pnwgp-six.pnw-gigapop.net (206.81.80.84)  53.683 ms  53.687 ms  53.672 ms
+ 9  ui-brin-16.client.pnw-gigpop.net (209.124.188.149)  69.085 ms  70.623 ms  68.914 ms
+10  192.105.205.132 (192.105.205.132)  95.912 ms ajm-edge-rn-edge.msu.montana.edu (192.105.205.193)  95.689 ms 192.105.205.132 (192.105.205.132)  95.582 ms
+11  pl1.cs.montana.edu (153.90.1.34)  97.088 ms  95.472 ms  95.359 ms
+traceroute to pl1.cs.montana.edu (153.90.1.34), 30 hops max, 60 byte packets
+ 1  dc3558-cs2-csnet.uwaterloo.ca (129.97.74.1)  4.805 ms  4.840 ms  4.821 ms
+ 2  te2-7-dist-rt-phy.ns.uwaterloo.ca (172.16.3.5)  0.977 ms  1.008 ms  1.006 ms
+ 3  * * *
+ 4  te2-12-dist-rt-mc-global.ns.uwaterloo.ca (172.31.0.161)  1.164 ms  1.348 ms  1.390 ms
+ 5  te2-16-cn-rt-mc.ns.uwaterloo.ca (172.16.31.117)  0.864 ms  0.850 ms  0.843 ms
+ 6  gi0-0-1-ext-rt-rac.ns.uwaterloo.ca (172.16.31.109)  1.304 ms  1.429 ms  1.463 ms
+ 7  216-191-167-37.dedicated.allstream.net (216.191.167.37)  2.616 ms  2.638 ms  2.686 ms
+ 8  pnwgp-six.pnw-gigapop.net (206.81.80.84)  57.810 ms  55.143 ms  54.952 ms
+ 9  ui-brin-16.client.pnw-gigpop.net (209.124.188.149)  68.858 ms  68.906 ms  68.672 ms
+10  ajm-edge-rn-edge.msu.montana.edu (192.105.205.193)  97.823 ms 192.105.205.132 (192.105.205.132)  95.891 ms  95.883 ms
+11  pl1.cs.montana.edu (153.90.1.34)  96.997 ms  97.114 ms  95.340 ms
+traceroute to pl1.cs.montana.edu (153.90.1.34), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  te2-7-dist-rt-phy.ns.uwaterloo.ca (172.16.3.5)  2.013 ms  1.997 ms  2.299 ms
+ 3  xe1-0-0-u11-dist-sa-mc-trust.ns.uwaterloo.ca (172.31.0.149)  0.795 ms  0.686 ms  0.754 ms
+ 4  te2-12-dist-rt-mc-global.ns.uwaterloo.ca (172.31.0.161)  1.214 ms  1.201 ms  1.328 ms
+ 5  te2-16-cn-rt-mc.ns.uwaterloo.ca (172.16.31.117)  0.840 ms  1.038 ms  1.078 ms
+ 6  gi0-0-1-ext-rt-rac.ns.uwaterloo.ca (172.16.31.109)  1.311 ms  1.476 ms  1.363 ms
+ 7  216-191-167-37.dedicated.allstream.net (216.191.167.37)  2.592 ms  2.539 ms  2.424 ms
+ 8  pnwgp-six.pnw-gigapop.net (206.81.80.84)  53.663 ms  53.592 ms  55.325 ms
+ 9  ui-brin-16.client.pnw-gigpop.net (209.124.188.149)  68.638 ms  70.410 ms  68.722 ms
+10  192.105.205.132 (192.105.205.132)  95.654 ms ajm-edge-rn-edge.msu.montana.edu (192.105.205.193)  95.867 ms  95.823 ms
+11  pl1.cs.montana.edu (153.90.1.34)  95.307 ms  95.325 ms  95.353 ms
+traceroute to pl1.cs.montana.edu (153.90.1.34), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  te2-7-dist-rt-phy.ns.uwaterloo.ca (172.16.3.5)  0.813 ms  0.975 ms  1.036 ms
+ 3  xe1-0-0-u11-dist-sa-mc-trust.ns.uwaterloo.ca (172.31.0.149)  0.743 ms  0.730 ms  0.641 ms
+ 4  te2-12-dist-rt-mc-global.ns.uwaterloo.ca (172.31.0.161)  1.123 ms  1.365 ms  1.333 ms
+ 5  te2-16-cn-rt-mc.ns.uwaterloo.ca (172.16.31.117)  23.049 ms  23.098 ms  23.073 ms
+ 6  gi0-0-1-ext-rt-rac.ns.uwaterloo.ca (172.16.31.109)  1.271 ms  3.384 ms  3.495 ms
+ 7  216-191-167-37.dedicated.allstream.net (216.191.167.37)  2.599 ms  2.621 ms  2.519 ms
+ 8  pnwgp-six.pnw-gigapop.net (206.81.80.84)  54.089 ms  56.691 ms  53.754 ms
+ 9  ui-brin-16.client.pnw-gigpop.net (209.124.188.149)  68.903 ms  68.635 ms  70.580 ms
+10  ajm-edge-rn-edge.msu.montana.edu (192.105.205.193)  96.035 ms  96.083 ms  97.510 ms
+11  pl1.cs.montana.edu (153.90.1.34)  95.313 ms  95.358 ms  97.073 ms
+traceroute to pl1.cs.montana.edu (153.90.1.34), 30 hops max, 60 byte packets
+ 1  dc3558-cs2-csnet.uwaterloo.ca (129.97.74.1)  4.734 ms  4.788 ms *
+ 2  te2-7-dist-rt-phy.ns.uwaterloo.ca (172.16.3.5)  0.669 ms  0.671 ms  0.658 ms
+ 3  * xe1-0-0-u11-dist-sa-mc-trust.ns.uwaterloo.ca (172.31.0.149)  0.610 ms *
+ 4  te2-12-dist-rt-mc-global.ns.uwaterloo.ca (172.31.0.161)  1.300 ms  1.294 ms  1.103 ms
+ 5  te2-16-cn-rt-mc.ns.uwaterloo.ca (172.16.31.117)  0.988 ms  1.050 ms  1.036 ms
+ 6  gi0-0-1-ext-rt-rac.ns.uwaterloo.ca (172.16.31.109)  1.432 ms  1.528 ms  1.426 ms
+ 7  216-191-167-37.dedicated.allstream.net (216.191.167.37)  2.713 ms  2.635 ms  2.650 ms
+ 8  pnwgp-six.pnw-gigapop.net (206.81.80.84)  53.587 ms  53.625 ms  53.614 ms
+ 9  ui-brin-16.client.pnw-gigpop.net (209.124.188.149)  68.679 ms  68.728 ms  68.682 ms
+10  192.105.205.132 (192.105.205.132)  95.930 ms  95.837 ms  97.624 ms
+11  pl1.cs.montana.edu (153.90.1.34)  95.349 ms  95.357 ms  95.376 ms
+traceroute to pl1.cs.montana.edu (153.90.1.34), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  te2-7-dist-rt-phy.ns.uwaterloo.ca (172.16.3.5)  1.921 ms  1.955 ms  2.133 ms
+ 3  * * *
+ 4  te2-12-dist-rt-mc-global.ns.uwaterloo.ca (172.31.0.161)  1.306 ms  1.304 ms  1.514 ms
+ 5  te2-16-cn-rt-mc.ns.uwaterloo.ca (172.16.31.117)  0.981 ms  0.973 ms  0.959 ms
+ 6  gi0-0-1-ext-rt-rac.ns.uwaterloo.ca (172.16.31.109)  1.436 ms  1.462 ms  1.470 ms
+ 7  216-191-167-37.dedicated.allstream.net (216.191.167.37)  28.900 ms  28.665 ms  28.643 ms
+ 8  pnwgp-six.pnw-gigapop.net (206.81.80.84)  53.686 ms  53.732 ms  53.479 ms
+ 9  ui-brin-16.client.pnw-gigpop.net (209.124.188.149)  68.614 ms  70.340 ms  68.906 ms
+10  ajm-edge-rn-edge.msu.montana.edu (192.105.205.193)  95.612 ms 192.105.205.132 (192.105.205.132)  97.625 ms  95.839 ms
+11  pl1.cs.montana.edu (153.90.1.34)  95.320 ms  97.079 ms  95.379 ms

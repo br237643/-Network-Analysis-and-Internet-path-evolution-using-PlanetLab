@@ -1,0 +1,17 @@
+ 1   (129.110.125.1)  0.170 ms  0.147 ms  0.170 ms
+ 2  vl434-utd-ge-0-1-7-gw2.dfw.tx-learn.net (208.76.224.234)  1.047 ms  1.043 ms  1.027 ms
+ 3  ntg-gw1-dllstx-MX480-lo0.dfw.tx-learn.net (208.76.224.248)  1.060 ms  1.024 ms  0.893 ms
+ 4  dls-bb1-link.telia.net (213.248.104.81)  0.887 ms  0.870 ms  0.862 ms
+ 5  dls-b21-link.telia.net (62.115.140.9)  1.364 ms  1.354 ms  1.338 ms
+ 6  ae-18.r07.dllstx09.us.bb.gin.ntt.net (213.248.81.250)  1.842 ms  1.932 ms  1.912 ms
+ 7  ae-5.r22.dllstx09.us.bb.gin.ntt.net (129.250.3.40)  1.585 ms  1.628 ms  1.596 ms
+ 8  ae-5.r22.lsanca07.us.bb.gin.ntt.net (129.250.7.69)  33.411 ms  35.793 ms  40.151 ms
+ 9  ae-0.r21.osakjp02.jp.bb.gin.ntt.net (129.250.2.177)  159.301 ms *  148.623 ms
+10  ae-5.r22.osakjp02.jp.bb.gin.ntt.net (129.250.6.192)  147.531 ms  152.193 ms  168.797 ms
+11  ae-2.r01.osakjp02.jp.bb.gin.ntt.net (129.250.3.199)  151.080 ms  150.984 ms ae-1.r01.osakjp02.jp.bb.gin.ntt.net (129.250.2.255)  179.759 ms
+12  ae-0.sinet5.osakjp02.jp.bb.gin.ntt.net (61.200.91.154)  150.674 ms  138.182 ms  146.353 ms
+13  tokyo1-RM-ET-4-1-0-152.s5.sinet.ad.jp (150.99.71.104)  150.935 ms  144.209 ms tokyo1-RM-ET-5-1-0-1152.s5.sinet.ad.jp (150.99.90.28)  140.407 ms
+14  waseda.gw.sinet.ad.jp (150.99.187.70)  143.922 ms  138.282 ms  143.886 ms
+15  cl2948gl3a.goto.info.waseda.ac.jp (133.9.77.61)  144.078 ms  145.363 ms  138.663 ms
+16  mbone-goto.goto.info.waseda.ac.jp (133.9.81.194)  138.753 ms  144.804 ms  144.445 ms
+17  planetlab4.goto.info.waseda.ac.jp (133.9.81.164)  138.333 ms  140.866 ms  138.297 ms

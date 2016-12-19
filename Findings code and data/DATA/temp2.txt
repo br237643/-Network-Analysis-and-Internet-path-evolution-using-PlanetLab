@@ -1,0 +1,2850 @@
+PING planetlab2.utdallas.edu (129.110.125.52) 56(84) bytes of data.
+64 bytes from 129.110.125.52: icmp_seq=1 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=2 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=3 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=4 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=5 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=6 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=7 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=8 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=9 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=10 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=11 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=12 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=13 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=14 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=15 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=16 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=17 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=18 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=19 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=20 ttl=48 time=140 ms
+
+--- planetlab2.utdallas.edu ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 33171ms
+rtt min/avg/max/mdev = 140.829/140.974/141.351/0.451 ms
+PING planetlab2.utdallas.edu (129.110.125.52) 56(84) bytes of data.
+64 bytes from 129.110.125.52: icmp_seq=1 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=2 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=3 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=4 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=5 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=6 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=7 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=8 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=9 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=10 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=11 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=12 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=13 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=14 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=15 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=16 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=17 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=18 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=19 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=20 ttl=48 time=140 ms
+
+--- planetlab2.utdallas.edu ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 33149ms
+rtt min/avg/max/mdev = 140.853/141.048/141.437/0.222 ms
+PING planetlab2.utdallas.edu (129.110.125.52) 56(84) bytes of data.
+64 bytes from 129.110.125.52: icmp_seq=1 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=2 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=3 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=4 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=5 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=6 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=7 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=8 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=9 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=10 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=11 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=12 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=13 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=14 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=15 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=16 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=17 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=18 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=19 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=20 ttl=48 time=140 ms
+
+--- planetlab2.utdallas.edu ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 33166ms
+rtt min/avg/max/mdev = 140.841/140.965/141.178/0.437 ms
+PING planetlab2.utdallas.edu (129.110.125.52) 56(84) bytes of data.
+64 bytes from 129.110.125.52: icmp_seq=1 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=2 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=3 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=4 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=5 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=6 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=7 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=8 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=9 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=10 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=11 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=12 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=13 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=14 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=15 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=16 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=17 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=18 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=19 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=20 ttl=48 time=140 ms
+
+--- planetlab2.utdallas.edu ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 33167ms
+rtt min/avg/max/mdev = 140.875/140.983/141.223/0.278 ms
+PING planetlab2.utdallas.edu (129.110.125.52) 56(84) bytes of data.
+64 bytes from 129.110.125.52: icmp_seq=1 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=2 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=3 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=4 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=5 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=6 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=7 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=8 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=9 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=10 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=11 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=12 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=13 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=14 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=15 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=16 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=17 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=18 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=19 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=20 ttl=48 time=141 ms
+
+--- planetlab2.utdallas.edu ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 33163ms
+rtt min/avg/max/mdev = 140.838/140.915/141.131/0.464 ms
+PING planetlab2.utdallas.edu (129.110.125.52) 56(84) bytes of data.
+64 bytes from 129.110.125.52: icmp_seq=1 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=2 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=3 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=4 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=5 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=6 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=7 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=8 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=9 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=10 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=11 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=12 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=13 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=14 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=15 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=16 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=17 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=18 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=19 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=20 ttl=48 time=140 ms
+
+--- planetlab2.utdallas.edu ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 33165ms
+rtt min/avg/max/mdev = 140.866/140.971/141.324/0.512 ms
+PING planetlab2.utdallas.edu (129.110.125.52) 56(84) bytes of data.
+64 bytes from 129.110.125.52: icmp_seq=1 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=2 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=3 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=4 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=5 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=6 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=7 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=8 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=9 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=10 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=11 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=12 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=13 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=14 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=15 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=16 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=17 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=18 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=19 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=20 ttl=48 time=141 ms
+
+--- planetlab2.utdallas.edu ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 33174ms
+rtt min/avg/max/mdev = 140.836/140.969/141.155/0.484 ms
+PING planetlab2.utdallas.edu (129.110.125.52) 56(84) bytes of data.
+64 bytes from 129.110.125.52: icmp_seq=1 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=2 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=3 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=4 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=5 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=6 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=7 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=8 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=9 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=10 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=11 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=12 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=13 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=14 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=15 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=16 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=17 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=18 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=19 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=20 ttl=48 time=140 ms
+
+--- planetlab2.utdallas.edu ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 28164ms
+rtt min/avg/max/mdev = 140.824/141.037/141.852/0.392 ms
+PING planetlab2.utdallas.edu (129.110.125.52) 56(84) bytes of data.
+64 bytes from 129.110.125.52: icmp_seq=1 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=2 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=3 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=4 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=5 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=6 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=7 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=8 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=9 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=10 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=11 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=12 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=13 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=14 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=15 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=16 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=17 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=18 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=19 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=20 ttl=48 time=140 ms
+
+--- planetlab2.utdallas.edu ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 33165ms
+rtt min/avg/max/mdev = 140.871/141.064/141.278/0.260 ms
+PING planetlab2.utdallas.edu (129.110.125.52) 56(84) bytes of data.
+64 bytes from 129.110.125.52: icmp_seq=1 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=2 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=3 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=4 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=5 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=6 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=7 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=8 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=9 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=10 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=11 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=12 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=13 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=14 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=15 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=16 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=17 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=18 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=19 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=20 ttl=48 time=140 ms
+
+--- planetlab2.utdallas.edu ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 33164ms
+rtt min/avg/max/mdev = 140.834/140.983/141.336/0.291 ms
+PING planetlab2.utdallas.edu (129.110.125.52) 56(84) bytes of data.
+64 bytes from 129.110.125.52: icmp_seq=1 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=2 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=3 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=4 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=5 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=6 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=7 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=8 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=9 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=10 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=11 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=12 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=13 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=14 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=15 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=16 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=17 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=18 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=19 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=20 ttl=48 time=140 ms
+
+--- planetlab2.utdallas.edu ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 33172ms
+rtt min/avg/max/mdev = 140.810/140.904/141.143/0.381 ms
+PING planetlab2.utdallas.edu (129.110.125.52) 56(84) bytes of data.
+64 bytes from 129.110.125.52: icmp_seq=1 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=2 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=3 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=4 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=5 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=6 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=7 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=8 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=9 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=10 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=11 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=12 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=13 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=14 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=15 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=16 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=17 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=18 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=19 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=20 ttl=48 time=140 ms
+
+--- planetlab2.utdallas.edu ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 33165ms
+rtt min/avg/max/mdev = 140.796/140.907/141.017/0.494 ms
+PING planetlab2.utdallas.edu (129.110.125.52) 56(84) bytes of data.
+64 bytes from 129.110.125.52: icmp_seq=1 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=2 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=3 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=4 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=5 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=6 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=7 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=8 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=9 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=10 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=11 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=12 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=13 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=14 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=15 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=16 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=17 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=18 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=19 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=20 ttl=48 time=140 ms
+
+--- planetlab2.utdallas.edu ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 33177ms
+rtt min/avg/max/mdev = 140.817/140.933/141.070/0.521 ms
+PING planetlab2.utdallas.edu (129.110.125.52) 56(84) bytes of data.
+64 bytes from 129.110.125.52: icmp_seq=1 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=2 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=3 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=4 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=5 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=6 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=7 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=8 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=9 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=10 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=11 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=12 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=13 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=14 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=15 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=16 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=17 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=18 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=19 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=20 ttl=48 time=140 ms
+
+--- planetlab2.utdallas.edu ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 28166ms
+rtt min/avg/max/mdev = 140.844/140.975/141.233/0.260 ms
+PING planetlab2.utdallas.edu (129.110.125.52) 56(84) bytes of data.
+64 bytes from 129.110.125.52: icmp_seq=1 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=2 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=3 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=4 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=5 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=6 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=7 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=8 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=9 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=10 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=11 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=12 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=13 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=14 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=15 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=16 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=17 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=18 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=19 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=20 ttl=48 time=140 ms
+
+--- planetlab2.utdallas.edu ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 33166ms
+rtt min/avg/max/mdev = 140.913/141.092/141.387/0.187 ms
+PING planetlab2.utdallas.edu (129.110.125.52) 56(84) bytes of data.
+64 bytes from 129.110.125.52: icmp_seq=1 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=2 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=3 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=4 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=5 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=6 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=7 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=8 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=9 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=10 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=11 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=12 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=13 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=14 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=15 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=16 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=17 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=18 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=19 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=20 ttl=48 time=140 ms
+
+--- planetlab2.utdallas.edu ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 28149ms
+rtt min/avg/max/mdev = 140.847/140.930/141.094/0.363 ms
+PING planetlab2.utdallas.edu (129.110.125.52) 56(84) bytes of data.
+64 bytes from 129.110.125.52: icmp_seq=1 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=2 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=3 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=4 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=5 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=6 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=7 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=8 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=9 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=10 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=11 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=12 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=13 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=14 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=15 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=16 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=17 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=18 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=19 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=20 ttl=48 time=140 ms
+
+--- planetlab2.utdallas.edu ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 33157ms
+rtt min/avg/max/mdev = 140.848/140.996/141.217/0.472 ms
+PING planetlab2.utdallas.edu (129.110.125.52) 56(84) bytes of data.
+64 bytes from 129.110.125.52: icmp_seq=1 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=2 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=3 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=4 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=5 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=6 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=7 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=8 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=9 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=10 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=11 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=12 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=13 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=14 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=15 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=16 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=17 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=18 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=19 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=20 ttl=48 time=140 ms
+
+--- planetlab2.utdallas.edu ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 33168ms
+rtt min/avg/max/mdev = 140.865/140.987/141.426/0.399 ms
+PING planetlab2.utdallas.edu (129.110.125.52) 56(84) bytes of data.
+64 bytes from 129.110.125.52: icmp_seq=1 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=2 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=3 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=4 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=5 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=6 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=7 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=8 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=9 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=10 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=11 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=12 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=13 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=14 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=15 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=16 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=17 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=18 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=19 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=20 ttl=48 time=140 ms
+
+--- planetlab2.utdallas.edu ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 33180ms
+rtt min/avg/max/mdev = 140.803/140.967/141.146/0.404 ms
+PING planetlab2.utdallas.edu (129.110.125.52) 56(84) bytes of data.
+64 bytes from 129.110.125.52: icmp_seq=1 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=2 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=3 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=4 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=5 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=6 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=7 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=8 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=9 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=10 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=11 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=12 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=13 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=14 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=15 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=16 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=17 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=18 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=19 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=20 ttl=48 time=141 ms
+
+--- planetlab2.utdallas.edu ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 33168ms
+rtt min/avg/max/mdev = 140.847/140.994/141.165/0.370 ms
+PING planetlab2.utdallas.edu (129.110.125.52) 56(84) bytes of data.
+64 bytes from 129.110.125.52: icmp_seq=1 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=2 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=3 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=4 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=5 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=6 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=7 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=8 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=9 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=10 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=11 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=12 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=13 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=14 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=15 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=16 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=17 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=18 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=19 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=20 ttl=48 time=140 ms
+
+--- planetlab2.utdallas.edu ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 33152ms
+rtt min/avg/max/mdev = 140.854/140.950/141.057/0.479 ms
+PING planetlab2.utdallas.edu (129.110.125.52) 56(84) bytes of data.
+64 bytes from 129.110.125.52: icmp_seq=1 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=2 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=3 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=4 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=5 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=6 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=7 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=8 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=9 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=10 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=11 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=12 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=13 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=14 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=15 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=16 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=17 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=18 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=19 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=20 ttl=48 time=140 ms
+
+--- planetlab2.utdallas.edu ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 33167ms
+rtt min/avg/max/mdev = 140.885/140.993/141.227/0.084 ms
+PING planetlab2.utdallas.edu (129.110.125.52) 56(84) bytes of data.
+64 bytes from 129.110.125.52: icmp_seq=1 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=2 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=3 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=4 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=5 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=6 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=7 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=8 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=9 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=10 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=11 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=12 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=13 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=14 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=15 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=16 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=17 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=18 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=19 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=20 ttl=48 time=140 ms
+
+--- planetlab2.utdallas.edu ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 33156ms
+rtt min/avg/max/mdev = 140.832/140.943/141.120/0.185 ms
+PING planetlab2.utdallas.edu (129.110.125.52) 56(84) bytes of data.
+64 bytes from 129.110.125.52: icmp_seq=1 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=2 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=3 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=4 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=5 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=6 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=7 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=8 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=9 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=10 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=11 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=12 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=13 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=14 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=15 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=16 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=17 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=18 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=19 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=20 ttl=48 time=141 ms
+
+--- planetlab2.utdallas.edu ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 28169ms
+rtt min/avg/max/mdev = 140.873/140.971/141.112/0.493 ms
+PING planetlab2.utdallas.edu (129.110.125.52) 56(84) bytes of data.
+64 bytes from 129.110.125.52: icmp_seq=1 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=2 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=3 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=4 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=5 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=6 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=7 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=8 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=9 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=10 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=11 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=12 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=13 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=14 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=15 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=16 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=17 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=18 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=19 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=20 ttl=48 time=140 ms
+
+--- planetlab2.utdallas.edu ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 33173ms
+rtt min/avg/max/mdev = 140.820/140.987/141.206/0.406 ms
+PING planetlab2.utdallas.edu (129.110.125.52) 56(84) bytes of data.
+64 bytes from 129.110.125.52: icmp_seq=1 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=2 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=3 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=4 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=5 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=6 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=7 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=8 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=9 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=10 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=11 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=12 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=13 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=14 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=15 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=16 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=17 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=18 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=19 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=20 ttl=48 time=141 ms
+
+--- planetlab2.utdallas.edu ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 33170ms
+rtt min/avg/max/mdev = 140.829/140.962/141.132/0.156 ms
+PING planetlab2.utdallas.edu (129.110.125.52) 56(84) bytes of data.
+64 bytes from 129.110.125.52: icmp_seq=1 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=2 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=3 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=4 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=5 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=6 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=7 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=8 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=9 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=10 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=11 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=12 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=13 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=14 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=15 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=16 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=17 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=18 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=19 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=20 ttl=48 time=141 ms
+
+--- planetlab2.utdallas.edu ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 28162ms
+rtt min/avg/max/mdev = 140.837/140.983/141.227/0.453 ms
+PING planetlab2.utdallas.edu (129.110.125.52) 56(84) bytes of data.
+64 bytes from 129.110.125.52: icmp_seq=1 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=2 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=3 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=4 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=5 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=6 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=7 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=8 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=9 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=10 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=11 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=12 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=13 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=14 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=15 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=16 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=17 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=18 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=19 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=20 ttl=48 time=140 ms
+
+--- planetlab2.utdallas.edu ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 33176ms
+rtt min/avg/max/mdev = 140.825/140.981/141.308/0.413 ms
+PING planetlab2.utdallas.edu (129.110.125.52) 56(84) bytes of data.
+64 bytes from 129.110.125.52: icmp_seq=1 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=2 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=3 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=4 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=5 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=6 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=7 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=8 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=9 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=10 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=11 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=12 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=13 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=14 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=15 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=16 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=17 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=18 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=19 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=20 ttl=48 time=140 ms
+
+--- planetlab2.utdallas.edu ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 33161ms
+rtt min/avg/max/mdev = 140.832/140.960/141.318/0.230 ms
+PING planetlab2.utdallas.edu (129.110.125.52) 56(84) bytes of data.
+64 bytes from 129.110.125.52: icmp_seq=1 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=2 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=3 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=4 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=5 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=6 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=7 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=8 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=9 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=10 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=11 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=12 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=13 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=14 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=15 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=16 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=17 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=18 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=19 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=20 ttl=48 time=140 ms
+
+--- planetlab2.utdallas.edu ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 33149ms
+rtt min/avg/max/mdev = 140.856/140.942/141.167/0.382 ms
+PING planetlab2.utdallas.edu (129.110.125.52) 56(84) bytes of data.
+64 bytes from 129.110.125.52: icmp_seq=1 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=2 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=3 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=4 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=5 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=6 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=7 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=8 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=9 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=10 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=11 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=12 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=13 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=14 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=15 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=16 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=17 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=18 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=19 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=20 ttl=48 time=140 ms
+
+--- planetlab2.utdallas.edu ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 33170ms
+rtt min/avg/max/mdev = 140.833/140.930/141.082/0.508 ms
+PING planetlab2.utdallas.edu (129.110.125.52) 56(84) bytes of data.
+64 bytes from 129.110.125.52: icmp_seq=1 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=2 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=3 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=4 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=5 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=6 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=7 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=8 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=9 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=10 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=11 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=12 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=13 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=14 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=15 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=16 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=17 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=18 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=19 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=20 ttl=48 time=141 ms
+
+--- planetlab2.utdallas.edu ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 33176ms
+rtt min/avg/max/mdev = 140.840/140.957/141.119/0.077 ms
+PING planetlab2.utdallas.edu (129.110.125.52) 56(84) bytes of data.
+64 bytes from 129.110.125.52: icmp_seq=1 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=2 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=3 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=4 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=5 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=6 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=7 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=8 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=9 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=10 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=11 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=12 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=13 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=14 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=15 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=16 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=17 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=18 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=19 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=20 ttl=48 time=140 ms
+
+--- planetlab2.utdallas.edu ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 33167ms
+rtt min/avg/max/mdev = 140.843/140.978/141.188/0.218 ms
+PING planetlab2.utdallas.edu (129.110.125.52) 56(84) bytes of data.
+64 bytes from 129.110.125.52: icmp_seq=1 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=2 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=3 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=4 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=5 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=6 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=7 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=8 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=9 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=10 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=11 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=12 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=13 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=14 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=15 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=16 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=17 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=18 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=19 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=20 ttl=48 time=140 ms
+
+--- planetlab2.utdallas.edu ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 33164ms
+rtt min/avg/max/mdev = 140.901/141.012/141.267/0.483 ms
+PING planetlab2.utdallas.edu (129.110.125.52) 56(84) bytes of data.
+64 bytes from 129.110.125.52: icmp_seq=1 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=2 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=3 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=4 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=5 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=6 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=7 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=8 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=9 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=10 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=11 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=12 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=13 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=14 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=15 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=16 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=17 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=18 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=19 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=20 ttl=48 time=140 ms
+
+--- planetlab2.utdallas.edu ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 33181ms
+rtt min/avg/max/mdev = 140.826/140.892/141.157/0.362 ms
+PING planetlab2.utdallas.edu (129.110.125.52) 56(84) bytes of data.
+64 bytes from 129.110.125.52: icmp_seq=1 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=2 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=3 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=4 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=5 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=6 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=7 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=8 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=9 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=10 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=11 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=12 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=13 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=14 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=15 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=16 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=17 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=18 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=19 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=20 ttl=48 time=140 ms
+
+--- planetlab2.utdallas.edu ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 33166ms
+rtt min/avg/max/mdev = 140.869/140.960/141.104/0.299 ms
+PING planetlab2.utdallas.edu (129.110.125.52) 56(84) bytes of data.
+64 bytes from 129.110.125.52: icmp_seq=1 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=2 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=3 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=4 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=5 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=6 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=7 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=8 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=9 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=10 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=11 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=12 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=13 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=14 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=15 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=16 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=17 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=18 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=19 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=20 ttl=48 time=140 ms
+
+--- planetlab2.utdallas.edu ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 28165ms
+rtt min/avg/max/mdev = 140.839/140.968/141.171/0.484 ms
+PING planetlab2.utdallas.edu (129.110.125.52) 56(84) bytes of data.
+64 bytes from 129.110.125.52: icmp_seq=1 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=2 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=3 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=4 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=5 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=6 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=7 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=8 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=9 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=10 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=11 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=12 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=13 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=14 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=15 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=16 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=17 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=18 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=19 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=20 ttl=48 time=140 ms
+
+--- planetlab2.utdallas.edu ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 33166ms
+rtt min/avg/max/mdev = 140.847/140.987/141.145/0.497 ms
+PING planetlab2.utdallas.edu (129.110.125.52) 56(84) bytes of data.
+64 bytes from 129.110.125.52: icmp_seq=1 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=2 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=3 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=4 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=5 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=6 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=7 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=8 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=9 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=10 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=11 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=12 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=13 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=14 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=15 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=16 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=17 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=18 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=19 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=20 ttl=48 time=141 ms
+
+--- planetlab2.utdallas.edu ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 28162ms
+rtt min/avg/max/mdev = 140.828/140.949/141.195/0.511 ms
+PING planetlab2.utdallas.edu (129.110.125.52) 56(84) bytes of data.
+64 bytes from 129.110.125.52: icmp_seq=1 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=2 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=3 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=4 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=5 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=6 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=7 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=8 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=9 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=10 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=11 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=12 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=13 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=14 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=15 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=16 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=17 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=18 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=19 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=20 ttl=48 time=141 ms
+
+--- planetlab2.utdallas.edu ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 33151ms
+rtt min/avg/max/mdev = 140.857/140.979/141.229/0.324 ms
+PING planetlab2.utdallas.edu (129.110.125.52) 56(84) bytes of data.
+64 bytes from 129.110.125.52: icmp_seq=1 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=2 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=3 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=4 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=5 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=6 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=7 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=8 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=9 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=10 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=11 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=12 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=13 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=14 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=15 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=16 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=17 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=18 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=19 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=20 ttl=48 time=140 ms
+
+--- planetlab2.utdallas.edu ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 28164ms
+rtt min/avg/max/mdev = 140.828/140.922/140.998/0.338 ms
+PING planetlab2.utdallas.edu (129.110.125.52) 56(84) bytes of data.
+64 bytes from 129.110.125.52: icmp_seq=1 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=2 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=3 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=4 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=5 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=6 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=7 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=8 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=9 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=10 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=11 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=12 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=13 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=14 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=15 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=16 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=17 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=18 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=19 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=20 ttl=48 time=140 ms
+
+--- planetlab2.utdallas.edu ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 28174ms
+rtt min/avg/max/mdev = 140.826/140.908/141.026/0.295 ms
+PING planetlab2.utdallas.edu (129.110.125.52) 56(84) bytes of data.
+64 bytes from 129.110.125.52: icmp_seq=1 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=2 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=3 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=4 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=5 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=6 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=7 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=8 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=9 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=10 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=11 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=12 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=13 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=14 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=15 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=16 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=17 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=18 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=19 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=20 ttl=48 time=140 ms
+
+--- planetlab2.utdallas.edu ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 33168ms
+rtt min/avg/max/mdev = 140.831/140.936/141.037/0.318 ms
+PING planetlab2.utdallas.edu (129.110.125.52) 56(84) bytes of data.
+64 bytes from 129.110.125.52: icmp_seq=1 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=2 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=3 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=4 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=5 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=6 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=7 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=8 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=9 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=10 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=11 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=12 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=13 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=14 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=15 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=16 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=17 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=18 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=19 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=20 ttl=48 time=140 ms
+
+--- planetlab2.utdallas.edu ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 33167ms
+rtt min/avg/max/mdev = 140.858/140.929/141.133/0.464 ms
+PING planetlab2.utdallas.edu (129.110.125.52) 56(84) bytes of data.
+64 bytes from 129.110.125.52: icmp_seq=1 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=2 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=3 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=4 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=5 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=6 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=7 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=8 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=9 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=10 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=11 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=12 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=13 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=14 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=15 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=16 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=17 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=18 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=19 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=20 ttl=48 time=140 ms
+
+--- planetlab2.utdallas.edu ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 33174ms
+rtt min/avg/max/mdev = 140.859/140.987/141.211/0.189 ms
+PING planetlab2.utdallas.edu (129.110.125.52) 56(84) bytes of data.
+64 bytes from 129.110.125.52: icmp_seq=1 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=2 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=3 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=4 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=5 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=6 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=7 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=8 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=9 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=10 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=11 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=12 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=13 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=14 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=15 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=16 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=17 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=18 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=19 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=20 ttl=48 time=140 ms
+
+--- planetlab2.utdallas.edu ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 33174ms
+rtt min/avg/max/mdev = 140.829/140.939/141.072/0.340 ms
+PING planetlab2.utdallas.edu (129.110.125.52) 56(84) bytes of data.
+64 bytes from 129.110.125.52: icmp_seq=1 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=2 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=3 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=4 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=5 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=6 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=7 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=8 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=9 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=10 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=11 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=12 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=13 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=14 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=15 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=16 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=17 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=18 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=19 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=20 ttl=48 time=141 ms
+
+--- planetlab2.utdallas.edu ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 28161ms
+rtt min/avg/max/mdev = 140.824/141.050/141.205/0.224 ms
+PING planetlab2.utdallas.edu (129.110.125.52) 56(84) bytes of data.
+64 bytes from 129.110.125.52: icmp_seq=1 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=2 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=3 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=4 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=5 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=6 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=7 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=8 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=9 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=10 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=11 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=12 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=13 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=14 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=15 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=16 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=17 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=18 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=19 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=20 ttl=48 time=141 ms
+
+--- planetlab2.utdallas.edu ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 33165ms
+rtt min/avg/max/mdev = 140.864/141.015/141.339/0.514 ms
+PING planetlab2.utdallas.edu (129.110.125.52) 56(84) bytes of data.
+64 bytes from 129.110.125.52: icmp_seq=1 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=2 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=3 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=4 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=5 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=6 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=7 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=8 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=9 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=10 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=11 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=12 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=13 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=14 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=15 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=16 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=17 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=18 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=19 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=20 ttl=48 time=140 ms
+
+--- planetlab2.utdallas.edu ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 33174ms
+rtt min/avg/max/mdev = 140.831/140.969/141.132/0.384 ms
+PING planetlab2.utdallas.edu (129.110.125.52) 56(84) bytes of data.
+64 bytes from 129.110.125.52: icmp_seq=1 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=2 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=3 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=4 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=5 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=6 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=7 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=8 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=9 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=10 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=11 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=12 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=13 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=14 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=15 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=16 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=17 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=18 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=19 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=20 ttl=48 time=141 ms
+
+--- planetlab2.utdallas.edu ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 33161ms
+rtt min/avg/max/mdev = 140.888/141.047/141.206/0.419 ms
+PING planetlab2.utdallas.edu (129.110.125.52) 56(84) bytes of data.
+64 bytes from 129.110.125.52: icmp_seq=1 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=2 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=3 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=4 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=5 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=6 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=7 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=8 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=9 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=10 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=11 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=12 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=13 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=14 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=15 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=16 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=17 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=18 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=19 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=20 ttl=48 time=140 ms
+
+--- planetlab2.utdallas.edu ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 33167ms
+rtt min/avg/max/mdev = 140.883/140.981/141.114/0.217 ms
+PING planetlab2.utdallas.edu (129.110.125.52) 56(84) bytes of data.
+64 bytes from 129.110.125.52: icmp_seq=1 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=2 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=3 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=4 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=5 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=6 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=7 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=8 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=9 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=10 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=11 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=12 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=13 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=14 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=15 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=16 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=17 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=18 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=19 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=20 ttl=48 time=141 ms
+
+--- planetlab2.utdallas.edu ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 33169ms
+rtt min/avg/max/mdev = 140.814/140.963/141.141/0.186 ms
+PING planetlab2.utdallas.edu (129.110.125.52) 56(84) bytes of data.
+64 bytes from 129.110.125.52: icmp_seq=1 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=2 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=3 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=4 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=5 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=6 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=7 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=8 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=9 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=10 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=11 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=12 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=13 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=14 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=15 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=16 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=17 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=18 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=19 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=20 ttl=48 time=140 ms
+
+--- planetlab2.utdallas.edu ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 28165ms
+rtt min/avg/max/mdev = 140.827/140.969/141.613/0.514 ms
+PING planetlab2.utdallas.edu (129.110.125.52) 56(84) bytes of data.
+64 bytes from 129.110.125.52: icmp_seq=1 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=2 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=3 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=4 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=5 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=6 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=7 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=8 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=9 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=10 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=11 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=12 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=13 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=14 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=15 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=16 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=17 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=18 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=19 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=20 ttl=48 time=140 ms
+
+--- planetlab2.utdallas.edu ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 33177ms
+rtt min/avg/max/mdev = 140.828/140.934/141.105/0.449 ms
+PING planetlab2.utdallas.edu (129.110.125.52) 56(84) bytes of data.
+64 bytes from 129.110.125.52: icmp_seq=1 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=2 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=3 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=4 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=5 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=6 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=7 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=8 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=9 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=10 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=11 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=12 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=13 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=14 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=15 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=16 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=17 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=18 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=19 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=20 ttl=48 time=140 ms
+
+--- planetlab2.utdallas.edu ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 33164ms
+rtt min/avg/max/mdev = 140.840/141.011/141.331/0.462 ms
+PING planetlab2.utdallas.edu (129.110.125.52) 56(84) bytes of data.
+64 bytes from 129.110.125.52: icmp_seq=1 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=2 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=3 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=4 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=5 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=6 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=7 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=8 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=9 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=10 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=11 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=12 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=13 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=14 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=15 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=16 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=17 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=18 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=19 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=20 ttl=48 time=140 ms
+
+--- planetlab2.utdallas.edu ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 33169ms
+rtt min/avg/max/mdev = 140.877/140.962/141.120/0.342 ms
+PING planetlab2.utdallas.edu (129.110.125.52) 56(84) bytes of data.
+64 bytes from 129.110.125.52: icmp_seq=1 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=2 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=3 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=4 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=5 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=6 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=7 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=8 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=9 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=10 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=11 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=12 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=13 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=14 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=15 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=16 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=17 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=18 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=19 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=20 ttl=48 time=140 ms
+
+--- planetlab2.utdallas.edu ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 33150ms
+rtt min/avg/max/mdev = 140.848/140.961/141.167/0.185 ms
+PING planetlab2.utdallas.edu (129.110.125.52) 56(84) bytes of data.
+64 bytes from 129.110.125.52: icmp_seq=1 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=2 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=3 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=4 ttl=48 time=147 ms
+64 bytes from 129.110.125.52: icmp_seq=5 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=6 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=7 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=8 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=9 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=10 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=11 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=12 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=13 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=14 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=15 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=16 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=17 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=18 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=19 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=20 ttl=48 time=141 ms
+
+--- planetlab2.utdallas.edu ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 33175ms
+rtt min/avg/max/mdev = 140.861/141.319/147.020/1.363 ms
+PING planetlab2.utdallas.edu (129.110.125.52) 56(84) bytes of data.
+64 bytes from 129.110.125.52: icmp_seq=1 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=2 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=3 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=4 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=5 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=6 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=7 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=8 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=9 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=10 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=11 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=12 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=13 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=14 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=15 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=16 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=17 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=18 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=19 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=20 ttl=48 time=140 ms
+
+--- planetlab2.utdallas.edu ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 33168ms
+rtt min/avg/max/mdev = 140.867/140.993/141.682/0.415 ms
+PING planetlab2.utdallas.edu (129.110.125.52) 56(84) bytes of data.
+64 bytes from 129.110.125.52: icmp_seq=1 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=2 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=3 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=4 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=5 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=6 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=7 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=8 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=9 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=10 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=11 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=12 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=13 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=14 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=15 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=16 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=17 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=18 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=19 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=20 ttl=48 time=140 ms
+
+--- planetlab2.utdallas.edu ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 33168ms
+rtt min/avg/max/mdev = 140.871/140.973/141.199/0.189 ms
+PING planetlab2.utdallas.edu (129.110.125.52) 56(84) bytes of data.
+64 bytes from 129.110.125.52: icmp_seq=1 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=2 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=3 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=4 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=5 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=6 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=7 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=8 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=9 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=10 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=11 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=12 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=13 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=14 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=15 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=16 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=17 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=18 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=19 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=20 ttl=48 time=140 ms
+
+--- planetlab2.utdallas.edu ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 28152ms
+rtt min/avg/max/mdev = 140.847/140.958/141.160/0.304 ms
+PING planetlab2.utdallas.edu (129.110.125.52) 56(84) bytes of data.
+64 bytes from 129.110.125.52: icmp_seq=1 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=2 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=3 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=4 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=5 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=6 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=7 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=8 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=9 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=10 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=11 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=12 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=13 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=14 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=15 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=16 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=17 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=18 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=19 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=20 ttl=48 time=141 ms
+
+--- planetlab2.utdallas.edu ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 33175ms
+rtt min/avg/max/mdev = 140.867/140.996/141.261/0.500 ms
+PING planetlab2.utdallas.edu (129.110.125.52) 56(84) bytes of data.
+64 bytes from 129.110.125.52: icmp_seq=1 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=2 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=3 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=4 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=5 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=6 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=7 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=8 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=9 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=10 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=11 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=12 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=13 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=14 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=15 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=16 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=17 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=18 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=19 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=20 ttl=48 time=140 ms
+
+--- planetlab2.utdallas.edu ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 33174ms
+rtt min/avg/max/mdev = 140.847/140.960/141.316/0.427 ms
+PING planetlab2.utdallas.edu (129.110.125.52) 56(84) bytes of data.
+64 bytes from 129.110.125.52: icmp_seq=1 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=2 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=3 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=4 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=5 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=6 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=7 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=8 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=9 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=10 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=11 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=12 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=13 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=14 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=15 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=16 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=17 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=18 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=19 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=20 ttl=48 time=141 ms
+
+--- planetlab2.utdallas.edu ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 33179ms
+rtt min/avg/max/mdev = 140.836/140.928/141.031/0.131 ms
+PING planetlab2.utdallas.edu (129.110.125.52) 56(84) bytes of data.
+64 bytes from 129.110.125.52: icmp_seq=1 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=2 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=3 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=4 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=5 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=6 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=7 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=8 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=9 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=10 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=11 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=12 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=13 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=14 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=15 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=16 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=17 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=18 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=19 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=20 ttl=48 time=140 ms
+
+--- planetlab2.utdallas.edu ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 33153ms
+rtt min/avg/max/mdev = 140.826/140.939/141.293/0.369 ms
+PING planetlab2.utdallas.edu (129.110.125.52) 56(84) bytes of data.
+64 bytes from 129.110.125.52: icmp_seq=1 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=2 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=3 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=4 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=5 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=6 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=7 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=8 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=9 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=10 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=11 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=12 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=13 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=14 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=15 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=16 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=17 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=18 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=19 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=20 ttl=48 time=141 ms
+
+--- planetlab2.utdallas.edu ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 33181ms
+rtt min/avg/max/mdev = 140.834/140.949/141.103/0.078 ms
+PING planetlab2.utdallas.edu (129.110.125.52) 56(84) bytes of data.
+64 bytes from 129.110.125.52: icmp_seq=1 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=2 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=3 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=4 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=5 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=6 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=7 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=8 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=9 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=10 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=11 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=12 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=13 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=14 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=15 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=16 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=17 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=18 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=19 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=20 ttl=48 time=140 ms
+
+--- planetlab2.utdallas.edu ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 33167ms
+rtt min/avg/max/mdev = 140.832/140.965/141.353/0.459 ms
+PING planetlab2.utdallas.edu (129.110.125.52) 56(84) bytes of data.
+64 bytes from 129.110.125.52: icmp_seq=1 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=2 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=3 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=4 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=5 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=6 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=7 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=8 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=9 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=10 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=11 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=12 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=13 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=14 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=15 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=16 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=17 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=18 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=19 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=20 ttl=48 time=140 ms
+
+--- planetlab2.utdallas.edu ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 33171ms
+rtt min/avg/max/mdev = 140.853/140.981/141.294/0.405 ms
+PING planetlab2.utdallas.edu (129.110.125.52) 56(84) bytes of data.
+64 bytes from 129.110.125.52: icmp_seq=1 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=2 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=3 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=4 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=5 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=6 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=7 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=8 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=9 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=10 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=11 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=12 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=13 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=14 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=15 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=16 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=17 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=18 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=19 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=20 ttl=48 time=140 ms
+
+--- planetlab2.utdallas.edu ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 33174ms
+rtt min/avg/max/mdev = 140.871/140.997/141.170/0.279 ms
+PING planetlab2.utdallas.edu (129.110.125.52) 56(84) bytes of data.
+64 bytes from 129.110.125.52: icmp_seq=1 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=2 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=3 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=4 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=5 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=6 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=7 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=8 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=9 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=10 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=11 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=12 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=13 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=14 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=15 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=16 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=17 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=18 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=19 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=20 ttl=48 time=140 ms
+
+--- planetlab2.utdallas.edu ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 33292ms
+rtt min/avg/max/mdev = 140.864/141.047/141.182/0.526 ms
+PING planetlab2.utdallas.edu (129.110.125.52) 56(84) bytes of data.
+64 bytes from 129.110.125.52: icmp_seq=1 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=2 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=3 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=4 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=5 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=6 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=7 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=8 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=9 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=10 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=11 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=12 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=13 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=14 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=15 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=16 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=17 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=18 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=19 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=20 ttl=48 time=140 ms
+
+--- planetlab2.utdallas.edu ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 33167ms
+rtt min/avg/max/mdev = 140.858/140.972/141.174/0.508 ms
+PING planetlab2.utdallas.edu (129.110.125.52) 56(84) bytes of data.
+64 bytes from 129.110.125.52: icmp_seq=1 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=2 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=3 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=4 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=5 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=6 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=7 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=8 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=9 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=10 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=11 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=12 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=13 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=14 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=15 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=16 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=17 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=18 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=19 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=20 ttl=48 time=140 ms
+
+--- planetlab2.utdallas.edu ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 28166ms
+rtt min/avg/max/mdev = 140.835/140.938/141.309/0.529 ms
+PING planetlab2.utdallas.edu (129.110.125.52) 56(84) bytes of data.
+64 bytes from 129.110.125.52: icmp_seq=1 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=2 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=3 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=4 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=5 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=6 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=7 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=8 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=9 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=10 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=11 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=12 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=13 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=14 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=15 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=16 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=17 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=18 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=19 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=20 ttl=48 time=140 ms
+
+--- planetlab2.utdallas.edu ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 33165ms
+rtt min/avg/max/mdev = 140.874/140.990/141.196/0.452 ms
+PING planetlab2.utdallas.edu (129.110.125.52) 56(84) bytes of data.
+64 bytes from 129.110.125.52: icmp_seq=1 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=2 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=3 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=4 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=5 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=6 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=7 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=8 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=9 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=10 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=11 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=12 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=13 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=14 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=15 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=16 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=17 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=18 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=19 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=20 ttl=48 time=141 ms
+
+--- planetlab2.utdallas.edu ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 33175ms
+rtt min/avg/max/mdev = 140.853/140.929/141.111/0.494 ms
+PING planetlab2.utdallas.edu (129.110.125.52) 56(84) bytes of data.
+64 bytes from 129.110.125.52: icmp_seq=1 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=2 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=3 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=4 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=5 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=6 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=7 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=8 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=9 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=10 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=11 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=12 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=13 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=14 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=15 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=16 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=17 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=18 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=19 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=20 ttl=48 time=140 ms
+
+--- planetlab2.utdallas.edu ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 33171ms
+rtt min/avg/max/mdev = 140.828/140.940/141.061/0.521 ms
+PING planetlab2.utdallas.edu (129.110.125.52) 56(84) bytes of data.
+64 bytes from 129.110.125.52: icmp_seq=1 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=2 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=3 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=4 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=5 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=6 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=7 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=8 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=9 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=10 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=11 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=12 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=13 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=14 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=15 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=16 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=17 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=18 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=19 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=20 ttl=48 time=140 ms
+
+--- planetlab2.utdallas.edu ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 33166ms
+rtt min/avg/max/mdev = 140.853/140.970/141.229/0.191 ms
+PING planetlab2.utdallas.edu (129.110.125.52) 56(84) bytes of data.
+64 bytes from 129.110.125.52: icmp_seq=1 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=2 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=3 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=4 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=5 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=6 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=7 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=8 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=9 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=10 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=11 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=12 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=13 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=14 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=15 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=16 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=17 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=18 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=19 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=20 ttl=48 time=140 ms
+
+--- planetlab2.utdallas.edu ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 33173ms
+rtt min/avg/max/mdev = 140.847/140.946/141.172/0.466 ms
+PING planetlab2.utdallas.edu (129.110.125.52) 56(84) bytes of data.
+64 bytes from 129.110.125.52: icmp_seq=1 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=2 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=3 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=4 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=5 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=6 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=7 ttl=48 time=141 ms
+64 bytes from 129.110.125.52: icmp_seq=8 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=9 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=10 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=11 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=12 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=13 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=14 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=15 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=16 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=17 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=18 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=19 ttl=48 time=140 ms
+64 bytes from 129.110.125.52: icmp_seq=20 ttl=48 time=140 ms
+
+--- planetlab2.utdallas.edu ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 33171ms
+rtt min/avg/max/mdev = 140.811/140.931/141.276/0.151 ms
+PING planetlab2.utdallas.edu (129.110.125.52) 56(84) bytes of data.
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=1 ttl=48 time=141 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=2 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=3 ttl=48 time=141 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=4 ttl=48 time=141 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=5 ttl=48 time=141 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=6 ttl=48 time=141 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=7 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=8 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=9 ttl=48 time=141 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=10 ttl=48 time=141 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=11 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=12 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=13 ttl=48 time=141 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=14 ttl=48 time=141 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=15 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=16 ttl=48 time=141 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=17 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=18 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=19 ttl=48 time=141 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=20 ttl=48 time=140 ms
+
+--- planetlab2.utdallas.edu ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 23331ms
+rtt min/avg/max/mdev = 140.881/141.039/141.364/0.430 ms
+PING planetlab2.utdallas.edu (129.110.125.52) 56(84) bytes of data.
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=1 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=2 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=3 ttl=48 time=141 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=4 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=5 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=6 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=7 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=8 ttl=48 time=141 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=9 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=10 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=11 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=12 ttl=48 time=141 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=13 ttl=48 time=141 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=14 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=15 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=16 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=17 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=18 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=19 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=20 ttl=48 time=140 ms
+
+--- planetlab2.utdallas.edu ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 23150ms
+rtt min/avg/max/mdev = 140.815/140.930/141.028/0.061 ms
+PING planetlab2.utdallas.edu (129.110.125.52) 56(84) bytes of data.
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=1 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=2 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=3 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=4 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=5 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=6 ttl=48 time=141 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=7 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=8 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=9 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=10 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=11 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=12 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=13 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=14 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=15 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=16 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=17 ttl=48 time=141 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=18 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=19 ttl=48 time=141 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=20 ttl=48 time=141 ms
+
+--- planetlab2.utdallas.edu ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 23169ms
+rtt min/avg/max/mdev = 140.837/140.921/141.062/0.381 ms
+PING planetlab2.utdallas.edu (129.110.125.52) 56(84) bytes of data.
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=1 ttl=48 time=141 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=2 ttl=48 time=141 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=3 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=4 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=5 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=6 ttl=48 time=141 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=7 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=8 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=9 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=10 ttl=48 time=141 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=11 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=12 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=13 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=14 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=15 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=16 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=17 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=18 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=19 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=20 ttl=48 time=140 ms
+
+--- planetlab2.utdallas.edu ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 23335ms
+rtt min/avg/max/mdev = 140.829/140.930/141.160/0.437 ms
+PING planetlab2.utdallas.edu (129.110.125.52) 56(84) bytes of data.
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=1 ttl=48 time=141 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=2 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=3 ttl=48 time=141 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=4 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=5 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=6 ttl=48 time=141 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=7 ttl=48 time=141 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=8 ttl=48 time=141 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=9 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=10 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=11 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=12 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=13 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=14 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=15 ttl=48 time=141 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=16 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=17 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=18 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=19 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=20 ttl=48 time=140 ms
+
+--- planetlab2.utdallas.edu ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 23168ms
+rtt min/avg/max/mdev = 140.833/140.961/141.162/0.468 ms
+PING planetlab2.utdallas.edu (129.110.125.52) 56(84) bytes of data.
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=1 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=2 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=3 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=4 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=5 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=6 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=7 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=8 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=9 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=10 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=11 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=12 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=13 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=14 ttl=48 time=141 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=15 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=16 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=17 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=18 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=19 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=20 ttl=48 time=140 ms
+
+--- planetlab2.utdallas.edu ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 23167ms
+rtt min/avg/max/mdev = 140.779/140.891/141.107/0.464 ms
+PING planetlab2.utdallas.edu (129.110.125.52) 56(84) bytes of data.
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=1 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=2 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=3 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=4 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=5 ttl=48 time=141 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=6 ttl=48 time=141 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=7 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=8 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=9 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=10 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=11 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=12 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=13 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=14 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=15 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=16 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=17 ttl=48 time=141 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=18 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=19 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=20 ttl=48 time=140 ms
+
+--- planetlab2.utdallas.edu ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 23333ms
+rtt min/avg/max/mdev = 140.847/140.928/141.076/0.450 ms
+PING planetlab2.utdallas.edu (129.110.125.52) 56(84) bytes of data.
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=1 ttl=48 time=141 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=2 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=3 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=4 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=5 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=6 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=7 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=8 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=9 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=10 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=11 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=12 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=13 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=14 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=15 ttl=48 time=141 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=16 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=17 ttl=48 time=141 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=18 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=19 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=20 ttl=48 time=141 ms
+
+--- planetlab2.utdallas.edu ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 23170ms
+rtt min/avg/max/mdev = 140.844/140.926/141.277/0.260 ms
+PING planetlab2.utdallas.edu (129.110.125.52) 56(84) bytes of data.
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=1 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=2 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=3 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=4 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=5 ttl=48 time=141 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=6 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=7 ttl=48 time=141 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=8 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=9 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=10 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=11 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=12 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=13 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=14 ttl=48 time=141 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=15 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=16 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=17 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=18 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=19 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=20 ttl=48 time=140 ms
+
+--- planetlab2.utdallas.edu ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 23154ms
+rtt min/avg/max/mdev = 140.833/140.918/141.081/0.508 ms
+PING planetlab2.utdallas.edu (129.110.125.52) 56(84) bytes of data.
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=1 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=2 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=3 ttl=48 time=141 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=4 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=5 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=6 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=7 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=8 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=9 ttl=48 time=141 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=10 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=11 ttl=48 time=141 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=12 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=13 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=14 ttl=48 time=141 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=15 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=16 ttl=48 time=141 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=17 ttl=48 time=141 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=18 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=19 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=20 ttl=48 time=140 ms
+
+--- planetlab2.utdallas.edu ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19018ms
+rtt min/avg/max/mdev = 140.858/140.980/141.157/0.401 ms
+PING planetlab2.utdallas.edu (129.110.125.52) 56(84) bytes of data.
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=1 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=2 ttl=48 time=141 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=3 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=4 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=5 ttl=48 time=141 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=6 ttl=48 time=141 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=7 ttl=48 time=141 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=8 ttl=48 time=141 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=9 ttl=48 time=141 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=10 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=11 ttl=48 time=141 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=12 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=13 ttl=48 time=141 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=14 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=15 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=16 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=17 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=18 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=19 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=20 ttl=48 time=141 ms
+
+--- planetlab2.utdallas.edu ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 23162ms
+rtt min/avg/max/mdev = 140.862/141.007/141.199/0.200 ms
+PING planetlab2.utdallas.edu (129.110.125.52) 56(84) bytes of data.
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=1 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=2 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=3 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=4 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=5 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=6 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=7 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=8 ttl=48 time=141 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=9 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=10 ttl=48 time=141 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=11 ttl=48 time=141 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=12 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=13 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=14 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=15 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=16 ttl=48 time=141 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=17 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=18 ttl=48 time=141 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=19 ttl=48 time=141 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=20 ttl=48 time=141 ms
+
+--- planetlab2.utdallas.edu ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 23163ms
+rtt min/avg/max/mdev = 140.812/140.982/141.391/0.431 ms
+PING planetlab2.utdallas.edu (129.110.125.52) 56(84) bytes of data.
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=1 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=2 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=3 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=4 ttl=48 time=141 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=5 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=6 ttl=48 time=141 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=7 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=8 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=9 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=10 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=11 ttl=48 time=141 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=12 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=13 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=14 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=15 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=16 ttl=48 time=141 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=17 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=18 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=19 ttl=48 time=141 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=20 ttl=48 time=140 ms
+
+--- planetlab2.utdallas.edu ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19021ms
+rtt min/avg/max/mdev = 140.802/140.945/141.148/0.363 ms
+PING planetlab2.utdallas.edu (129.110.125.52) 56(84) bytes of data.
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=1 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=2 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=3 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=4 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=5 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=6 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=7 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=8 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=9 ttl=48 time=141 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=10 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=11 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=12 ttl=48 time=141 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=13 ttl=48 time=141 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=14 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=15 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=16 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=17 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=18 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=19 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=20 ttl=48 time=140 ms
+
+--- planetlab2.utdallas.edu ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 23166ms
+rtt min/avg/max/mdev = 140.856/140.947/141.092/0.133 ms
+PING planetlab2.utdallas.edu (129.110.125.52) 56(84) bytes of data.
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=1 ttl=48 time=141 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=2 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=3 ttl=48 time=141 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=4 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=5 ttl=48 time=141 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=6 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=7 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=8 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=9 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=10 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=11 ttl=48 time=141 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=12 ttl=48 time=141 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=13 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=14 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=15 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=16 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=17 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=18 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=19 ttl=48 time=141 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=20 ttl=48 time=141 ms
+
+--- planetlab2.utdallas.edu ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 23166ms
+rtt min/avg/max/mdev = 140.857/140.972/141.150/0.497 ms
+PING planetlab2.utdallas.edu (129.110.125.52) 56(84) bytes of data.
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=1 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=2 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=3 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=4 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=5 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=6 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=7 ttl=48 time=141 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=8 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=9 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=10 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=11 ttl=48 time=141 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=12 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=13 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=14 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=15 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=16 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=17 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=18 ttl=48 time=141 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=19 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=20 ttl=48 time=140 ms
+
+--- planetlab2.utdallas.edu ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19022ms
+rtt min/avg/max/mdev = 140.814/140.924/141.033/0.296 ms
+PING planetlab2.utdallas.edu (129.110.125.52) 56(84) bytes of data.
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=1 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=2 ttl=48 time=141 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=3 ttl=48 time=141 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=4 ttl=48 time=141 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=5 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=6 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=7 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=8 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=9 ttl=48 time=141 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=10 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=11 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=12 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=13 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=14 ttl=48 time=141 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=15 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=16 ttl=48 time=141 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=17 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=18 ttl=48 time=141 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=19 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=20 ttl=48 time=140 ms
+
+--- planetlab2.utdallas.edu ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 23166ms
+rtt min/avg/max/mdev = 140.829/140.976/141.157/0.306 ms
+PING planetlab2.utdallas.edu (129.110.125.52) 56(84) bytes of data.
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=1 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=2 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=3 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=4 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=5 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=6 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=7 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=8 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=9 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=10 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=11 ttl=48 time=141 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=12 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=13 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=14 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=15 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=16 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=17 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=18 ttl=48 time=141 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=19 ttl=48 time=141 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=20 ttl=48 time=141 ms
+
+--- planetlab2.utdallas.edu ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19006ms
+rtt min/avg/max/mdev = 140.809/140.926/141.096/0.300 ms
+PING planetlab2.utdallas.edu (129.110.125.52) 56(84) bytes of data.
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=1 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=2 ttl=48 time=141 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=3 ttl=48 time=141 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=4 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=5 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=6 ttl=48 time=141 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=7 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=8 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=9 ttl=48 time=141 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=10 ttl=48 time=141 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=11 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=12 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=13 ttl=48 time=141 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=14 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=15 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=16 ttl=48 time=141 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=17 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=18 ttl=48 time=141 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=19 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=20 ttl=48 time=141 ms
+
+--- planetlab2.utdallas.edu ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 23327ms
+rtt min/avg/max/mdev = 140.867/140.974/141.076/0.216 ms
+PING planetlab2.utdallas.edu (129.110.125.52) 56(84) bytes of data.
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=1 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=2 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=3 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=4 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=5 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=6 ttl=48 time=141 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=7 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=8 ttl=48 time=141 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=9 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=10 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=11 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=12 ttl=48 time=141 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=13 ttl=48 time=141 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=14 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=15 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=16 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=17 ttl=48 time=141 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=18 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=19 ttl=48 time=141 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=20 ttl=48 time=140 ms
+
+--- planetlab2.utdallas.edu ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 23167ms
+rtt min/avg/max/mdev = 140.843/140.984/141.311/0.337 ms
+PING planetlab2.utdallas.edu (129.110.125.52) 56(84) bytes of data.
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=1 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=2 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=3 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=4 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=5 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=6 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=7 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=8 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=9 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=10 ttl=48 time=141 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=11 ttl=48 time=141 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=12 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=13 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=14 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=15 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=16 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=17 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=18 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=19 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=20 ttl=48 time=140 ms
+
+--- planetlab2.utdallas.edu ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 23167ms
+rtt min/avg/max/mdev = 140.855/140.929/141.048/0.339 ms
+PING planetlab2.utdallas.edu (129.110.125.52) 56(84) bytes of data.
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=1 ttl=48 time=141 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=2 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=3 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=4 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=5 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=6 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=7 ttl=48 time=141 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=8 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=9 ttl=48 time=141 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=10 ttl=48 time=141 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=11 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=12 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=13 ttl=48 time=141 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=14 ttl=48 time=141 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=15 ttl=48 time=141 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=16 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=17 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=18 ttl=48 time=141 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=19 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=20 ttl=48 time=140 ms
+
+--- planetlab2.utdallas.edu ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 23335ms
+rtt min/avg/max/mdev = 140.842/140.993/141.392/0.428 ms
+PING planetlab2.utdallas.edu (129.110.125.52) 56(84) bytes of data.
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=1 ttl=48 time=141 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=2 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=3 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=4 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=5 ttl=48 time=141 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=6 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=7 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=8 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=9 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=10 ttl=48 time=141 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=11 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=12 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=13 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=14 ttl=48 time=141 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=15 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=16 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=17 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=18 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=19 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=20 ttl=48 time=140 ms
+
+--- planetlab2.utdallas.edu ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19020ms
+rtt min/avg/max/mdev = 140.831/140.974/141.736/0.417 ms
+PING planetlab2.utdallas.edu (129.110.125.52) 56(84) bytes of data.
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=1 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=2 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=3 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=4 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=5 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=6 ttl=48 time=141 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=7 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=8 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=9 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=10 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=11 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=12 ttl=48 time=141 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=13 ttl=48 time=141 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=14 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=15 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=16 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=17 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=18 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=19 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=20 ttl=48 time=140 ms
+
+--- planetlab2.utdallas.edu ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 23166ms
+rtt min/avg/max/mdev = 140.825/140.935/141.080/0.135 ms
+PING planetlab2.utdallas.edu (129.110.125.52) 56(84) bytes of data.
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=1 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=2 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=3 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=4 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=5 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=6 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=7 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=8 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=9 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=10 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=11 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=12 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=13 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=14 ttl=48 time=141 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=15 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=16 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=17 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=18 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=19 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=20 ttl=48 time=140 ms
+
+--- planetlab2.utdallas.edu ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 23328ms
+rtt min/avg/max/mdev = 140.834/140.928/141.160/0.479 ms
+PING planetlab2.utdallas.edu (129.110.125.52) 56(84) bytes of data.
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=1 ttl=48 time=141 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=2 ttl=48 time=141 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=3 ttl=48 time=141 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=4 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=5 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=6 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=7 ttl=48 time=141 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=8 ttl=48 time=141 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=9 ttl=48 time=141 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=10 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=11 ttl=48 time=141 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=12 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=13 ttl=48 time=141 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=14 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=15 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=16 ttl=48 time=141 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=17 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=18 ttl=48 time=141 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=19 ttl=48 time=141 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=20 ttl=48 time=140 ms
+
+--- planetlab2.utdallas.edu ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 23165ms
+rtt min/avg/max/mdev = 140.874/141.036/141.644/0.307 ms
+PING planetlab2.utdallas.edu (129.110.125.52) 56(84) bytes of data.
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=1 ttl=48 time=141 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=2 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=3 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=4 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=5 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=6 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=7 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=8 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=9 ttl=48 time=141 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=10 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=11 ttl=48 time=141 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=12 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=13 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=14 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=15 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=16 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=17 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=18 ttl=48 time=141 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=19 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=20 ttl=48 time=141 ms
+
+--- planetlab2.utdallas.edu ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 23148ms
+rtt min/avg/max/mdev = 140.889/140.994/141.302/0.472 ms
+PING planetlab2.utdallas.edu (129.110.125.52) 56(84) bytes of data.
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=1 ttl=48 time=141 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=2 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=3 ttl=48 time=141 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=4 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=5 ttl=48 time=141 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=6 ttl=48 time=141 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=7 ttl=48 time=141 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=8 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=9 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=10 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=11 ttl=48 time=141 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=12 ttl=48 time=141 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=13 ttl=48 time=141 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=14 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=15 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=16 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=17 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=18 ttl=48 time=141 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=19 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=20 ttl=48 time=140 ms
+
+--- planetlab2.utdallas.edu ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 23323ms
+rtt min/avg/max/mdev = 140.855/140.976/141.098/0.494 ms
+PING planetlab2.utdallas.edu (129.110.125.52) 56(84) bytes of data.
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=1 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=2 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=3 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=4 ttl=48 time=141 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=5 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=6 ttl=48 time=141 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=7 ttl=48 time=141 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=8 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=9 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=10 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=11 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=12 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=13 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=14 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=15 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=16 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=17 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=18 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=19 ttl=48 time=141 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=20 ttl=48 time=140 ms
+
+--- planetlab2.utdallas.edu ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 23164ms
+rtt min/avg/max/mdev = 140.853/140.943/141.061/0.506 ms
+PING planetlab2.utdallas.edu (129.110.125.52) 56(84) bytes of data.
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=1 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=2 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=3 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=4 ttl=48 time=141 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=5 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=6 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=7 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=8 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=9 ttl=48 time=141 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=10 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=11 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=12 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=13 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=14 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=15 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=16 ttl=48 time=141 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=17 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=18 ttl=48 time=141 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=19 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=20 ttl=48 time=140 ms
+
+--- planetlab2.utdallas.edu ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 23169ms
+rtt min/avg/max/mdev = 140.854/140.972/141.281/0.530 ms
+PING planetlab2.utdallas.edu (129.110.125.52) 56(84) bytes of data.
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=1 ttl=48 time=141 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=2 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=3 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=4 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=5 ttl=48 time=141 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=6 ttl=48 time=141 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=7 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=8 ttl=48 time=141 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=9 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=10 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=11 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=12 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=13 ttl=48 time=141 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=14 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=15 ttl=48 time=141 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=16 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=17 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=18 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=19 ttl=48 time=141 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=20 ttl=48 time=141 ms
+
+--- planetlab2.utdallas.edu ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19018ms
+rtt min/avg/max/mdev = 140.852/140.982/141.155/0.363 ms
+PING planetlab2.utdallas.edu (129.110.125.52) 56(84) bytes of data.
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=1 ttl=48 time=141 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=2 ttl=48 time=141 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=3 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=4 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=5 ttl=48 time=141 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=6 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=7 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=8 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=9 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=10 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=11 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=12 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=13 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=14 ttl=48 time=141 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=15 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=16 ttl=48 time=141 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=17 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=18 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=19 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=20 ttl=48 time=140 ms
+
+--- planetlab2.utdallas.edu ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 23165ms
+rtt min/avg/max/mdev = 140.874/141.028/141.967/0.524 ms
+PING planetlab2.utdallas.edu (129.110.125.52) 56(84) bytes of data.
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=1 ttl=48 time=141 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=2 ttl=48 time=141 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=3 ttl=48 time=141 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=4 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=5 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=6 ttl=48 time=141 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=7 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=8 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=9 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=10 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=11 ttl=48 time=141 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=12 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=13 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=14 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=15 ttl=48 time=141 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=16 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=17 ttl=48 time=141 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=18 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=19 ttl=48 time=141 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=20 ttl=48 time=140 ms
+
+--- planetlab2.utdallas.edu ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 23166ms
+rtt min/avg/max/mdev = 140.857/140.997/141.413/0.132 ms
+PING planetlab2.utdallas.edu (129.110.125.52) 56(84) bytes of data.
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=1 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=2 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=3 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=4 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=5 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=6 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=7 ttl=48 time=141 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=8 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=9 ttl=48 time=141 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=10 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=11 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=12 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=13 ttl=48 time=141 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=14 ttl=48 time=141 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=15 ttl=48 time=141 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=16 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=17 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=18 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=19 ttl=48 time=141 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=20 ttl=48 time=140 ms
+
+--- planetlab2.utdallas.edu ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 23338ms
+rtt min/avg/max/mdev = 140.783/140.983/141.464/0.398 ms
+PING planetlab2.utdallas.edu (129.110.125.52) 56(84) bytes of data.
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=1 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=2 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=3 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=4 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=5 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=6 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=7 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=8 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=9 ttl=48 time=141 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=10 ttl=48 time=141 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=11 ttl=48 time=141 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=12 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=13 ttl=48 time=141 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=14 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=15 ttl=48 time=141 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=16 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=17 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=18 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=19 ttl=48 time=141 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=20 ttl=48 time=140 ms
+
+--- planetlab2.utdallas.edu ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 23166ms
+rtt min/avg/max/mdev = 140.849/141.021/141.850/0.298 ms
+PING planetlab2.utdallas.edu (129.110.125.52) 56(84) bytes of data.
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=1 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=2 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=3 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=4 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=5 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=6 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=7 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=8 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=9 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=10 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=11 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=12 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=13 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=14 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=15 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=16 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=17 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=18 ttl=48 time=140 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=19 ttl=48 time=141 ms
+64 bytes from planetlab2.utdallas.edu (129.110.125.52): icmp_seq=20 ttl=48 time=140 ms
+
+--- planetlab2.utdallas.edu ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19021ms
+rtt min/avg/max/mdev = 140.843/140.928/141.106/0.492 ms

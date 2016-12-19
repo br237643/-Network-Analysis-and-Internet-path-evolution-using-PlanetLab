@@ -1,0 +1,1356 @@
+traceroute to planetlab2.utdallas.edu (129.110.125.52), 30 hops max, 60 byte packets
+ 1  133.9.81.190 (133.9.81.190)  0.732 ms  1.179 ms  1.610 ms
+ 2  cl2948gl3.goto.info.waseda.ac.jp (133.9.81.254)  0.661 ms  0.869 ms  1.101 ms
+ 3  133.9.77.62 (133.9.77.62)  0.415 ms  0.426 ms  0.416 ms
+ 4  tokyo1-RM-XE-9-0-11-20.s5.sinet.ad.jp (150.99.187.69)  0.748 ms  0.738 ms  0.736 ms
+ 5  tokyo1-GM-AE0-100.s5.sinet.ad.jp (150.99.64.29)  0.704 ms  0.690 ms  0.686 ms
+ 6  lax-GM-ET-2-1-0-100.s5.sinet.ad.jp (150.99.89.243)  99.321 ms  99.317 ms  99.309 ms
+ 7  abilene.lax.gw.sinet.ad.jp (150.99.199.94)  107.900 ms  108.014 ms  108.001 ms
+ 8  et-1-0-0.111.rtr.hous.net.internet2.edu (198.71.45.20)  140.479 ms  140.465 ms  140.452 ms
+ 9  74.200.187.33 (74.200.187.33)  146.056 ms  146.047 ms  146.035 ms
+10  vl-430-utd-ntg-gw1.dfw.tx-learn.net (208.76.227.222)  138.242 ms  138.252 ms  138.241 ms
+11   (129.110.125.52)  140.885 ms  140.873 ms  140.975 ms
+traceroute to planetlab2.utdallas.edu (129.110.125.52), 30 hops max, 60 byte packets
+ 1  133.9.81.190 (133.9.81.190)  0.712 ms  1.144 ms  1.555 ms
+ 2  cl2948gl3.goto.info.waseda.ac.jp (133.9.81.254)  0.645 ms  0.860 ms  1.081 ms
+ 3  133.9.77.62 (133.9.77.62)  0.406 ms  0.417 ms  0.407 ms
+ 4  tokyo1-RM-XE-9-0-11-20.s5.sinet.ad.jp (150.99.187.69)  0.745 ms  0.724 ms  0.711 ms
+ 5  tokyo1-GM-AE0-100.s5.sinet.ad.jp (150.99.64.29)  0.699 ms  0.687 ms  0.664 ms
+ 6  lax-GM-ET-2-1-0-100.s5.sinet.ad.jp (150.99.89.243)  99.291 ms  99.327 ms  99.317 ms
+ 7  abilene.lax.gw.sinet.ad.jp (150.99.199.94)  108.006 ms  107.906 ms  107.920 ms
+ 8  et-1-0-0.111.rtr.hous.net.internet2.edu (198.71.45.20)  140.542 ms  140.533 ms  140.521 ms
+ 9  74.200.187.33 (74.200.187.33)  146.082 ms  146.077 ms  146.066 ms
+10  vl-430-utd-ntg-gw1.dfw.tx-learn.net (208.76.227.222)  138.247 ms  138.247 ms  138.237 ms
+11   (129.110.125.52)  140.903 ms  140.908 ms  140.897 ms
+traceroute to planetlab2.utdallas.edu (129.110.125.52), 30 hops max, 60 byte packets
+ 1  133.9.81.190 (133.9.81.190)  0.702 ms  1.203 ms  1.583 ms
+ 2  cl2948gl3.goto.info.waseda.ac.jp (133.9.81.254)  0.634 ms  0.883 ms  1.125 ms
+ 3  133.9.77.62 (133.9.77.62)  0.406 ms  0.414 ms  0.400 ms
+ 4  tokyo1-RM-XE-9-0-11-20.s5.sinet.ad.jp (150.99.187.69)  0.759 ms  0.758 ms  0.742 ms
+ 5  tokyo1-GM-AE0-100.s5.sinet.ad.jp (150.99.64.29)  0.710 ms  0.691 ms  0.686 ms
+ 6  lax-GM-ET-2-1-0-100.s5.sinet.ad.jp (150.99.89.243)  99.294 ms  99.315 ms  99.295 ms
+ 7  abilene.lax.gw.sinet.ad.jp (150.99.199.94)  107.920 ms  110.266 ms  110.255 ms
+ 8  et-1-0-0.111.rtr.hous.net.internet2.edu (198.71.45.20)  140.385 ms  140.394 ms  140.385 ms
+ 9  74.200.187.33 (74.200.187.33)  145.704 ms  145.713 ms  145.700 ms
+10  vl-430-utd-ntg-gw1.dfw.tx-learn.net (208.76.227.222)  138.116 ms  138.127 ms  138.114 ms
+11   (129.110.125.52)  140.910 ms  140.885 ms  140.879 ms
+traceroute to planetlab2.utdallas.edu (129.110.125.52), 30 hops max, 60 byte packets
+ 1  133.9.81.190 (133.9.81.190)  0.753 ms  1.144 ms  1.530 ms
+ 2  cl2948gl3.goto.info.waseda.ac.jp (133.9.81.254)  0.665 ms  0.847 ms  1.078 ms
+ 3  133.9.77.62 (133.9.77.62)  0.423 ms  0.414 ms  0.399 ms
+ 4  tokyo1-RM-XE-9-0-11-20.s5.sinet.ad.jp (150.99.187.69)  0.742 ms  0.733 ms  0.720 ms
+ 5  tokyo1-GM-AE0-100.s5.sinet.ad.jp (150.99.64.29)  12.001 ms  0.663 ms  11.972 ms
+ 6  lax-GM-ET-2-1-0-100.s5.sinet.ad.jp (150.99.89.243)  99.306 ms  99.330 ms  99.320 ms
+ 7  abilene.lax.gw.sinet.ad.jp (150.99.199.94)  108.072 ms  107.933 ms  107.958 ms
+ 8  et-1-0-0.111.rtr.hous.net.internet2.edu (198.71.45.20)  140.560 ms  140.568 ms  140.555 ms
+ 9  74.200.187.33 (74.200.187.33)  145.938 ms  145.928 ms  145.915 ms
+10  vl-430-utd-ntg-gw1.dfw.tx-learn.net (208.76.227.222)  138.183 ms  138.194 ms  138.183 ms
+11   (129.110.125.52)  141.120 ms  141.107 ms  141.097 ms
+traceroute to planetlab2.utdallas.edu (129.110.125.52), 30 hops max, 60 byte packets
+ 1  133.9.81.190 (133.9.81.190)  0.720 ms  1.173 ms  1.567 ms
+ 2  cl2948gl3.goto.info.waseda.ac.jp (133.9.81.254)  0.653 ms  0.831 ms  1.095 ms
+ 3  133.9.77.62 (133.9.77.62)  0.408 ms  0.401 ms  0.389 ms
+ 4  tokyo1-RM-XE-9-0-11-20.s5.sinet.ad.jp (150.99.187.69)  0.727 ms  0.717 ms  0.702 ms
+ 5  tokyo1-GM-AE0-100.s5.sinet.ad.jp (150.99.64.29)  0.693 ms  1.552 ms  0.658 ms
+ 6  lax-GM-ET-2-1-0-100.s5.sinet.ad.jp (150.99.89.243)  99.293 ms  99.332 ms  99.320 ms
+ 7  abilene.lax.gw.sinet.ad.jp (150.99.199.94)  108.018 ms  107.986 ms  107.980 ms
+ 8  et-1-0-0.111.rtr.hous.net.internet2.edu (198.71.45.20)  140.637 ms  140.637 ms  140.626 ms
+ 9  74.200.187.33 (74.200.187.33)  145.889 ms  145.879 ms  145.867 ms
+10  vl-430-utd-ntg-gw1.dfw.tx-learn.net (208.76.227.222)  138.185 ms  138.198 ms  138.187 ms
+11   (129.110.125.52)  140.976 ms  140.966 ms  140.938 ms
+traceroute to planetlab2.utdallas.edu (129.110.125.52), 30 hops max, 60 byte packets
+ 1  133.9.81.190 (133.9.81.190)  0.713 ms  1.176 ms  1.560 ms
+ 2  cl2948gl3.goto.info.waseda.ac.jp (133.9.81.254)  0.646 ms  0.868 ms  1.114 ms
+ 3  133.9.77.62 (133.9.77.62)  0.417 ms  0.429 ms  0.418 ms
+ 4  tokyo1-RM-XE-9-0-11-20.s5.sinet.ad.jp (150.99.187.69)  0.753 ms  0.731 ms  0.722 ms
+ 5  tokyo1-GM-AE0-100.s5.sinet.ad.jp (150.99.64.29)  0.709 ms  0.683 ms  0.682 ms
+ 6  lax-GM-ET-2-1-0-100.s5.sinet.ad.jp (150.99.89.243)  99.324 ms  99.326 ms  99.307 ms
+ 7  abilene.lax.gw.sinet.ad.jp (150.99.199.94)  107.952 ms  108.019 ms  108.007 ms
+ 8  et-1-0-0.111.rtr.hous.net.internet2.edu (198.71.45.20)  140.458 ms  140.447 ms  140.435 ms
+ 9  74.200.187.33 (74.200.187.33)  152.451 ms  152.441 ms  152.428 ms
+10  vl-430-utd-ntg-gw1.dfw.tx-learn.net (208.76.227.222)  138.152 ms  138.161 ms  138.149 ms
+11   (129.110.125.52)  140.957 ms  140.947 ms  140.938 ms
+traceroute to planetlab2.utdallas.edu (129.110.125.52), 30 hops max, 60 byte packets
+ 1  133.9.81.190 (133.9.81.190)  0.721 ms  1.193 ms  1.573 ms
+ 2  cl2948gl3.goto.info.waseda.ac.jp (133.9.81.254)  0.656 ms  0.845 ms  1.129 ms
+ 3  133.9.77.62 (133.9.77.62)  0.415 ms  0.406 ms  0.394 ms
+ 4  tokyo1-RM-XE-9-0-11-20.s5.sinet.ad.jp (150.99.187.69)  0.727 ms  0.718 ms  0.705 ms
+ 5  tokyo1-GM-AE0-100.s5.sinet.ad.jp (150.99.64.29)  0.688 ms  0.674 ms  0.661 ms
+ 6  lax-GM-ET-2-1-0-100.s5.sinet.ad.jp (150.99.89.243)  99.344 ms  99.329 ms  99.317 ms
+ 7  abilene.lax.gw.sinet.ad.jp (150.99.199.94)  107.976 ms  107.959 ms  107.945 ms
+ 8  et-1-0-0.111.rtr.hous.net.internet2.edu (198.71.45.20)  140.579 ms  140.587 ms  140.575 ms
+ 9  74.200.187.33 (74.200.187.33)  146.843 ms  146.854 ms  146.843 ms
+10  vl-430-utd-ntg-gw1.dfw.tx-learn.net (208.76.227.222)  138.338 ms  138.350 ms  138.340 ms
+11   (129.110.125.52)  141.079 ms  141.070 ms  141.058 ms
+traceroute to planetlab2.utdallas.edu (129.110.125.52), 30 hops max, 60 byte packets
+ 1  133.9.81.190 (133.9.81.190)  0.738 ms  1.203 ms  1.597 ms
+ 2  cl2948gl3.goto.info.waseda.ac.jp (133.9.81.254)  0.654 ms  0.873 ms  1.134 ms
+ 3  133.9.77.62 (133.9.77.62)  0.406 ms  0.417 ms  0.405 ms
+ 4  tokyo1-RM-XE-9-0-11-20.s5.sinet.ad.jp (150.99.187.69)  0.767 ms  0.754 ms  0.743 ms
+ 5  tokyo1-GM-AE0-100.s5.sinet.ad.jp (150.99.64.29)  0.705 ms  8.042 ms  0.686 ms
+ 6  lax-GM-ET-2-1-0-100.s5.sinet.ad.jp (150.99.89.243)  102.177 ms  101.870 ms  101.856 ms
+ 7  abilene.lax.gw.sinet.ad.jp (150.99.199.94)  107.913 ms  108.292 ms  108.282 ms
+ 8  et-1-0-0.111.rtr.hous.net.internet2.edu (198.71.45.20)  140.606 ms  140.612 ms  140.601 ms
+ 9  74.200.187.33 (74.200.187.33)  146.183 ms  146.194 ms  146.181 ms
+10  vl-430-utd-ntg-gw1.dfw.tx-learn.net (208.76.227.222)  138.320 ms  138.330 ms  138.319 ms
+11   (129.110.125.52)  141.065 ms  141.056 ms  141.049 ms
+traceroute to planetlab2.utdallas.edu (129.110.125.52), 30 hops max, 60 byte packets
+ 1  133.9.81.190 (133.9.81.190)  0.733 ms  1.192 ms  1.579 ms
+ 2  cl2948gl3.goto.info.waseda.ac.jp (133.9.81.254)  0.645 ms  0.853 ms  1.127 ms
+ 3  133.9.77.62 (133.9.77.62)  0.418 ms  0.405 ms  0.392 ms
+ 4  tokyo1-RM-XE-9-0-11-20.s5.sinet.ad.jp (150.99.187.69)  0.731 ms  0.713 ms  0.700 ms
+ 5  tokyo1-GM-AE0-100.s5.sinet.ad.jp (150.99.64.29)  0.686 ms  0.655 ms  0.656 ms
+ 6  lax-GM-ET-2-1-0-100.s5.sinet.ad.jp (150.99.89.243)  99.529 ms  99.248 ms  99.242 ms
+ 7  abilene.lax.gw.sinet.ad.jp (150.99.199.94)  107.925 ms  107.964 ms  107.918 ms
+ 8  et-1-0-0.111.rtr.hous.net.internet2.edu (198.71.45.20)  140.640 ms  140.592 ms  140.613 ms
+ 9  74.200.187.33 (74.200.187.33)  145.818 ms  145.807 ms  145.796 ms
+10  vl-430-utd-ntg-gw1.dfw.tx-learn.net (208.76.227.222)  138.227 ms  138.242 ms  138.232 ms
+11   (129.110.125.52)  140.916 ms  140.908 ms  140.901 ms
+traceroute to planetlab2.utdallas.edu (129.110.125.52), 30 hops max, 60 byte packets
+ 1  133.9.81.190 (133.9.81.190)  0.722 ms  1.179 ms  1.561 ms
+ 2  cl2948gl3.goto.info.waseda.ac.jp (133.9.81.254)  0.650 ms  0.849 ms  1.117 ms
+ 3  133.9.77.62 (133.9.77.62)  0.411 ms  0.425 ms  0.413 ms
+ 4  tokyo1-RM-XE-9-0-11-20.s5.sinet.ad.jp (150.99.187.69)  0.731 ms  0.721 ms  0.707 ms
+ 5  tokyo1-GM-AE0-100.s5.sinet.ad.jp (150.99.64.29)  0.694 ms  0.690 ms  0.664 ms
+ 6  lax-GM-ET-2-1-0-100.s5.sinet.ad.jp (150.99.89.243)  100.004 ms  99.702 ms  99.689 ms
+ 7  abilene.lax.gw.sinet.ad.jp (150.99.199.94)  107.961 ms  107.957 ms  107.944 ms
+ 8  et-1-0-0.111.rtr.hous.net.internet2.edu (198.71.45.20)  140.496 ms  140.486 ms  140.473 ms
+ 9  74.200.187.33 (74.200.187.33)  145.987 ms  145.977 ms  145.964 ms
+10  vl-430-utd-ntg-gw1.dfw.tx-learn.net (208.76.227.222)  138.157 ms  138.147 ms  138.133 ms
+11   (129.110.125.52)  140.925 ms  141.361 ms  141.350 ms
+traceroute to planetlab2.utdallas.edu (129.110.125.52), 30 hops max, 60 byte packets
+ 1  133.9.81.190 (133.9.81.190)  0.733 ms  1.174 ms  1.578 ms
+ 2  cl2948gl3.goto.info.waseda.ac.jp (133.9.81.254)  0.644 ms  0.849 ms  1.094 ms
+ 3  133.9.77.62 (133.9.77.62)  0.424 ms  0.435 ms  0.424 ms
+ 4  tokyo1-RM-XE-9-0-11-20.s5.sinet.ad.jp (150.99.187.69)  0.744 ms  0.740 ms  0.727 ms
+ 5  tokyo1-GM-AE0-100.s5.sinet.ad.jp (150.99.64.29)  0.695 ms  0.665 ms  0.674 ms
+ 6  lax-GM-ET-2-1-0-100.s5.sinet.ad.jp (150.99.89.243)  99.312 ms  99.337 ms  99.326 ms
+ 7  abilene.lax.gw.sinet.ad.jp (150.99.199.94)  107.975 ms  108.088 ms  108.078 ms
+ 8  et-1-0-0.111.rtr.hous.net.internet2.edu (198.71.45.20)  140.581 ms  140.589 ms  140.578 ms
+ 9  74.200.187.33 (74.200.187.33)  145.894 ms  145.886 ms  145.868 ms
+10  vl-430-utd-ntg-gw1.dfw.tx-learn.net (208.76.227.222)  138.231 ms  138.241 ms  138.229 ms
+11   (129.110.125.52)  140.923 ms  140.877 ms  140.869 ms
+traceroute to planetlab2.utdallas.edu (129.110.125.52), 30 hops max, 60 byte packets
+ 1  133.9.81.190 (133.9.81.190)  0.818 ms  1.179 ms  1.598 ms
+ 2  cl2948gl3.goto.info.waseda.ac.jp (133.9.81.254)  0.648 ms  0.858 ms  1.101 ms
+ 3  133.9.77.62 (133.9.77.62)  0.441 ms  0.451 ms  0.440 ms
+ 4  tokyo1-RM-XE-9-0-11-20.s5.sinet.ad.jp (150.99.187.69)  0.661 ms  0.742 ms  0.730 ms
+ 5  tokyo1-GM-AE0-100.s5.sinet.ad.jp (150.99.64.29)  1.689 ms  0.679 ms  1.659 ms
+ 6  lax-GM-ET-2-1-0-100.s5.sinet.ad.jp (150.99.89.243)  99.296 ms  99.315 ms  99.306 ms
+ 7  abilene.lax.gw.sinet.ad.jp (150.99.199.94)  108.055 ms  107.975 ms  107.910 ms
+ 8  et-1-0-0.111.rtr.hous.net.internet2.edu (198.71.45.20)  140.823 ms  140.565 ms  140.551 ms
+ 9  74.200.187.33 (74.200.187.33)  146.037 ms  146.026 ms  146.013 ms
+10  vl-430-utd-ntg-gw1.dfw.tx-learn.net (208.76.227.222)  138.166 ms  138.513 ms  138.504 ms
+11   (129.110.125.52)  141.359 ms  141.349 ms  141.335 ms
+traceroute to planetlab2.utdallas.edu (129.110.125.52), 30 hops max, 60 byte packets
+ 1  133.9.81.190 (133.9.81.190)  0.740 ms  1.181 ms  1.595 ms
+ 2  cl2948gl3.goto.info.waseda.ac.jp (133.9.81.254)  0.650 ms  0.838 ms  1.112 ms
+ 3  133.9.77.62 (133.9.77.62)  0.421 ms  0.432 ms  0.419 ms
+ 4  tokyo1-RM-XE-9-0-11-20.s5.sinet.ad.jp (150.99.187.69)  2.028 ms  2.017 ms  2.004 ms
+ 5  tokyo1-GM-AE0-100.s5.sinet.ad.jp (150.99.64.29)  0.688 ms  0.664 ms  0.658 ms
+ 6  lax-GM-ET-2-1-0-100.s5.sinet.ad.jp (150.99.89.243)  99.295 ms  99.313 ms  99.306 ms
+ 7  abilene.lax.gw.sinet.ad.jp (150.99.199.94)  107.993 ms  107.960 ms  107.950 ms
+ 8  et-1-0-0.111.rtr.hous.net.internet2.edu (198.71.45.20)  140.598 ms  140.585 ms  140.574 ms
+ 9  74.200.187.33 (74.200.187.33)  145.714 ms  145.814 ms  145.805 ms
+10  vl-430-utd-ntg-gw1.dfw.tx-learn.net (208.76.227.222)  138.173 ms  138.161 ms  138.149 ms
+11   (129.110.125.52)  140.887 ms  140.869 ms  140.854 ms
+traceroute to planetlab2.utdallas.edu (129.110.125.52), 30 hops max, 60 byte packets
+ 1  133.9.81.190 (133.9.81.190)  0.737 ms  1.181 ms  1.600 ms
+ 2  cl2948gl3.goto.info.waseda.ac.jp (133.9.81.254)  0.647 ms  0.853 ms  1.114 ms
+ 3  133.9.77.62 (133.9.77.62)  0.412 ms  0.423 ms  0.408 ms
+ 4  tokyo1-RM-XE-9-0-11-20.s5.sinet.ad.jp (150.99.187.69)  0.740 ms  0.730 ms  0.717 ms
+ 5  tokyo1-GM-AE0-100.s5.sinet.ad.jp (150.99.64.29)  1.163 ms  0.678 ms  1.129 ms
+ 6  lax-GM-ET-2-1-0-100.s5.sinet.ad.jp (150.99.89.243)  99.320 ms  99.319 ms  99.310 ms
+ 7  abilene.lax.gw.sinet.ad.jp (150.99.199.94)  107.939 ms  107.917 ms  108.856 ms
+ 8  et-1-0-0.111.rtr.hous.net.internet2.edu (198.71.45.20)  140.633 ms  140.661 ms  140.648 ms
+ 9  74.200.187.33 (74.200.187.33)  145.894 ms  145.884 ms  145.872 ms
+10  vl-430-utd-ntg-gw1.dfw.tx-learn.net (208.76.227.222)  138.298 ms  138.537 ms  138.530 ms
+11   (129.110.125.52)  141.258 ms  141.254 ms  141.232 ms
+traceroute to planetlab2.utdallas.edu (129.110.125.52), 30 hops max, 60 byte packets
+ 1  133.9.81.190 (133.9.81.190)  0.721 ms  1.154 ms  1.590 ms
+ 2  cl2948gl3.goto.info.waseda.ac.jp (133.9.81.254)  0.651 ms  0.840 ms  1.075 ms
+ 3  133.9.77.62 (133.9.77.62)  0.418 ms  0.430 ms  0.419 ms
+ 4  tokyo1-RM-XE-9-0-11-20.s5.sinet.ad.jp (150.99.187.69)  0.732 ms  0.722 ms  0.708 ms
+ 5  tokyo1-GM-AE0-100.s5.sinet.ad.jp (150.99.64.29)  0.940 ms  0.677 ms  0.912 ms
+ 6  lax-GM-ET-2-1-0-100.s5.sinet.ad.jp (150.99.89.243)  99.300 ms  99.334 ms  99.314 ms
+ 7  abilene.lax.gw.sinet.ad.jp (150.99.199.94)  107.955 ms  108.053 ms  108.045 ms
+ 8  et-1-0-0.111.rtr.hous.net.internet2.edu (198.71.45.20)  140.415 ms  140.421 ms  140.408 ms
+ 9  74.200.187.33 (74.200.187.33)  145.822 ms  145.810 ms  145.797 ms
+10  vl-430-utd-ntg-gw1.dfw.tx-learn.net (208.76.227.222)  138.156 ms  138.169 ms  138.257 ms
+11   (129.110.125.52)  141.012 ms  141.003 ms  140.989 ms
+traceroute to planetlab2.utdallas.edu (129.110.125.52), 30 hops max, 60 byte packets
+ 1  133.9.81.190 (133.9.81.190)  0.745 ms  1.171 ms  1.553 ms
+ 2  cl2948gl3.goto.info.waseda.ac.jp (133.9.81.254)  0.652 ms  0.862 ms  1.105 ms
+ 3  133.9.77.62 (133.9.77.62)  0.411 ms  0.426 ms  0.415 ms
+ 4  tokyo1-RM-XE-9-0-11-20.s5.sinet.ad.jp (150.99.187.69)  0.742 ms  0.727 ms  0.717 ms
+ 5  tokyo1-GM-AE0-100.s5.sinet.ad.jp (150.99.64.29)  0.703 ms  0.677 ms  0.672 ms
+ 6  lax-GM-ET-2-1-0-100.s5.sinet.ad.jp (150.99.89.243)  99.317 ms  99.331 ms  99.323 ms
+ 7  abilene.lax.gw.sinet.ad.jp (150.99.199.94)  108.015 ms  107.931 ms  108.049 ms
+ 8  et-1-0-0.111.rtr.hous.net.internet2.edu (198.71.45.20)  170.606 ms  170.595 ms  170.582 ms
+ 9  74.200.187.33 (74.200.187.33)  175.412 ms  175.403 ms  175.391 ms
+10  vl-430-utd-ntg-gw1.dfw.tx-learn.net (208.76.227.222)  138.165 ms  138.155 ms  138.142 ms
+11   (129.110.125.52)  140.875 ms  140.894 ms  140.897 ms
+traceroute to planetlab2.utdallas.edu (129.110.125.52), 30 hops max, 60 byte packets
+ 1  133.9.81.190 (133.9.81.190)  0.717 ms  1.146 ms  1.523 ms
+ 2  cl2948gl3.goto.info.waseda.ac.jp (133.9.81.254)  0.647 ms  0.857 ms  1.078 ms
+ 3  133.9.77.62 (133.9.77.62)  0.408 ms  0.419 ms  0.407 ms
+ 4  tokyo1-RM-XE-9-0-11-20.s5.sinet.ad.jp (150.99.187.69)  0.759 ms  0.748 ms  0.734 ms
+ 5  tokyo1-GM-AE0-100.s5.sinet.ad.jp (150.99.64.29)  0.699 ms  0.671 ms  0.673 ms
+ 6  lax-GM-ET-2-1-0-100.s5.sinet.ad.jp (150.99.89.243)  99.296 ms  99.333 ms  99.321 ms
+ 7  abilene.lax.gw.sinet.ad.jp (150.99.199.94)  108.629 ms  108.093 ms  108.084 ms
+ 8  et-1-0-0.111.rtr.hous.net.internet2.edu (198.71.45.20)  140.425 ms  140.433 ms  140.422 ms
+ 9  74.200.187.33 (74.200.187.33)  146.109 ms  146.119 ms  146.108 ms
+10  vl-430-utd-ntg-gw1.dfw.tx-learn.net (208.76.227.222)  138.264 ms  138.276 ms  138.265 ms
+11   (129.110.125.52)  140.927 ms  140.913 ms  140.901 ms
+traceroute to planetlab2.utdallas.edu (129.110.125.52), 30 hops max, 60 byte packets
+ 1  133.9.81.190 (133.9.81.190)  0.563 ms  0.853 ms  1.091 ms
+ 2  cl2948gl3.goto.info.waseda.ac.jp (133.9.81.254)  2.585 ms  2.853 ms  3.073 ms
+ 3  133.9.77.62 (133.9.77.62)  0.415 ms  0.426 ms  0.414 ms
+ 4  tokyo1-RM-XE-9-0-11-20.s5.sinet.ad.jp (150.99.187.69)  0.721 ms  0.714 ms  0.697 ms
+ 5  tokyo1-GM-AE0-100.s5.sinet.ad.jp (150.99.64.29)  0.686 ms  0.652 ms  0.766 ms
+ 6  lax-GM-ET-2-1-0-100.s5.sinet.ad.jp (150.99.89.243)  102.856 ms  99.343 ms  99.332 ms
+ 7  abilene.lax.gw.sinet.ad.jp (150.99.199.94)  107.984 ms  107.974 ms  108.110 ms
+ 8  et-1-0-0.111.rtr.hous.net.internet2.edu (198.71.45.20)  140.417 ms  140.406 ms  140.482 ms
+ 9  74.200.187.33 (74.200.187.33)  145.884 ms  145.873 ms  145.860 ms
+10  vl-430-utd-ntg-gw1.dfw.tx-learn.net (208.76.227.222)  138.394 ms  138.385 ms  138.369 ms
+11   (129.110.125.52)  141.081 ms  141.071 ms  141.080 ms
+traceroute to planetlab2.utdallas.edu (129.110.125.52), 30 hops max, 60 byte packets
+ 1  133.9.81.190 (133.9.81.190)  0.734 ms  1.200 ms  1.580 ms
+ 2  cl2948gl3.goto.info.waseda.ac.jp (133.9.81.254)  0.643 ms  0.876 ms  1.120 ms
+ 3  133.9.77.62 (133.9.77.62)  0.416 ms  0.426 ms  0.415 ms
+ 4  tokyo1-RM-XE-9-0-11-20.s5.sinet.ad.jp (150.99.187.69)  1.223 ms  1.213 ms  1.198 ms
+ 5  tokyo1-GM-AE0-100.s5.sinet.ad.jp (150.99.64.29)  0.719 ms  0.827 ms  0.690 ms
+ 6  lax-GM-ET-2-1-0-100.s5.sinet.ad.jp (150.99.89.243)  99.345 ms  99.332 ms  99.322 ms
+ 7  abilene.lax.gw.sinet.ad.jp (150.99.199.94)  107.948 ms  107.841 ms  108.055 ms
+ 8  et-1-0-0.111.rtr.hous.net.internet2.edu (198.71.45.20)  140.443 ms  140.430 ms  140.417 ms
+ 9  74.200.187.33 (74.200.187.33)  145.992 ms  145.981 ms  145.969 ms
+10  vl-430-utd-ntg-gw1.dfw.tx-learn.net (208.76.227.222)  138.251 ms  138.242 ms  138.230 ms
+11   (129.110.125.52)  140.962 ms  140.998 ms  140.988 ms
+traceroute to planetlab2.utdallas.edu (129.110.125.52), 30 hops max, 60 byte packets
+ 1  133.9.81.190 (133.9.81.190)  0.723 ms  1.191 ms  1.585 ms
+ 2  cl2948gl3.goto.info.waseda.ac.jp (133.9.81.254)  0.656 ms  0.857 ms  1.126 ms
+ 3  133.9.77.62 (133.9.77.62)  3.816 ms  3.805 ms  3.792 ms
+ 4  tokyo1-RM-XE-9-0-11-20.s5.sinet.ad.jp (150.99.187.69)  0.735 ms  0.713 ms  0.701 ms
+ 5  tokyo1-GM-AE0-100.s5.sinet.ad.jp (150.99.64.29)  0.693 ms  0.670 ms  0.668 ms
+ 6  lax-GM-ET-2-1-0-100.s5.sinet.ad.jp (150.99.89.243)  99.296 ms  99.370 ms  99.360 ms
+ 7  abilene.lax.gw.sinet.ad.jp (150.99.199.94)  107.978 ms  107.960 ms  107.946 ms
+ 8  et-1-0-0.111.rtr.hous.net.internet2.edu (198.71.45.20)  140.847 ms  140.837 ms  140.824 ms
+ 9  74.200.187.33 (74.200.187.33)  145.834 ms  145.824 ms  145.811 ms
+10  vl-430-utd-ntg-gw1.dfw.tx-learn.net (208.76.227.222)  138.210 ms  138.324 ms  138.313 ms
+11   (129.110.125.52)  141.000 ms  140.993 ms  141.301 ms
+traceroute to planetlab2.utdallas.edu (129.110.125.52), 30 hops max, 60 byte packets
+ 1  133.9.81.190 (133.9.81.190)  0.578 ms  0.807 ms  1.034 ms
+ 2  cl2948gl3.goto.info.waseda.ac.jp (133.9.81.254)  0.658 ms  0.867 ms  1.109 ms
+ 3  133.9.77.62 (133.9.77.62)  0.419 ms  0.438 ms  0.426 ms
+ 4  tokyo1-RM-XE-9-0-11-20.s5.sinet.ad.jp (150.99.187.69)  5.879 ms  5.870 ms  5.856 ms
+ 5  tokyo1-GM-AE0-100.s5.sinet.ad.jp (150.99.64.29)  0.711 ms  0.687 ms  0.684 ms
+ 6  lax-GM-ET-2-1-0-100.s5.sinet.ad.jp (150.99.89.243)  99.321 ms  99.361 ms  99.350 ms
+ 7  abilene.lax.gw.sinet.ad.jp (150.99.199.94)  108.210 ms  108.221 ms  108.209 ms
+ 8  et-1-0-0.111.rtr.hous.net.internet2.edu (198.71.45.20)  140.488 ms  140.479 ms  140.467 ms
+ 9  74.200.187.33 (74.200.187.33)  145.737 ms  145.728 ms  145.716 ms
+10  vl-430-utd-ntg-gw1.dfw.tx-learn.net (208.76.227.222)  138.213 ms  138.204 ms  138.190 ms
+11   (129.110.125.52)  140.985 ms  140.956 ms  140.929 ms
+traceroute to planetlab2.utdallas.edu (129.110.125.52), 30 hops max, 60 byte packets
+ 1  133.9.81.190 (133.9.81.190)  0.564 ms  0.737 ms  1.026 ms
+ 2  cl2948gl3.goto.info.waseda.ac.jp (133.9.81.254)  0.685 ms  0.878 ms  1.163 ms
+ 3  133.9.77.62 (133.9.77.62)  0.408 ms  0.422 ms  0.416 ms
+ 4  tokyo1-RM-XE-9-0-11-20.s5.sinet.ad.jp (150.99.187.69)  2.063 ms  2.051 ms  2.037 ms
+ 5  tokyo1-GM-AE0-100.s5.sinet.ad.jp (150.99.64.29)  0.724 ms  0.699 ms  0.692 ms
+ 6  lax-GM-ET-2-1-0-100.s5.sinet.ad.jp (150.99.89.243)  99.216 ms  105.343 ms  105.330 ms
+ 7  abilene.lax.gw.sinet.ad.jp (150.99.199.94)  109.052 ms  109.042 ms  108.115 ms
+ 8  et-1-0-0.111.rtr.hous.net.internet2.edu (198.71.45.20)  140.537 ms  140.549 ms  140.533 ms
+ 9  74.200.187.33 (74.200.187.33)  146.019 ms  146.008 ms  145.996 ms
+10  vl-430-utd-ntg-gw1.dfw.tx-learn.net (208.76.227.222)  138.172 ms  138.184 ms  138.288 ms
+11   (129.110.125.52)  140.990 ms  140.982 ms  140.893 ms
+traceroute to planetlab2.utdallas.edu (129.110.125.52), 30 hops max, 60 byte packets
+ 1  133.9.81.190 (133.9.81.190)  0.746 ms  1.163 ms  1.502 ms
+ 2  cl2948gl3.goto.info.waseda.ac.jp (133.9.81.254)  0.716 ms  0.951 ms  1.096 ms
+ 3  133.9.77.62 (133.9.77.62)  0.414 ms  0.406 ms  0.394 ms
+ 4  tokyo1-RM-XE-9-0-11-20.s5.sinet.ad.jp (150.99.187.69)  0.718 ms  0.706 ms  0.694 ms
+ 5  tokyo1-GM-AE0-100.s5.sinet.ad.jp (150.99.64.29)  0.687 ms  0.638 ms  0.633 ms
+ 6  lax-GM-ET-2-1-0-100.s5.sinet.ad.jp (150.99.89.243)  99.295 ms  99.340 ms  99.333 ms
+ 7  abilene.lax.gw.sinet.ad.jp (150.99.199.94)  107.931 ms  108.060 ms  107.935 ms
+ 8  et-1-0-0.111.rtr.hous.net.internet2.edu (198.71.45.20)  140.446 ms  140.457 ms  140.445 ms
+ 9  74.200.187.33 (74.200.187.33)  145.970 ms  145.958 ms  145.935 ms
+10  vl-430-utd-ntg-gw1.dfw.tx-learn.net (208.76.227.222)  138.244 ms  138.258 ms  138.247 ms
+11   (129.110.125.52)  140.949 ms  140.936 ms  140.928 ms
+traceroute to planetlab2.utdallas.edu (129.110.125.52), 30 hops max, 60 byte packets
+ 1  133.9.81.190 (133.9.81.190)  2.261 ms  2.689 ms  3.094 ms
+ 2  cl2948gl3.goto.info.waseda.ac.jp (133.9.81.254)  0.649 ms  0.866 ms  1.091 ms
+ 3  133.9.77.62 (133.9.77.62)  0.408 ms  0.419 ms  0.408 ms
+ 4  tokyo1-RM-XE-9-0-11-20.s5.sinet.ad.jp (150.99.187.69)  0.764 ms  0.760 ms  0.752 ms
+ 5  tokyo1-GM-AE0-100.s5.sinet.ad.jp (150.99.64.29)  0.715 ms  0.684 ms  0.694 ms
+ 6  lax-GM-ET-2-1-0-100.s5.sinet.ad.jp (150.99.89.243)  99.305 ms  99.338 ms  99.327 ms
+ 7  abilene.lax.gw.sinet.ad.jp (150.99.199.94)  107.963 ms  107.862 ms  107.927 ms
+ 8  et-1-0-0.111.rtr.hous.net.internet2.edu (198.71.45.20)  140.418 ms  140.658 ms  140.650 ms
+ 9  74.200.187.33 (74.200.187.33)  145.877 ms  145.867 ms  145.856 ms
+10  vl-430-utd-ntg-gw1.dfw.tx-learn.net (208.76.227.222)  138.244 ms  138.213 ms  138.283 ms
+11   (129.110.125.52)  140.982 ms  140.974 ms  140.964 ms
+traceroute to planetlab2.utdallas.edu (129.110.125.52), 30 hops max, 60 byte packets
+ 1  133.9.81.190 (133.9.81.190)  0.732 ms  1.199 ms  1.573 ms
+ 2  cl2948gl3.goto.info.waseda.ac.jp (133.9.81.254)  0.646 ms  0.861 ms  1.132 ms
+ 3  133.9.77.62 (133.9.77.62)  0.404 ms  0.415 ms  0.403 ms
+ 4  tokyo1-RM-XE-9-0-11-20.s5.sinet.ad.jp (150.99.187.69)  0.745 ms  0.741 ms  0.727 ms
+ 5  tokyo1-GM-AE0-100.s5.sinet.ad.jp (150.99.64.29)  0.697 ms  0.666 ms  0.665 ms
+ 6  lax-GM-ET-2-1-0-100.s5.sinet.ad.jp (150.99.89.243)  99.304 ms  99.324 ms  99.309 ms
+ 7  abilene.lax.gw.sinet.ad.jp (150.99.199.94)  107.953 ms  107.947 ms  107.935 ms
+ 8  et-1-0-0.111.rtr.hous.net.internet2.edu (198.71.45.20)  140.520 ms  140.527 ms  140.510 ms
+ 9  74.200.187.33 (74.200.187.33)  145.771 ms  145.778 ms  145.914 ms
+10  vl-430-utd-ntg-gw1.dfw.tx-learn.net (208.76.227.222)  138.331 ms  138.341 ms  138.330 ms
+11   (129.110.125.52)  141.029 ms  141.016 ms  141.004 ms
+traceroute to planetlab2.utdallas.edu (129.110.125.52), 30 hops max, 60 byte packets
+ 1  133.9.81.190 (133.9.81.190)  0.723 ms  1.166 ms  1.577 ms
+ 2  cl2948gl3.goto.info.waseda.ac.jp (133.9.81.254)  0.655 ms  0.865 ms  1.101 ms
+ 3  133.9.77.62 (133.9.77.62)  0.404 ms  0.415 ms  0.404 ms
+ 4  tokyo1-RM-XE-9-0-11-20.s5.sinet.ad.jp (150.99.187.69)  0.729 ms  0.720 ms  0.703 ms
+ 5  tokyo1-GM-AE0-100.s5.sinet.ad.jp (150.99.64.29)  0.698 ms  0.671 ms  0.666 ms
+ 6  lax-GM-ET-2-1-0-100.s5.sinet.ad.jp (150.99.89.243)  99.236 ms  99.324 ms  99.315 ms
+ 7  abilene.lax.gw.sinet.ad.jp (150.99.199.94)  107.945 ms  108.476 ms  108.467 ms
+ 8  et-1-0-0.111.rtr.hous.net.internet2.edu (198.71.45.20)  140.455 ms  140.580 ms  140.569 ms
+ 9  74.200.187.33 (74.200.187.33)  146.421 ms  146.412 ms  146.398 ms
+10  vl-430-utd-ntg-gw1.dfw.tx-learn.net (208.76.227.222)  138.298 ms  138.290 ms  138.278 ms
+11   (129.110.125.52)  140.983 ms  140.912 ms  140.901 ms
+traceroute to planetlab2.utdallas.edu (129.110.125.52), 30 hops max, 60 byte packets
+ 1  133.9.81.190 (133.9.81.190)  0.726 ms  1.202 ms  1.569 ms
+ 2  cl2948gl3.goto.info.waseda.ac.jp (133.9.81.254)  0.661 ms  0.858 ms  1.135 ms
+ 3  133.9.77.62 (133.9.77.62)  0.425 ms  0.416 ms  0.403 ms
+ 4  tokyo1-RM-XE-9-0-11-20.s5.sinet.ad.jp (150.99.187.69)  0.746 ms  0.737 ms  0.723 ms
+ 5  tokyo1-GM-AE0-100.s5.sinet.ad.jp (150.99.64.29)  0.687 ms  0.664 ms  0.660 ms
+ 6  lax-GM-ET-2-1-0-100.s5.sinet.ad.jp (150.99.89.243)  99.326 ms  99.314 ms  99.304 ms
+ 7  abilene.lax.gw.sinet.ad.jp (150.99.199.94)  108.750 ms  108.564 ms  108.552 ms
+ 8  et-1-0-0.111.rtr.hous.net.internet2.edu (198.71.45.20)  140.449 ms  140.455 ms  140.444 ms
+ 9  74.200.187.33 (74.200.187.33)  145.772 ms  146.407 ms  146.398 ms
+10  vl-430-utd-ntg-gw1.dfw.tx-learn.net (208.76.227.222)  138.259 ms  138.270 ms  138.256 ms
+11   (129.110.125.52)  140.958 ms  140.949 ms  140.934 ms
+traceroute to planetlab2.utdallas.edu (129.110.125.52), 30 hops max, 60 byte packets
+ 1  133.9.81.190 (133.9.81.190)  0.550 ms  0.833 ms  1.058 ms
+ 2  cl2948gl3.goto.info.waseda.ac.jp (133.9.81.254)  0.640 ms  0.803 ms  1.012 ms
+ 3  133.9.77.62 (133.9.77.62)  0.418 ms  0.410 ms  0.398 ms
+ 4  tokyo1-RM-XE-9-0-11-20.s5.sinet.ad.jp (150.99.187.69)  0.696 ms  0.672 ms  0.663 ms
+ 5  tokyo1-GM-AE0-100.s5.sinet.ad.jp (150.99.64.29)  11.638 ms  0.623 ms  11.610 ms
+ 6  lax-GM-ET-2-1-0-100.s5.sinet.ad.jp (150.99.89.243)  99.309 ms  99.327 ms  99.315 ms
+ 7  abilene.lax.gw.sinet.ad.jp (150.99.199.94)  107.970 ms  107.960 ms  108.040 ms
+ 8  et-1-0-0.111.rtr.hous.net.internet2.edu (198.71.45.20)  140.747 ms  140.734 ms  140.721 ms
+ 9  74.200.187.33 (74.200.187.33)  145.738 ms  145.844 ms  145.832 ms
+10  vl-430-utd-ntg-gw1.dfw.tx-learn.net (208.76.227.222)  138.368 ms  138.359 ms  138.337 ms
+11   (129.110.125.52)  140.936 ms  140.928 ms  140.906 ms
+traceroute to planetlab2.utdallas.edu (129.110.125.52), 30 hops max, 60 byte packets
+ 1  133.9.81.190 (133.9.81.190)  0.739 ms  1.180 ms  1.578 ms
+ 2  cl2948gl3.goto.info.waseda.ac.jp (133.9.81.254)  0.652 ms  0.894 ms  1.107 ms
+ 3  133.9.77.62 (133.9.77.62)  0.408 ms  0.419 ms  0.407 ms
+ 4  tokyo1-RM-XE-9-0-11-20.s5.sinet.ad.jp (150.99.187.69)  0.760 ms  0.759 ms  0.742 ms
+ 5  tokyo1-GM-AE0-100.s5.sinet.ad.jp (150.99.64.29)  0.716 ms  0.693 ms  0.695 ms
+ 6  lax-GM-ET-2-1-0-100.s5.sinet.ad.jp (150.99.89.243)  123.433 ms  123.128 ms  123.113 ms
+ 7  abilene.lax.gw.sinet.ad.jp (150.99.199.94)  108.071 ms  107.964 ms  108.124 ms
+ 8  et-1-0-0.111.rtr.hous.net.internet2.edu (198.71.45.20)  140.852 ms  140.841 ms  140.830 ms
+ 9  74.200.187.33 (74.200.187.33)  146.049 ms  146.040 ms  146.029 ms
+10  vl-430-utd-ntg-gw1.dfw.tx-learn.net (208.76.227.222)  138.185 ms  138.180 ms  138.169 ms
+11   (129.110.125.52)  140.905 ms  140.905 ms  140.898 ms
+traceroute to planetlab2.utdallas.edu (129.110.125.52), 30 hops max, 60 byte packets
+ 1  133.9.81.190 (133.9.81.190)  0.745 ms  1.170 ms  1.547 ms
+ 2  cl2948gl3.goto.info.waseda.ac.jp (133.9.81.254)  0.657 ms  0.852 ms  1.105 ms
+ 3  133.9.77.62 (133.9.77.62)  5.003 ms  4.992 ms  4.979 ms
+ 4  tokyo1-RM-XE-9-0-11-20.s5.sinet.ad.jp (150.99.187.69)  2.967 ms  2.957 ms  2.943 ms
+ 5  tokyo1-GM-AE0-100.s5.sinet.ad.jp (150.99.64.29)  2.419 ms  0.677 ms  2.388 ms
+ 6  lax-GM-ET-2-1-0-100.s5.sinet.ad.jp (150.99.89.243)  99.294 ms  99.352 ms  99.339 ms
+ 7  abilene.lax.gw.sinet.ad.jp (150.99.199.94)  130.099 ms  130.114 ms  130.103 ms
+ 8  et-1-0-0.111.rtr.hous.net.internet2.edu (198.71.45.20)  162.144 ms  162.137 ms  162.124 ms
+ 9  74.200.187.33 (74.200.187.33)  168.345 ms  168.338 ms  168.324 ms
+10  vl-430-utd-ntg-gw1.dfw.tx-learn.net (208.76.227.222)  138.245 ms  138.236 ms  138.223 ms
+11   (129.110.125.52)  140.883 ms  140.864 ms  140.824 ms
+traceroute to planetlab2.utdallas.edu (129.110.125.52), 30 hops max, 60 byte packets
+ 1  133.9.81.190 (133.9.81.190)  0.757 ms  1.146 ms  1.531 ms
+ 2  cl2948gl3.goto.info.waseda.ac.jp (133.9.81.254)  0.657 ms  0.834 ms  1.069 ms
+ 3  133.9.77.62 (133.9.77.62)  0.401 ms  0.393 ms  0.382 ms
+ 4  tokyo1-RM-XE-9-0-11-20.s5.sinet.ad.jp (150.99.187.69)  0.713 ms  0.702 ms  0.689 ms
+ 5  tokyo1-GM-AE0-100.s5.sinet.ad.jp (150.99.64.29)  0.681 ms  0.656 ms  0.647 ms
+ 6  lax-GM-ET-2-1-0-100.s5.sinet.ad.jp (150.99.89.243)  99.328 ms  99.321 ms  99.310 ms
+ 7  abilene.lax.gw.sinet.ad.jp (150.99.199.94)  107.922 ms  107.913 ms  108.149 ms
+ 8  et-1-0-0.111.rtr.hous.net.internet2.edu (198.71.45.20)  140.577 ms  140.564 ms  140.550 ms
+ 9  74.200.187.33 (74.200.187.33)  145.847 ms  145.836 ms  145.824 ms
+10  vl-430-utd-ntg-gw1.dfw.tx-learn.net (208.76.227.222)  138.214 ms  138.205 ms  138.192 ms
+11   (129.110.125.52)  140.896 ms  140.941 ms  140.911 ms
+traceroute to planetlab2.utdallas.edu (129.110.125.52), 30 hops max, 60 byte packets
+ 1  133.9.81.190 (133.9.81.190)  0.734 ms  1.164 ms  1.598 ms
+ 2  cl2948gl3.goto.info.waseda.ac.jp (133.9.81.254)  0.644 ms  0.853 ms  1.082 ms
+ 3  133.9.77.62 (133.9.77.62)  0.450 ms  0.461 ms  0.448 ms
+ 4  tokyo1-RM-XE-9-0-11-20.s5.sinet.ad.jp (150.99.187.69)  1.890 ms  1.878 ms  1.865 ms
+ 5  tokyo1-GM-AE0-100.s5.sinet.ad.jp (150.99.64.29)  0.704 ms  0.679 ms  0.678 ms
+ 6  lax-GM-ET-2-1-0-100.s5.sinet.ad.jp (150.99.89.243)  99.302 ms  99.336 ms  99.324 ms
+ 7  abilene.lax.gw.sinet.ad.jp (150.99.199.94)  108.002 ms  107.931 ms  107.933 ms
+ 8  et-1-0-0.111.rtr.hous.net.internet2.edu (198.71.45.20)  140.593 ms  140.583 ms  140.569 ms
+ 9  74.200.187.33 (74.200.187.33)  145.949 ms  145.940 ms  145.927 ms
+10  vl-430-utd-ntg-gw1.dfw.tx-learn.net (208.76.227.222)  138.347 ms  138.339 ms  138.326 ms
+11   (129.110.125.52)  141.229 ms  141.202 ms  141.200 ms
+traceroute to planetlab2.utdallas.edu (129.110.125.52), 30 hops max, 60 byte packets
+ 1  133.9.81.190 (133.9.81.190)  0.718 ms  1.173 ms  1.576 ms
+ 2  cl2948gl3.goto.info.waseda.ac.jp (133.9.81.254)  0.651 ms  0.867 ms  1.092 ms
+ 3  133.9.77.62 (133.9.77.62)  0.405 ms  0.413 ms  0.401 ms
+ 4  tokyo1-RM-XE-9-0-11-20.s5.sinet.ad.jp (150.99.187.69)  0.756 ms  0.743 ms  0.739 ms
+ 5  tokyo1-GM-AE0-100.s5.sinet.ad.jp (150.99.64.29)  0.698 ms  0.671 ms  0.676 ms
+ 6  lax-GM-ET-2-1-0-100.s5.sinet.ad.jp (150.99.89.243)  99.306 ms  99.325 ms  99.305 ms
+ 7  abilene.lax.gw.sinet.ad.jp (150.99.199.94)  107.933 ms  107.979 ms  107.968 ms
+ 8  et-1-0-0.111.rtr.hous.net.internet2.edu (198.71.45.20)  140.369 ms  140.358 ms  140.346 ms
+ 9  74.200.187.33 (74.200.187.33)  148.591 ms  148.580 ms  148.567 ms
+10  vl-430-utd-ntg-gw1.dfw.tx-learn.net (208.76.227.222)  138.222 ms  138.215 ms  138.204 ms
+11   (129.110.125.52)  140.923 ms  140.902 ms  140.891 ms
+traceroute to planetlab2.utdallas.edu (129.110.125.52), 30 hops max, 60 byte packets
+ 1  133.9.81.190 (133.9.81.190)  0.697 ms  1.155 ms  1.568 ms
+ 2  cl2948gl3.goto.info.waseda.ac.jp (133.9.81.254)  0.630 ms  0.849 ms  1.077 ms
+ 3  133.9.77.62 (133.9.77.62)  0.411 ms  0.429 ms  0.417 ms
+ 4  tokyo1-RM-XE-9-0-11-20.s5.sinet.ad.jp (150.99.187.69)  0.767 ms  0.759 ms  0.744 ms
+ 5  tokyo1-GM-AE0-100.s5.sinet.ad.jp (150.99.64.29)  0.709 ms  0.678 ms  0.682 ms
+ 6  lax-GM-ET-2-1-0-100.s5.sinet.ad.jp (150.99.89.243)  99.314 ms  99.323 ms  99.299 ms
+ 7  abilene.lax.gw.sinet.ad.jp (150.99.199.94)  108.000 ms  107.943 ms  107.931 ms
+ 8  et-1-0-0.111.rtr.hous.net.internet2.edu (198.71.45.20)  140.347 ms  140.430 ms  140.421 ms
+ 9  74.200.187.33 (74.200.187.33)  146.184 ms  146.175 ms  146.162 ms
+10  vl-430-utd-ntg-gw1.dfw.tx-learn.net (208.76.227.222)  138.188 ms  138.201 ms  138.190 ms
+11   (129.110.125.52)  140.860 ms  140.836 ms  140.830 ms
+traceroute to planetlab2.utdallas.edu (129.110.125.52), 30 hops max, 60 byte packets
+ 1  133.9.81.190 (133.9.81.190)  0.719 ms  1.192 ms  1.573 ms
+ 2  cl2948gl3.goto.info.waseda.ac.jp (133.9.81.254)  0.643 ms  0.873 ms  1.125 ms
+ 3  133.9.77.62 (133.9.77.62)  0.407 ms  0.420 ms  0.408 ms
+ 4  tokyo1-RM-XE-9-0-11-20.s5.sinet.ad.jp (150.99.187.69)  0.748 ms  0.739 ms  0.733 ms
+ 5  tokyo1-GM-AE0-100.s5.sinet.ad.jp (150.99.64.29)  0.711 ms  0.690 ms  0.685 ms
+ 6  lax-GM-ET-2-1-0-100.s5.sinet.ad.jp (150.99.89.243)  99.291 ms  99.330 ms  99.320 ms
+ 7  abilene.lax.gw.sinet.ad.jp (150.99.199.94)  108.709 ms  107.959 ms  107.950 ms
+ 8  et-1-0-0.111.rtr.hous.net.internet2.edu (198.71.45.20)  140.662 ms  140.670 ms  140.658 ms
+ 9  74.200.187.33 (74.200.187.33)  145.906 ms  145.896 ms  145.883 ms
+10  vl-430-utd-ntg-gw1.dfw.tx-learn.net (208.76.227.222)  138.210 ms  138.219 ms  138.208 ms
+11   (129.110.125.52)  140.866 ms  140.845 ms  140.942 ms
+traceroute to planetlab2.utdallas.edu (129.110.125.52), 30 hops max, 60 byte packets
+ 1  133.9.81.190 (133.9.81.190)  2.804 ms  3.255 ms  3.640 ms
+ 2  cl2948gl3.goto.info.waseda.ac.jp (133.9.81.254)  0.644 ms  0.887 ms  1.122 ms
+ 3  133.9.77.62 (133.9.77.62)  0.408 ms  0.417 ms  0.405 ms
+ 4  tokyo1-RM-XE-9-0-11-20.s5.sinet.ad.jp (150.99.187.69)  0.769 ms  0.757 ms  0.748 ms
+ 5  tokyo1-GM-AE0-100.s5.sinet.ad.jp (150.99.64.29)  0.708 ms  0.721 ms  0.690 ms
+ 6  lax-GM-ET-2-1-0-100.s5.sinet.ad.jp (150.99.89.243)  99.295 ms  99.325 ms  99.315 ms
+ 7  abilene.lax.gw.sinet.ad.jp (150.99.199.94)  107.930 ms  107.946 ms  107.927 ms
+ 8  et-1-0-0.111.rtr.hous.net.internet2.edu (198.71.45.20)  140.473 ms  140.464 ms  140.452 ms
+ 9  74.200.187.33 (74.200.187.33)  145.620 ms  145.744 ms  145.733 ms
+10  vl-430-utd-ntg-gw1.dfw.tx-learn.net (208.76.227.222)  138.174 ms  138.159 ms  138.214 ms
+11   (129.110.125.52)  140.908 ms  140.958 ms  140.944 ms
+traceroute to planetlab2.utdallas.edu (129.110.125.52), 30 hops max, 60 byte packets
+ 1  133.9.81.190 (133.9.81.190)  0.743 ms  1.156 ms  1.586 ms
+ 2  cl2948gl3.goto.info.waseda.ac.jp (133.9.81.254)  0.654 ms  0.881 ms  1.092 ms
+ 3  133.9.77.62 (133.9.77.62)  0.411 ms  0.424 ms  0.412 ms
+ 4  tokyo1-RM-XE-9-0-11-20.s5.sinet.ad.jp (150.99.187.69)  0.760 ms  0.759 ms  0.743 ms
+ 5  tokyo1-GM-AE0-100.s5.sinet.ad.jp (150.99.64.29)  0.711 ms  7.070 ms  0.678 ms
+ 6  lax-GM-ET-2-1-0-100.s5.sinet.ad.jp (150.99.89.243)  99.341 ms  99.336 ms  99.324 ms
+ 7  abilene.lax.gw.sinet.ad.jp (150.99.199.94)  107.952 ms  107.922 ms  107.907 ms
+ 8  et-1-0-0.111.rtr.hous.net.internet2.edu (198.71.45.20)  140.471 ms  140.461 ms  140.450 ms
+ 9  74.200.187.33 (74.200.187.33)  159.177 ms  159.169 ms  159.157 ms
+10  vl-430-utd-ntg-gw1.dfw.tx-learn.net (208.76.227.222)  138.277 ms  138.268 ms  138.343 ms
+11   (129.110.125.52)  141.041 ms  141.039 ms  141.014 ms
+traceroute to planetlab2.utdallas.edu (129.110.125.52), 30 hops max, 60 byte packets
+ 1  133.9.81.190 (133.9.81.190)  0.592 ms  0.871 ms  1.084 ms
+ 2  cl2948gl3.goto.info.waseda.ac.jp (133.9.81.254)  0.568 ms  0.900 ms  1.039 ms
+ 3  133.9.77.62 (133.9.77.62)  4.352 ms  4.344 ms  4.331 ms
+ 4  tokyo1-RM-XE-9-0-11-20.s5.sinet.ad.jp (150.99.187.69)  0.733 ms  0.730 ms  0.717 ms
+ 5  tokyo1-GM-AE0-100.s5.sinet.ad.jp (150.99.64.29)  0.684 ms  0.671 ms  0.664 ms
+ 6  lax-GM-ET-2-1-0-100.s5.sinet.ad.jp (150.99.89.243)  99.293 ms  99.342 ms  99.327 ms
+ 7  abilene.lax.gw.sinet.ad.jp (150.99.199.94)  107.997 ms  108.012 ms  108.000 ms
+ 8  et-1-0-0.111.rtr.hous.net.internet2.edu (198.71.45.20)  140.661 ms  140.646 ms  140.632 ms
+ 9  74.200.187.33 (74.200.187.33)  146.020 ms  146.011 ms  145.998 ms
+10  vl-430-utd-ntg-gw1.dfw.tx-learn.net (208.76.227.222)  138.318 ms  138.309 ms  138.298 ms
+11   (129.110.125.52)  141.031 ms  141.005 ms  140.980 ms
+traceroute to planetlab2.utdallas.edu (129.110.125.52), 30 hops max, 60 byte packets
+ 1  133.9.81.190 (133.9.81.190)  2.953 ms  3.373 ms  3.753 ms
+ 2  cl2948gl3.goto.info.waseda.ac.jp (133.9.81.254)  0.647 ms  0.847 ms  1.122 ms
+ 3  133.9.77.62 (133.9.77.62)  0.408 ms  0.419 ms  0.407 ms
+ 4  tokyo1-RM-XE-9-0-11-20.s5.sinet.ad.jp (150.99.187.69)  0.729 ms  0.721 ms  0.714 ms
+ 5  tokyo1-GM-AE0-100.s5.sinet.ad.jp (150.99.64.29)  7.824 ms  0.670 ms  7.796 ms
+ 6  lax-GM-ET-2-1-0-100.s5.sinet.ad.jp (150.99.89.243)  99.310 ms  99.322 ms  99.313 ms
+ 7  abilene.lax.gw.sinet.ad.jp (150.99.199.94)  107.959 ms  107.869 ms  107.988 ms
+ 8  et-1-0-0.111.rtr.hous.net.internet2.edu (198.71.45.20)  140.764 ms  140.743 ms  140.732 ms
+ 9  74.200.187.33 (74.200.187.33)  145.790 ms  145.960 ms  145.695 ms
+10  vl-430-utd-ntg-gw1.dfw.tx-learn.net (208.76.227.222)  138.213 ms  138.222 ms  138.211 ms
+11   (129.110.125.52)  140.897 ms  140.862 ms  140.849 ms
+traceroute to planetlab2.utdallas.edu (129.110.125.52), 30 hops max, 60 byte packets
+ 1  133.9.81.190 (133.9.81.190)  0.719 ms  1.170 ms  1.592 ms
+ 2  cl2948gl3.goto.info.waseda.ac.jp (133.9.81.254)  0.650 ms  0.856 ms  1.103 ms
+ 3  133.9.77.62 (133.9.77.62)  0.334 ms  0.431 ms  0.442 ms
+ 4  tokyo1-RM-XE-9-0-11-20.s5.sinet.ad.jp (150.99.187.69)  0.749 ms  0.740 ms  0.730 ms
+ 5  tokyo1-GM-AE0-100.s5.sinet.ad.jp (150.99.64.29)  0.690 ms  0.666 ms  0.664 ms
+ 6  lax-GM-ET-2-1-0-100.s5.sinet.ad.jp (150.99.89.243)  99.537 ms  99.338 ms  99.215 ms
+ 7  abilene.lax.gw.sinet.ad.jp (150.99.199.94)  107.955 ms  108.007 ms  107.996 ms
+ 8  et-1-0-0.111.rtr.hous.net.internet2.edu (198.71.45.20)  140.581 ms  140.584 ms  140.573 ms
+ 9  74.200.187.33 (74.200.187.33)  145.756 ms  145.764 ms  145.751 ms
+10  vl-430-utd-ntg-gw1.dfw.tx-learn.net (208.76.227.222)  138.204 ms  138.217 ms  138.207 ms
+11   (129.110.125.52)  140.853 ms  140.834 ms  140.820 ms
+traceroute to planetlab2.utdallas.edu (129.110.125.52), 30 hops max, 60 byte packets
+ 1  133.9.81.190 (133.9.81.190)  0.735 ms  1.206 ms  1.624 ms
+ 2  cl2948gl3.goto.info.waseda.ac.jp (133.9.81.254)  0.648 ms  0.889 ms  1.126 ms
+ 3  133.9.77.62 (133.9.77.62)  0.431 ms  0.440 ms  0.428 ms
+ 4  tokyo1-RM-XE-9-0-11-20.s5.sinet.ad.jp (150.99.187.69)  0.762 ms  0.750 ms  0.745 ms
+ 5  tokyo1-GM-AE0-100.s5.sinet.ad.jp (150.99.64.29)  0.719 ms  0.685 ms  0.688 ms
+ 6  lax-GM-ET-2-1-0-100.s5.sinet.ad.jp (150.99.89.243)  99.319 ms  99.324 ms  99.313 ms
+ 7  abilene.lax.gw.sinet.ad.jp (150.99.199.94)  107.909 ms  108.079 ms  107.945 ms
+ 8  et-1-0-0.111.rtr.hous.net.internet2.edu (198.71.45.20)  140.465 ms  140.471 ms  140.462 ms
+ 9  74.200.187.33 (74.200.187.33)  145.961 ms  145.951 ms  145.938 ms
+10  vl-430-utd-ntg-gw1.dfw.tx-learn.net (208.76.227.222)  138.400 ms  138.412 ms  138.397 ms
+11   (129.110.125.52)  141.035 ms  141.006 ms  140.995 ms
+traceroute to planetlab2.utdallas.edu (129.110.125.52), 30 hops max, 60 byte packets
+ 1  133.9.81.190 (133.9.81.190)  0.550 ms  0.854 ms  1.087 ms
+ 2  cl2948gl3.goto.info.waseda.ac.jp (133.9.81.254)  0.625 ms  0.820 ms  1.039 ms
+ 3  133.9.77.62 (133.9.77.62)  0.405 ms  0.415 ms  0.405 ms
+ 4  tokyo1-RM-XE-9-0-11-20.s5.sinet.ad.jp (150.99.187.69)  3.736 ms  3.724 ms  3.711 ms
+ 5  tokyo1-GM-AE0-100.s5.sinet.ad.jp (150.99.64.29)  0.660 ms  0.647 ms  0.633 ms
+ 6  lax-GM-ET-2-1-0-100.s5.sinet.ad.jp (150.99.89.243)  99.301 ms  107.087 ms  107.075 ms
+ 7  abilene.lax.gw.sinet.ad.jp (150.99.199.94)  108.269 ms  108.258 ms  108.263 ms
+ 8  et-1-0-0.111.rtr.hous.net.internet2.edu (198.71.45.20)  140.441 ms  140.453 ms  140.586 ms
+ 9  74.200.187.33 (74.200.187.33)  145.688 ms  145.679 ms  145.783 ms
+10  vl-430-utd-ntg-gw1.dfw.tx-learn.net (208.76.227.222)  138.271 ms  138.286 ms  138.275 ms
+11   (129.110.125.52)  141.124 ms  141.110 ms  140.952 ms
+traceroute to planetlab2.utdallas.edu (129.110.125.52), 30 hops max, 60 byte packets
+ 1  133.9.81.190 (133.9.81.190)  0.701 ms  1.130 ms  1.552 ms
+ 2  cl2948gl3.goto.info.waseda.ac.jp (133.9.81.254)  0.634 ms  0.831 ms  1.064 ms
+ 3  133.9.77.62 (133.9.77.62)  0.408 ms  0.399 ms  0.387 ms
+ 4  tokyo1-RM-XE-9-0-11-20.s5.sinet.ad.jp (150.99.187.69)  0.711 ms  0.702 ms  0.688 ms
+ 5  tokyo1-GM-AE0-100.s5.sinet.ad.jp (150.99.64.29)  0.679 ms  0.654 ms  0.646 ms
+ 6  lax-GM-ET-2-1-0-100.s5.sinet.ad.jp (150.99.89.243)  99.270 ms  99.325 ms  99.312 ms
+ 7  abilene.lax.gw.sinet.ad.jp (150.99.199.94)  108.078 ms  107.950 ms  107.939 ms
+ 8  et-1-0-0.111.rtr.hous.net.internet2.edu (198.71.45.20)  140.428 ms  140.435 ms  140.423 ms
+ 9  74.200.187.33 (74.200.187.33)  145.781 ms  145.770 ms  145.944 ms
+10  vl-430-utd-ntg-gw1.dfw.tx-learn.net (208.76.227.222)  138.250 ms  138.262 ms  138.247 ms
+11   (129.110.125.52)  140.893 ms  140.873 ms  140.860 ms
+traceroute to planetlab2.utdallas.edu (129.110.125.52), 30 hops max, 60 byte packets
+ 1  133.9.81.190 (133.9.81.190)  0.723 ms  1.154 ms  1.550 ms
+ 2  cl2948gl3.goto.info.waseda.ac.jp (133.9.81.254)  0.657 ms  0.887 ms  1.092 ms
+ 3  133.9.77.62 (133.9.77.62)  0.413 ms  0.425 ms  0.413 ms
+ 4  tokyo1-RM-XE-9-0-11-20.s5.sinet.ad.jp (150.99.187.69)  0.771 ms  0.756 ms  0.743 ms
+ 5  tokyo1-GM-AE0-100.s5.sinet.ad.jp (150.99.64.29)  0.712 ms  0.690 ms  0.690 ms
+ 6  lax-GM-ET-2-1-0-100.s5.sinet.ad.jp (150.99.89.243)  99.316 ms  99.327 ms  99.317 ms
+ 7  abilene.lax.gw.sinet.ad.jp (150.99.199.94)  108.122 ms  107.996 ms  107.984 ms
+ 8  et-1-0-0.111.rtr.hous.net.internet2.edu (198.71.45.20)  140.555 ms  140.536 ms  140.519 ms
+ 9  74.200.187.33 (74.200.187.33)  145.864 ms  145.974 ms  145.965 ms
+10  vl-430-utd-ntg-gw1.dfw.tx-learn.net (208.76.227.222)  138.296 ms  138.313 ms  138.301 ms
+11   (129.110.125.52)  141.018 ms  140.871 ms  140.859 ms
+traceroute to planetlab2.utdallas.edu (129.110.125.52), 30 hops max, 60 byte packets
+ 1  133.9.81.190 (133.9.81.190)  0.570 ms  0.847 ms  1.078 ms
+ 2  cl2948gl3.goto.info.waseda.ac.jp (133.9.81.254)  0.656 ms  0.829 ms  1.132 ms
+ 3  133.9.77.62 (133.9.77.62)  0.438 ms  0.438 ms  0.426 ms
+ 4  tokyo1-RM-XE-9-0-11-20.s5.sinet.ad.jp (150.99.187.69)  0.709 ms  0.696 ms  0.687 ms
+ 5  tokyo1-GM-AE0-100.s5.sinet.ad.jp (150.99.64.29)  0.670 ms  0.642 ms  0.639 ms
+ 6  lax-GM-ET-2-1-0-100.s5.sinet.ad.jp (150.99.89.243)  99.318 ms  99.340 ms  99.329 ms
+ 7  abilene.lax.gw.sinet.ad.jp (150.99.199.94)  108.083 ms  108.075 ms  108.045 ms
+ 8  et-1-0-0.111.rtr.hous.net.internet2.edu (198.71.45.20)  140.500 ms  140.498 ms  140.488 ms
+ 9  74.200.187.33 (74.200.187.33)  146.029 ms  146.169 ms  146.155 ms
+10  vl-430-utd-ntg-gw1.dfw.tx-learn.net (208.76.227.222)  138.398 ms  138.396 ms  138.387 ms
+11   (129.110.125.52)  141.097 ms  141.095 ms  140.958 ms
+traceroute to planetlab2.utdallas.edu (129.110.125.52), 30 hops max, 60 byte packets
+ 1  133.9.81.190 (133.9.81.190)  0.725 ms  1.180 ms  1.579 ms
+ 2  cl2948gl3.goto.info.waseda.ac.jp (133.9.81.254)  0.651 ms  0.879 ms  1.115 ms
+ 3  133.9.77.62 (133.9.77.62)  0.408 ms  0.407 ms  0.397 ms
+ 4  tokyo1-RM-XE-9-0-11-20.s5.sinet.ad.jp (150.99.187.69)  0.766 ms  0.753 ms  0.739 ms
+ 5  tokyo1-GM-AE0-100.s5.sinet.ad.jp (150.99.64.29)  0.711 ms  0.680 ms  0.689 ms
+ 6  lax-GM-ET-2-1-0-100.s5.sinet.ad.jp (150.99.89.243)  99.297 ms  99.324 ms  99.313 ms
+ 7  abilene.lax.gw.sinet.ad.jp (150.99.199.94)  107.947 ms  107.934 ms  107.923 ms
+ 8  et-1-0-0.111.rtr.hous.net.internet2.edu (198.71.45.20)  140.564 ms  140.553 ms  140.539 ms
+ 9  74.200.187.33 (74.200.187.33)  168.586 ms  168.580 ms  168.570 ms
+10  vl-430-utd-ntg-gw1.dfw.tx-learn.net (208.76.227.222)  138.461 ms  138.455 ms  138.443 ms
+11   (129.110.125.52)  141.112 ms  141.014 ms  141.008 ms
+traceroute to planetlab2.utdallas.edu (129.110.125.52), 30 hops max, 60 byte packets
+ 1  133.9.81.190 (133.9.81.190)  0.741 ms  1.180 ms  1.594 ms
+ 2  cl2948gl3.goto.info.waseda.ac.jp (133.9.81.254)  0.652 ms  0.860 ms  1.097 ms
+ 3  133.9.77.62 (133.9.77.62)  0.413 ms  0.422 ms  0.411 ms
+ 4  tokyo1-RM-XE-9-0-11-20.s5.sinet.ad.jp (150.99.187.69)  0.750 ms  0.738 ms  0.738 ms
+ 5  tokyo1-GM-AE0-100.s5.sinet.ad.jp (150.99.64.29)  0.712 ms  0.673 ms  0.680 ms
+ 6  lax-GM-ET-2-1-0-100.s5.sinet.ad.jp (150.99.89.243)  99.308 ms  99.331 ms  99.320 ms
+ 7  abilene.lax.gw.sinet.ad.jp (150.99.199.94)  107.993 ms  107.888 ms  107.982 ms
+ 8  et-1-0-0.111.rtr.hous.net.internet2.edu (198.71.45.20)  140.798 ms  140.806 ms  140.794 ms
+ 9  74.200.187.33 (74.200.187.33)  145.830 ms  145.841 ms  145.830 ms
+10  vl-430-utd-ntg-gw1.dfw.tx-learn.net (208.76.227.222)  138.258 ms  138.267 ms  138.255 ms
+11   (129.110.125.52)  140.918 ms  140.908 ms  140.894 ms
+traceroute to planetlab2.utdallas.edu (129.110.125.52), 30 hops max, 60 byte packets
+ 1  133.9.81.190 (133.9.81.190)  0.712 ms  1.166 ms  1.577 ms
+ 2  cl2948gl3.goto.info.waseda.ac.jp (133.9.81.254)  0.644 ms  0.822 ms  1.087 ms
+ 3  133.9.77.62 (133.9.77.62)  0.409 ms  0.398 ms  0.385 ms
+ 4  tokyo1-RM-XE-9-0-11-20.s5.sinet.ad.jp (150.99.187.69)  0.708 ms  0.699 ms  0.688 ms
+ 5  tokyo1-GM-AE0-100.s5.sinet.ad.jp (150.99.64.29)  0.684 ms  0.657 ms  0.653 ms
+ 6  lax-GM-ET-2-1-0-100.s5.sinet.ad.jp (150.99.89.243)  99.291 ms  99.324 ms  99.313 ms
+ 7  abilene.lax.gw.sinet.ad.jp (150.99.199.94)  107.973 ms  107.969 ms  107.959 ms
+ 8  et-1-0-0.111.rtr.hous.net.internet2.edu (198.71.45.20)  141.424 ms  141.414 ms  141.402 ms
+ 9  74.200.187.33 (74.200.187.33)  145.848 ms  145.838 ms  145.825 ms
+10  vl-430-utd-ntg-gw1.dfw.tx-learn.net (208.76.227.222)  138.185 ms  138.296 ms  138.288 ms
+11   (129.110.125.52)  140.996 ms  141.014 ms  140.999 ms
+traceroute to planetlab2.utdallas.edu (129.110.125.52), 30 hops max, 60 byte packets
+ 1  133.9.81.190 (133.9.81.190)  0.552 ms  0.853 ms  1.102 ms
+ 2  cl2948gl3.goto.info.waseda.ac.jp (133.9.81.254)  0.660 ms  0.836 ms  1.053 ms
+ 3  133.9.77.62 (133.9.77.62)  0.423 ms  0.416 ms  0.408 ms
+ 4  tokyo1-RM-XE-9-0-11-20.s5.sinet.ad.jp (150.99.187.69)  0.712 ms  0.689 ms  0.680 ms
+ 5  tokyo1-GM-AE0-100.s5.sinet.ad.jp (150.99.64.29)  0.666 ms  0.639 ms  0.636 ms
+ 6  lax-GM-ET-2-1-0-100.s5.sinet.ad.jp (150.99.89.243)  99.288 ms  99.320 ms  99.309 ms
+ 7  abilene.lax.gw.sinet.ad.jp (150.99.199.94)  108.048 ms  108.037 ms  127.865 ms
+ 8  et-1-0-0.111.rtr.hous.net.internet2.edu (198.71.45.20)  140.567 ms  140.556 ms  140.543 ms
+ 9  74.200.187.33 (74.200.187.33)  145.716 ms  145.706 ms  145.692 ms
+10  vl-430-utd-ntg-gw1.dfw.tx-learn.net (208.76.227.222)  138.167 ms  138.158 ms  138.146 ms
+11   (129.110.125.52)  140.865 ms  140.866 ms  140.854 ms
+traceroute to planetlab2.utdallas.edu (129.110.125.52), 30 hops max, 60 byte packets
+ 1  133.9.81.190 (133.9.81.190)  0.598 ms  0.858 ms  1.096 ms
+ 2  cl2948gl3.goto.info.waseda.ac.jp (133.9.81.254)  0.659 ms  0.841 ms  1.048 ms
+ 3  133.9.77.62 (133.9.77.62)  0.444 ms  0.462 ms  0.449 ms
+ 4  tokyo1-RM-XE-9-0-11-20.s5.sinet.ad.jp (150.99.187.69)  0.720 ms  0.712 ms  0.698 ms
+ 5  tokyo1-GM-AE0-100.s5.sinet.ad.jp (150.99.64.29)  0.662 ms  0.639 ms  0.636 ms
+ 6  lax-GM-ET-2-1-0-100.s5.sinet.ad.jp (150.99.89.243)  100.317 ms  109.803 ms  109.792 ms
+ 7  abilene.lax.gw.sinet.ad.jp (150.99.199.94)  108.026 ms  108.019 ms  108.007 ms
+ 8  et-1-0-0.111.rtr.hous.net.internet2.edu (198.71.45.20)  140.426 ms  140.417 ms  140.405 ms
+ 9  74.200.187.33 (74.200.187.33)  145.811 ms  145.799 ms  145.763 ms
+10  vl-430-utd-ntg-gw1.dfw.tx-learn.net (208.76.227.222)  138.211 ms  138.200 ms  138.182 ms
+11   (129.110.125.52)  140.983 ms  140.949 ms  140.938 ms
+traceroute to planetlab2.utdallas.edu (129.110.125.52), 30 hops max, 60 byte packets
+ 1  133.9.81.190 (133.9.81.190)  0.765 ms  1.135 ms  1.563 ms
+ 2  cl2948gl3.goto.info.waseda.ac.jp (133.9.81.254)  0.589 ms  0.840 ms  1.071 ms
+ 3  133.9.77.62 (133.9.77.62)  0.493 ms  0.506 ms  0.493 ms
+ 4  tokyo1-RM-XE-9-0-11-20.s5.sinet.ad.jp (150.99.187.69)  0.718 ms  0.697 ms  0.684 ms
+ 5  tokyo1-GM-AE0-100.s5.sinet.ad.jp (150.99.64.29)  0.675 ms  0.653 ms  0.643 ms
+ 6  lax-GM-ET-2-1-0-100.s5.sinet.ad.jp (150.99.89.243)  99.328 ms  99.328 ms  99.305 ms
+ 7  abilene.lax.gw.sinet.ad.jp (150.99.199.94)  107.984 ms  107.976 ms  107.946 ms
+ 8  et-1-0-0.111.rtr.hous.net.internet2.edu (198.71.45.20)  140.559 ms  140.565 ms  140.550 ms
+ 9  74.200.187.33 (74.200.187.33)  145.894 ms  145.901 ms  145.888 ms
+10  vl-430-utd-ntg-gw1.dfw.tx-learn.net (208.76.227.222)  138.119 ms  138.133 ms  138.123 ms
+11   (129.110.125.52)  140.867 ms  140.994 ms  140.967 ms
+traceroute to planetlab2.utdallas.edu (129.110.125.52), 30 hops max, 60 byte packets
+ 1  133.9.81.190 (133.9.81.190)  0.720 ms  1.181 ms  1.580 ms
+ 2  cl2948gl3.goto.info.waseda.ac.jp (133.9.81.254)  0.648 ms  0.879 ms  1.111 ms
+ 3  133.9.77.62 (133.9.77.62)  0.422 ms  0.433 ms  0.422 ms
+ 4  tokyo1-RM-XE-9-0-11-20.s5.sinet.ad.jp (150.99.187.69)  0.762 ms  0.749 ms  0.740 ms
+ 5  tokyo1-GM-AE0-100.s5.sinet.ad.jp (150.99.64.29)  0.700 ms  0.948 ms  0.682 ms
+ 6  lax-GM-ET-2-1-0-100.s5.sinet.ad.jp (150.99.89.243)  99.294 ms  99.327 ms  99.316 ms
+ 7  abilene.lax.gw.sinet.ad.jp (150.99.199.94)  107.934 ms  108.359 ms  108.347 ms
+ 8  et-1-0-0.111.rtr.hous.net.internet2.edu (198.71.45.20)  140.452 ms  140.460 ms  140.449 ms
+ 9  74.200.187.33 (74.200.187.33)  145.868 ms  145.858 ms  145.842 ms
+10  vl-430-utd-ntg-gw1.dfw.tx-learn.net (208.76.227.222)  138.250 ms  138.260 ms  138.249 ms
+11   (129.110.125.52)  140.897 ms  140.878 ms  140.865 ms
+traceroute to planetlab2.utdallas.edu (129.110.125.52), 30 hops max, 60 byte packets
+ 1  133.9.81.190 (133.9.81.190)  0.705 ms  1.188 ms  1.596 ms
+ 2  cl2948gl3.goto.info.waseda.ac.jp (133.9.81.254)  0.632 ms  0.881 ms  1.103 ms
+ 3  133.9.77.62 (133.9.77.62)  0.427 ms  0.419 ms  0.407 ms
+ 4  tokyo1-RM-XE-9-0-11-20.s5.sinet.ad.jp (150.99.187.69)  0.759 ms  0.754 ms  0.741 ms
+ 5  tokyo1-GM-AE0-100.s5.sinet.ad.jp (150.99.64.29)  0.710 ms  0.715 ms  0.680 ms
+ 6  lax-GM-ET-2-1-0-100.s5.sinet.ad.jp (150.99.89.243)  99.303 ms  99.331 ms  99.319 ms
+ 7  abilene.lax.gw.sinet.ad.jp (150.99.199.94)  107.972 ms  107.897 ms  107.901 ms
+ 8  et-1-0-0.111.rtr.hous.net.internet2.edu (198.71.45.20)  140.700 ms  140.686 ms  140.799 ms
+ 9  74.200.187.33 (74.200.187.33)  145.854 ms  145.846 ms  145.833 ms
+10  vl-430-utd-ntg-gw1.dfw.tx-learn.net (208.76.227.222)  138.275 ms  138.267 ms  138.254 ms
+11   (129.110.125.52)  140.977 ms  140.928 ms  140.916 ms
+traceroute to planetlab2.utdallas.edu (129.110.125.52), 30 hops max, 60 byte packets
+ 1  133.9.81.190 (133.9.81.190)  0.727 ms  1.194 ms  1.583 ms
+ 2  cl2948gl3.goto.info.waseda.ac.jp (133.9.81.254)  0.660 ms  0.890 ms  1.129 ms
+ 3  133.9.77.62 (133.9.77.62)  0.413 ms  0.406 ms  0.394 ms
+ 4  tokyo1-RM-XE-9-0-11-20.s5.sinet.ad.jp (150.99.187.69)  0.776 ms  0.766 ms  0.762 ms
+ 5  tokyo1-GM-AE0-100.s5.sinet.ad.jp (150.99.64.29)  0.732 ms  14.750 ms  0.700 ms
+ 6  lax-GM-ET-2-1-0-100.s5.sinet.ad.jp (150.99.89.243)  99.298 ms  99.337 ms  99.316 ms
+ 7  abilene.lax.gw.sinet.ad.jp (150.99.199.94)  108.241 ms  107.956 ms  107.945 ms
+ 8  et-1-0-0.111.rtr.hous.net.internet2.edu (198.71.45.20)  140.693 ms  140.702 ms  140.690 ms
+ 9  74.200.187.33 (74.200.187.33)  146.110 ms  146.099 ms  146.086 ms
+10  vl-430-utd-ntg-gw1.dfw.tx-learn.net (208.76.227.222)  138.423 ms  138.433 ms  138.422 ms
+11   (129.110.125.52)  141.087 ms  141.067 ms  141.058 ms
+traceroute to planetlab2.utdallas.edu (129.110.125.52), 30 hops max, 60 byte packets
+ 1  133.9.81.190 (133.9.81.190)  0.718 ms  1.174 ms  1.590 ms
+ 2  cl2948gl3.goto.info.waseda.ac.jp (133.9.81.254)  0.648 ms  0.858 ms  1.096 ms
+ 3  133.9.77.62 (133.9.77.62)  0.430 ms  0.442 ms  0.430 ms
+ 4  tokyo1-RM-XE-9-0-11-20.s5.sinet.ad.jp (150.99.187.69)  0.750 ms  0.747 ms  0.735 ms
+ 5  tokyo1-GM-AE0-100.s5.sinet.ad.jp (150.99.64.29)  0.703 ms  0.672 ms  0.681 ms
+ 6  lax-GM-ET-2-1-0-100.s5.sinet.ad.jp (150.99.89.243)  99.316 ms  99.347 ms  99.304 ms
+ 7  abilene.lax.gw.sinet.ad.jp (150.99.199.94)  107.953 ms  108.016 ms  108.006 ms
+ 8  et-1-0-0.111.rtr.hous.net.internet2.edu (198.71.45.20)  140.651 ms  140.662 ms  140.736 ms
+ 9  74.200.187.33 (74.200.187.33)  145.677 ms  146.103 ms  146.095 ms
+10  vl-430-utd-ntg-gw1.dfw.tx-learn.net (208.76.227.222)  138.212 ms  138.319 ms  138.328 ms
+11   (129.110.125.52)  140.959 ms  140.934 ms  140.929 ms
+traceroute to planetlab2.utdallas.edu (129.110.125.52), 30 hops max, 60 byte packets
+ 1  133.9.81.190 (133.9.81.190)  0.763 ms  1.174 ms  1.577 ms
+ 2  cl2948gl3.goto.info.waseda.ac.jp (133.9.81.254)  0.557 ms  0.841 ms  1.092 ms
+ 3  133.9.77.62 (133.9.77.62)  0.338 ms  0.354 ms  0.451 ms
+ 4  tokyo1-RM-XE-9-0-11-20.s5.sinet.ad.jp (150.99.187.69)  0.727 ms  0.705 ms  0.692 ms
+ 5  tokyo1-GM-AE0-100.s5.sinet.ad.jp (150.99.64.29)  0.963 ms  0.660 ms  0.929 ms
+ 6  lax-GM-ET-2-1-0-100.s5.sinet.ad.jp (150.99.89.243)  99.301 ms  99.315 ms  99.298 ms
+ 7  abilene.lax.gw.sinet.ad.jp (150.99.199.94)  108.049 ms  108.039 ms  107.914 ms
+ 8  et-1-0-0.111.rtr.hous.net.internet2.edu (198.71.45.20)  140.705 ms  140.697 ms  140.685 ms
+ 9  74.200.187.33 (74.200.187.33)  145.803 ms  145.789 ms  145.777 ms
+10  vl-430-utd-ntg-gw1.dfw.tx-learn.net (208.76.227.222)  138.307 ms  138.324 ms  138.313 ms
+11   (129.110.125.52)  141.055 ms  141.029 ms  141.032 ms
+traceroute to planetlab2.utdallas.edu (129.110.125.52), 30 hops max, 60 byte packets
+ 1  133.9.81.190 (133.9.81.190)  0.553 ms  0.846 ms  1.084 ms
+ 2  cl2948gl3.goto.info.waseda.ac.jp (133.9.81.254)  0.647 ms  0.829 ms  1.034 ms
+ 3  133.9.77.62 (133.9.77.62)  0.427 ms  0.415 ms  0.406 ms
+ 4  tokyo1-RM-XE-9-0-11-20.s5.sinet.ad.jp (150.99.187.69)  0.707 ms  0.696 ms  0.681 ms
+ 5  tokyo1-GM-AE0-100.s5.sinet.ad.jp (150.99.64.29)  0.669 ms  0.655 ms  0.639 ms
+ 6  lax-GM-ET-2-1-0-100.s5.sinet.ad.jp (150.99.89.243)  99.316 ms  99.319 ms  99.311 ms
+ 7  abilene.lax.gw.sinet.ad.jp (150.99.199.94)  107.994 ms  107.986 ms  107.996 ms
+ 8  et-1-0-0.111.rtr.hous.net.internet2.edu (198.71.45.20)  140.355 ms  140.588 ms  140.581 ms
+ 9  74.200.187.33 (74.200.187.33)  145.958 ms  145.950 ms  145.936 ms
+10  vl-430-utd-ntg-gw1.dfw.tx-learn.net (208.76.227.222)  138.374 ms  138.364 ms  138.352 ms
+11   (129.110.125.52)  140.900 ms  140.834 ms  140.824 ms
+traceroute to planetlab2.utdallas.edu (129.110.125.52), 30 hops max, 60 byte packets
+ 1  133.9.81.190 (133.9.81.190)  0.729 ms  1.214 ms  1.622 ms
+ 2  cl2948gl3.goto.info.waseda.ac.jp (133.9.81.254)  0.660 ms  0.842 ms  1.134 ms
+ 3  133.9.77.62 (133.9.77.62)  0.406 ms  0.418 ms  0.407 ms
+ 4  tokyo1-RM-XE-9-0-11-20.s5.sinet.ad.jp (150.99.187.69)  0.733 ms  0.720 ms  0.711 ms
+ 5  tokyo1-GM-AE0-100.s5.sinet.ad.jp (150.99.64.29)  4.488 ms  0.668 ms  4.459 ms
+ 6  lax-GM-ET-2-1-0-100.s5.sinet.ad.jp (150.99.89.243)  99.295 ms  99.337 ms  99.326 ms
+ 7  abilene.lax.gw.sinet.ad.jp (150.99.199.94)  107.950 ms  107.952 ms  107.941 ms
+ 8  et-1-0-0.111.rtr.hous.net.internet2.edu (198.71.45.20)  140.465 ms  140.473 ms  140.461 ms
+ 9  74.200.187.33 (74.200.187.33)  145.853 ms  145.844 ms  145.833 ms
+10  vl-430-utd-ntg-gw1.dfw.tx-learn.net (208.76.227.222)  138.232 ms  138.245 ms  138.234 ms
+11   (129.110.125.52)  141.190 ms  141.181 ms  141.168 ms
+traceroute to planetlab2.utdallas.edu (129.110.125.52), 30 hops max, 60 byte packets
+ 1  133.9.81.190 (133.9.81.190)  0.725 ms  1.185 ms  1.531 ms
+ 2  cl2948gl3.goto.info.waseda.ac.jp (133.9.81.254)  0.630 ms  0.855 ms  1.105 ms
+ 3  133.9.77.62 (133.9.77.62)  0.417 ms  0.412 ms  0.401 ms
+ 4  tokyo1-RM-XE-9-0-11-20.s5.sinet.ad.jp (150.99.187.69)  1.400 ms  1.391 ms  1.378 ms
+ 5  tokyo1-GM-AE0-100.s5.sinet.ad.jp (150.99.64.29)  1.328 ms  0.684 ms  1.292 ms
+ 6  lax-GM-ET-2-1-0-100.s5.sinet.ad.jp (150.99.89.243)  99.314 ms  100.641 ms  100.625 ms
+ 7  abilene.lax.gw.sinet.ad.jp (150.99.199.94)  108.018 ms  123.663 ms  123.651 ms
+ 8  et-1-0-0.111.rtr.hous.net.internet2.edu (198.71.45.20)  140.429 ms  140.419 ms  140.546 ms
+ 9  74.200.187.33 (74.200.187.33)  145.976 ms  145.956 ms  146.059 ms
+10  vl-430-utd-ntg-gw1.dfw.tx-learn.net (208.76.227.222)  138.227 ms  138.219 ms  138.208 ms
+11   (129.110.125.52)  140.959 ms  140.912 ms  140.881 ms
+traceroute to planetlab2.utdallas.edu (129.110.125.52), 30 hops max, 60 byte packets
+ 1  133.9.81.190 (133.9.81.190)  0.785 ms  1.205 ms  1.621 ms
+ 2  cl2948gl3.goto.info.waseda.ac.jp (133.9.81.254)  0.760 ms  0.982 ms  1.138 ms
+ 3  133.9.77.62 (133.9.77.62)  0.506 ms  0.498 ms  0.628 ms
+ 4  tokyo1-RM-XE-9-0-11-20.s5.sinet.ad.jp (150.99.187.69)  1.030 ms  1.003 ms  0.969 ms
+ 5  tokyo1-GM-AE0-100.s5.sinet.ad.jp (150.99.64.29)  0.943 ms  0.811 ms  0.920 ms
+ 6  lax-GM-ET-2-1-0-100.s5.sinet.ad.jp (150.99.89.243)  99.476 ms  99.338 ms  99.328 ms
+ 7  abilene.lax.gw.sinet.ad.jp (150.99.199.94)  107.969 ms  107.957 ms  107.946 ms
+ 8  et-1-0-0.111.rtr.hous.net.internet2.edu (198.71.45.20)  140.656 ms  140.642 ms  140.629 ms
+ 9  74.200.187.33 (74.200.187.33)  145.837 ms  145.823 ms  145.811 ms
+10  vl-430-utd-ntg-gw1.dfw.tx-learn.net (208.76.227.222)  138.243 ms  138.236 ms  138.224 ms
+11   (129.110.125.52)  140.888 ms  140.922 ms  140.959 ms
+traceroute to planetlab2.utdallas.edu (129.110.125.52), 30 hops max, 60 byte packets
+ 1  133.9.81.190 (133.9.81.190)  0.550 ms  0.850 ms  1.078 ms
+ 2  cl2948gl3.goto.info.waseda.ac.jp (133.9.81.254)  0.676 ms  0.932 ms  1.150 ms
+ 3  133.9.77.62 (133.9.77.62)  0.403 ms  0.414 ms  0.406 ms
+ 4  tokyo1-RM-XE-9-0-11-20.s5.sinet.ad.jp (150.99.187.69)  0.718 ms  0.701 ms  0.687 ms
+ 5  tokyo1-GM-AE0-100.s5.sinet.ad.jp (150.99.64.29)  3.495 ms  0.636 ms  3.468 ms
+ 6  lax-GM-ET-2-1-0-100.s5.sinet.ad.jp (150.99.89.243)  99.297 ms  99.318 ms  99.309 ms
+ 7  abilene.lax.gw.sinet.ad.jp (150.99.199.94)  107.932 ms  107.930 ms  107.927 ms
+ 8  et-1-0-0.111.rtr.hous.net.internet2.edu (198.71.45.20)  141.653 ms  141.642 ms  141.630 ms
+ 9  74.200.187.33 (74.200.187.33)  145.847 ms  145.838 ms  145.826 ms
+10  vl-430-utd-ntg-gw1.dfw.tx-learn.net (208.76.227.222)  138.195 ms  138.186 ms  138.174 ms
+11   (129.110.125.52)  140.892 ms  140.889 ms  140.865 ms
+traceroute to planetlab2.utdallas.edu (129.110.125.52), 30 hops max, 60 byte packets
+ 1  133.9.81.190 (133.9.81.190)  0.737 ms  1.160 ms  1.537 ms
+ 2  cl2948gl3.goto.info.waseda.ac.jp (133.9.81.254)  0.648 ms  0.871 ms  1.093 ms
+ 3  133.9.77.62 (133.9.77.62)  0.436 ms  0.446 ms  0.435 ms
+ 4  tokyo1-RM-XE-9-0-11-20.s5.sinet.ad.jp (150.99.187.69)  0.741 ms  0.730 ms  0.727 ms
+ 5  tokyo1-GM-AE0-100.s5.sinet.ad.jp (150.99.64.29)  0.701 ms  0.687 ms  0.676 ms
+ 6  lax-GM-ET-2-1-0-100.s5.sinet.ad.jp (150.99.89.243)  99.297 ms  99.330 ms  99.317 ms
+ 7  abilene.lax.gw.sinet.ad.jp (150.99.199.94)  107.962 ms  108.022 ms  108.492 ms
+ 8  et-1-0-0.111.rtr.hous.net.internet2.edu (198.71.45.20)  140.469 ms  140.458 ms  140.445 ms
+ 9  74.200.187.33 (74.200.187.33)  145.840 ms  145.831 ms  145.903 ms
+10  vl-430-utd-ntg-gw1.dfw.tx-learn.net (208.76.227.222)  138.188 ms  138.180 ms  138.169 ms
+11   (129.110.125.52)  141.132 ms  141.042 ms  141.031 ms
+traceroute to planetlab2.utdallas.edu (129.110.125.52), 30 hops max, 60 byte packets
+ 1  133.9.81.190 (133.9.81.190)  0.742 ms  1.177 ms  1.569 ms
+ 2  cl2948gl3.goto.info.waseda.ac.jp (133.9.81.254)  0.655 ms  0.864 ms  1.113 ms
+ 3  133.9.77.62 (133.9.77.62)  0.409 ms  0.402 ms  0.390 ms
+ 4  tokyo1-RM-XE-9-0-11-20.s5.sinet.ad.jp (150.99.187.69)  1.219 ms  1.207 ms  1.195 ms
+ 5  tokyo1-GM-AE0-100.s5.sinet.ad.jp (150.99.64.29)  0.715 ms  0.689 ms  0.682 ms
+ 6  lax-GM-ET-2-1-0-100.s5.sinet.ad.jp (150.99.89.243)  100.428 ms  100.158 ms  100.129 ms
+ 7  abilene.lax.gw.sinet.ad.jp (150.99.199.94)  108.689 ms  107.975 ms  107.965 ms
+ 8  et-1-0-0.111.rtr.hous.net.internet2.edu (198.71.45.20)  140.539 ms  140.552 ms  140.542 ms
+ 9  74.200.187.33 (74.200.187.33)  146.812 ms  146.803 ms  146.791 ms
+10  vl-430-utd-ntg-gw1.dfw.tx-learn.net (208.76.227.222)  138.224 ms  138.243 ms  138.233 ms
+11   (129.110.125.52)  140.910 ms  140.898 ms  140.883 ms
+traceroute to planetlab2.utdallas.edu (129.110.125.52), 30 hops max, 60 byte packets
+ 1  133.9.81.190 (133.9.81.190)  0.736 ms  1.197 ms  1.584 ms
+ 2  cl2948gl3.goto.info.waseda.ac.jp (133.9.81.254)  0.667 ms  0.862 ms  1.128 ms
+ 3  133.9.77.62 (133.9.77.62)  0.418 ms  0.429 ms  0.418 ms
+ 4  tokyo1-RM-XE-9-0-11-20.s5.sinet.ad.jp (150.99.187.69)  1.063 ms  1.048 ms  1.035 ms
+ 5  tokyo1-GM-AE0-100.s5.sinet.ad.jp (150.99.64.29)  0.705 ms  0.699 ms  0.675 ms
+ 6  lax-GM-ET-2-1-0-100.s5.sinet.ad.jp (150.99.89.243)  99.292 ms  99.326 ms  99.302 ms
+ 7  abilene.lax.gw.sinet.ad.jp (150.99.199.94)  107.970 ms  109.463 ms  109.452 ms
+ 8  et-1-0-0.111.rtr.hous.net.internet2.edu (198.71.45.20)  147.869 ms  147.875 ms  147.864 ms
+ 9  74.200.187.33 (74.200.187.33)  145.850 ms  145.863 ms  145.852 ms
+10  vl-430-utd-ntg-gw1.dfw.tx-learn.net (208.76.227.222)  138.220 ms  138.234 ms  138.224 ms
+11   (129.110.125.52)  140.876 ms  140.819 ms  140.838 ms
+traceroute to planetlab2.utdallas.edu (129.110.125.52), 30 hops max, 60 byte packets
+ 1  133.9.81.190 (133.9.81.190)  0.715 ms  1.193 ms  1.570 ms
+ 2  cl2948gl3.goto.info.waseda.ac.jp (133.9.81.254)  0.649 ms  0.879 ms  1.129 ms
+ 3  133.9.77.62 (133.9.77.62)  0.412 ms  0.423 ms  0.410 ms
+ 4  tokyo1-RM-XE-9-0-11-20.s5.sinet.ad.jp (150.99.187.69)  0.763 ms  0.758 ms  0.744 ms
+ 5  tokyo1-GM-AE0-100.s5.sinet.ad.jp (150.99.64.29)  0.713 ms  0.682 ms  0.682 ms
+ 6  lax-GM-ET-2-1-0-100.s5.sinet.ad.jp (150.99.89.243)  99.291 ms  99.337 ms  99.317 ms
+ 7  abilene.lax.gw.sinet.ad.jp (150.99.199.94)  107.973 ms  107.932 ms  107.919 ms
+ 8  et-1-0-0.111.rtr.hous.net.internet2.edu (198.71.45.20)  141.646 ms  141.633 ms  141.619 ms
+ 9  74.200.187.33 (74.200.187.33)  146.013 ms  146.002 ms  145.989 ms
+10  vl-430-utd-ntg-gw1.dfw.tx-learn.net (208.76.227.222)  138.257 ms  138.248 ms  138.236 ms
+11   (129.110.125.52)  140.931 ms  141.063 ms  141.025 ms
+traceroute to planetlab2.utdallas.edu (129.110.125.52), 30 hops max, 60 byte packets
+ 1  133.9.81.190 (133.9.81.190)  0.731 ms  1.204 ms  1.618 ms
+ 2  cl2948gl3.goto.info.waseda.ac.jp (133.9.81.254)  0.646 ms  0.851 ms  1.140 ms
+ 3  133.9.77.62 (133.9.77.62)  0.406 ms  0.417 ms  0.405 ms
+ 4  tokyo1-RM-XE-9-0-11-20.s5.sinet.ad.jp (150.99.187.69)  0.735 ms  0.708 ms  0.692 ms
+ 5  tokyo1-GM-AE0-100.s5.sinet.ad.jp (150.99.64.29)  0.682 ms  0.660 ms  0.651 ms
+ 6  lax-GM-ET-2-1-0-100.s5.sinet.ad.jp (150.99.89.243)  128.263 ms  127.975 ms  127.961 ms
+ 7  abilene.lax.gw.sinet.ad.jp (150.99.199.94)  107.941 ms  108.245 ms  109.481 ms
+ 8  et-1-0-0.111.rtr.hous.net.internet2.edu (198.71.45.20)  140.454 ms  140.461 ms  140.450 ms
+ 9  74.200.187.33 (74.200.187.33)  146.152 ms  146.162 ms  146.147 ms
+10  vl-430-utd-ntg-gw1.dfw.tx-learn.net (208.76.227.222)  138.161 ms  138.173 ms  138.160 ms
+11   (129.110.125.52)  140.882 ms  140.862 ms  140.850 ms
+traceroute to planetlab2.utdallas.edu (129.110.125.52), 30 hops max, 60 byte packets
+ 1  133.9.81.190 (133.9.81.190)  0.736 ms  1.172 ms  1.577 ms
+ 2  cl2948gl3.goto.info.waseda.ac.jp (133.9.81.254)  0.650 ms  0.857 ms  1.090 ms
+ 3  133.9.77.62 (133.9.77.62)  0.417 ms  0.427 ms  0.416 ms
+ 4  tokyo1-RM-XE-9-0-11-20.s5.sinet.ad.jp (150.99.187.69)  0.741 ms  0.719 ms  0.705 ms
+ 5  tokyo1-GM-AE0-100.s5.sinet.ad.jp (150.99.64.29)  0.691 ms  0.679 ms  0.670 ms
+ 6  lax-GM-ET-2-1-0-100.s5.sinet.ad.jp (150.99.89.243)  99.303 ms  99.327 ms  99.317 ms
+ 7  abilene.lax.gw.sinet.ad.jp (150.99.199.94)  107.908 ms  108.178 ms  108.167 ms
+ 8  et-1-0-0.111.rtr.hous.net.internet2.edu (198.71.45.20)  140.575 ms  140.583 ms  140.576 ms
+ 9  74.200.187.33 (74.200.187.33)  145.669 ms  145.661 ms  145.648 ms
+10  vl-430-utd-ntg-gw1.dfw.tx-learn.net (208.76.227.222)  138.171 ms  138.185 ms  138.173 ms
+11   (129.110.125.52)  140.872 ms  140.864 ms  140.852 ms
+traceroute to planetlab2.utdallas.edu (129.110.125.52), 30 hops max, 60 byte packets
+ 1  133.9.81.190 (133.9.81.190)  0.713 ms  1.181 ms  1.560 ms
+ 2  cl2948gl3.goto.info.waseda.ac.jp (133.9.81.254)  0.649 ms  0.858 ms  1.117 ms
+ 3  133.9.77.62 (133.9.77.62)  0.434 ms  0.426 ms  0.414 ms
+ 4  tokyo1-RM-XE-9-0-11-20.s5.sinet.ad.jp (150.99.187.69)  0.748 ms  0.739 ms  0.730 ms
+ 5  tokyo1-GM-AE0-100.s5.sinet.ad.jp (150.99.64.29)  0.701 ms  0.671 ms  0.674 ms
+ 6  lax-GM-ET-2-1-0-100.s5.sinet.ad.jp (150.99.89.243)  99.309 ms  99.327 ms  99.315 ms
+ 7  abilene.lax.gw.sinet.ad.jp (150.99.199.94)  107.935 ms  108.020 ms  108.007 ms
+ 8  et-1-0-0.111.rtr.hous.net.internet2.edu (198.71.45.20)  140.486 ms  140.495 ms  140.483 ms
+ 9  74.200.187.33 (74.200.187.33)  145.967 ms  145.977 ms  145.965 ms
+10  vl-430-utd-ntg-gw1.dfw.tx-learn.net (208.76.227.222)  138.308 ms  138.319 ms  138.307 ms
+11   (129.110.125.52)  141.006 ms  140.994 ms  140.982 ms
+traceroute to planetlab2.utdallas.edu (129.110.125.52), 30 hops max, 60 byte packets
+ 1  133.9.81.190 (133.9.81.190)  0.728 ms  1.125 ms  1.509 ms
+ 2  cl2948gl3.goto.info.waseda.ac.jp (133.9.81.254)  0.660 ms  0.872 ms  1.061 ms
+ 3  133.9.77.62 (133.9.77.62)  0.589 ms  0.578 ms  0.566 ms
+ 4  tokyo1-RM-XE-9-0-11-20.s5.sinet.ad.jp (150.99.187.69)  0.769 ms  0.753 ms  0.740 ms
+ 5  tokyo1-GM-AE0-100.s5.sinet.ad.jp (150.99.64.29)  1.863 ms  0.686 ms  1.834 ms
+ 6  lax-GM-ET-2-1-0-100.s5.sinet.ad.jp (150.99.89.243)  99.285 ms  99.357 ms  99.345 ms
+ 7  abilene.lax.gw.sinet.ad.jp (150.99.199.94)  111.466 ms  111.455 ms  111.444 ms
+ 8  et-1-0-0.111.rtr.hous.net.internet2.edu (198.71.45.20)  140.607 ms  140.596 ms  140.584 ms
+ 9  74.200.187.33 (74.200.187.33)  145.855 ms  145.844 ms  145.831 ms
+10  vl-430-utd-ntg-gw1.dfw.tx-learn.net (208.76.227.222)  138.169 ms  138.155 ms  138.195 ms
+11   (129.110.125.52)  140.961 ms  140.949 ms  140.993 ms
+traceroute to planetlab2.utdallas.edu (129.110.125.52), 30 hops max, 60 byte packets
+ 1  133.9.81.190 (133.9.81.190)  0.736 ms  1.148 ms  1.564 ms
+ 2  cl2948gl3.goto.info.waseda.ac.jp (133.9.81.254)  0.648 ms  0.861 ms  1.084 ms
+ 3  133.9.77.62 (133.9.77.62)  0.411 ms  0.421 ms  0.410 ms
+ 4  tokyo1-RM-XE-9-0-11-20.s5.sinet.ad.jp (150.99.187.69)  0.779 ms  0.755 ms  0.740 ms
+ 5  tokyo1-GM-AE0-100.s5.sinet.ad.jp (150.99.64.29)  0.712 ms  0.679 ms  0.691 ms
+ 6  lax-GM-ET-2-1-0-100.s5.sinet.ad.jp (150.99.89.243)  99.305 ms  99.325 ms  99.315 ms
+ 7  abilene.lax.gw.sinet.ad.jp (150.99.199.94)  108.750 ms  108.634 ms  107.985 ms
+ 8  et-1-0-0.111.rtr.hous.net.internet2.edu (198.71.45.20)  140.970 ms  140.955 ms  140.945 ms
+ 9  74.200.187.33 (74.200.187.33)  145.882 ms  145.871 ms  145.859 ms
+10  vl-430-utd-ntg-gw1.dfw.tx-learn.net (208.76.227.222)  138.245 ms  138.234 ms  138.223 ms
+11   (129.110.125.52)  140.809 ms  140.948 ms  140.938 ms
+traceroute to planetlab2.utdallas.edu (129.110.125.52), 30 hops max, 60 byte packets
+ 1  133.9.81.190 (133.9.81.190)  0.747 ms  1.147 ms  1.536 ms
+ 2  cl2948gl3.goto.info.waseda.ac.jp (133.9.81.254)  0.647 ms  0.876 ms  1.081 ms
+ 3  133.9.77.62 (133.9.77.62)  0.424 ms  0.417 ms  0.400 ms
+ 4  tokyo1-RM-XE-9-0-11-20.s5.sinet.ad.jp (150.99.187.69)  0.750 ms  0.740 ms  0.736 ms
+ 5  tokyo1-GM-AE0-100.s5.sinet.ad.jp (150.99.64.29)  0.713 ms  0.691 ms  0.685 ms
+ 6  lax-GM-ET-2-1-0-100.s5.sinet.ad.jp (150.99.89.243)  99.289 ms  99.333 ms  99.316 ms
+ 7  abilene.lax.gw.sinet.ad.jp (150.99.199.94)  107.946 ms  108.033 ms  108.016 ms
+ 8  et-1-0-0.111.rtr.hous.net.internet2.edu (198.71.45.20)  140.553 ms  140.560 ms  140.715 ms
+ 9  74.200.187.33 (74.200.187.33)  148.054 ms  148.045 ms  148.032 ms
+10  vl-430-utd-ntg-gw1.dfw.tx-learn.net (208.76.227.222)  138.276 ms  138.288 ms  138.277 ms
+11   (129.110.125.52)  141.057 ms  141.047 ms  141.033 ms
+traceroute to planetlab2.utdallas.edu (129.110.125.52), 30 hops max, 60 byte packets
+ 1  133.9.81.190 (133.9.81.190)  0.733 ms  1.160 ms  1.542 ms
+ 2  cl2948gl3.goto.info.waseda.ac.jp (133.9.81.254)  0.665 ms  0.858 ms  1.094 ms
+ 3  133.9.77.62 (133.9.77.62)  0.410 ms  0.402 ms  0.389 ms
+ 4  tokyo1-RM-XE-9-0-11-20.s5.sinet.ad.jp (150.99.187.69)  0.727 ms  0.721 ms  0.712 ms
+ 5  tokyo1-GM-AE0-100.s5.sinet.ad.jp (150.99.64.29)  0.690 ms  0.665 ms  0.664 ms
+ 6  lax-GM-ET-2-1-0-100.s5.sinet.ad.jp (150.99.89.243)  99.312 ms  99.320 ms  99.299 ms
+ 7  abilene.lax.gw.sinet.ad.jp (150.99.199.94)  108.110 ms  108.048 ms  108.037 ms
+ 8  et-1-0-0.111.rtr.hous.net.internet2.edu (198.71.45.20)  140.481 ms  140.486 ms  140.471 ms
+ 9  74.200.187.33 (74.200.187.33)  147.553 ms  147.567 ms  147.556 ms
+10  vl-430-utd-ntg-gw1.dfw.tx-learn.net (208.76.227.222)  138.401 ms  138.401 ms  138.392 ms
+11   (129.110.125.52)  141.015 ms  140.998 ms  140.986 ms
+traceroute to planetlab2.utdallas.edu (129.110.125.52), 30 hops max, 60 byte packets
+ 1  133.9.81.190 (133.9.81.190)  0.736 ms  1.171 ms  1.574 ms
+ 2  cl2948gl3.goto.info.waseda.ac.jp (133.9.81.254)  0.648 ms  0.853 ms  1.091 ms
+ 3  133.9.77.62 (133.9.77.62)  0.418 ms  0.410 ms  0.397 ms
+ 4  tokyo1-RM-XE-9-0-11-20.s5.sinet.ad.jp (150.99.187.69)  4.991 ms  4.979 ms  4.965 ms
+ 5  tokyo1-GM-AE0-100.s5.sinet.ad.jp (150.99.64.29)  0.703 ms  0.679 ms  0.672 ms
+ 6  lax-GM-ET-2-1-0-100.s5.sinet.ad.jp (150.99.89.243)  99.301 ms  99.327 ms  99.315 ms
+ 7  abilene.lax.gw.sinet.ad.jp (150.99.199.94)  109.003 ms  108.881 ms  107.951 ms
+ 8  et-1-0-0.111.rtr.hous.net.internet2.edu (198.71.45.20)  140.508 ms  140.516 ms  140.506 ms
+ 9  74.200.187.33 (74.200.187.33)  145.942 ms  145.933 ms  145.922 ms
+10  vl-430-utd-ntg-gw1.dfw.tx-learn.net (208.76.227.222)  138.215 ms  138.231 ms  138.221 ms
+11   (129.110.125.52)  140.829 ms  140.826 ms  140.803 ms
+traceroute to planetlab2.utdallas.edu (129.110.125.52), 30 hops max, 60 byte packets
+ 1  133.9.81.190 (133.9.81.190)  0.713 ms  1.168 ms  1.553 ms
+ 2  cl2948gl3.goto.info.waseda.ac.jp (133.9.81.254)  0.647 ms  0.873 ms  1.091 ms
+ 3  133.9.77.62 (133.9.77.62)  0.422 ms  0.435 ms  0.424 ms
+ 4  tokyo1-RM-XE-9-0-11-20.s5.sinet.ad.jp (150.99.187.69)  0.762 ms  0.769 ms  0.756 ms
+ 5  tokyo1-GM-AE0-100.s5.sinet.ad.jp (150.99.64.29)  0.721 ms  0.698 ms  0.689 ms
+ 6  lax-GM-ET-2-1-0-100.s5.sinet.ad.jp (150.99.89.243)  99.319 ms  99.324 ms  99.317 ms
+ 7  abilene.lax.gw.sinet.ad.jp (150.99.199.94)  108.883 ms  108.671 ms  108.661 ms
+ 8  et-1-0-0.111.rtr.hous.net.internet2.edu (198.71.45.20)  140.521 ms  140.532 ms  140.522 ms
+ 9  74.200.187.33 (74.200.187.33)  145.765 ms  145.866 ms  145.858 ms
+10  vl-430-utd-ntg-gw1.dfw.tx-learn.net (208.76.227.222)  138.274 ms  138.286 ms  138.277 ms
+11   (129.110.125.52)  140.995 ms  140.987 ms  140.979 ms
+traceroute to planetlab2.utdallas.edu (129.110.125.52), 30 hops max, 60 byte packets
+ 1  133.9.81.190 (133.9.81.190)  0.752 ms  1.203 ms  1.571 ms
+ 2  cl2948gl3.goto.info.waseda.ac.jp (133.9.81.254)  0.658 ms  0.842 ms  1.129 ms
+ 3  133.9.77.62 (133.9.77.62)  0.460 ms  0.472 ms  0.460 ms
+ 4  tokyo1-RM-XE-9-0-11-20.s5.sinet.ad.jp (150.99.187.69)  0.709 ms  0.700 ms  0.690 ms
+ 5  tokyo1-GM-AE0-100.s5.sinet.ad.jp (150.99.64.29)  0.682 ms  0.660 ms  0.658 ms
+ 6  lax-GM-ET-2-1-0-100.s5.sinet.ad.jp (150.99.89.243)  99.324 ms  99.320 ms  99.311 ms
+ 7  abilene.lax.gw.sinet.ad.jp (150.99.199.94)  108.992 ms  108.927 ms  108.045 ms
+ 8  et-1-0-0.111.rtr.hous.net.internet2.edu (198.71.45.20)  140.440 ms  140.447 ms  140.434 ms
+ 9  74.200.187.33 (74.200.187.33)  146.712 ms  146.702 ms  146.690 ms
+10  vl-430-utd-ntg-gw1.dfw.tx-learn.net (208.76.227.222)  138.188 ms  138.200 ms  138.189 ms
+11   (129.110.125.52)  140.851 ms  140.839 ms  140.825 ms
+traceroute to planetlab2.utdallas.edu (129.110.125.52), 30 hops max, 60 byte packets
+ 1  133.9.81.190 (133.9.81.190)  0.730 ms  1.172 ms  1.544 ms
+ 2  cl2948gl3.goto.info.waseda.ac.jp (133.9.81.254)  0.643 ms  0.864 ms  1.109 ms
+ 3  133.9.77.62 (133.9.77.62)  0.416 ms  0.407 ms  0.396 ms
+ 4  tokyo1-RM-XE-9-0-11-20.s5.sinet.ad.jp (150.99.187.69)  0.748 ms  0.737 ms  0.731 ms
+ 5  tokyo1-GM-AE0-100.s5.sinet.ad.jp (150.99.64.29)  0.710 ms  0.685 ms  0.680 ms
+ 6  lax-GM-ET-2-1-0-100.s5.sinet.ad.jp (150.99.89.243)  99.315 ms  99.338 ms  99.327 ms
+ 7  abilene.lax.gw.sinet.ad.jp (150.99.199.94)  108.043 ms  107.944 ms  107.934 ms
+ 8  et-1-0-0.111.rtr.hous.net.internet2.edu (198.71.45.20)  140.433 ms  140.441 ms  140.429 ms
+ 9  74.200.187.33 (74.200.187.33)  146.794 ms  146.784 ms  146.772 ms
+10  vl-430-utd-ntg-gw1.dfw.tx-learn.net (208.76.227.222)  138.151 ms  138.331 ms  138.342 ms
+11   (129.110.125.52)  141.034 ms  141.019 ms  140.983 ms
+traceroute to planetlab2.utdallas.edu (129.110.125.52), 30 hops max, 60 byte packets
+ 1  133.9.81.190 (133.9.81.190)  0.740 ms  1.194 ms  1.567 ms
+ 2  cl2948gl3.goto.info.waseda.ac.jp (133.9.81.254)  0.650 ms  0.863 ms  1.128 ms
+ 3  133.9.77.62 (133.9.77.62)  0.410 ms  0.421 ms  0.408 ms
+ 4  tokyo1-RM-XE-9-0-11-20.s5.sinet.ad.jp (150.99.187.69)  0.749 ms  0.736 ms  0.732 ms
+ 5  tokyo1-GM-AE0-100.s5.sinet.ad.jp (150.99.64.29)  0.705 ms  0.672 ms  0.672 ms
+ 6  lax-GM-ET-2-1-0-100.s5.sinet.ad.jp (150.99.89.243)  99.313 ms  99.321 ms  99.314 ms
+ 7  abilene.lax.gw.sinet.ad.jp (150.99.199.94)  108.091 ms  107.976 ms  108.015 ms
+ 8  et-1-0-0.111.rtr.hous.net.internet2.edu (198.71.45.20)  140.667 ms  140.680 ms  140.665 ms
+ 9  74.200.187.33 (74.200.187.33)  146.743 ms  146.733 ms  146.722 ms
+10  vl-430-utd-ntg-gw1.dfw.tx-learn.net (208.76.227.222)  138.252 ms  138.262 ms  138.250 ms
+11   (129.110.125.52)  140.954 ms  140.950 ms  140.928 ms
+traceroute to planetlab2.utdallas.edu (129.110.125.52), 30 hops max, 60 byte packets
+ 1  133.9.81.190 (133.9.81.190)  0.715 ms  1.176 ms  1.568 ms
+ 2  cl2948gl3.goto.info.waseda.ac.jp (133.9.81.254)  0.649 ms  0.863 ms  1.113 ms
+ 3  133.9.77.62 (133.9.77.62)  0.414 ms  0.424 ms  0.410 ms
+ 4  tokyo1-RM-XE-9-0-11-20.s5.sinet.ad.jp (150.99.187.69)  0.740 ms  0.735 ms  0.722 ms
+ 5  tokyo1-GM-AE0-100.s5.sinet.ad.jp (150.99.64.29)  0.709 ms  0.679 ms  0.680 ms
+ 6  lax-GM-ET-2-1-0-100.s5.sinet.ad.jp (150.99.89.243)  101.731 ms  101.429 ms  101.418 ms
+ 7  abilene.lax.gw.sinet.ad.jp (150.99.199.94)  108.154 ms  108.049 ms  108.038 ms
+ 8  et-1-0-0.111.rtr.hous.net.internet2.edu (198.71.45.20)  140.440 ms  140.447 ms  140.436 ms
+ 9  74.200.187.33 (74.200.187.33)  145.745 ms  145.734 ms  145.722 ms
+10  vl-430-utd-ntg-gw1.dfw.tx-learn.net (208.76.227.222)  138.146 ms  138.163 ms  138.279 ms
+11   (129.110.125.52)  141.184 ms  141.174 ms  141.162 ms
+traceroute to planetlab2.utdallas.edu (129.110.125.52), 30 hops max, 60 byte packets
+ 1  133.9.81.190 (133.9.81.190)  4.188 ms  4.602 ms  4.988 ms
+ 2  cl2948gl3.goto.info.waseda.ac.jp (133.9.81.254)  0.651 ms  0.856 ms  1.123 ms
+ 3  133.9.77.62 (133.9.77.62)  0.413 ms  0.407 ms  0.394 ms
+ 4  tokyo1-RM-XE-9-0-11-20.s5.sinet.ad.jp (150.99.187.69)  4.650 ms  4.640 ms  4.627 ms
+ 5  tokyo1-GM-AE0-100.s5.sinet.ad.jp (150.99.64.29)  0.702 ms  0.673 ms  0.670 ms
+ 6  lax-GM-ET-2-1-0-100.s5.sinet.ad.jp (150.99.89.243)  99.314 ms  99.316 ms  99.296 ms
+ 7  abilene.lax.gw.sinet.ad.jp (150.99.199.94)  107.933 ms  107.972 ms  108.000 ms
+ 8  et-1-0-0.111.rtr.hous.net.internet2.edu (198.71.45.20)  141.057 ms  141.047 ms  141.035 ms
+ 9  74.200.187.33 (74.200.187.33)  145.788 ms  154.528 ms  145.809 ms
+10  vl-430-utd-ntg-gw1.dfw.tx-learn.net (208.76.227.222)  138.165 ms  138.176 ms  138.164 ms
+11  planetlab2.utdallas.edu (129.110.125.52)  141.032 ms  141.041 ms  141.030 ms
+traceroute to planetlab2.utdallas.edu (129.110.125.52), 30 hops max, 60 byte packets
+ 1  133.9.81.190 (133.9.81.190)  0.717 ms  1.200 ms  1.579 ms
+ 2  cl2948gl3.goto.info.waseda.ac.jp (133.9.81.254)  0.649 ms  0.850 ms  1.122 ms
+ 3  133.9.77.62 (133.9.77.62)  0.409 ms  0.423 ms  0.422 ms
+ 4  tokyo1-RM-XE-9-0-11-20.s5.sinet.ad.jp (150.99.187.69)  0.731 ms  0.718 ms  0.704 ms
+ 5  tokyo1-GM-AE0-100.s5.sinet.ad.jp (150.99.64.29)  0.696 ms  0.673 ms  0.667 ms
+ 6  lax-GM-ET-2-1-0-100.s5.sinet.ad.jp (150.99.89.243)  99.287 ms  99.323 ms  99.311 ms
+ 7  abilene.lax.gw.sinet.ad.jp (150.99.199.94)  108.014 ms  109.439 ms  109.428 ms
+ 8  et-1-0-0.111.rtr.hous.net.internet2.edu (198.71.45.20)  143.156 ms  143.166 ms  143.155 ms
+ 9  74.200.187.33 (74.200.187.33)  147.591 ms  147.583 ms  147.695 ms
+10  vl-430-utd-ntg-gw1.dfw.tx-learn.net (208.76.227.222)  138.196 ms  138.191 ms  138.179 ms
+11  planetlab2.utdallas.edu (129.110.125.52)  140.872 ms  140.883 ms  140.873 ms
+traceroute to planetlab2.utdallas.edu (129.110.125.52), 30 hops max, 60 byte packets
+ 1  133.9.81.190 (133.9.81.190)  1.998 ms  2.420 ms  2.794 ms
+ 2  cl2948gl3.goto.info.waseda.ac.jp (133.9.81.254)  0.657 ms  0.864 ms  1.094 ms
+ 3  133.9.77.62 (133.9.77.62)  0.416 ms  0.429 ms  0.417 ms
+ 4  tokyo1-RM-XE-9-0-11-20.s5.sinet.ad.jp (150.99.187.69)  0.743 ms  0.738 ms  0.725 ms
+ 5  tokyo1-GM-AE0-100.s5.sinet.ad.jp (150.99.64.29)  0.710 ms  0.675 ms  0.677 ms
+ 6  lax-GM-ET-2-1-0-100.s5.sinet.ad.jp (150.99.89.243)  99.308 ms  99.335 ms  99.323 ms
+ 7  abilene.lax.gw.sinet.ad.jp (150.99.199.94)  108.001 ms  108.020 ms  108.095 ms
+ 8  et-1-0-0.111.rtr.hous.net.internet2.edu (198.71.45.20)  140.443 ms  140.434 ms  140.422 ms
+ 9  74.200.187.33 (74.200.187.33)  145.902 ms  145.891 ms  145.879 ms
+10  vl-430-utd-ntg-gw1.dfw.tx-learn.net (208.76.227.222)  138.268 ms  138.101 ms  138.185 ms
+11  planetlab2.utdallas.edu (129.110.125.52)  141.064 ms  141.064 ms  141.068 ms
+traceroute to planetlab2.utdallas.edu (129.110.125.52), 30 hops max, 60 byte packets
+ 1  133.9.81.190 (133.9.81.190)  0.993 ms  1.432 ms  1.856 ms
+ 2  cl2948gl3.goto.info.waseda.ac.jp (133.9.81.254)  0.645 ms  0.902 ms  1.128 ms
+ 3  133.9.77.62 (133.9.77.62)  0.621 ms  0.716 ms  0.738 ms
+ 4  tokyo1-RM-XE-9-0-11-20.s5.sinet.ad.jp (150.99.187.69)  0.703 ms  0.691 ms  0.679 ms
+ 5  tokyo1-GM-AE0-100.s5.sinet.ad.jp (150.99.64.29)  0.676 ms  0.652 ms  0.643 ms
+ 6  lax-GM-ET-2-1-0-100.s5.sinet.ad.jp (150.99.89.243)  99.312 ms  99.328 ms  99.319 ms
+ 7  abilene.lax.gw.sinet.ad.jp (150.99.199.94)  119.266 ms  119.258 ms  119.243 ms
+ 8  et-1-0-0.111.rtr.hous.net.internet2.edu (198.71.45.20)  150.922 ms  150.917 ms  150.902 ms
+ 9  74.200.187.33 (74.200.187.33)  155.348 ms  155.339 ms  146.821 ms
+10  vl-430-utd-ntg-gw1.dfw.tx-learn.net (208.76.227.222)  138.193 ms  138.165 ms  138.156 ms
+11  planetlab2.utdallas.edu (129.110.125.52)  140.824 ms  140.816 ms  140.804 ms
+traceroute to planetlab2.utdallas.edu (129.110.125.52), 30 hops max, 60 byte packets
+ 1  133.9.81.190 (133.9.81.190)  0.555 ms  0.851 ms  1.091 ms
+ 2  cl2948gl3.goto.info.waseda.ac.jp (133.9.81.254)  0.650 ms  0.833 ms  1.043 ms
+ 3  133.9.77.62 (133.9.77.62)  0.409 ms  0.419 ms  0.411 ms
+ 4  tokyo1-RM-XE-9-0-11-20.s5.sinet.ad.jp (150.99.187.69)  0.710 ms  0.686 ms  0.682 ms
+ 5  tokyo1-GM-AE0-100.s5.sinet.ad.jp (150.99.64.29)  0.655 ms  0.641 ms  0.634 ms
+ 6  lax-GM-ET-2-1-0-100.s5.sinet.ad.jp (150.99.89.243)  99.321 ms  99.321 ms  99.311 ms
+ 7  abilene.lax.gw.sinet.ad.jp (150.99.199.94)  107.943 ms  108.154 ms  107.918 ms
+ 8  et-1-0-0.111.rtr.hous.net.internet2.edu (198.71.45.20)  141.125 ms  141.134 ms  141.138 ms
+ 9  74.200.187.33 (74.200.187.33)  147.329 ms  147.315 ms  147.302 ms
+10  vl-430-utd-ntg-gw1.dfw.tx-learn.net (208.76.227.222)  138.103 ms  138.114 ms  138.237 ms
+11  planetlab2.utdallas.edu (129.110.125.52)  140.986 ms  140.973 ms  140.974 ms
+traceroute to planetlab2.utdallas.edu (129.110.125.52), 30 hops max, 60 byte packets
+ 1  133.9.81.190 (133.9.81.190)  0.735 ms  1.208 ms  1.587 ms
+ 2  cl2948gl3.goto.info.waseda.ac.jp (133.9.81.254)  0.659 ms  0.860 ms  1.140 ms
+ 3  133.9.77.62 (133.9.77.62)  0.408 ms  0.401 ms  0.389 ms
+ 4  tokyo1-RM-XE-9-0-11-20.s5.sinet.ad.jp (150.99.187.69)  0.750 ms  0.730 ms  0.716 ms
+ 5  tokyo1-GM-AE0-100.s5.sinet.ad.jp (150.99.64.29)  0.689 ms  0.660 ms  0.668 ms
+ 6  lax-GM-ET-2-1-0-100.s5.sinet.ad.jp (150.99.89.243)  99.230 ms  99.332 ms  99.307 ms
+ 7  abilene.lax.gw.sinet.ad.jp (150.99.199.94)  108.056 ms  108.682 ms  108.673 ms
+ 8  et-1-0-0.111.rtr.hous.net.internet2.edu (198.71.45.20)  140.542 ms  140.554 ms  140.541 ms
+ 9  74.200.187.33 (74.200.187.33)  145.770 ms  145.778 ms  145.766 ms
+10  vl-430-utd-ntg-gw1.dfw.tx-learn.net (208.76.227.222)  138.143 ms  138.155 ms  138.238 ms
+11  planetlab2.utdallas.edu (129.110.125.52)  141.018 ms  141.010 ms  140.999 ms
+traceroute to planetlab2.utdallas.edu (129.110.125.52), 30 hops max, 60 byte packets
+ 1  133.9.81.190 (133.9.81.190)  0.578 ms  0.842 ms  1.081 ms
+ 2  cl2948gl3.goto.info.waseda.ac.jp (133.9.81.254)  0.653 ms  0.816 ms  1.034 ms
+ 3  133.9.77.62 (133.9.77.62)  0.429 ms  0.439 ms  0.432 ms
+ 4  tokyo1-RM-XE-9-0-11-20.s5.sinet.ad.jp (150.99.187.69)  0.705 ms  0.693 ms  0.679 ms
+ 5  tokyo1-GM-AE0-100.s5.sinet.ad.jp (150.99.64.29)  0.663 ms  0.648 ms  0.639 ms
+ 6  lax-GM-ET-2-1-0-100.s5.sinet.ad.jp (150.99.89.243)  99.315 ms  99.352 ms  99.340 ms
+ 7  abilene.lax.gw.sinet.ad.jp (150.99.199.94)  107.971 ms  107.961 ms  108.420 ms
+ 8  et-1-0-0.111.rtr.hous.net.internet2.edu (198.71.45.20)  140.700 ms  140.694 ms  140.681 ms
+ 9  74.200.187.33 (74.200.187.33)  146.068 ms  146.058 ms  146.036 ms
+10  vl-430-utd-ntg-gw1.dfw.tx-learn.net (208.76.227.222)  138.171 ms  138.163 ms  138.153 ms
+11  planetlab2.utdallas.edu (129.110.125.52)  140.938 ms  140.930 ms  140.877 ms
+traceroute to planetlab2.utdallas.edu (129.110.125.52), 30 hops max, 60 byte packets
+ 1  133.9.81.190 (133.9.81.190)  0.720 ms  1.169 ms  1.591 ms
+ 2  cl2948gl3.goto.info.waseda.ac.jp (133.9.81.254)  0.648 ms  0.876 ms  1.087 ms
+ 3  133.9.77.62 (133.9.77.62)  0.408 ms  0.419 ms  0.408 ms
+ 4  tokyo1-RM-XE-9-0-11-20.s5.sinet.ad.jp (150.99.187.69)  0.767 ms  0.754 ms  0.752 ms
+ 5  tokyo1-GM-AE0-100.s5.sinet.ad.jp (150.99.64.29)  0.720 ms  0.681 ms  0.690 ms
+ 6  lax-GM-ET-2-1-0-100.s5.sinet.ad.jp (150.99.89.243)  99.293 ms  99.421 ms  99.411 ms
+ 7  abilene.lax.gw.sinet.ad.jp (150.99.199.94)  107.908 ms  108.015 ms  108.011 ms
+ 8  et-1-0-0.111.rtr.hous.net.internet2.edu (198.71.45.20)  140.783 ms  140.790 ms  140.778 ms
+ 9  74.200.187.33 (74.200.187.33)  145.915 ms  145.906 ms  145.894 ms
+10  vl-430-utd-ntg-gw1.dfw.tx-learn.net (208.76.227.222)  138.235 ms  138.247 ms  138.237 ms
+11  planetlab2.utdallas.edu (129.110.125.52)  140.884 ms  140.858 ms  140.991 ms
+traceroute to planetlab2.utdallas.edu (129.110.125.52), 30 hops max, 60 byte packets
+ 1  133.9.81.190 (133.9.81.190)  0.717 ms  1.174 ms  1.588 ms
+ 2  cl2948gl3.goto.info.waseda.ac.jp (133.9.81.254)  0.644 ms  0.863 ms  1.104 ms
+ 3  133.9.77.62 (133.9.77.62)  0.421 ms  0.431 ms  0.416 ms
+ 4  tokyo1-RM-XE-9-0-11-20.s5.sinet.ad.jp (150.99.187.69)  0.753 ms  0.730 ms  0.716 ms
+ 5  tokyo1-GM-AE0-100.s5.sinet.ad.jp (150.99.64.29)  0.702 ms  0.663 ms  0.675 ms
+ 6  lax-GM-ET-2-1-0-100.s5.sinet.ad.jp (150.99.89.243)  99.311 ms  99.326 ms  99.307 ms
+ 7  abilene.lax.gw.sinet.ad.jp (150.99.199.94)  108.022 ms  108.088 ms  108.189 ms
+ 8  et-1-0-0.111.rtr.hous.net.internet2.edu (198.71.45.20)  140.650 ms  140.660 ms  140.648 ms
+ 9  74.200.187.33 (74.200.187.33)  153.937 ms  153.925 ms  153.913 ms
+10  vl-430-utd-ntg-gw1.dfw.tx-learn.net (208.76.227.222)  138.350 ms  138.362 ms  138.350 ms
+11  planetlab2.utdallas.edu (129.110.125.52)  140.953 ms  140.949 ms  140.926 ms
+traceroute to planetlab2.utdallas.edu (129.110.125.52), 30 hops max, 60 byte packets
+ 1  133.9.81.190 (133.9.81.190)  0.772 ms  1.138 ms  1.515 ms
+ 2  cl2948gl3.goto.info.waseda.ac.jp (133.9.81.254)  0.654 ms  0.864 ms  1.065 ms
+ 3  133.9.77.62 (133.9.77.62)  0.411 ms  0.409 ms  0.397 ms
+ 4  tokyo1-RM-XE-9-0-11-20.s5.sinet.ad.jp (150.99.187.69)  0.731 ms  0.723 ms  0.713 ms
+ 5  tokyo1-GM-AE0-100.s5.sinet.ad.jp (150.99.64.29)  0.701 ms  0.671 ms  0.670 ms
+ 6  lax-GM-ET-2-1-0-100.s5.sinet.ad.jp (150.99.89.243)  99.295 ms  99.319 ms  99.299 ms
+ 7  abilene.lax.gw.sinet.ad.jp (150.99.199.94)  107.921 ms  108.058 ms  108.057 ms
+ 8  et-1-0-0.111.rtr.hous.net.internet2.edu (198.71.45.20)  140.694 ms  140.702 ms  140.691 ms
+ 9  74.200.187.33 (74.200.187.33)  146.435 ms  146.424 ms  146.624 ms
+10  vl-430-utd-ntg-gw1.dfw.tx-learn.net (208.76.227.222)  138.297 ms  138.314 ms  138.302 ms
+11  planetlab2.utdallas.edu (129.110.125.52)  140.949 ms  140.939 ms  140.928 ms
+traceroute to planetlab2.utdallas.edu (129.110.125.52), 30 hops max, 60 byte packets
+ 1  133.9.81.190 (133.9.81.190)  0.720 ms  1.210 ms  1.593 ms
+ 2  cl2948gl3.goto.info.waseda.ac.jp (133.9.81.254)  0.650 ms  0.880 ms  1.145 ms
+ 3  133.9.77.62 (133.9.77.62)  0.407 ms  0.419 ms  0.407 ms
+ 4  tokyo1-RM-XE-9-0-11-20.s5.sinet.ad.jp (150.99.187.69)  0.748 ms  0.746 ms  0.734 ms
+ 5  tokyo1-GM-AE0-100.s5.sinet.ad.jp (150.99.64.29)  0.707 ms  0.684 ms  0.685 ms
+ 6  lax-GM-ET-2-1-0-100.s5.sinet.ad.jp (150.99.89.243)  100.038 ms  99.753 ms  99.730 ms
+ 7  abilene.lax.gw.sinet.ad.jp (150.99.199.94)  108.074 ms  108.769 ms  108.757 ms
+ 8  et-1-0-0.111.rtr.hous.net.internet2.edu (198.71.45.20)  141.955 ms  141.942 ms  141.928 ms
+ 9  74.200.187.33 (74.200.187.33)  146.836 ms  146.828 ms  146.944 ms
+10  vl-430-utd-ntg-gw1.dfw.tx-learn.net (208.76.227.222)  138.264 ms  138.276 ms  138.265 ms
+11  planetlab2.utdallas.edu (129.110.125.52)  140.948 ms  140.957 ms  140.954 ms
+traceroute to planetlab2.utdallas.edu (129.110.125.52), 30 hops max, 60 byte packets
+ 1  133.9.81.190 (133.9.81.190)  0.749 ms  1.176 ms  1.640 ms
+ 2  cl2948gl3.goto.info.waseda.ac.jp (133.9.81.254)  0.664 ms  0.859 ms  1.098 ms
+ 3  133.9.77.62 (133.9.77.62)  0.427 ms  0.419 ms  0.406 ms
+ 4  tokyo1-RM-XE-9-0-11-20.s5.sinet.ad.jp (150.99.187.69)  0.737 ms  0.728 ms  0.693 ms
+ 5  tokyo1-GM-AE0-100.s5.sinet.ad.jp (150.99.64.29)  0.689 ms  0.663 ms  0.657 ms
+ 6  lax-GM-ET-2-1-0-100.s5.sinet.ad.jp (150.99.89.243)  99.345 ms  99.321 ms  99.310 ms
+ 7  abilene.lax.gw.sinet.ad.jp (150.99.199.94)  108.078 ms  108.842 ms  108.830 ms
+ 8  et-1-0-0.111.rtr.hous.net.internet2.edu (198.71.45.20)  140.382 ms  140.387 ms  140.375 ms
+ 9  74.200.187.33 (74.200.187.33)  146.001 ms  146.013 ms  146.000 ms
+10  vl-430-utd-ntg-gw1.dfw.tx-learn.net (208.76.227.222)  138.214 ms  138.225 ms  138.211 ms
+11  planetlab2.utdallas.edu (129.110.125.52)  140.847 ms  140.871 ms  140.956 ms
+traceroute to planetlab2.utdallas.edu (129.110.125.52), 30 hops max, 60 byte packets
+ 1  133.9.81.190 (133.9.81.190)  0.554 ms  0.840 ms  1.069 ms
+ 2  cl2948gl3.goto.info.waseda.ac.jp (133.9.81.254)  0.649 ms  0.824 ms  1.123 ms
+ 3  133.9.77.62 (133.9.77.62)  0.405 ms  0.416 ms  0.410 ms
+ 4  tokyo1-RM-XE-9-0-11-20.s5.sinet.ad.jp (150.99.187.69)  0.705 ms  0.700 ms  0.687 ms
+ 5  tokyo1-GM-AE0-100.s5.sinet.ad.jp (150.99.64.29)  0.659 ms  0.636 ms  0.637 ms
+ 6  lax-GM-ET-2-1-0-100.s5.sinet.ad.jp (150.99.89.243)  99.288 ms  99.326 ms  99.313 ms
+ 7  abilene.lax.gw.sinet.ad.jp (150.99.199.94)  108.681 ms  108.674 ms  108.023 ms
+ 8  et-1-0-0.111.rtr.hous.net.internet2.edu (198.71.45.20)  142.540 ms  142.527 ms  142.516 ms
+ 9  74.200.187.33 (74.200.187.33)  148.751 ms  148.741 ms  148.728 ms
+10  vl-430-utd-ntg-gw1.dfw.tx-learn.net (208.76.227.222)  138.163 ms  138.288 ms  138.256 ms
+11  planetlab2.utdallas.edu (129.110.125.52)  140.973 ms  140.963 ms  140.923 ms
+traceroute to planetlab2.utdallas.edu (129.110.125.52), 30 hops max, 60 byte packets
+ 1  133.9.81.190 (133.9.81.190)  0.720 ms  1.192 ms  1.575 ms
+ 2  cl2948gl3.goto.info.waseda.ac.jp (133.9.81.254)  0.649 ms  0.880 ms  1.125 ms
+ 3  133.9.77.62 (133.9.77.62)  0.421 ms  0.428 ms  0.405 ms
+ 4  tokyo1-RM-XE-9-0-11-20.s5.sinet.ad.jp (150.99.187.69)  0.756 ms  0.740 ms  0.724 ms
+ 5  tokyo1-GM-AE0-100.s5.sinet.ad.jp (150.99.64.29)  1.102 ms  0.964 ms  1.080 ms
+ 6  lax-GM-ET-2-1-0-100.s5.sinet.ad.jp (150.99.89.243)  99.639 ms  99.563 ms  99.537 ms
+ 7  abilene.lax.gw.sinet.ad.jp (150.99.199.94)  108.129 ms  108.799 ms  108.785 ms
+ 8  et-1-0-0.111.rtr.hous.net.internet2.edu (198.71.45.20)  140.535 ms  140.552 ms  140.540 ms
+ 9  74.200.187.33 (74.200.187.33)  145.746 ms  145.757 ms  145.746 ms
+10  vl-430-utd-ntg-gw1.dfw.tx-learn.net (208.76.227.222)  138.176 ms  138.187 ms  138.175 ms
+11  planetlab2.utdallas.edu (129.110.125.52)  140.827 ms  140.817 ms  140.804 ms
+traceroute to planetlab2.utdallas.edu (129.110.125.52), 30 hops max, 60 byte packets
+ 1  133.9.81.190 (133.9.81.190)  0.718 ms  1.189 ms  1.577 ms
+ 2  cl2948gl3.goto.info.waseda.ac.jp (133.9.81.254)  0.648 ms  0.855 ms  1.123 ms
+ 3  133.9.77.62 (133.9.77.62)  0.405 ms  0.398 ms  0.384 ms
+ 4  tokyo1-RM-XE-9-0-11-20.s5.sinet.ad.jp (150.99.187.69)  0.731 ms  0.726 ms  0.713 ms
+ 5  tokyo1-GM-AE0-100.s5.sinet.ad.jp (150.99.64.29)  0.685 ms  0.683 ms  0.669 ms
+ 6  lax-GM-ET-2-1-0-100.s5.sinet.ad.jp (150.99.89.243)  99.326 ms  99.332 ms  99.312 ms
+ 7  abilene.lax.gw.sinet.ad.jp (150.99.199.94)  108.413 ms  108.514 ms  108.509 ms
+ 8  et-1-0-0.111.rtr.hous.net.internet2.edu (198.71.45.20)  140.498 ms  140.507 ms  140.493 ms
+ 9  74.200.187.33 (74.200.187.33)  145.842 ms  145.832 ms  145.819 ms
+10  vl-430-utd-ntg-gw1.dfw.tx-learn.net (208.76.227.222)  138.075 ms  138.087 ms  138.202 ms
+11  planetlab2.utdallas.edu (129.110.125.52)  140.902 ms  140.887 ms  140.864 ms
+traceroute to planetlab2.utdallas.edu (129.110.125.52), 30 hops max, 60 byte packets
+ 1  133.9.81.190 (133.9.81.190)  0.732 ms  1.182 ms  1.570 ms
+ 2  cl2948gl3.goto.info.waseda.ac.jp (133.9.81.254)  0.642 ms  0.841 ms  1.118 ms
+ 3  133.9.77.62 (133.9.77.62)  0.416 ms  0.407 ms  0.395 ms
+ 4  tokyo1-RM-XE-9-0-11-20.s5.sinet.ad.jp (150.99.187.69)  0.720 ms  0.709 ms  0.692 ms
+ 5  tokyo1-GM-AE0-100.s5.sinet.ad.jp (150.99.64.29)  0.681 ms  0.658 ms  0.649 ms
+ 6  lax-GM-ET-2-1-0-100.s5.sinet.ad.jp (150.99.89.243)  99.294 ms  99.326 ms  99.315 ms
+ 7  abilene.lax.gw.sinet.ad.jp (150.99.199.94)  107.940 ms  107.991 ms  107.980 ms
+ 8  et-1-0-0.111.rtr.hous.net.internet2.edu (198.71.45.20)  140.747 ms  140.758 ms  140.746 ms
+ 9  74.200.187.33 (74.200.187.33)  146.197 ms  146.188 ms  146.173 ms
+10  vl-430-utd-ntg-gw1.dfw.tx-learn.net (208.76.227.222)  138.248 ms  138.259 ms  138.247 ms
+11  planetlab2.utdallas.edu (129.110.125.52)  140.923 ms  140.921 ms  140.895 ms
+traceroute to planetlab2.utdallas.edu (129.110.125.52), 30 hops max, 60 byte packets
+ 1  133.9.81.190 (133.9.81.190)  0.716 ms  1.179 ms  1.548 ms
+ 2  cl2948gl3.goto.info.waseda.ac.jp (133.9.81.254)  0.628 ms  0.861 ms  1.101 ms
+ 3  133.9.77.62 (133.9.77.62)  0.417 ms  0.409 ms  0.396 ms
+ 4  tokyo1-RM-XE-9-0-11-20.s5.sinet.ad.jp (150.99.187.69)  0.758 ms  0.749 ms  0.740 ms
+ 5  tokyo1-GM-AE0-100.s5.sinet.ad.jp (150.99.64.29)  0.700 ms  0.675 ms  0.673 ms
+ 6  lax-GM-ET-2-1-0-100.s5.sinet.ad.jp (150.99.89.243)  99.300 ms  99.323 ms  99.311 ms
+ 7  abilene.lax.gw.sinet.ad.jp (150.99.199.94)  108.131 ms  108.115 ms  108.166 ms
+ 8  et-1-0-0.111.rtr.hous.net.internet2.edu (198.71.45.20)  140.393 ms  140.379 ms  140.487 ms
+ 9  74.200.187.33 (74.200.187.33)  145.733 ms  145.922 ms  145.913 ms
+10  vl-430-utd-ntg-gw1.dfw.tx-learn.net (208.76.227.222)  138.189 ms  138.176 ms  138.163 ms
+11  planetlab2.utdallas.edu (129.110.125.52)  140.836 ms  140.902 ms  140.891 ms
+traceroute to planetlab2.utdallas.edu (129.110.125.52), 30 hops max, 60 byte packets
+ 1  133.9.81.190 (133.9.81.190)  0.557 ms  0.837 ms  1.071 ms
+ 2  cl2948gl3.goto.info.waseda.ac.jp (133.9.81.254)  0.632 ms  0.805 ms  1.021 ms
+ 3  133.9.77.62 (133.9.77.62)  0.417 ms  0.408 ms  0.401 ms
+ 4  tokyo1-RM-XE-9-0-11-20.s5.sinet.ad.jp (150.99.187.69)  1.568 ms  1.557 ms  1.543 ms
+ 5  tokyo1-GM-AE0-100.s5.sinet.ad.jp (150.99.64.29)  0.632 ms  0.609 ms  0.602 ms
+ 6  lax-GM-ET-2-1-0-100.s5.sinet.ad.jp (150.99.89.243)  99.298 ms  99.363 ms  99.347 ms
+ 7  abilene.lax.gw.sinet.ad.jp (150.99.199.94)  108.026 ms  108.017 ms  107.935 ms
+ 8  et-1-0-0.111.rtr.hous.net.internet2.edu (198.71.45.20)  140.302 ms  140.409 ms  140.400 ms
+ 9  74.200.187.33 (74.200.187.33)  145.898 ms  145.887 ms  145.875 ms
+10  vl-430-utd-ntg-gw1.dfw.tx-learn.net (208.76.227.222)  138.283 ms  138.296 ms  138.402 ms
+11  planetlab2.utdallas.edu (129.110.125.52)  141.135 ms  141.109 ms  141.032 ms
+traceroute to planetlab2.utdallas.edu (129.110.125.52), 30 hops max, 60 byte packets
+ 1  133.9.81.190 (133.9.81.190)  0.757 ms  1.158 ms  1.582 ms
+ 2  cl2948gl3.goto.info.waseda.ac.jp (133.9.81.254)  0.659 ms  0.867 ms  1.081 ms
+ 3  133.9.77.62 (133.9.77.62)  0.406 ms  0.398 ms  0.385 ms
+ 4  tokyo1-RM-XE-9-0-11-20.s5.sinet.ad.jp (150.99.187.69)  1.928 ms  1.918 ms  1.905 ms
+ 5  tokyo1-GM-AE0-100.s5.sinet.ad.jp (150.99.64.29)  1.391 ms  0.687 ms  1.446 ms
+ 6  lax-GM-ET-2-1-0-100.s5.sinet.ad.jp (150.99.89.243)  99.291 ms  99.333 ms  99.319 ms
+ 7  abilene.lax.gw.sinet.ad.jp (150.99.199.94)  108.095 ms  107.956 ms  107.906 ms
+ 8  et-1-0-0.111.rtr.hous.net.internet2.edu (198.71.45.20)  140.542 ms  140.528 ms  140.515 ms
+ 9  74.200.187.33 (74.200.187.33)  146.763 ms  146.758 ms  146.746 ms
+10  vl-430-utd-ntg-gw1.dfw.tx-learn.net (208.76.227.222)  138.263 ms  138.256 ms  138.244 ms
+11  planetlab2.utdallas.edu (129.110.125.52)  140.896 ms  140.884 ms  140.869 ms
+traceroute to planetlab2.utdallas.edu (129.110.125.52), 30 hops max, 60 byte packets
+ 1  133.9.81.190 (133.9.81.190)  0.550 ms  0.865 ms  1.096 ms
+ 2  cl2948gl3.goto.info.waseda.ac.jp (133.9.81.254)  0.650 ms  0.842 ms  1.050 ms
+ 3  133.9.77.62 (133.9.77.62)  0.413 ms  0.405 ms  0.392 ms
+ 4  tokyo1-RM-XE-9-0-11-20.s5.sinet.ad.jp (150.99.187.69)  0.727 ms  0.714 ms  0.699 ms
+ 5  tokyo1-GM-AE0-100.s5.sinet.ad.jp (150.99.64.29)  0.690 ms  0.645 ms  0.641 ms
+ 6  lax-GM-ET-2-1-0-100.s5.sinet.ad.jp (150.99.89.243)  99.293 ms  99.323 ms  99.316 ms
+ 7  abilene.lax.gw.sinet.ad.jp (150.99.199.94)  107.958 ms  107.948 ms  108.170 ms
+ 8  et-1-0-0.111.rtr.hous.net.internet2.edu (198.71.45.20)  145.535 ms  145.521 ms  145.508 ms
+ 9  74.200.187.33 (74.200.187.33)  145.763 ms  145.752 ms  145.738 ms
+10  vl-430-utd-ntg-gw1.dfw.tx-learn.net (208.76.227.222)  138.176 ms  138.167 ms  138.155 ms
+11  planetlab2.utdallas.edu (129.110.125.52)  140.749 ms  140.858 ms  140.846 ms
+traceroute to planetlab2.utdallas.edu (129.110.125.52), 30 hops max, 60 byte packets
+ 1  133.9.81.190 (133.9.81.190)  0.570 ms  0.863 ms  1.093 ms
+ 2  cl2948gl3.goto.info.waseda.ac.jp (133.9.81.254)  0.648 ms  0.822 ms  1.043 ms
+ 3  133.9.77.62 (133.9.77.62)  0.413 ms  0.424 ms  0.416 ms
+ 4  tokyo1-RM-XE-9-0-11-20.s5.sinet.ad.jp (150.99.187.69)  6.992 ms  6.971 ms  6.958 ms
+ 5  tokyo1-GM-AE0-100.s5.sinet.ad.jp (150.99.64.29)  0.652 ms  0.639 ms  0.627 ms
+ 6  lax-GM-ET-2-1-0-100.s5.sinet.ad.jp (150.99.89.243)  99.312 ms  99.282 ms  99.332 ms
+ 7  abilene.lax.gw.sinet.ad.jp (150.99.199.94)  107.965 ms  107.955 ms  107.915 ms
+ 8  et-1-0-0.111.rtr.hous.net.internet2.edu (198.71.45.20)  140.333 ms  140.319 ms  140.394 ms
+ 9  74.200.187.33 (74.200.187.33)  145.738 ms  145.727 ms  145.715 ms
+10  vl-430-utd-ntg-gw1.dfw.tx-learn.net (208.76.227.222)  138.238 ms  138.357 ms  138.347 ms
+11  planetlab2.utdallas.edu (129.110.125.52)  140.991 ms  140.985 ms  140.963 ms
+traceroute to planetlab2.utdallas.edu (129.110.125.52), 30 hops max, 60 byte packets
+ 1  133.9.81.190 (133.9.81.190)  0.550 ms  0.853 ms  1.093 ms
+ 2  cl2948gl3.goto.info.waseda.ac.jp (133.9.81.254)  0.649 ms  0.822 ms  1.046 ms
+ 3  133.9.77.62 (133.9.77.62)  0.405 ms  0.416 ms  0.407 ms
+ 4  tokyo1-RM-XE-9-0-11-20.s5.sinet.ad.jp (150.99.187.69)  0.696 ms  0.683 ms  0.669 ms
+ 5  tokyo1-GM-AE0-100.s5.sinet.ad.jp (150.99.64.29)  0.659 ms  0.646 ms  0.632 ms
+ 6  lax-GM-ET-2-1-0-100.s5.sinet.ad.jp (150.99.89.243)  99.353 ms  99.355 ms  99.348 ms
+ 7  abilene.lax.gw.sinet.ad.jp (150.99.199.94)  108.219 ms  108.208 ms  107.998 ms
+ 8  et-1-0-0.111.rtr.hous.net.internet2.edu (198.71.45.20)  142.266 ms  142.255 ms  142.238 ms
+ 9  74.200.187.33 (74.200.187.33)  145.890 ms  145.879 ms  145.866 ms
+10  vl-430-utd-ntg-gw1.dfw.tx-learn.net (208.76.227.222)  138.143 ms  138.134 ms  138.120 ms
+11  planetlab2.utdallas.edu (129.110.125.52)  140.999 ms  140.973 ms  141.145 ms
+traceroute to planetlab2.utdallas.edu (129.110.125.52), 30 hops max, 60 byte packets
+ 1  133.9.81.190 (133.9.81.190)  0.731 ms  1.180 ms  1.576 ms
+ 2  cl2948gl3.goto.info.waseda.ac.jp (133.9.81.254)  0.660 ms  0.850 ms  1.099 ms
+ 3  133.9.77.62 (133.9.77.62)  0.418 ms  0.427 ms  0.415 ms
+ 4  tokyo1-RM-XE-9-0-11-20.s5.sinet.ad.jp (150.99.187.69)  0.735 ms  0.723 ms  0.713 ms
+ 5  tokyo1-GM-AE0-100.s5.sinet.ad.jp (150.99.64.29)  0.700 ms  0.674 ms  0.674 ms
+ 6  lax-GM-ET-2-1-0-100.s5.sinet.ad.jp (150.99.89.243)  99.323 ms  99.333 ms  99.322 ms
+ 7  abilene.lax.gw.sinet.ad.jp (150.99.199.94)  108.027 ms  107.924 ms  107.941 ms
+ 8  et-1-0-0.111.rtr.hous.net.internet2.edu (198.71.45.20)  140.397 ms  140.405 ms  140.395 ms
+ 9  74.200.187.33 (74.200.187.33)  145.715 ms  145.830 ms  145.820 ms
+10  vl-430-utd-ntg-gw1.dfw.tx-learn.net (208.76.227.222)  138.195 ms  138.207 ms  138.196 ms
+11  planetlab2.utdallas.edu (129.110.125.52)  140.839 ms  140.826 ms  140.812 ms
+traceroute to planetlab2.utdallas.edu (129.110.125.52), 30 hops max, 60 byte packets
+ 1  133.9.81.190 (133.9.81.190)  0.541 ms  0.823 ms  1.052 ms
+ 2  cl2948gl3.goto.info.waseda.ac.jp (133.9.81.254)  0.649 ms  0.906 ms  1.126 ms
+ 3  133.9.77.62 (133.9.77.62)  0.406 ms  0.398 ms  0.391 ms
+ 4  tokyo1-RM-XE-9-0-11-20.s5.sinet.ad.jp (150.99.187.69)  0.688 ms  0.674 ms  0.667 ms
+ 5  tokyo1-GM-AE0-100.s5.sinet.ad.jp (150.99.64.29)  0.636 ms  0.604 ms  0.610 ms
+ 6  lax-GM-ET-2-1-0-100.s5.sinet.ad.jp (150.99.89.243)  99.303 ms  99.349 ms  99.335 ms
+ 7  abilene.lax.gw.sinet.ad.jp (150.99.199.94)  108.009 ms  107.987 ms  108.062 ms
+ 8  et-1-0-0.111.rtr.hous.net.internet2.edu (198.71.45.20)  140.433 ms  140.423 ms  140.409 ms
+ 9  74.200.187.33 (74.200.187.33)  145.785 ms  145.775 ms  145.762 ms
+10  vl-430-utd-ntg-gw1.dfw.tx-learn.net (208.76.227.222)  138.157 ms  138.147 ms  138.135 ms
+11  planetlab2.utdallas.edu (129.110.125.52)  140.861 ms  140.848 ms  140.846 ms
+traceroute to planetlab2.utdallas.edu (129.110.125.52), 30 hops max, 60 byte packets
+ 1  133.9.81.190 (133.9.81.190)  0.722 ms  1.212 ms  1.603 ms
+ 2  cl2948gl3.goto.info.waseda.ac.jp (133.9.81.254)  0.654 ms  0.848 ms  1.131 ms
+ 3  133.9.77.62 (133.9.77.62)  0.428 ms  0.439 ms  0.429 ms
+ 4  tokyo1-RM-XE-9-0-11-20.s5.sinet.ad.jp (150.99.187.69)  0.716 ms  0.706 ms  0.693 ms
+ 5  tokyo1-GM-AE0-100.s5.sinet.ad.jp (150.99.64.29)  0.684 ms  0.662 ms  0.654 ms
+ 6  lax-GM-ET-2-1-0-100.s5.sinet.ad.jp (150.99.89.243)  99.315 ms  99.373 ms  99.363 ms
+ 7  abilene.lax.gw.sinet.ad.jp (150.99.199.94)  108.020 ms  108.077 ms  108.064 ms
+ 8  et-1-0-0.111.rtr.hous.net.internet2.edu (198.71.45.20)  140.458 ms  140.445 ms  140.433 ms
+ 9  74.200.187.33 (74.200.187.33)  145.920 ms  145.910 ms  145.898 ms
+10  vl-430-utd-ntg-gw1.dfw.tx-learn.net (208.76.227.222)  138.340 ms  138.331 ms  138.319 ms
+11  planetlab2.utdallas.edu (129.110.125.52)  140.976 ms  140.849 ms  140.949 ms
+traceroute to planetlab2.utdallas.edu (129.110.125.52), 30 hops max, 60 byte packets
+ 1  133.9.81.190 (133.9.81.190)  0.576 ms  0.834 ms  1.056 ms
+ 2  cl2948gl3.goto.info.waseda.ac.jp (133.9.81.254)  0.652 ms  0.909 ms  1.134 ms
+ 3  133.9.77.62 (133.9.77.62)  0.414 ms  0.425 ms  0.417 ms
+ 4  tokyo1-RM-XE-9-0-11-20.s5.sinet.ad.jp (150.99.187.69)  0.690 ms  0.684 ms  0.669 ms
+ 5  tokyo1-GM-AE0-100.s5.sinet.ad.jp (150.99.64.29)  0.657 ms  0.621 ms  0.717 ms
+ 6  lax-GM-ET-2-1-0-100.s5.sinet.ad.jp (150.99.89.243)  99.288 ms  99.350 ms  99.342 ms
+ 7  abilene.lax.gw.sinet.ad.jp (150.99.199.94)  107.921 ms  108.010 ms  107.917 ms
+ 8  et-1-0-0.111.rtr.hous.net.internet2.edu (198.71.45.20)  140.576 ms  140.587 ms  140.577 ms
+ 9  74.200.187.33 (74.200.187.33)  145.744 ms  145.735 ms  145.722 ms
+10  vl-430-utd-ntg-gw1.dfw.tx-learn.net (208.76.227.222)  138.225 ms  138.217 ms  138.207 ms
+11  planetlab2.utdallas.edu (129.110.125.52)  140.955 ms  140.945 ms  140.921 ms
+traceroute to planetlab2.utdallas.edu (129.110.125.52), 30 hops max, 60 byte packets
+ 1  133.9.81.190 (133.9.81.190)  0.695 ms  1.141 ms  1.601 ms
+ 2  cl2948gl3.goto.info.waseda.ac.jp (133.9.81.254)  0.626 ms  0.852 ms  1.060 ms
+ 3  133.9.77.62 (133.9.77.62)  0.425 ms  0.437 ms  0.425 ms
+ 4  tokyo1-RM-XE-9-0-11-20.s5.sinet.ad.jp (150.99.187.69)  0.775 ms  0.759 ms  0.741 ms
+ 5  tokyo1-GM-AE0-100.s5.sinet.ad.jp (150.99.64.29)  0.718 ms  0.687 ms  0.689 ms
+ 6  lax-GM-ET-2-1-0-100.s5.sinet.ad.jp (150.99.89.243)  99.300 ms  99.337 ms  99.313 ms
+ 7  abilene.lax.gw.sinet.ad.jp (150.99.199.94)  107.926 ms  108.715 ms  108.703 ms
+ 8  et-1-0-0.111.rtr.hous.net.internet2.edu (198.71.45.20)  140.637 ms  140.626 ms  140.613 ms
+ 9  74.200.187.33 (74.200.187.33)  145.793 ms  145.919 ms  145.906 ms
+10  vl-430-utd-ntg-gw1.dfw.tx-learn.net (208.76.227.222)  138.235 ms  138.225 ms  138.211 ms
+11  planetlab2.utdallas.edu (129.110.125.52)  140.924 ms  140.942 ms  140.936 ms
+traceroute to planetlab2.utdallas.edu (129.110.125.52), 30 hops max, 60 byte packets
+ 1  133.9.81.190 (133.9.81.190)  0.717 ms  1.190 ms  1.575 ms
+ 2  cl2948gl3.goto.info.waseda.ac.jp (133.9.81.254)  0.653 ms  0.849 ms  1.126 ms
+ 3  133.9.77.62 (133.9.77.62)  0.409 ms  0.399 ms  0.387 ms
+ 4  tokyo1-RM-XE-9-0-11-20.s5.sinet.ad.jp (150.99.187.69)  0.722 ms  0.712 ms  0.697 ms
+ 5  tokyo1-GM-AE0-100.s5.sinet.ad.jp (150.99.64.29)  0.684 ms  0.671 ms  0.657 ms
+ 6  lax-GM-ET-2-1-0-100.s5.sinet.ad.jp (150.99.89.243)  99.362 ms  99.319 ms  99.307 ms
+ 7  abilene.lax.gw.sinet.ad.jp (150.99.199.94)  108.157 ms  108.087 ms  108.072 ms
+ 8  et-1-0-0.111.rtr.hous.net.internet2.edu (198.71.45.20)  140.551 ms  140.561 ms  140.549 ms
+ 9  74.200.187.33 (74.200.187.33)  146.139 ms  146.150 ms  146.139 ms
+10  vl-430-utd-ntg-gw1.dfw.tx-learn.net (208.76.227.222)  138.325 ms  138.318 ms  138.306 ms
+11  planetlab2.utdallas.edu (129.110.125.52)  140.966 ms  140.957 ms  140.992 ms
+traceroute to planetlab2.utdallas.edu (129.110.125.52), 30 hops max, 60 byte packets
+ 1  133.9.81.190 (133.9.81.190)  0.717 ms  1.181 ms  1.598 ms
+ 2  cl2948gl3.goto.info.waseda.ac.jp (133.9.81.254)  0.647 ms  0.884 ms  1.113 ms
+ 3  133.9.77.62 (133.9.77.62)  0.418 ms  0.411 ms  0.398 ms
+ 4  tokyo1-RM-XE-9-0-11-20.s5.sinet.ad.jp (150.99.187.69)  0.768 ms  0.763 ms  0.747 ms
+ 5  tokyo1-GM-AE0-100.s5.sinet.ad.jp (150.99.64.29)  0.719 ms  1.172 ms  0.698 ms
+ 6  lax-GM-ET-2-1-0-100.s5.sinet.ad.jp (150.99.89.243)  99.298 ms  99.323 ms  99.314 ms
+ 7  abilene.lax.gw.sinet.ad.jp (150.99.199.94)  108.048 ms  108.017 ms  108.005 ms
+ 8  et-1-0-0.111.rtr.hous.net.internet2.edu (198.71.45.20)  140.527 ms  140.534 ms  140.523 ms
+ 9  74.200.187.33 (74.200.187.33)  145.968 ms  145.960 ms  145.948 ms
+10  vl-430-utd-ntg-gw1.dfw.tx-learn.net (208.76.227.222)  138.158 ms  138.161 ms  138.151 ms
+11  planetlab2.utdallas.edu (129.110.125.52)  140.937 ms  140.927 ms  140.899 ms
+traceroute to planetlab2.utdallas.edu (129.110.125.52), 30 hops max, 60 byte packets
+ 1  133.9.81.190 (133.9.81.190)  0.720 ms  1.168 ms  1.612 ms
+ 2  cl2948gl3.goto.info.waseda.ac.jp (133.9.81.254)  0.644 ms  0.833 ms  1.083 ms
+ 3  133.9.77.62 (133.9.77.62)  0.406 ms  0.398 ms  0.385 ms
+ 4  tokyo1-RM-XE-9-0-11-20.s5.sinet.ad.jp (150.99.187.69)  0.714 ms  0.703 ms  0.685 ms
+ 5  tokyo1-GM-AE0-100.s5.sinet.ad.jp (150.99.64.29)  0.672 ms  0.653 ms  0.643 ms
+ 6  lax-GM-ET-2-1-0-100.s5.sinet.ad.jp (150.99.89.243)  99.291 ms  99.319 ms  99.308 ms
+ 7  abilene.lax.gw.sinet.ad.jp (150.99.199.94)  108.089 ms  108.015 ms  108.004 ms
+ 8  et-1-0-0.111.rtr.hous.net.internet2.edu (198.71.45.20)  140.346 ms  140.460 ms  140.451 ms
+ 9  74.200.187.33 (74.200.187.33)  145.872 ms  145.862 ms  145.849 ms
+10  vl-430-utd-ntg-gw1.dfw.tx-learn.net (208.76.227.222)  138.336 ms  138.329 ms  138.309 ms
+11  planetlab2.utdallas.edu (129.110.125.52)  140.991 ms  140.871 ms  140.867 ms
+traceroute to planetlab2.utdallas.edu (129.110.125.52), 30 hops max, 60 byte packets
+ 1  133.9.81.190 (133.9.81.190)  4.539 ms  5.036 ms  5.432 ms
+ 2  cl2948gl3.goto.info.waseda.ac.jp (133.9.81.254)  1.006 ms  1.248 ms  1.458 ms
+ 3  133.9.77.62 (133.9.77.62)  0.401 ms  0.412 ms  0.402 ms
+ 4  tokyo1-RM-XE-9-0-11-20.s5.sinet.ad.jp (150.99.187.69)  0.737 ms  0.730 ms  0.726 ms
+ 5  tokyo1-GM-AE0-100.s5.sinet.ad.jp (150.99.64.29)  0.699 ms  0.677 ms  0.671 ms
+ 6  lax-GM-ET-2-1-0-100.s5.sinet.ad.jp (150.99.89.243)  99.330 ms  99.331 ms  99.318 ms
+ 7  abilene.lax.gw.sinet.ad.jp (150.99.199.94)  108.016 ms  108.089 ms  108.078 ms
+ 8  et-1-0-0.111.rtr.hous.net.internet2.edu (198.71.45.20)  140.430 ms  140.420 ms  140.408 ms
+ 9  74.200.187.33 (74.200.187.33)  146.042 ms  146.007 ms  145.895 ms
+10  vl-430-utd-ntg-gw1.dfw.tx-learn.net (208.76.227.222)  138.217 ms  138.313 ms  138.178 ms
+11  planetlab2.utdallas.edu (129.110.125.52)  140.983 ms  141.001 ms  140.976 ms
+traceroute to planetlab2.utdallas.edu (129.110.125.52), 30 hops max, 60 byte packets
+ 1  133.9.81.190 (133.9.81.190)  0.716 ms  1.183 ms  1.569 ms
+ 2  cl2948gl3.goto.info.waseda.ac.jp (133.9.81.254)  0.647 ms  0.866 ms  1.118 ms
+ 3  133.9.77.62 (133.9.77.62)  0.436 ms  0.429 ms  0.417 ms
+ 4  tokyo1-RM-XE-9-0-11-20.s5.sinet.ad.jp (150.99.187.69)  1.261 ms  1.245 ms  1.231 ms
+ 5  tokyo1-GM-AE0-100.s5.sinet.ad.jp (150.99.64.29)  0.711 ms  0.685 ms  0.679 ms
+ 6  lax-GM-ET-2-1-0-100.s5.sinet.ad.jp (150.99.89.243)  99.304 ms  99.329 ms  99.318 ms
+ 7  abilene.lax.gw.sinet.ad.jp (150.99.199.94)  107.939 ms  108.006 ms  107.996 ms
+ 8  et-1-0-0.111.rtr.hous.net.internet2.edu (198.71.45.20)  140.386 ms  140.372 ms  140.355 ms
+ 9  74.200.187.33 (74.200.187.33)  146.248 ms  146.240 ms  146.226 ms
+10  vl-430-utd-ntg-gw1.dfw.tx-learn.net (208.76.227.222)  138.211 ms  138.330 ms  138.322 ms
+11  planetlab2.utdallas.edu (129.110.125.52)  140.981 ms  141.007 ms  141.002 ms
+traceroute to planetlab2.utdallas.edu (129.110.125.52), 30 hops max, 60 byte packets
+ 1  133.9.81.190 (133.9.81.190)  0.741 ms  1.200 ms  1.574 ms
+ 2  cl2948gl3.goto.info.waseda.ac.jp (133.9.81.254)  0.672 ms  0.875 ms  1.128 ms
+ 3  133.9.77.62 (133.9.77.62)  0.411 ms  0.405 ms  0.391 ms
+ 4  tokyo1-RM-XE-9-0-11-20.s5.sinet.ad.jp (150.99.187.69)  0.739 ms  0.738 ms  0.724 ms
+ 5  tokyo1-GM-AE0-100.s5.sinet.ad.jp (150.99.64.29)  0.697 ms  0.674 ms  0.675 ms
+ 6  lax-GM-ET-2-1-0-100.s5.sinet.ad.jp (150.99.89.243)  99.297 ms  99.339 ms  99.317 ms
+ 7  abilene.lax.gw.sinet.ad.jp (150.99.199.94)  108.644 ms  108.018 ms  108.004 ms
+ 8  et-1-0-0.111.rtr.hous.net.internet2.edu (198.71.45.20)  140.416 ms  140.427 ms  140.416 ms
+ 9  74.200.187.33 (74.200.187.33)  145.729 ms  145.739 ms  145.726 ms
+10  vl-430-utd-ntg-gw1.dfw.tx-learn.net (208.76.227.222)  138.251 ms  138.262 ms  138.251 ms
+11  planetlab2.utdallas.edu (129.110.125.52)  140.994 ms  140.971 ms  140.964 ms
+traceroute to planetlab2.utdallas.edu (129.110.125.52), 30 hops max, 60 byte packets
+ 1  133.9.81.190 (133.9.81.190)  0.573 ms  0.868 ms  1.094 ms
+ 2  cl2948gl3.goto.info.waseda.ac.jp (133.9.81.254)  0.643 ms  0.843 ms  1.046 ms
+ 3  133.9.77.62 (133.9.77.62)  0.441 ms  0.432 ms  0.427 ms
+ 4  tokyo1-RM-XE-9-0-11-20.s5.sinet.ad.jp (150.99.187.69)  0.707 ms  0.694 ms  0.685 ms
+ 5  tokyo1-GM-AE0-100.s5.sinet.ad.jp (150.99.64.29)  0.671 ms  0.644 ms  0.645 ms
+ 6  lax-GM-ET-2-1-0-100.s5.sinet.ad.jp (150.99.89.243)  99.300 ms  99.342 ms  99.326 ms
+ 7  abilene.lax.gw.sinet.ad.jp (150.99.199.94)  108.157 ms  108.180 ms  108.019 ms
+ 8  et-1-0-0.111.rtr.hous.net.internet2.edu (198.71.45.20)  140.468 ms  140.456 ms  140.443 ms
+ 9  74.200.187.33 (74.200.187.33)  145.637 ms  145.760 ms  145.749 ms
+10  vl-430-utd-ntg-gw1.dfw.tx-learn.net (208.76.227.222)  138.297 ms  138.288 ms  138.275 ms
+11  planetlab2.utdallas.edu (129.110.125.52)  141.154 ms  141.145 ms  141.032 ms
+traceroute to planetlab2.utdallas.edu (129.110.125.52), 30 hops max, 60 byte packets
+ 1  133.9.81.190 (133.9.81.190)  0.725 ms  1.169 ms  1.612 ms
+ 2  cl2948gl3.goto.info.waseda.ac.jp (133.9.81.254)  0.647 ms  0.840 ms  1.075 ms
+ 3  133.9.77.62 (133.9.77.62)  0.405 ms  0.397 ms  0.384 ms
+ 4  tokyo1-RM-XE-9-0-11-20.s5.sinet.ad.jp (150.99.187.69)  0.722 ms  0.716 ms  0.703 ms
+ 5  tokyo1-GM-AE0-100.s5.sinet.ad.jp (150.99.64.29)  0.694 ms  0.645 ms  0.652 ms
+ 6  lax-GM-ET-2-1-0-100.s5.sinet.ad.jp (150.99.89.243)  99.354 ms  99.329 ms  99.317 ms
+ 7  abilene.lax.gw.sinet.ad.jp (150.99.199.94)  107.940 ms  107.983 ms  107.972 ms
+ 8  et-1-0-0.111.rtr.hous.net.internet2.edu (198.71.45.20)  140.792 ms  140.809 ms  140.897 ms
+ 9  74.200.187.33 (74.200.187.33)  145.781 ms  145.788 ms  145.778 ms
+10  vl-430-utd-ntg-gw1.dfw.tx-learn.net (208.76.227.222)  138.206 ms  138.227 ms  138.218 ms
+11  planetlab2.utdallas.edu (129.110.125.52)  140.895 ms  140.889 ms  140.877 ms
